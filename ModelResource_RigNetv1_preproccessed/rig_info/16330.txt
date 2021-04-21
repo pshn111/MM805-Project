@@ -1,0 +1,2920 @@
+joints u_09___Spine1 0.00000000 0.28437350 -0.08980002
+joints u_10___Spine2 -0.00000001 0.36553150 -0.03083530
+joints u_31___Tail1 0.00000006 0.21621630 -0.22627800
+joints u_12___Neck -0.00000001 0.48575050 0.00822630
+joints u_14___R_Shoulder -0.04179860 0.45577150 0.01606500
+joints u_18___L_Shoulder 0.04179860 0.45577150 0.01606500
+joints u_22___Feeler -0.00000001 0.48479050 0.00791420
+joints u_32___Tail2 0.00000013 0.19069450 -0.35757600
+joints u_13___Head -0.00000000 0.54935550 0.02889300
+joints u_15___R_Arm -0.09775340 0.45577150 0.06705200
+joints u_19___L_Arm 0.10553000 0.45577150 0.05691700
+joints u_23___Feeler_A 0.00000001 0.50030150 0.11251300
+joints u_24___Feeler_B 0.07523750 0.50610750 0.07958200
+joints u_25___Feeler_C 0.10031700 0.51772150 0.01372100
+joints u_26___Feeler_D 0.07523740 0.52933450 -0.05214080
+joints u_27___Feeler_E -0.00000003 0.53514150 -0.08507168
+joints u_28___Feeler_F -0.07523750 0.52933450 -0.05214080
+joints u_29___Feeler_G -0.10031700 0.51772150 0.01372100
+joints u_30___Feeler_H -0.07523740 0.50610750 0.07958300
+joints u_33___R_Toe1 -0.04179850 0.19098600 -0.37429300
+joints u_35___L_Toe1 0.04179870 0.19098650 -0.37429300
+joints u_37___L_Ear 0.20063300 0.69982950 0.06233100
+joints u_38___R_Ear -0.20063300 0.69983050 0.06233200
+joints u_39___Nose 0.00000017 0.66639150 0.31312300
+joints u_16___R_ForeArm -0.13955200 0.29676050 0.09742000
+joints u_20___L_ForeArm 0.14568200 0.29676050 0.08943100
+joints u_34___R_Toe2 -0.15484700 0.19151380 -0.40457900
+joints u_36___L_Toe2 0.15484700 0.19151600 -0.40457900
+joints u_17___R_Hand -0.16881100 0.18545260 0.11867800
+joints u_21___L_Hand 0.17378800 0.18545240 0.11219100
+root u_09___Spine1
+skin 0 u_18___L_Shoulder 0.4950 u_19___L_Arm 0.4950 u_25___Feeler_C 0.0099 
+skin 1 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 2 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 3 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 4 u_19___L_Arm 1.0000 
+skin 5 u_18___L_Shoulder 0.0100 u_19___L_Arm 0.9900 
+skin 6 u_19___L_Arm 1.0000 
+skin 7 u_19___L_Arm 1.0000 
+skin 8 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 9 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 10 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 11 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 12 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 13 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 14 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 15 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 16 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 17 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 18 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 19 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 20 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 21 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 22 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 23 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 24 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 25 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 26 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 27 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 28 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 29 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 30 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 31 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 32 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 33 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 34 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 35 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 36 u_21___L_Hand 1.0000 
+skin 37 u_21___L_Hand 1.0000 
+skin 38 u_21___L_Hand 1.0000 
+skin 39 u_21___L_Hand 1.0000 
+skin 40 u_21___L_Hand 1.0000 
+skin 41 u_21___L_Hand 1.0000 
+skin 42 u_21___L_Hand 1.0000 
+skin 43 u_21___L_Hand 1.0000 
+skin 44 u_21___L_Hand 1.0000 
+skin 45 u_21___L_Hand 1.0000 
+skin 46 u_21___L_Hand 1.0000 
+skin 47 u_21___L_Hand 1.0000 
+skin 48 u_21___L_Hand 1.0000 
+skin 49 u_21___L_Hand 1.0000 
+skin 50 u_21___L_Hand 1.0000 
+skin 51 u_21___L_Hand 1.0000 
+skin 52 u_21___L_Hand 1.0000 
+skin 53 u_21___L_Hand 1.0000 
+skin 54 u_21___L_Hand 1.0000 
+skin 55 u_21___L_Hand 1.0000 
+skin 56 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 57 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 58 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 59 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 60 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 61 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 62 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 63 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 64 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 65 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 66 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 67 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 68 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 69 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 70 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 71 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 72 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 73 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 74 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 75 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 76 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 77 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 78 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 79 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 80 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 81 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 82 u_19___L_Arm 1.0000 
+skin 83 u_19___L_Arm 1.0000 
+skin 84 u_19___L_Arm 1.0000 
+skin 85 u_19___L_Arm 1.0000 
+skin 86 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 87 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 88 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 89 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 90 u_18___L_Shoulder 0.4950 u_19___L_Arm 0.4950 u_25___Feeler_C 0.0099 
+skin 91 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 92 u_18___L_Shoulder 0.0300 u_19___L_Arm 0.9700 
+skin 93 u_19___L_Arm 1.0000 
+skin 94 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 95 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 96 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 97 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 98 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 99 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 100 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 101 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 102 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 103 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 104 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 105 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 106 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 107 u_21___L_Hand 1.0000 
+skin 108 u_21___L_Hand 1.0000 
+skin 109 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 110 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.8900 u_24___Feeler_B 0.0100 
+skin 111 u_18___L_Shoulder 0.0600 u_19___L_Arm 0.9400 
+skin 112 u_19___L_Arm 1.0000 
+skin 113 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 114 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 115 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 116 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 117 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 118 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 119 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 120 u_20___L_ForeArm 0.5100 u_21___L_Hand 0.4900 
+skin 121 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 122 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 123 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 124 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 125 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 126 u_21___L_Hand 1.0000 
+skin 127 u_21___L_Hand 1.0000 
+skin 128 u_18___L_Shoulder 0.4950 u_19___L_Arm 0.4950 u_24___Feeler_B 0.0099 
+skin 129 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.8800 u_24___Feeler_B 0.0200 
+skin 130 u_18___L_Shoulder 0.0700 u_19___L_Arm 0.9300 
+skin 131 u_19___L_Arm 1.0000 
+skin 132 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 133 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 134 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 135 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 136 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 137 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 138 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 139 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 140 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 141 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 142 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 143 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 144 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 145 u_21___L_Hand 1.0000 
+skin 146 u_21___L_Hand 1.0000 
+skin 147 u_18___L_Shoulder 0.4950 u_19___L_Arm 0.4950 u_24___Feeler_B 0.0099 
+skin 148 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.8700 u_24___Feeler_B 0.0300 
+skin 149 u_18___L_Shoulder 0.0400 u_19___L_Arm 0.9600 
+skin 150 u_19___L_Arm 1.0000 
+skin 151 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 152 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 153 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 154 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 155 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 156 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 157 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 158 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 159 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 160 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 161 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 162 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 163 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 164 u_21___L_Hand 1.0000 
+skin 165 u_21___L_Hand 1.0000 
+skin 166 u_18___L_Shoulder 0.4950 u_19___L_Arm 0.4950 u_24___Feeler_B 0.0099 
+skin 167 u_18___L_Shoulder 0.0990 u_19___L_Arm 0.8713 u_24___Feeler_B 0.0297 
+skin 168 u_18___L_Shoulder 0.0100 u_19___L_Arm 0.9900 
+skin 169 u_19___L_Arm 1.0000 
+skin 170 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 171 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 172 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 173 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 174 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 175 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 176 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 177 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 178 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 179 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 180 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 181 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 182 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 183 u_21___L_Hand 1.0000 
+skin 184 u_21___L_Hand 1.0000 
+skin 185 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 186 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 187 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 188 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 189 u_18___L_Shoulder 0.0300 u_19___L_Arm 0.9700 
+skin 190 u_18___L_Shoulder 0.0600 u_19___L_Arm 0.9400 
+skin 191 u_19___L_Arm 1.0000 
+skin 192 u_19___L_Arm 1.0000 
+skin 193 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 194 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 195 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 196 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 197 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 198 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 199 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 200 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 201 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 202 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 203 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 204 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 205 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 206 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 207 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 208 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 209 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 210 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 211 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 212 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 213 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 214 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 215 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 216 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 217 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 218 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 219 u_21___L_Hand 1.0000 
+skin 220 u_21___L_Hand 1.0000 
+skin 221 u_21___L_Hand 1.0000 
+skin 222 u_21___L_Hand 1.0000 
+skin 223 u_21___L_Hand 1.0000 
+skin 224 u_21___L_Hand 1.0000 
+skin 225 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 226 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 227 u_18___L_Shoulder 0.0700 u_19___L_Arm 0.9300 
+skin 228 u_19___L_Arm 1.0000 
+skin 229 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 230 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 231 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 232 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 233 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 234 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 235 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 236 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 237 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 238 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 239 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 240 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 241 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 242 u_21___L_Hand 1.0000 
+skin 243 u_21___L_Hand 1.0000 
+skin 244 u_21___L_Hand 1.0000 
+skin 245 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 246 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 247 u_18___L_Shoulder 0.0500 u_19___L_Arm 0.9500 
+skin 248 u_19___L_Arm 1.0000 
+skin 249 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 250 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 251 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 252 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 253 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 254 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 255 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 256 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 257 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 258 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 259 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 260 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 261 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 262 u_21___L_Hand 1.0000 
+skin 263 u_21___L_Hand 1.0000 
+skin 264 u_21___L_Hand 1.0000 
+skin 265 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 266 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 267 u_18___L_Shoulder 0.0100 u_19___L_Arm 0.9900 
+skin 268 u_19___L_Arm 1.0000 
+skin 269 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 270 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 271 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 272 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 273 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 274 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 275 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 276 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 277 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 278 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 279 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 280 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 281 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 282 u_21___L_Hand 1.0000 
+skin 283 u_21___L_Hand 1.0000 
+skin 284 u_21___L_Hand 1.0000 
+skin 285 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 286 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 287 u_19___L_Arm 1.0000 
+skin 288 u_19___L_Arm 1.0000 
+skin 289 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 290 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 291 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 292 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 293 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 294 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 295 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 296 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 297 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 298 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 299 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 300 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 301 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 302 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 303 u_21___L_Hand 1.0000 
+skin 304 u_21___L_Hand 1.0000 
+skin 305 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 306 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 307 u_14___R_Shoulder 0.4950 u_15___R_Arm 0.4950 u_29___Feeler_G 0.0099 
+skin 308 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 309 u_14___R_Shoulder 0.0100 u_15___R_Arm 0.9900 
+skin 310 u_14___R_Shoulder 0.0100 u_15___R_Arm 0.9900 
+skin 311 u_15___R_Arm 1.0000 
+skin 312 u_15___R_Arm 1.0000 
+skin 313 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 314 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 315 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 316 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 317 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 318 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 319 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 320 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 321 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 322 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 323 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 324 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 325 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 326 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 327 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 328 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 329 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 330 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 331 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 332 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 333 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 334 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 335 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 336 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 337 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 338 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 339 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 340 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 341 u_17___R_Hand 1.0000 
+skin 342 u_17___R_Hand 1.0000 
+skin 343 u_17___R_Hand 1.0000 
+skin 344 u_17___R_Hand 1.0000 
+skin 345 u_17___R_Hand 1.0000 
+skin 346 u_17___R_Hand 1.0000 
+skin 347 u_17___R_Hand 1.0000 
+skin 348 u_17___R_Hand 1.0000 
+skin 349 u_17___R_Hand 1.0000 
+skin 350 u_17___R_Hand 1.0000 
+skin 351 u_17___R_Hand 1.0000 
+skin 352 u_17___R_Hand 1.0000 
+skin 353 u_17___R_Hand 1.0000 
+skin 354 u_17___R_Hand 1.0000 
+skin 355 u_17___R_Hand 1.0000 
+skin 356 u_17___R_Hand 1.0000 
+skin 357 u_17___R_Hand 1.0000 
+skin 358 u_17___R_Hand 1.0000 
+skin 359 u_17___R_Hand 1.0000 
+skin 360 u_17___R_Hand 1.0000 
+skin 361 u_17___R_Hand 1.0000 
+skin 362 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 363 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 364 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 365 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 366 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 367 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 368 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 369 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 370 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 371 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 372 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 373 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 374 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 375 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 376 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 377 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 378 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 379 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 380 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 381 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 382 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 383 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 384 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 385 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 386 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 387 u_15___R_Arm 1.0000 
+skin 388 u_15___R_Arm 1.0000 
+skin 389 u_15___R_Arm 1.0000 
+skin 390 u_15___R_Arm 1.0000 
+skin 391 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 392 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 393 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 394 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 395 u_14___R_Shoulder 0.4950 u_15___R_Arm 0.4950 u_29___Feeler_G 0.0099 
+skin 396 u_14___R_Shoulder 0.0400 u_15___R_Arm 0.9600 
+skin 397 u_15___R_Arm 1.0000 
+skin 398 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 399 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 400 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 401 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 402 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 403 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 404 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 405 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 406 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 407 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 408 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 409 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 410 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 411 u_17___R_Hand 1.0000 
+skin 412 u_17___R_Hand 1.0000 
+skin 413 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.8900 u_30___Feeler_H 0.0100 
+skin 414 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 415 u_14___R_Shoulder 0.0700 u_15___R_Arm 0.9300 
+skin 416 u_15___R_Arm 1.0000 
+skin 417 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 418 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 419 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 420 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 421 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 422 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 423 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 424 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 425 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 426 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 427 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 428 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 429 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 430 u_17___R_Hand 1.0000 
+skin 431 u_17___R_Hand 1.0000 
+skin 432 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.8700 u_30___Feeler_H 0.0300 
+skin 433 u_14___R_Shoulder 0.4949 u_15___R_Arm 0.4949 u_30___Feeler_H 0.0101 
+skin 434 u_14___R_Shoulder 0.0600 u_15___R_Arm 0.9400 
+skin 435 u_15___R_Arm 1.0000 
+skin 436 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 437 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 438 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 439 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 440 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 441 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 442 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 443 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 444 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 445 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 446 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 447 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 448 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 449 u_17___R_Hand 1.0000 
+skin 450 u_17___R_Hand 1.0000 
+skin 451 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.8700 u_30___Feeler_H 0.0300 
+skin 452 u_14___R_Shoulder 0.4949 u_15___R_Arm 0.4949 u_30___Feeler_H 0.0101 
+skin 453 u_14___R_Shoulder 0.0300 u_15___R_Arm 0.9700 
+skin 454 u_15___R_Arm 1.0000 
+skin 455 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 456 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 457 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 458 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 459 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 460 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 461 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 462 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 463 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 464 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 465 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 466 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 467 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 468 u_17___R_Hand 1.0000 
+skin 469 u_17___R_Hand 1.0000 
+skin 470 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.8800 u_30___Feeler_H 0.0200 
+skin 471 u_14___R_Shoulder 0.4950 u_15___R_Arm 0.4950 u_30___Feeler_H 0.0099 
+skin 472 u_15___R_Arm 1.0000 
+skin 473 u_15___R_Arm 1.0000 
+skin 474 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 475 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 476 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 477 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 478 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 479 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 480 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 481 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 482 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 483 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 484 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 485 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 486 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 487 u_17___R_Hand 1.0000 
+skin 488 u_17___R_Hand 1.0000 
+skin 489 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 490 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 491 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 492 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 493 u_14___R_Shoulder 0.0500 u_15___R_Arm 0.9500 
+skin 494 u_14___R_Shoulder 0.0200 u_15___R_Arm 0.9800 
+skin 495 u_15___R_Arm 1.0000 
+skin 496 u_15___R_Arm 1.0000 
+skin 497 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 498 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 499 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 500 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 501 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 502 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 503 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 504 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 505 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 506 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 507 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 508 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 509 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 510 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 511 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 512 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 513 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 514 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 515 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 516 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 517 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 518 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 519 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 520 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 521 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 522 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 523 u_17___R_Hand 1.0000 
+skin 524 u_17___R_Hand 1.0000 
+skin 525 u_17___R_Hand 1.0000 
+skin 526 u_17___R_Hand 1.0000 
+skin 527 u_17___R_Hand 1.0000 
+skin 528 u_17___R_Hand 1.0000 
+skin 529 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 530 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 531 u_14___R_Shoulder 0.0800 u_15___R_Arm 0.9200 
+skin 532 u_15___R_Arm 1.0000 
+skin 533 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 534 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 535 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 536 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 537 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 538 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 539 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 540 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 541 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 542 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 543 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 544 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 545 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 546 u_17___R_Hand 1.0000 
+skin 547 u_17___R_Hand 1.0000 
+skin 548 u_17___R_Hand 1.0000 
+skin 549 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 550 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 551 u_14___R_Shoulder 0.0600 u_15___R_Arm 0.9400 
+skin 552 u_15___R_Arm 1.0000 
+skin 553 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 554 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 555 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 556 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 557 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 558 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 559 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 560 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 561 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 562 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 563 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 564 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 565 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 566 u_17___R_Hand 1.0000 
+skin 567 u_17___R_Hand 1.0000 
+skin 568 u_17___R_Hand 1.0000 
+skin 569 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 570 u_14___R_Shoulder 0.0200 u_15___R_Arm 0.9800 
+skin 571 u_15___R_Arm 1.0000 
+skin 572 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 573 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 574 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 575 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 576 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 577 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 578 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 579 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 580 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 581 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 582 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 583 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 584 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 585 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 586 u_17___R_Hand 1.0000 
+skin 587 u_17___R_Hand 1.0000 
+skin 588 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 589 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 590 u_15___R_Arm 1.0000 
+skin 591 u_15___R_Arm 1.0000 
+skin 592 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 593 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 594 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 595 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 596 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 597 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 598 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 599 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 600 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 601 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 602 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 603 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 604 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 605 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 606 u_17___R_Hand 1.0000 
+skin 607 u_17___R_Hand 1.0000 
+skin 608 u_10___Spine2 0.0990 u_18___L_Shoulder 0.6238 u_19___L_Arm 0.2673 u_24___Feeler_B 0.0099 
+skin 609 u_10___Spine2 0.0990 u_18___L_Shoulder 0.6238 u_19___L_Arm 0.2673 u_24___Feeler_B 0.0099 
+skin 610 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 611 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 612 u_12___Neck 0.8900 u_18___L_Shoulder 0.0100 u_13___Head 0.1000 
+skin 613 u_12___Neck 0.6900 u_18___L_Shoulder 0.2300 u_13___Head 0.0800 
+skin 614 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 615 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 616 u_12___Neck 0.5000 u_18___L_Shoulder 0.4400 u_13___Head 0.0600 
+skin 617 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 618 u_18___L_Shoulder 0.5000 u_19___L_Arm 0.5000 
+skin 619 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 620 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 621 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 622 u_10___Spine2 1.0000 
+skin 623 u_10___Spine2 0.8000 u_12___Neck 0.2000 
+skin 624 u_10___Spine2 1.0000 
+skin 625 u_10___Spine2 0.8000 u_12___Neck 0.2000 
+skin 626 u_10___Spine2 1.0000 
+skin 627 u_10___Spine2 0.8000 u_12___Neck 0.2000 
+skin 628 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 629 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 630 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 631 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 632 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 633 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 634 u_10___Spine2 1.0000 
+skin 635 u_10___Spine2 0.8900 u_19___L_Arm 0.1100 
+skin 636 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 637 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 638 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 639 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 640 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 641 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 642 u_09___Spine1 1.0000 
+skin 643 u_09___Spine1 1.0000 
+skin 644 u_09___Spine1 1.0000 
+skin 645 u_09___Spine1 1.0000 
+skin 646 u_09___Spine1 1.0000 
+skin 647 u_09___Spine1 1.0000 
+skin 648 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 649 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 650 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 651 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 652 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 653 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 654 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 655 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 656 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 657 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 658 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 659 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 660 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 661 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 662 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 663 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 664 u_10___Spine2 0.6500 u_19___L_Arm 0.3500 
+skin 665 u_09___Spine1 0.3900 u_10___Spine2 0.5800 u_19___L_Arm 0.0300 
+skin 666 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 667 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 668 u_09___Spine1 1.0000 
+skin 669 u_09___Spine1 1.0000 
+skin 670 u_09___Spine1 1.0000 
+skin 671 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 672 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 673 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 674 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 675 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 676 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 677 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 678 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 679 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 680 u_10___Spine2 0.8400 u_19___L_Arm 0.1600 
+skin 681 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 682 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 683 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 684 u_09___Spine1 1.0000 
+skin 685 u_09___Spine1 1.0000 
+skin 686 u_09___Spine1 1.0000 
+skin 687 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 688 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 689 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 690 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 691 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 692 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 693 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 694 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 695 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 696 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 697 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 698 u_10___Spine2 1.0000 
+skin 699 u_10___Spine2 1.0000 
+skin 700 u_10___Spine2 1.0000 
+skin 701 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 702 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 703 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 704 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 705 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 706 u_10___Spine2 1.0000 
+skin 707 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 708 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 709 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 710 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 711 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 712 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 713 u_09___Spine1 1.0000 
+skin 714 u_09___Spine1 1.0000 
+skin 715 u_09___Spine1 1.0000 
+skin 716 u_09___Spine1 1.0000 
+skin 717 u_09___Spine1 1.0000 
+skin 718 u_09___Spine1 1.0000 
+skin 719 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 720 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 721 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 722 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 723 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 724 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 725 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 726 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 727 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 728 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 729 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 730 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 731 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 732 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 733 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 734 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 735 u_12___Neck 0.7200 u_18___L_Shoulder 0.2000 u_13___Head 0.0800 
+skin 736 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6200 u_19___L_Arm 0.2700 u_25___Feeler_C 0.0100 
+skin 737 u_10___Spine2 0.3500 u_18___L_Shoulder 0.5300 u_19___L_Arm 0.1000 u_25___Feeler_C 0.0200 
+skin 738 u_12___Neck 0.8900 u_13___Head 0.1000 u_25___Feeler_C 0.0100 
+skin 739 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6100 u_19___L_Arm 0.2600 u_25___Feeler_C 0.0300 
+skin 740 u_10___Spine2 0.0990 u_18___L_Shoulder 0.6139 u_19___L_Arm 0.2673 u_25___Feeler_C 0.0198 
+skin 741 u_10___Spine2 0.3500 u_18___L_Shoulder 0.5200 u_19___L_Arm 0.1000 u_25___Feeler_C 0.0300 
+skin 742 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5300 u_19___L_Arm 0.1000 u_25___Feeler_C 0.0100 
+skin 743 u_10___Spine2 0.2900 u_12___Neck 0.6900 u_26___Feeler_D 0.0200 
+skin 744 u_10___Spine2 0.7000 u_12___Neck 0.3000 
+skin 745 u_10___Spine2 0.2828 u_12___Neck 0.6566 u_26___Feeler_D 0.0606 
+skin 746 u_10___Spine2 0.6800 u_12___Neck 0.2900 u_26___Feeler_D 0.0300 
+skin 747 u_10___Spine2 0.2900 u_12___Neck 0.6900 u_26___Feeler_D 0.0200 
+skin 748 u_10___Spine2 0.6900 u_12___Neck 0.3000 u_26___Feeler_D 0.0100 
+skin 749 u_10___Spine2 0.2900 u_12___Neck 0.6800 u_27___Feeler_E 0.0300 
+skin 750 u_10___Spine2 0.6900 u_12___Neck 0.3000 u_27___Feeler_E 0.0100 
+skin 751 u_10___Spine2 0.2800 u_12___Neck 0.6600 u_27___Feeler_E 0.0600 
+skin 752 u_10___Spine2 0.6800 u_12___Neck 0.2900 u_27___Feeler_E 0.0300 
+skin 753 u_10___Spine2 0.2900 u_12___Neck 0.6800 u_27___Feeler_E 0.0300 
+skin 754 u_10___Spine2 0.6900 u_12___Neck 0.3000 u_27___Feeler_E 0.0100 
+skin 755 u_10___Spine2 0.2900 u_12___Neck 0.6900 u_28___Feeler_F 0.0200 
+skin 756 u_10___Spine2 0.6900 u_12___Neck 0.3000 u_28___Feeler_F 0.0100 
+skin 757 u_10___Spine2 0.2800 u_12___Neck 0.6500 u_28___Feeler_F 0.0700 
+skin 758 u_10___Spine2 0.6800 u_12___Neck 0.2900 u_28___Feeler_F 0.0300 
+skin 759 u_10___Spine2 0.2900 u_12___Neck 0.6900 u_28___Feeler_F 0.0200 
+skin 760 u_10___Spine2 0.7000 u_12___Neck 0.3000 
+skin 761 u_10___Spine2 0.3500 u_14___R_Shoulder 0.5200 u_15___R_Arm 0.1000 u_29___Feeler_G 0.0300 
+skin 762 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5300 u_15___R_Arm 0.1000 u_29___Feeler_G 0.0100 
+skin 763 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6100 u_15___R_Arm 0.2600 u_29___Feeler_G 0.0300 
+skin 764 u_10___Spine2 0.0990 u_14___R_Shoulder 0.6139 u_15___R_Arm 0.2673 u_29___Feeler_G 0.0198 
+skin 765 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 766 u_12___Neck 0.8900 u_13___Head 0.1000 u_26___Feeler_D 0.0100 
+skin 767 u_12___Neck 0.8900 u_13___Head 0.1000 u_26___Feeler_D 0.0100 
+skin 768 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 769 u_12___Neck 0.8900 u_13___Head 0.1000 u_27___Feeler_E 0.0100 
+skin 770 u_12___Neck 0.8812 u_13___Head 0.0990 u_27___Feeler_E 0.0198 
+skin 771 u_12___Neck 0.8900 u_13___Head 0.1000 u_27___Feeler_E 0.0100 
+skin 772 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 773 u_12___Neck 0.8812 u_13___Head 0.0990 u_28___Feeler_F 0.0198 
+skin 774 u_12___Neck 0.8900 u_13___Head 0.1000 u_28___Feeler_F 0.0100 
+skin 775 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 776 u_12___Neck 0.8812 u_14___R_Shoulder 0.0099 u_13___Head 0.0990 u_29___Feeler_G 0.0099 
+skin 777 u_10___Spine2 0.3500 u_14___R_Shoulder 0.5300 u_15___R_Arm 0.1000 u_29___Feeler_G 0.0200 
+skin 778 u_12___Neck 0.6832 u_14___R_Shoulder 0.2376 u_13___Head 0.0792 
+skin 779 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 780 u_12___Neck 0.5100 u_14___R_Shoulder 0.4300 u_13___Head 0.0600 
+skin 781 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 782 u_12___Neck 0.7300 u_14___R_Shoulder 0.1900 u_13___Head 0.0800 
+skin 783 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 784 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 785 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 786 u_10___Spine2 0.8000 u_12___Neck 0.2000 
+skin 787 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 788 u_10___Spine2 1.0000 
+skin 789 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 790 u_10___Spine2 0.9900 u_15___R_Arm 0.0100 
+skin 791 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 792 u_10___Spine2 1.0000 
+skin 793 u_10___Spine2 0.7300 u_15___R_Arm 0.2700 
+skin 794 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 795 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 796 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 797 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 798 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 799 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 800 u_09___Spine1 1.0000 
+skin 801 u_09___Spine1 1.0000 
+skin 802 u_09___Spine1 1.0000 
+skin 803 u_09___Spine1 1.0000 
+skin 804 u_09___Spine1 1.0000 
+skin 805 u_09___Spine1 1.0000 
+skin 806 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 807 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 808 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 809 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 810 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 811 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 812 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 813 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 814 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 815 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 816 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 817 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 818 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 819 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 820 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 821 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 822 u_10___Spine2 0.1000 u_18___L_Shoulder 0.6300 u_19___L_Arm 0.2700 
+skin 823 u_10___Spine2 0.3600 u_18___L_Shoulder 0.5400 u_19___L_Arm 0.1000 
+skin 824 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 825 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 826 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 827 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 828 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 829 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 830 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 831 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 832 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 833 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 834 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 835 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 836 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 837 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 838 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 839 u_09___Spine1 0.1000 u_10___Spine2 0.8000 u_12___Neck 0.1000 
+skin 840 u_09___Spine1 0.2000 u_10___Spine2 0.8000 
+skin 841 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 842 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 843 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 844 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 845 u_10___Spine2 0.0990 u_14___R_Shoulder 0.6238 u_15___R_Arm 0.2673 u_30___Feeler_H 0.0099 
+skin 846 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 847 u_10___Spine2 0.0990 u_14___R_Shoulder 0.6238 u_15___R_Arm 0.2673 u_30___Feeler_H 0.0099 
+skin 848 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 849 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 850 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 851 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 852 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 853 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 854 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 855 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 856 u_10___Spine2 0.9900 u_15___R_Arm 0.0100 
+skin 857 u_10___Spine2 1.0000 
+skin 858 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 859 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 860 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 861 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 862 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 863 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 864 u_09___Spine1 1.0000 
+skin 865 u_09___Spine1 1.0000 
+skin 866 u_09___Spine1 1.0000 
+skin 867 u_09___Spine1 1.0000 
+skin 868 u_09___Spine1 1.0000 
+skin 869 u_09___Spine1 1.0000 
+skin 870 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 871 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 872 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 873 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 874 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 875 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 876 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 877 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 878 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 879 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 880 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 881 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 882 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 883 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 884 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 885 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 886 u_10___Spine2 0.7700 u_15___R_Arm 0.2300 
+skin 887 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 888 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 889 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 890 u_09___Spine1 1.0000 
+skin 891 u_09___Spine1 1.0000 
+skin 892 u_09___Spine1 1.0000 
+skin 893 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 894 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 895 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 896 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 897 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 898 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 899 u_14___R_Shoulder 0.5000 u_15___R_Arm 0.5000 
+skin 900 u_10___Spine2 0.3600 u_14___R_Shoulder 0.5400 u_15___R_Arm 0.1000 
+skin 901 u_10___Spine2 1.0000 
+skin 902 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 903 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 904 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 905 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 906 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 907 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 908 u_09___Spine1 1.0000 
+skin 909 u_09___Spine1 1.0000 
+skin 910 u_09___Spine1 1.0000 
+skin 911 u_09___Spine1 1.0000 
+skin 912 u_09___Spine1 1.0000 
+skin 913 u_09___Spine1 1.0000 
+skin 914 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 915 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 916 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 917 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 918 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 919 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 920 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 921 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 922 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 923 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 924 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 925 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 926 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 927 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 928 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6300 u_15___R_Arm 0.2700 
+skin 929 u_10___Spine2 0.1000 u_14___R_Shoulder 0.6200 u_15___R_Arm 0.2700 u_29___Feeler_G 0.0100 
+skin 930 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 931 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 932 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 933 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 934 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 935 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 936 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 937 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 938 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 939 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 940 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 941 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 942 u_37___L_Ear 1.0000 
+skin 943 u_37___L_Ear 1.0000 
+skin 944 u_37___L_Ear 1.0000 
+skin 945 u_37___L_Ear 1.0000 
+skin 946 u_37___L_Ear 1.0000 
+skin 947 u_37___L_Ear 1.0000 
+skin 948 u_37___L_Ear 1.0000 
+skin 949 u_37___L_Ear 1.0000 
+skin 950 u_37___L_Ear 1.0000 
+skin 951 u_37___L_Ear 1.0000 
+skin 952 u_37___L_Ear 1.0000 
+skin 953 u_37___L_Ear 1.0000 
+skin 954 u_37___L_Ear 1.0000 
+skin 955 u_37___L_Ear 1.0000 
+skin 956 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 957 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 958 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 959 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 960 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 961 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 962 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 963 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 964 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 965 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 966 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 967 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 968 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 969 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 970 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 971 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 972 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 973 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 974 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 975 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 976 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 977 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 978 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 979 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 980 u_37___L_Ear 1.0000 
+skin 981 u_37___L_Ear 1.0000 
+skin 982 u_37___L_Ear 1.0000 
+skin 983 u_37___L_Ear 1.0000 
+skin 984 u_37___L_Ear 1.0000 
+skin 985 u_37___L_Ear 1.0000 
+skin 986 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 987 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 988 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 989 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 990 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 991 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 992 u_37___L_Ear 1.0000 
+skin 993 u_37___L_Ear 1.0000 
+skin 994 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 995 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 996 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 997 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 998 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 999 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1000 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1001 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1002 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1003 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1004 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1005 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1006 u_38___R_Ear 1.0000 
+skin 1007 u_38___R_Ear 1.0000 
+skin 1008 u_38___R_Ear 1.0000 
+skin 1009 u_38___R_Ear 1.0000 
+skin 1010 u_38___R_Ear 1.0000 
+skin 1011 u_38___R_Ear 1.0000 
+skin 1012 u_38___R_Ear 1.0000 
+skin 1013 u_38___R_Ear 1.0000 
+skin 1014 u_38___R_Ear 1.0000 
+skin 1015 u_38___R_Ear 1.0000 
+skin 1016 u_38___R_Ear 1.0000 
+skin 1017 u_38___R_Ear 1.0000 
+skin 1018 u_38___R_Ear 1.0000 
+skin 1019 u_38___R_Ear 1.0000 
+skin 1020 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1021 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1022 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1023 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1024 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1025 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1026 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1027 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1028 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 1029 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 1030 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 1031 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 1032 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 1033 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 1034 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 1035 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 1036 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1037 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1038 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1039 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1040 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1041 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1042 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1043 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1044 u_38___R_Ear 1.0000 
+skin 1045 u_38___R_Ear 1.0000 
+skin 1046 u_38___R_Ear 1.0000 
+skin 1047 u_38___R_Ear 1.0000 
+skin 1048 u_38___R_Ear 1.0000 
+skin 1049 u_38___R_Ear 1.0000 
+skin 1050 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 1051 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 1052 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 1053 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 1054 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 1055 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 1056 u_38___R_Ear 1.0000 
+skin 1057 u_38___R_Ear 1.0000 
+skin 1058 u_22___Feeler 0.0300 u_23___Feeler_A 0.9500 u_24___Feeler_B 0.0200 
+skin 1059 u_22___Feeler 0.1400 u_23___Feeler_A 0.7200 u_24___Feeler_B 0.1400 
+skin 1060 u_22___Feeler 0.1400 u_23___Feeler_A 0.7200 u_24___Feeler_B 0.1400 
+skin 1061 u_22___Feeler 0.0500 u_23___Feeler_A 0.9100 u_30___Feeler_H 0.0400 
+skin 1062 u_22___Feeler 0.1500 u_23___Feeler_A 0.7000 u_24___Feeler_B 0.1500 
+skin 1063 u_22___Feeler 0.0606 u_23___Feeler_A 0.8889 u_24___Feeler_B 0.0505 
+skin 1064 u_22___Feeler 0.1782 u_23___Feeler_A 0.6436 u_24___Feeler_B 0.1782 
+skin 1065 u_22___Feeler 0.0700 u_23___Feeler_A 0.8800 u_24___Feeler_B 0.0500 
+skin 1066 u_22___Feeler 0.2200 u_23___Feeler_A 0.5700 u_24___Feeler_B 0.2100 
+skin 1067 u_22___Feeler 0.0707 u_23___Feeler_A 0.8788 u_24___Feeler_B 0.0505 
+skin 1068 u_22___Feeler 0.2400 u_23___Feeler_A 0.5400 u_24___Feeler_B 0.2200 
+skin 1069 u_22___Feeler 0.0800 u_23___Feeler_A 0.8700 u_24___Feeler_B 0.0500 
+skin 1070 u_22___Feeler 0.2700 u_23___Feeler_A 0.5200 u_24___Feeler_B 0.2100 
+skin 1071 u_22___Feeler 0.0800 u_23___Feeler_A 0.8700 u_24___Feeler_B 0.0500 
+skin 1072 u_22___Feeler 0.3200 u_23___Feeler_A 0.4800 u_24___Feeler_B 0.2000 
+skin 1073 u_22___Feeler 0.1100 u_23___Feeler_A 0.8500 u_24___Feeler_B 0.0400 
+skin 1074 u_22___Feeler 0.4300 u_13___Head 0.0100 u_23___Feeler_A 0.3900 u_24___Feeler_B 0.1700 
+skin 1075 u_22___Feeler 0.6200 u_13___Head 0.0100 u_23___Feeler_A 0.3400 u_24___Feeler_B 0.0300 
+skin 1076 u_12___Neck 0.2079 u_22___Feeler 0.5149 u_27___Feeler_E 0.1386 u_28___Feeler_F 0.1386 
+skin 1077 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_24___Feeler_B 0.2300 
+skin 1078 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_24___Feeler_B 0.2300 
+skin 1079 u_22___Feeler 0.2020 u_23___Feeler_A 0.5758 u_24___Feeler_B 0.2222 
+skin 1080 u_22___Feeler 0.2300 u_23___Feeler_A 0.5000 u_24___Feeler_B 0.2700 
+skin 1081 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_24___Feeler_B 0.4100 
+skin 1082 u_22___Feeler 0.2600 u_23___Feeler_A 0.3300 u_24___Feeler_B 0.4100 
+skin 1083 u_22___Feeler 0.2800 u_23___Feeler_A 0.3100 u_24___Feeler_B 0.4100 
+skin 1084 u_22___Feeler 0.3200 u_23___Feeler_A 0.2900 u_24___Feeler_B 0.3900 
+skin 1085 u_22___Feeler 0.3939 u_23___Feeler_A 0.2525 u_24___Feeler_B 0.3535 
+skin 1086 u_22___Feeler 0.1400 u_26___Feeler_D 0.1300 u_27___Feeler_E 0.7300 
+skin 1087 u_22___Feeler 0.0300 u_27___Feeler_E 0.9500 u_28___Feeler_F 0.0200 
+skin 1088 u_27___Feeler_E 1.0000 
+skin 1089 u_22___Feeler 0.1400 u_26___Feeler_D 0.1300 u_27___Feeler_E 0.7300 
+skin 1090 u_22___Feeler 0.0500 u_27___Feeler_E 0.9100 u_28___Feeler_F 0.0400 
+skin 1091 u_22___Feeler 0.1500 u_26___Feeler_D 0.1500 u_27___Feeler_E 0.7000 
+skin 1092 u_22___Feeler 0.0700 u_27___Feeler_E 0.8700 u_28___Feeler_F 0.0600 
+skin 1093 u_22___Feeler 0.1900 u_26___Feeler_D 0.1800 u_27___Feeler_E 0.6300 
+skin 1094 u_22___Feeler 0.1100 u_27___Feeler_E 0.8100 u_28___Feeler_F 0.0800 
+skin 1095 u_22___Feeler 0.2200 u_26___Feeler_D 0.2200 u_27___Feeler_E 0.5600 
+skin 1096 u_22___Feeler 0.1600 u_27___Feeler_E 0.7400 u_28___Feeler_F 0.1000 
+skin 1097 u_22___Feeler 0.2600 u_26___Feeler_D 0.2300 u_27___Feeler_E 0.5100 
+skin 1098 u_22___Feeler 0.2079 u_27___Feeler_E 0.6832 u_28___Feeler_F 0.1089 
+skin 1099 u_22___Feeler 0.2929 u_26___Feeler_D 0.2323 u_27___Feeler_E 0.4747 
+skin 1100 u_22___Feeler 0.3100 u_27___Feeler_E 0.5800 u_28___Feeler_F 0.1100 
+skin 1101 u_22___Feeler 0.3500 u_26___Feeler_D 0.2200 u_27___Feeler_E 0.4300 
+skin 1102 u_22___Feeler 0.6500 u_27___Feeler_E 0.2800 u_28___Feeler_F 0.0700 
+skin 1103 u_22___Feeler 0.4700 u_26___Feeler_D 0.1900 u_27___Feeler_E 0.3400 
+skin 1104 u_22___Feeler 0.4300 u_26___Feeler_D 0.3400 u_27___Feeler_E 0.2300 
+skin 1105 u_22___Feeler 0.5900 u_25___Feeler_C 0.0900 u_26___Feeler_D 0.3200 
+skin 1106 u_22___Feeler 0.3465 u_26___Feeler_D 0.3960 u_27___Feeler_E 0.2574 
+skin 1107 u_22___Feeler 0.2900 u_25___Feeler_C 0.1200 u_26___Feeler_D 0.5900 
+skin 1108 u_22___Feeler 0.2970 u_26___Feeler_D 0.4257 u_27___Feeler_E 0.2772 
+skin 1109 u_22___Feeler 0.2020 u_25___Feeler_C 0.1212 u_26___Feeler_D 0.6768 
+skin 1110 u_22___Feeler 0.2673 u_26___Feeler_D 0.4356 u_27___Feeler_E 0.2970 
+skin 1111 u_22___Feeler 0.1700 u_25___Feeler_C 0.1200 u_26___Feeler_D 0.7100 
+skin 1112 u_22___Feeler 0.2500 u_26___Feeler_D 0.4200 u_27___Feeler_E 0.3300 
+skin 1113 u_22___Feeler 0.1400 u_25___Feeler_C 0.1200 u_26___Feeler_D 0.7400 
+skin 1114 u_22___Feeler 0.2200 u_26___Feeler_D 0.5200 u_27___Feeler_E 0.2600 
+skin 1115 u_22___Feeler 0.1400 u_26___Feeler_D 0.7400 u_27___Feeler_E 0.1200 
+skin 1116 u_22___Feeler 0.2100 u_26___Feeler_D 0.5600 u_27___Feeler_E 0.2300 
+skin 1117 u_22___Feeler 0.1800 u_26___Feeler_D 0.6400 u_27___Feeler_E 0.1800 
+skin 1118 u_22___Feeler 0.2100 u_26___Feeler_D 0.5300 u_27___Feeler_E 0.2600 
+skin 1119 u_22___Feeler 0.1900 u_26___Feeler_D 0.6100 u_27___Feeler_E 0.2000 
+skin 1120 u_22___Feeler 0.2100 u_26___Feeler_D 0.5300 u_27___Feeler_E 0.2600 
+skin 1121 u_22___Feeler 0.1818 u_26___Feeler_D 0.6162 u_27___Feeler_E 0.2020 
+skin 1122 u_22___Feeler 0.2300 u_26___Feeler_D 0.2900 u_27___Feeler_E 0.4800 
+skin 1123 u_22___Feeler 0.2079 u_26___Feeler_D 0.2277 u_27___Feeler_E 0.5644 
+skin 1124 u_22___Feeler 0.2100 u_26___Feeler_D 0.2300 u_27___Feeler_E 0.5600 
+skin 1125 u_22___Feeler 0.2100 u_26___Feeler_D 0.2300 u_27___Feeler_E 0.5600 
+skin 1126 u_22___Feeler 0.2376 u_26___Feeler_D 0.3267 u_27___Feeler_E 0.4356 
+skin 1127 u_22___Feeler 0.2400 u_26___Feeler_D 0.4200 u_27___Feeler_E 0.3400 
+skin 1128 u_22___Feeler 0.2300 u_26___Feeler_D 0.4800 u_27___Feeler_E 0.2900 
+skin 1129 u_22___Feeler 0.2400 u_26___Feeler_D 0.3300 u_27___Feeler_E 0.4300 
+skin 1130 u_22___Feeler 0.2424 u_26___Feeler_D 0.4141 u_27___Feeler_E 0.3434 
+skin 1131 u_22___Feeler 0.2300 u_26___Feeler_D 0.4700 u_27___Feeler_E 0.3000 
+skin 1132 u_22___Feeler 0.2376 u_23___Feeler_A 0.4455 u_24___Feeler_B 0.3168 
+skin 1133 u_22___Feeler 0.2400 u_23___Feeler_A 0.4500 u_24___Feeler_B 0.3100 
+skin 1134 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_24___Feeler_B 0.4100 
+skin 1135 u_22___Feeler 0.2376 u_23___Feeler_A 0.3564 u_24___Feeler_B 0.4059 
+skin 1136 u_22___Feeler 0.2200 u_23___Feeler_A 0.2800 u_24___Feeler_B 0.5000 
+skin 1137 u_22___Feeler 0.2200 u_23___Feeler_A 0.2800 u_24___Feeler_B 0.5000 
+skin 1138 u_22___Feeler 0.1919 u_23___Feeler_A 0.2121 u_24___Feeler_B 0.5960 
+skin 1139 u_22___Feeler 0.1919 u_23___Feeler_A 0.2121 u_24___Feeler_B 0.5960 
+skin 1140 u_22___Feeler 0.1500 u_23___Feeler_A 0.1500 u_24___Feeler_B 0.7000 
+skin 1141 u_22___Feeler 0.1515 u_23___Feeler_A 0.1515 u_24___Feeler_B 0.6970 
+skin 1142 u_22___Feeler 0.0990 u_23___Feeler_A 0.0891 u_24___Feeler_B 0.8119 
+skin 1143 u_22___Feeler 0.1100 u_23___Feeler_A 0.1000 u_24___Feeler_B 0.7900 
+skin 1144 u_22___Feeler 0.1000 u_24___Feeler_B 0.8000 u_25___Feeler_C 0.1000 
+skin 1145 u_22___Feeler 0.1100 u_24___Feeler_B 0.7800 u_25___Feeler_C 0.1100 
+skin 1146 u_22___Feeler 0.1500 u_24___Feeler_B 0.6800 u_25___Feeler_C 0.1700 
+skin 1147 u_22___Feeler 0.1600 u_24___Feeler_B 0.6700 u_25___Feeler_C 0.1700 
+skin 1148 u_22___Feeler 0.1900 u_24___Feeler_B 0.5800 u_25___Feeler_C 0.2300 
+skin 1149 u_22___Feeler 0.1900 u_24___Feeler_B 0.5800 u_25___Feeler_C 0.2300 
+skin 1150 u_22___Feeler 0.2200 u_24___Feeler_B 0.4800 u_25___Feeler_C 0.3000 
+skin 1151 u_22___Feeler 0.2200 u_24___Feeler_B 0.4800 u_25___Feeler_C 0.3000 
+skin 1152 u_22___Feeler 0.2200 u_24___Feeler_B 0.3500 u_25___Feeler_C 0.4300 
+skin 1153 u_22___Feeler 0.2200 u_24___Feeler_B 0.3400 u_25___Feeler_C 0.4400 
+skin 1154 u_22___Feeler 0.1717 u_24___Feeler_B 0.2121 u_25___Feeler_C 0.6162 
+skin 1155 u_22___Feeler 0.1800 u_24___Feeler_B 0.2100 u_25___Feeler_C 0.6100 
+skin 1156 u_22___Feeler 0.0707 u_24___Feeler_B 0.0707 u_25___Feeler_C 0.8586 
+skin 1157 u_22___Feeler 0.0800 u_24___Feeler_B 0.0800 u_25___Feeler_C 0.8400 
+skin 1158 u_22___Feeler 0.0891 u_25___Feeler_C 0.8119 u_26___Feeler_D 0.0990 
+skin 1159 u_22___Feeler 0.0900 u_25___Feeler_C 0.8100 u_26___Feeler_D 0.1000 
+skin 1160 u_22___Feeler 0.1616 u_25___Feeler_C 0.6263 u_26___Feeler_D 0.2121 
+skin 1161 u_22___Feeler 0.1616 u_25___Feeler_C 0.6263 u_26___Feeler_D 0.2121 
+skin 1162 u_22___Feeler 0.1980 u_25___Feeler_C 0.4950 u_26___Feeler_D 0.3069 
+skin 1163 u_22___Feeler 0.1980 u_25___Feeler_C 0.4950 u_26___Feeler_D 0.3069 
+skin 1164 u_22___Feeler 0.2100 u_25___Feeler_C 0.3900 u_26___Feeler_D 0.4000 
+skin 1165 u_22___Feeler 0.2100 u_25___Feeler_C 0.4000 u_26___Feeler_D 0.3900 
+skin 1166 u_22___Feeler 0.2000 u_25___Feeler_C 0.3000 u_26___Feeler_D 0.5000 
+skin 1167 u_22___Feeler 0.2000 u_25___Feeler_C 0.3000 u_26___Feeler_D 0.5000 
+skin 1168 u_22___Feeler 0.1700 u_25___Feeler_C 0.2100 u_26___Feeler_D 0.6200 
+skin 1169 u_22___Feeler 0.1700 u_25___Feeler_C 0.2100 u_26___Feeler_D 0.6200 
+skin 1170 u_22___Feeler 0.1100 u_25___Feeler_C 0.1300 u_26___Feeler_D 0.7600 
+skin 1171 u_22___Feeler 0.1212 u_25___Feeler_C 0.1313 u_26___Feeler_D 0.7475 
+skin 1172 u_22___Feeler 0.0891 u_25___Feeler_C 0.0891 u_26___Feeler_D 0.8218 
+skin 1173 u_22___Feeler 0.1000 u_25___Feeler_C 0.1000 u_26___Feeler_D 0.8000 
+skin 1174 u_22___Feeler 0.1400 u_26___Feeler_D 0.7200 u_27___Feeler_E 0.1400 
+skin 1175 u_22___Feeler 0.1414 u_26___Feeler_D 0.7172 u_27___Feeler_E 0.1414 
+skin 1176 u_22___Feeler 0.2100 u_23___Feeler_A 0.2400 u_24___Feeler_B 0.5500 
+skin 1177 u_22___Feeler 0.1900 u_23___Feeler_A 0.2000 u_24___Feeler_B 0.6100 
+skin 1178 u_22___Feeler 0.1500 u_23___Feeler_A 0.1400 u_24___Feeler_B 0.7100 
+skin 1179 u_22___Feeler 0.1188 u_23___Feeler_A 0.1089 u_24___Feeler_B 0.7723 
+skin 1180 u_22___Feeler 0.1100 u_24___Feeler_B 0.7800 u_25___Feeler_C 0.1100 
+skin 1181 u_22___Feeler 0.1500 u_24___Feeler_B 0.7000 u_25___Feeler_C 0.1500 
+skin 1182 u_22___Feeler 0.1700 u_24___Feeler_B 0.6400 u_25___Feeler_C 0.1900 
+skin 1183 u_22___Feeler 0.2200 u_24___Feeler_B 0.4800 u_25___Feeler_C 0.3000 
+skin 1184 u_22___Feeler 0.2121 u_24___Feeler_B 0.2929 u_25___Feeler_C 0.4949 
+skin 1185 u_22___Feeler 0.1782 u_24___Feeler_B 0.2079 u_25___Feeler_C 0.6139 
+skin 1186 u_22___Feeler 0.1000 u_24___Feeler_B 0.1100 u_25___Feeler_C 0.7900 
+skin 1187 u_22___Feeler 0.0909 u_25___Feeler_C 0.8081 u_26___Feeler_D 0.1010 
+skin 1188 u_22___Feeler 0.1700 u_25___Feeler_C 0.6100 u_26___Feeler_D 0.2200 
+skin 1189 u_22___Feeler 0.2000 u_25___Feeler_C 0.5100 u_26___Feeler_D 0.2900 
+skin 1190 u_22___Feeler 0.2079 u_25___Feeler_C 0.4356 u_26___Feeler_D 0.3564 
+skin 1191 u_22___Feeler 0.2100 u_25___Feeler_C 0.2900 u_26___Feeler_D 0.5000 
+skin 1192 u_22___Feeler 0.1485 u_25___Feeler_C 0.1683 u_26___Feeler_D 0.6832 
+skin 1193 u_22___Feeler 0.1200 u_25___Feeler_C 0.1300 u_26___Feeler_D 0.7500 
+skin 1194 u_22___Feeler 0.1100 u_25___Feeler_C 0.1100 u_26___Feeler_D 0.7800 
+skin 1195 u_22___Feeler 0.1400 u_26___Feeler_D 0.7200 u_27___Feeler_E 0.1400 
+skin 1196 u_22___Feeler 0.2300 u_25___Feeler_C 0.2600 u_26___Feeler_D 0.5100 
+skin 1197 u_22___Feeler 0.2525 u_25___Feeler_C 0.2424 u_26___Feeler_D 0.5051 
+skin 1198 u_22___Feeler 0.3100 u_25___Feeler_C 0.2200 u_26___Feeler_D 0.4700 
+skin 1199 u_22___Feeler 0.4600 u_25___Feeler_C 0.1700 u_26___Feeler_D 0.3700 
+skin 1200 u_22___Feeler 0.4000 u_25___Feeler_C 0.3500 u_26___Feeler_D 0.2500 
+skin 1201 u_18___L_Shoulder 0.0198 u_22___Feeler 0.5347 u_25___Feeler_C 0.3465 u_26___Feeler_D 0.0990 
+skin 1202 u_22___Feeler 0.3100 u_25___Feeler_C 0.4200 u_26___Feeler_D 0.2700 
+skin 1203 u_22___Feeler 0.2400 u_25___Feeler_C 0.6500 u_26___Feeler_D 0.1100 
+skin 1204 u_22___Feeler 0.2600 u_25___Feeler_C 0.4500 u_26___Feeler_D 0.2900 
+skin 1205 u_22___Feeler 0.1600 u_25___Feeler_C 0.7400 u_26___Feeler_D 0.1000 
+skin 1206 u_22___Feeler 0.2300 u_25___Feeler_C 0.4800 u_26___Feeler_D 0.2900 
+skin 1207 u_22___Feeler 0.1200 u_25___Feeler_C 0.7800 u_26___Feeler_D 0.1000 
+skin 1208 u_22___Feeler 0.2100 u_25___Feeler_C 0.5100 u_26___Feeler_D 0.2800 
+skin 1209 u_22___Feeler 0.0990 u_25___Feeler_C 0.8119 u_26___Feeler_D 0.0891 
+skin 1210 u_22___Feeler 0.1900 u_25___Feeler_C 0.5700 u_26___Feeler_D 0.2400 
+skin 1211 u_22___Feeler 0.0900 u_25___Feeler_C 0.8200 u_26___Feeler_D 0.0900 
+skin 1212 u_22___Feeler 0.1300 u_23___Feeler_A 0.1200 u_24___Feeler_B 0.7500 
+skin 1213 u_22___Feeler 0.1400 u_23___Feeler_A 0.1200 u_24___Feeler_B 0.7400 
+skin 1214 u_22___Feeler 0.2400 u_24___Feeler_B 0.4800 u_25___Feeler_C 0.2800 
+skin 1215 u_22___Feeler 0.1584 u_23___Feeler_A 0.1188 u_24___Feeler_B 0.7228 
+skin 1216 u_22___Feeler 0.2700 u_24___Feeler_B 0.4700 u_25___Feeler_C 0.2600 
+skin 1217 u_22___Feeler 0.1800 u_23___Feeler_A 0.1200 u_24___Feeler_B 0.7000 
+skin 1218 u_18___L_Shoulder 0.3000 u_22___Feeler 0.2300 u_24___Feeler_B 0.3000 u_25___Feeler_C 0.1700 
+skin 1219 u_18___L_Shoulder 0.0300 u_22___Feeler 0.2400 u_23___Feeler_A 0.1100 u_24___Feeler_B 0.6200 
+skin 1220 u_18___L_Shoulder 0.5000 u_22___Feeler 0.2200 u_24___Feeler_B 0.1800 u_25___Feeler_C 0.1000 
+skin 1221 u_18___L_Shoulder 0.2000 u_22___Feeler 0.4400 u_23___Feeler_A 0.0700 u_24___Feeler_B 0.2900 
+skin 1222 u_22___Feeler 0.1500 u_24___Feeler_B 0.1600 u_25___Feeler_C 0.6900 
+skin 1223 u_22___Feeler 0.2000 u_24___Feeler_B 0.2200 u_25___Feeler_C 0.5800 
+skin 1224 u_22___Feeler 0.2300 u_24___Feeler_B 0.2400 u_25___Feeler_C 0.5300 
+skin 1225 u_22___Feeler 0.2600 u_24___Feeler_B 0.2400 u_25___Feeler_C 0.5000 
+skin 1226 u_18___L_Shoulder 0.1200 u_22___Feeler 0.2800 u_24___Feeler_B 0.2000 u_25___Feeler_C 0.4000 
+skin 1227 u_18___L_Shoulder 0.2900 u_22___Feeler 0.3100 u_24___Feeler_B 0.1400 u_25___Feeler_C 0.2600 
+skin 1228 u_22___Feeler 0.1400 u_23___Feeler_A 0.7200 u_30___Feeler_H 0.1400 
+skin 1229 u_22___Feeler 0.1400 u_23___Feeler_A 0.7200 u_30___Feeler_H 0.1400 
+skin 1230 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_30___Feeler_H 0.2300 
+skin 1231 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_30___Feeler_H 0.2300 
+skin 1232 u_22___Feeler 0.2400 u_23___Feeler_A 0.4500 u_30___Feeler_H 0.3100 
+skin 1233 u_22___Feeler 0.2376 u_23___Feeler_A 0.4455 u_30___Feeler_H 0.3168 
+skin 1234 u_22___Feeler 0.2376 u_23___Feeler_A 0.3564 u_30___Feeler_H 0.4059 
+skin 1235 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_30___Feeler_H 0.4100 
+skin 1236 u_22___Feeler 0.2200 u_23___Feeler_A 0.2800 u_30___Feeler_H 0.5000 
+skin 1237 u_22___Feeler 0.2200 u_23___Feeler_A 0.2800 u_30___Feeler_H 0.5000 
+skin 1238 u_22___Feeler 0.1919 u_23___Feeler_A 0.2121 u_30___Feeler_H 0.5960 
+skin 1239 u_22___Feeler 0.1919 u_23___Feeler_A 0.2121 u_30___Feeler_H 0.5960 
+skin 1240 u_22___Feeler 0.1515 u_23___Feeler_A 0.1515 u_30___Feeler_H 0.6970 
+skin 1241 u_22___Feeler 0.1500 u_23___Feeler_A 0.1500 u_30___Feeler_H 0.7000 
+skin 1242 u_22___Feeler 0.1100 u_23___Feeler_A 0.1000 u_30___Feeler_H 0.7900 
+skin 1243 u_22___Feeler 0.0990 u_23___Feeler_A 0.0891 u_30___Feeler_H 0.8119 
+skin 1244 u_22___Feeler 0.1100 u_29___Feeler_G 0.1100 u_30___Feeler_H 0.7800 
+skin 1245 u_22___Feeler 0.1000 u_29___Feeler_G 0.1000 u_30___Feeler_H 0.8000 
+skin 1246 u_22___Feeler 0.1600 u_29___Feeler_G 0.1700 u_30___Feeler_H 0.6700 
+skin 1247 u_22___Feeler 0.1500 u_29___Feeler_G 0.1700 u_30___Feeler_H 0.6800 
+skin 1248 u_22___Feeler 0.1900 u_29___Feeler_G 0.2300 u_30___Feeler_H 0.5800 
+skin 1249 u_22___Feeler 0.1900 u_29___Feeler_G 0.2300 u_30___Feeler_H 0.5800 
+skin 1250 u_22___Feeler 0.2200 u_29___Feeler_G 0.3000 u_30___Feeler_H 0.4800 
+skin 1251 u_22___Feeler 0.2200 u_29___Feeler_G 0.3000 u_30___Feeler_H 0.4800 
+skin 1252 u_22___Feeler 0.2200 u_29___Feeler_G 0.4400 u_30___Feeler_H 0.3400 
+skin 1253 u_22___Feeler 0.2200 u_29___Feeler_G 0.4300 u_30___Feeler_H 0.3500 
+skin 1254 u_22___Feeler 0.1800 u_29___Feeler_G 0.6100 u_30___Feeler_H 0.2100 
+skin 1255 u_22___Feeler 0.1717 u_29___Feeler_G 0.6162 u_30___Feeler_H 0.2121 
+skin 1256 u_22___Feeler 0.0800 u_29___Feeler_G 0.8400 u_30___Feeler_H 0.0800 
+skin 1257 u_22___Feeler 0.0707 u_29___Feeler_G 0.8586 u_30___Feeler_H 0.0707 
+skin 1258 u_22___Feeler 0.0900 u_28___Feeler_F 0.1000 u_29___Feeler_G 0.8100 
+skin 1259 u_22___Feeler 0.0891 u_28___Feeler_F 0.0990 u_29___Feeler_G 0.8119 
+skin 1260 u_22___Feeler 0.1616 u_28___Feeler_F 0.2121 u_29___Feeler_G 0.6263 
+skin 1261 u_22___Feeler 0.1616 u_28___Feeler_F 0.2121 u_29___Feeler_G 0.6263 
+skin 1262 u_22___Feeler 0.1980 u_28___Feeler_F 0.3069 u_29___Feeler_G 0.4950 
+skin 1263 u_22___Feeler 0.1980 u_28___Feeler_F 0.3069 u_29___Feeler_G 0.4950 
+skin 1264 u_22___Feeler 0.2100 u_28___Feeler_F 0.3900 u_29___Feeler_G 0.4000 
+skin 1265 u_22___Feeler 0.2100 u_28___Feeler_F 0.4000 u_29___Feeler_G 0.3900 
+skin 1266 u_22___Feeler 0.2000 u_28___Feeler_F 0.5000 u_29___Feeler_G 0.3000 
+skin 1267 u_22___Feeler 0.2000 u_28___Feeler_F 0.5000 u_29___Feeler_G 0.3000 
+skin 1268 u_22___Feeler 0.1700 u_28___Feeler_F 0.6200 u_29___Feeler_G 0.2100 
+skin 1269 u_22___Feeler 0.1700 u_28___Feeler_F 0.6200 u_29___Feeler_G 0.2100 
+skin 1270 u_22___Feeler 0.1212 u_28___Feeler_F 0.7475 u_29___Feeler_G 0.1313 
+skin 1271 u_22___Feeler 0.1100 u_28___Feeler_F 0.7600 u_29___Feeler_G 0.1300 
+skin 1272 u_22___Feeler 0.1000 u_28___Feeler_F 0.8000 u_29___Feeler_G 0.1000 
+skin 1273 u_22___Feeler 0.0891 u_28___Feeler_F 0.8218 u_29___Feeler_G 0.0891 
+skin 1274 u_22___Feeler 0.1414 u_27___Feeler_E 0.1414 u_28___Feeler_F 0.7172 
+skin 1275 u_22___Feeler 0.1400 u_27___Feeler_E 0.1400 u_28___Feeler_F 0.7200 
+skin 1276 u_22___Feeler 0.1900 u_27___Feeler_E 0.2000 u_28___Feeler_F 0.6100 
+skin 1277 u_22___Feeler 0.1818 u_27___Feeler_E 0.2020 u_28___Feeler_F 0.6162 
+skin 1278 u_22___Feeler 0.2100 u_27___Feeler_E 0.2600 u_28___Feeler_F 0.5300 
+skin 1279 u_22___Feeler 0.2100 u_27___Feeler_E 0.2600 u_28___Feeler_F 0.5300 
+skin 1280 u_22___Feeler 0.2300 u_27___Feeler_E 0.2900 u_28___Feeler_F 0.4800 
+skin 1281 u_22___Feeler 0.2300 u_27___Feeler_E 0.3000 u_28___Feeler_F 0.4700 
+skin 1282 u_22___Feeler 0.2400 u_27___Feeler_E 0.3400 u_28___Feeler_F 0.4200 
+skin 1283 u_22___Feeler 0.2424 u_27___Feeler_E 0.3434 u_28___Feeler_F 0.4141 
+skin 1284 u_22___Feeler 0.2376 u_27___Feeler_E 0.4356 u_28___Feeler_F 0.3267 
+skin 1285 u_22___Feeler 0.2400 u_27___Feeler_E 0.4300 u_28___Feeler_F 0.3300 
+skin 1286 u_22___Feeler 0.2100 u_27___Feeler_E 0.5600 u_28___Feeler_F 0.2300 
+skin 1287 u_22___Feeler 0.2100 u_27___Feeler_E 0.5600 u_28___Feeler_F 0.2300 
+skin 1288 u_22___Feeler 0.1400 u_27___Feeler_E 0.7300 u_28___Feeler_F 0.1300 
+skin 1289 u_22___Feeler 0.1400 u_27___Feeler_E 0.7300 u_28___Feeler_F 0.1300 
+skin 1290 u_22___Feeler 0.1500 u_23___Feeler_A 0.7000 u_30___Feeler_H 0.1500 
+skin 1291 u_22___Feeler 0.2020 u_23___Feeler_A 0.5758 u_30___Feeler_H 0.2222 
+skin 1292 u_22___Feeler 0.2300 u_23___Feeler_A 0.5000 u_30___Feeler_H 0.2700 
+skin 1293 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_30___Feeler_H 0.4100 
+skin 1294 u_22___Feeler 0.2100 u_23___Feeler_A 0.2400 u_30___Feeler_H 0.5500 
+skin 1295 u_22___Feeler 0.1900 u_23___Feeler_A 0.2000 u_30___Feeler_H 0.6100 
+skin 1296 u_22___Feeler 0.1500 u_23___Feeler_A 0.1400 u_30___Feeler_H 0.7100 
+skin 1297 u_22___Feeler 0.1188 u_23___Feeler_A 0.1089 u_30___Feeler_H 0.7723 
+skin 1298 u_22___Feeler 0.1100 u_29___Feeler_G 0.1100 u_30___Feeler_H 0.7800 
+skin 1299 u_22___Feeler 0.1500 u_29___Feeler_G 0.1500 u_30___Feeler_H 0.7000 
+skin 1300 u_22___Feeler 0.1700 u_29___Feeler_G 0.1900 u_30___Feeler_H 0.6400 
+skin 1301 u_22___Feeler 0.2200 u_29___Feeler_G 0.3000 u_30___Feeler_H 0.4800 
+skin 1302 u_22___Feeler 0.2121 u_29___Feeler_G 0.4949 u_30___Feeler_H 0.2929 
+skin 1303 u_22___Feeler 0.1782 u_29___Feeler_G 0.6139 u_30___Feeler_H 0.2079 
+skin 1304 u_22___Feeler 0.1000 u_29___Feeler_G 0.7900 u_30___Feeler_H 0.1100 
+skin 1305 u_22___Feeler 0.0909 u_28___Feeler_F 0.1010 u_29___Feeler_G 0.8081 
+skin 1306 u_22___Feeler 0.1700 u_28___Feeler_F 0.2200 u_29___Feeler_G 0.6100 
+skin 1307 u_22___Feeler 0.2000 u_28___Feeler_F 0.2900 u_29___Feeler_G 0.5100 
+skin 1308 u_22___Feeler 0.2079 u_28___Feeler_F 0.3564 u_29___Feeler_G 0.4356 
+skin 1309 u_22___Feeler 0.2100 u_28___Feeler_F 0.5000 u_29___Feeler_G 0.2900 
+skin 1310 u_22___Feeler 0.1485 u_28___Feeler_F 0.6832 u_29___Feeler_G 0.1683 
+skin 1311 u_22___Feeler 0.1200 u_28___Feeler_F 0.7500 u_29___Feeler_G 0.1300 
+skin 1312 u_22___Feeler 0.1100 u_28___Feeler_F 0.7800 u_29___Feeler_G 0.1100 
+skin 1313 u_22___Feeler 0.1400 u_27___Feeler_E 0.1400 u_28___Feeler_F 0.7200 
+skin 1314 u_22___Feeler 0.1800 u_27___Feeler_E 0.1800 u_28___Feeler_F 0.6400 
+skin 1315 u_22___Feeler 0.2100 u_27___Feeler_E 0.2300 u_28___Feeler_F 0.5600 
+skin 1316 u_22___Feeler 0.2200 u_27___Feeler_E 0.2600 u_28___Feeler_F 0.5200 
+skin 1317 u_22___Feeler 0.2500 u_27___Feeler_E 0.3300 u_28___Feeler_F 0.4200 
+skin 1318 u_22___Feeler 0.2300 u_27___Feeler_E 0.4800 u_28___Feeler_F 0.2900 
+skin 1319 u_22___Feeler 0.2079 u_27___Feeler_E 0.5644 u_28___Feeler_F 0.2277 
+skin 1320 u_22___Feeler 0.1500 u_27___Feeler_E 0.7000 u_28___Feeler_F 0.1500 
+skin 1321 u_22___Feeler 0.1782 u_23___Feeler_A 0.6436 u_30___Feeler_H 0.1782 
+skin 1322 u_22___Feeler 0.2200 u_23___Feeler_A 0.5700 u_30___Feeler_H 0.2100 
+skin 1323 u_22___Feeler 0.2400 u_23___Feeler_A 0.5400 u_30___Feeler_H 0.2200 
+skin 1324 u_22___Feeler 0.2600 u_23___Feeler_A 0.3300 u_30___Feeler_H 0.4100 
+skin 1325 u_22___Feeler 0.2700 u_23___Feeler_A 0.5200 u_30___Feeler_H 0.2100 
+skin 1326 u_22___Feeler 0.2800 u_23___Feeler_A 0.3100 u_30___Feeler_H 0.4100 
+skin 1327 u_22___Feeler 0.3200 u_23___Feeler_A 0.4800 u_30___Feeler_H 0.2000 
+skin 1328 u_22___Feeler 0.3200 u_23___Feeler_A 0.2900 u_30___Feeler_H 0.3900 
+skin 1329 u_22___Feeler 0.4300 u_13___Head 0.0100 u_23___Feeler_A 0.3900 u_30___Feeler_H 0.1700 
+skin 1330 u_22___Feeler 0.3939 u_23___Feeler_A 0.2525 u_30___Feeler_H 0.3535 
+skin 1331 u_14___R_Shoulder 0.1500 u_22___Feeler 0.4700 u_23___Feeler_A 0.0700 u_30___Feeler_H 0.3100 
+skin 1332 u_14___R_Shoulder 0.5000 u_22___Feeler 0.2200 u_29___Feeler_G 0.1000 u_30___Feeler_H 0.1800 
+skin 1333 u_14___R_Shoulder 0.0198 u_22___Feeler 0.2475 u_23___Feeler_A 0.1089 u_30___Feeler_H 0.6238 
+skin 1334 u_14___R_Shoulder 0.3100 u_22___Feeler 0.2200 u_29___Feeler_G 0.1700 u_30___Feeler_H 0.3000 
+skin 1335 u_22___Feeler 0.1800 u_23___Feeler_A 0.1200 u_30___Feeler_H 0.7000 
+skin 1336 u_22___Feeler 0.2700 u_29___Feeler_G 0.2600 u_30___Feeler_H 0.4700 
+skin 1337 u_22___Feeler 0.1584 u_23___Feeler_A 0.1188 u_30___Feeler_H 0.7228 
+skin 1338 u_22___Feeler 0.2400 u_29___Feeler_G 0.2800 u_30___Feeler_H 0.4800 
+skin 1339 u_22___Feeler 0.1400 u_23___Feeler_A 0.1200 u_30___Feeler_H 0.7400 
+skin 1340 u_22___Feeler 0.1300 u_23___Feeler_A 0.1200 u_30___Feeler_H 0.7500 
+skin 1341 u_22___Feeler 0.1900 u_27___Feeler_E 0.6300 u_28___Feeler_F 0.1800 
+skin 1342 u_22___Feeler 0.2200 u_27___Feeler_E 0.5600 u_28___Feeler_F 0.2200 
+skin 1343 u_22___Feeler 0.2600 u_27___Feeler_E 0.5100 u_28___Feeler_F 0.2300 
+skin 1344 u_22___Feeler 0.2929 u_27___Feeler_E 0.4747 u_28___Feeler_F 0.2323 
+skin 1345 u_22___Feeler 0.3500 u_27___Feeler_E 0.4300 u_28___Feeler_F 0.2200 
+skin 1346 u_22___Feeler 0.4700 u_27___Feeler_E 0.3400 u_28___Feeler_F 0.1900 
+skin 1347 u_22___Feeler 0.2673 u_27___Feeler_E 0.2970 u_28___Feeler_F 0.4356 
+skin 1348 u_22___Feeler 0.2970 u_27___Feeler_E 0.2772 u_28___Feeler_F 0.4257 
+skin 1349 u_22___Feeler 0.3465 u_27___Feeler_E 0.2574 u_28___Feeler_F 0.3960 
+skin 1350 u_22___Feeler 0.4300 u_27___Feeler_E 0.2300 u_28___Feeler_F 0.3400 
+skin 1351 u_22___Feeler 0.1500 u_29___Feeler_G 0.6900 u_30___Feeler_H 0.1600 
+skin 1352 u_22___Feeler 0.0900 u_28___Feeler_F 0.0900 u_29___Feeler_G 0.8200 
+skin 1353 u_22___Feeler 0.1900 u_28___Feeler_F 0.2400 u_29___Feeler_G 0.5700 
+skin 1354 u_22___Feeler 0.2000 u_29___Feeler_G 0.5800 u_30___Feeler_H 0.2200 
+skin 1355 u_22___Feeler 0.0990 u_28___Feeler_F 0.0891 u_29___Feeler_G 0.8119 
+skin 1356 u_22___Feeler 0.2100 u_28___Feeler_F 0.2800 u_29___Feeler_G 0.5100 
+skin 1357 u_22___Feeler 0.2300 u_29___Feeler_G 0.5300 u_30___Feeler_H 0.2400 
+skin 1358 u_22___Feeler 0.2600 u_29___Feeler_G 0.5000 u_30___Feeler_H 0.2400 
+skin 1359 u_14___R_Shoulder 0.1616 u_22___Feeler 0.2626 u_29___Feeler_G 0.3838 u_30___Feeler_H 0.1919 
+skin 1360 u_14___R_Shoulder 0.3300 u_22___Feeler 0.3000 u_29___Feeler_G 0.2400 u_30___Feeler_H 0.1300 
+skin 1361 u_14___R_Shoulder 0.0297 u_22___Feeler 0.5248 u_28___Feeler_F 0.0990 u_29___Feeler_G 0.3465 
+skin 1362 u_22___Feeler 0.4000 u_28___Feeler_F 0.2500 u_29___Feeler_G 0.3500 
+skin 1363 u_22___Feeler 0.2400 u_28___Feeler_F 0.1100 u_29___Feeler_G 0.6500 
+skin 1364 u_22___Feeler 0.3100 u_28___Feeler_F 0.2700 u_29___Feeler_G 0.4200 
+skin 1365 u_22___Feeler 0.1600 u_28___Feeler_F 0.1000 u_29___Feeler_G 0.7400 
+skin 1366 u_22___Feeler 0.2600 u_28___Feeler_F 0.2900 u_29___Feeler_G 0.4500 
+skin 1367 u_22___Feeler 0.1200 u_28___Feeler_F 0.1000 u_29___Feeler_G 0.7800 
+skin 1368 u_22___Feeler 0.2300 u_28___Feeler_F 0.2900 u_29___Feeler_G 0.4800 
+skin 1369 u_22___Feeler 0.2300 u_28___Feeler_F 0.5100 u_29___Feeler_G 0.2600 
+skin 1370 u_22___Feeler 0.1700 u_28___Feeler_F 0.7100 u_29___Feeler_G 0.1200 
+skin 1371 u_22___Feeler 0.1400 u_28___Feeler_F 0.7400 u_29___Feeler_G 0.1200 
+skin 1372 u_22___Feeler 0.2525 u_28___Feeler_F 0.5051 u_29___Feeler_G 0.2424 
+skin 1373 u_22___Feeler 0.2020 u_28___Feeler_F 0.6768 u_29___Feeler_G 0.1212 
+skin 1374 u_22___Feeler 0.2900 u_28___Feeler_F 0.5900 u_29___Feeler_G 0.1200 
+skin 1375 u_22___Feeler 0.5900 u_28___Feeler_F 0.3200 u_29___Feeler_G 0.0900 
+skin 1376 u_22___Feeler 0.3100 u_28___Feeler_F 0.4700 u_29___Feeler_G 0.2200 
+skin 1377 u_22___Feeler 0.4600 u_28___Feeler_F 0.3700 u_29___Feeler_G 0.1700 
+skin 1378 u_22___Feeler 0.1400 u_27___Feeler_E 0.1200 u_28___Feeler_F 0.7400 
+skin 1379 u_21___L_Hand 1.0000 
+skin 1380 u_21___L_Hand 1.0000 
+skin 1381 u_21___L_Hand 1.0000 
+skin 1382 u_20___L_ForeArm 0.0500 u_21___L_Hand 0.9500 
+skin 1383 u_20___L_ForeArm 0.1000 u_21___L_Hand 0.9000 
+skin 1384 u_20___L_ForeArm 0.1500 u_21___L_Hand 0.8500 
+skin 1385 u_20___L_ForeArm 0.2000 u_21___L_Hand 0.8000 
+skin 1386 u_20___L_ForeArm 0.3000 u_21___L_Hand 0.7000 
+skin 1387 u_20___L_ForeArm 0.5000 u_21___L_Hand 0.5000 
+skin 1388 u_20___L_ForeArm 0.7400 u_21___L_Hand 0.2600 
+skin 1389 u_19___L_Arm 0.1000 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1800 
+skin 1390 u_19___L_Arm 0.1800 u_20___L_ForeArm 0.7200 u_21___L_Hand 0.1000 
+skin 1391 u_19___L_Arm 0.3800 u_20___L_ForeArm 0.5700 u_21___L_Hand 0.0500 
+skin 1392 u_19___L_Arm 0.6000 u_20___L_ForeArm 0.4000 
+skin 1393 u_19___L_Arm 0.7400 u_20___L_ForeArm 0.2600 
+skin 1394 u_19___L_Arm 0.9000 u_20___L_ForeArm 0.1000 
+skin 1395 u_19___L_Arm 1.0000 
+skin 1396 u_18___L_Shoulder 0.0100 u_19___L_Arm 0.9900 
+skin 1397 u_18___L_Shoulder 0.1000 u_19___L_Arm 0.9000 
+skin 1398 u_17___R_Hand 1.0000 
+skin 1399 u_17___R_Hand 1.0000 
+skin 1400 u_17___R_Hand 1.0000 
+skin 1401 u_16___R_ForeArm 0.0500 u_17___R_Hand 0.9500 
+skin 1402 u_16___R_ForeArm 0.1000 u_17___R_Hand 0.9000 
+skin 1403 u_16___R_ForeArm 0.1500 u_17___R_Hand 0.8500 
+skin 1404 u_16___R_ForeArm 0.2000 u_17___R_Hand 0.8000 
+skin 1405 u_16___R_ForeArm 0.3000 u_17___R_Hand 0.7000 
+skin 1406 u_16___R_ForeArm 0.5000 u_17___R_Hand 0.5000 
+skin 1407 u_16___R_ForeArm 0.7400 u_17___R_Hand 0.2600 
+skin 1408 u_15___R_Arm 0.1000 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1800 
+skin 1409 u_15___R_Arm 0.1800 u_16___R_ForeArm 0.7200 u_17___R_Hand 0.1000 
+skin 1410 u_15___R_Arm 0.3800 u_16___R_ForeArm 0.5700 u_17___R_Hand 0.0500 
+skin 1411 u_15___R_Arm 0.6000 u_16___R_ForeArm 0.4000 
+skin 1412 u_15___R_Arm 0.7400 u_16___R_ForeArm 0.2600 
+skin 1413 u_15___R_Arm 0.9000 u_16___R_ForeArm 0.1000 
+skin 1414 u_15___R_Arm 1.0000 
+skin 1415 u_15___R_Arm 1.0000 
+skin 1416 u_14___R_Shoulder 0.1000 u_15___R_Arm 0.9000 
+skin 1417 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1418 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1419 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1420 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1421 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1422 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1423 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1424 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1425 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1426 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1427 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1428 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1429 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1430 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1431 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1432 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1433 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1434 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1435 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1436 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1437 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1438 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1439 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1440 u_10___Spine2 1.0000 
+skin 1441 u_10___Spine2 1.0000 
+skin 1442 u_10___Spine2 1.0000 
+skin 1443 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1444 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1445 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1446 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1447 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1448 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1449 u_09___Spine1 1.0000 
+skin 1450 u_09___Spine1 1.0000 
+skin 1451 u_09___Spine1 1.0000 
+skin 1452 u_09___Spine1 1.0000 
+skin 1453 u_09___Spine1 1.0000 
+skin 1454 u_09___Spine1 1.0000 
+skin 1455 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1456 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1457 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1458 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1459 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1460 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1461 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1462 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1463 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1464 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1465 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1466 u_09___Spine1 1.0000 
+skin 1467 u_09___Spine1 1.0000 
+skin 1468 u_09___Spine1 1.0000 
+skin 1469 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1470 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1471 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1472 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1473 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1474 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1475 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1476 u_09___Spine1 1.0000 
+skin 1477 u_09___Spine1 1.0000 
+skin 1478 u_09___Spine1 1.0000 
+skin 1479 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1480 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1481 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1482 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1483 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1484 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1485 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1486 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1487 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1488 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1489 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1490 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1491 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1492 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1493 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1494 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1495 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1496 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1497 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1498 u_09___Spine1 1.0000 
+skin 1499 u_09___Spine1 1.0000 
+skin 1500 u_09___Spine1 1.0000 
+skin 1501 u_09___Spine1 1.0000 
+skin 1502 u_09___Spine1 1.0000 
+skin 1503 u_09___Spine1 1.0000 
+skin 1504 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1505 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1506 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1507 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1508 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1509 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1510 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1511 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1512 u_09___Spine1 0.7723 u_10___Spine2 0.2277 
+skin 1513 u_09___Spine1 1.0000 
+skin 1514 u_09___Spine1 1.0000 
+skin 1515 u_09___Spine1 1.0000 
+skin 1516 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1517 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1518 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1519 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1520 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1521 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1522 u_31___Tail1 0.0400 u_32___Tail2 0.4800 u_35___L_Toe1 0.4800 
+skin 1523 u_31___Tail1 0.0600 u_32___Tail2 0.4700 u_35___L_Toe1 0.4700 
+skin 1524 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1525 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1526 u_35___L_Toe1 1.0000 
+skin 1527 u_35___L_Toe1 1.0000 
+skin 1528 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1529 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1530 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1531 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1532 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1533 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1534 u_36___L_Toe2 1.0000 
+skin 1535 u_36___L_Toe2 1.0000 
+skin 1536 u_36___L_Toe2 1.0000 
+skin 1537 u_36___L_Toe2 1.0000 
+skin 1538 u_36___L_Toe2 1.0000 
+skin 1539 u_36___L_Toe2 1.0000 
+skin 1540 u_36___L_Toe2 1.0000 
+skin 1541 u_36___L_Toe2 1.0000 
+skin 1542 u_36___L_Toe2 1.0000 
+skin 1543 u_36___L_Toe2 1.0000 
+skin 1544 u_36___L_Toe2 1.0000 
+skin 1545 u_36___L_Toe2 1.0000 
+skin 1546 u_36___L_Toe2 1.0000 
+skin 1547 u_36___L_Toe2 1.0000 
+skin 1548 u_36___L_Toe2 1.0000 
+skin 1549 u_36___L_Toe2 1.0000 
+skin 1550 u_36___L_Toe2 1.0000 
+skin 1551 u_36___L_Toe2 1.0000 
+skin 1552 u_36___L_Toe2 1.0000 
+skin 1553 u_36___L_Toe2 1.0000 
+skin 1554 u_36___L_Toe2 1.0000 
+skin 1555 u_36___L_Toe2 1.0000 
+skin 1556 u_36___L_Toe2 1.0000 
+skin 1557 u_36___L_Toe2 1.0000 
+skin 1558 u_36___L_Toe2 1.0000 
+skin 1559 u_36___L_Toe2 1.0000 
+skin 1560 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1561 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1562 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1563 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1564 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1565 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1566 u_35___L_Toe1 1.0000 
+skin 1567 u_35___L_Toe1 1.0000 
+skin 1568 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1569 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1570 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1571 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1572 u_36___L_Toe2 1.0000 
+skin 1573 u_36___L_Toe2 1.0000 
+skin 1574 u_36___L_Toe2 1.0000 
+skin 1575 u_36___L_Toe2 1.0000 
+skin 1576 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1577 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1578 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1579 u_35___L_Toe1 1.0000 
+skin 1580 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1581 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1582 u_36___L_Toe2 1.0000 
+skin 1583 u_36___L_Toe2 1.0000 
+skin 1584 u_36___L_Toe2 1.0000 
+skin 1585 u_36___L_Toe2 1.0000 
+skin 1586 u_36___L_Toe2 1.0000 
+skin 1587 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1588 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1589 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1590 u_35___L_Toe1 1.0000 
+skin 1591 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1592 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1593 u_36___L_Toe2 1.0000 
+skin 1594 u_36___L_Toe2 1.0000 
+skin 1595 u_36___L_Toe2 1.0000 
+skin 1596 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1597 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1598 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1599 u_35___L_Toe1 1.0000 
+skin 1600 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1601 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1602 u_31___Tail1 0.0101 u_32___Tail2 0.4949 u_35___L_Toe1 0.4949 
+skin 1603 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1604 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1605 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1606 u_32___Tail2 0.5000 u_35___L_Toe1 0.5000 
+skin 1607 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1608 u_35___L_Toe1 1.0000 
+skin 1609 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1610 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1611 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1612 u_36___L_Toe2 1.0000 
+skin 1613 u_36___L_Toe2 1.0000 
+skin 1614 u_36___L_Toe2 1.0000 
+skin 1615 u_36___L_Toe2 1.0000 
+skin 1616 u_36___L_Toe2 1.0000 
+skin 1617 u_36___L_Toe2 1.0000 
+skin 1618 u_36___L_Toe2 1.0000 
+skin 1619 u_36___L_Toe2 1.0000 
+skin 1620 u_36___L_Toe2 1.0000 
+skin 1621 u_36___L_Toe2 1.0000 
+skin 1622 u_36___L_Toe2 1.0000 
+skin 1623 u_36___L_Toe2 1.0000 
+skin 1624 u_36___L_Toe2 1.0000 
+skin 1625 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1626 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1627 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1628 u_35___L_Toe1 1.0000 
+skin 1629 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1630 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1631 u_35___L_Toe1 1.0000 
+skin 1632 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1633 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1634 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1635 u_36___L_Toe2 1.0000 
+skin 1636 u_36___L_Toe2 1.0000 
+skin 1637 u_36___L_Toe2 1.0000 
+skin 1638 u_36___L_Toe2 1.0000 
+skin 1639 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1640 u_35___L_Toe1 1.0000 
+skin 1641 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1642 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1643 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1644 u_36___L_Toe2 1.0000 
+skin 1645 u_36___L_Toe2 1.0000 
+skin 1646 u_36___L_Toe2 1.0000 
+skin 1647 u_36___L_Toe2 1.0000 
+skin 1648 u_32___Tail2 0.3000 u_35___L_Toe1 0.7000 
+skin 1649 u_35___L_Toe1 1.0000 
+skin 1650 u_35___L_Toe1 0.8000 u_36___L_Toe2 0.2000 
+skin 1651 u_35___L_Toe1 0.5000 u_36___L_Toe2 0.5000 
+skin 1652 u_35___L_Toe1 0.2000 u_36___L_Toe2 0.8000 
+skin 1653 u_36___L_Toe2 1.0000 
+skin 1654 u_36___L_Toe2 1.0000 
+skin 1655 u_36___L_Toe2 1.0000 
+skin 1656 u_36___L_Toe2 1.0000 
+skin 1657 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1658 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1659 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1660 u_31___Tail1 0.8000 u_32___Tail2 0.2000 
+skin 1661 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1662 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1663 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1664 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1665 u_09___Spine1 1.0000 
+skin 1666 u_09___Spine1 1.0000 
+skin 1667 u_09___Spine1 1.0000 
+skin 1668 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1669 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1670 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1671 u_10___Spine2 1.0000 
+skin 1672 u_10___Spine2 1.0000 
+skin 1673 u_10___Spine2 1.0000 
+skin 1674 u_10___Spine2 0.8000 u_12___Neck 0.2000 
+skin 1675 u_12___Neck 0.9000 u_13___Head 0.1000 
+skin 1676 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1677 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1678 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1679 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1680 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1681 u_09___Spine1 1.0000 
+skin 1682 u_09___Spine1 1.0000 
+skin 1683 u_09___Spine1 1.0000 
+skin 1684 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1685 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1686 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1687 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1688 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1689 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1690 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1691 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1692 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1693 u_09___Spine1 1.0000 
+skin 1694 u_09___Spine1 1.0000 
+skin 1695 u_09___Spine1 1.0000 
+skin 1696 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1697 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1698 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1699 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1700 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1701 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1702 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1703 u_31___Tail1 0.2000 u_32___Tail2 0.8000 
+skin 1704 u_31___Tail1 0.7000 u_32___Tail2 0.3000 
+skin 1705 u_31___Tail1 0.8500 u_32___Tail2 0.1500 
+skin 1706 u_09___Spine1 0.2000 u_31___Tail1 0.8000 
+skin 1707 u_09___Spine1 0.5000 u_31___Tail1 0.5000 
+skin 1708 u_09___Spine1 0.9000 u_31___Tail1 0.1000 
+skin 1709 u_09___Spine1 1.0000 
+skin 1710 u_09___Spine1 1.0000 
+skin 1711 u_09___Spine1 1.0000 
+skin 1712 u_09___Spine1 0.7800 u_10___Spine2 0.2200 
+skin 1713 u_09___Spine1 0.5000 u_10___Spine2 0.5000 
+skin 1714 u_09___Spine1 0.4000 u_10___Spine2 0.6000 
+skin 1715 u_31___Tail1 0.0400 u_32___Tail2 0.4800 u_33___R_Toe1 0.4800 
+skin 1716 u_31___Tail1 0.0600 u_32___Tail2 0.4700 u_33___R_Toe1 0.4700 
+skin 1717 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1718 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1719 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1720 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1721 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1722 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1723 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1724 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1725 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1726 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1727 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1728 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1729 u_33___R_Toe1 1.0000 
+skin 1730 u_33___R_Toe1 1.0000 
+skin 1731 u_33___R_Toe1 1.0000 
+skin 1732 u_33___R_Toe1 1.0000 
+skin 1733 u_33___R_Toe1 1.0000 
+skin 1734 u_33___R_Toe1 1.0000 
+skin 1735 u_33___R_Toe1 1.0000 
+skin 1736 u_31___Tail1 0.0101 u_32___Tail2 0.4949 u_33___R_Toe1 0.4949 
+skin 1737 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1738 u_33___R_Toe1 1.0000 
+skin 1739 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1740 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1741 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1742 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1743 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1744 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1745 u_34___R_Toe2 1.0000 
+skin 1746 u_34___R_Toe2 1.0000 
+skin 1747 u_34___R_Toe2 1.0000 
+skin 1748 u_34___R_Toe2 1.0000 
+skin 1749 u_34___R_Toe2 1.0000 
+skin 1750 u_34___R_Toe2 1.0000 
+skin 1751 u_34___R_Toe2 1.0000 
+skin 1752 u_34___R_Toe2 1.0000 
+skin 1753 u_34___R_Toe2 1.0000 
+skin 1754 u_34___R_Toe2 1.0000 
+skin 1755 u_34___R_Toe2 1.0000 
+skin 1756 u_34___R_Toe2 1.0000 
+skin 1757 u_34___R_Toe2 1.0000 
+skin 1758 u_34___R_Toe2 1.0000 
+skin 1759 u_34___R_Toe2 1.0000 
+skin 1760 u_34___R_Toe2 1.0000 
+skin 1761 u_34___R_Toe2 1.0000 
+skin 1762 u_34___R_Toe2 1.0000 
+skin 1763 u_34___R_Toe2 1.0000 
+skin 1764 u_34___R_Toe2 1.0000 
+skin 1765 u_34___R_Toe2 1.0000 
+skin 1766 u_34___R_Toe2 1.0000 
+skin 1767 u_34___R_Toe2 1.0000 
+skin 1768 u_34___R_Toe2 1.0000 
+skin 1769 u_34___R_Toe2 1.0000 
+skin 1770 u_34___R_Toe2 1.0000 
+skin 1771 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1772 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1773 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1774 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1775 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1776 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1777 u_33___R_Toe1 1.0000 
+skin 1778 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1779 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1780 u_34___R_Toe2 1.0000 
+skin 1781 u_34___R_Toe2 1.0000 
+skin 1782 u_34___R_Toe2 1.0000 
+skin 1783 u_34___R_Toe2 1.0000 
+skin 1784 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1785 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1786 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1787 u_33___R_Toe1 1.0000 
+skin 1788 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1789 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1790 u_34___R_Toe2 1.0000 
+skin 1791 u_34___R_Toe2 1.0000 
+skin 1792 u_34___R_Toe2 1.0000 
+skin 1793 u_34___R_Toe2 1.0000 
+skin 1794 u_34___R_Toe2 1.0000 
+skin 1795 u_34___R_Toe2 1.0000 
+skin 1796 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1797 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1798 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1799 u_33___R_Toe1 1.0000 
+skin 1800 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1801 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1802 u_34___R_Toe2 1.0000 
+skin 1803 u_34___R_Toe2 1.0000 
+skin 1804 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1805 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1806 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1807 u_33___R_Toe1 1.0000 
+skin 1808 u_32___Tail2 0.3000 u_33___R_Toe1 0.7000 
+skin 1809 u_32___Tail2 0.5000 u_33___R_Toe1 0.5000 
+skin 1810 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1811 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1812 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1813 u_34___R_Toe2 1.0000 
+skin 1814 u_34___R_Toe2 1.0000 
+skin 1815 u_34___R_Toe2 1.0000 
+skin 1816 u_34___R_Toe2 1.0000 
+skin 1817 u_34___R_Toe2 1.0000 
+skin 1818 u_34___R_Toe2 1.0000 
+skin 1819 u_34___R_Toe2 1.0000 
+skin 1820 u_34___R_Toe2 1.0000 
+skin 1821 u_34___R_Toe2 1.0000 
+skin 1822 u_34___R_Toe2 1.0000 
+skin 1823 u_34___R_Toe2 1.0000 
+skin 1824 u_34___R_Toe2 1.0000 
+skin 1825 u_34___R_Toe2 1.0000 
+skin 1826 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1827 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1828 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1829 u_34___R_Toe2 1.0000 
+skin 1830 u_34___R_Toe2 1.0000 
+skin 1831 u_34___R_Toe2 1.0000 
+skin 1832 u_34___R_Toe2 1.0000 
+skin 1833 u_34___R_Toe2 1.0000 
+skin 1834 u_34___R_Toe2 1.0000 
+skin 1835 u_34___R_Toe2 1.0000 
+skin 1836 u_34___R_Toe2 1.0000 
+skin 1837 u_34___R_Toe2 1.0000 
+skin 1838 u_34___R_Toe2 1.0000 
+skin 1839 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1840 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1841 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1842 u_34___R_Toe2 1.0000 
+skin 1843 u_34___R_Toe2 1.0000 
+skin 1844 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1845 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1846 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1847 u_33___R_Toe1 0.2000 u_34___R_Toe2 0.8000 
+skin 1848 u_33___R_Toe1 0.8000 u_34___R_Toe2 0.2000 
+skin 1849 u_33___R_Toe1 0.5000 u_34___R_Toe2 0.5000 
+skin 1850 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 1851 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 1852 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 1853 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 1854 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 1855 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 1856 u_37___L_Ear 1.0000 
+skin 1857 u_37___L_Ear 1.0000 
+skin 1858 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 1859 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 1860 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 1861 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 1862 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 1863 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 1864 u_37___L_Ear 1.0000 
+skin 1865 u_37___L_Ear 1.0000 
+skin 1866 u_37___L_Ear 1.0000 
+skin 1867 u_37___L_Ear 1.0000 
+skin 1868 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 1869 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 1870 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 1871 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 1872 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 1873 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 1874 u_37___L_Ear 1.0000 
+skin 1875 u_37___L_Ear 1.0000 
+skin 1876 u_37___L_Ear 1.0000 
+skin 1877 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 1878 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 1879 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 1880 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 1881 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 1882 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 1883 u_37___L_Ear 1.0000 
+skin 1884 u_37___L_Ear 1.0000 
+skin 1885 u_13___Head 0.0500 u_37___L_Ear 0.9500 
+skin 1886 u_13___Head 0.1000 u_37___L_Ear 0.9000 
+skin 1887 u_13___Head 0.2000 u_37___L_Ear 0.8000 
+skin 1888 u_13___Head 0.3000 u_37___L_Ear 0.7000 
+skin 1889 u_13___Head 0.5000 u_37___L_Ear 0.5000 
+skin 1890 u_13___Head 0.7000 u_37___L_Ear 0.3000 
+skin 1891 u_13___Head 1.0000 
+skin 1892 u_13___Head 1.0000 
+skin 1893 u_13___Head 1.0000 
+skin 1894 u_13___Head 1.0000 
+skin 1895 u_13___Head 1.0000 
+skin 1896 u_13___Head 1.0000 
+skin 1897 u_13___Head 1.0000 
+skin 1898 u_13___Head 1.0000 
+skin 1899 u_13___Head 1.0000 
+skin 1900 u_13___Head 1.0000 
+skin 1901 u_13___Head 1.0000 
+skin 1902 u_13___Head 1.0000 
+skin 1903 u_13___Head 1.0000 
+skin 1904 u_13___Head 1.0000 
+skin 1905 u_13___Head 1.0000 
+skin 1906 u_13___Head 1.0000 
+skin 1907 u_13___Head 1.0000 
+skin 1908 u_13___Head 1.0000 
+skin 1909 u_13___Head 1.0000 
+skin 1910 u_13___Head 1.0000 
+skin 1911 u_13___Head 1.0000 
+skin 1912 u_13___Head 1.0000 
+skin 1913 u_13___Head 1.0000 
+skin 1914 u_13___Head 1.0000 
+skin 1915 u_13___Head 1.0000 
+skin 1916 u_13___Head 1.0000 
+skin 1917 u_13___Head 1.0000 
+skin 1918 u_13___Head 1.0000 
+skin 1919 u_13___Head 1.0000 
+skin 1920 u_13___Head 1.0000 
+skin 1921 u_13___Head 1.0000 
+skin 1922 u_13___Head 1.0000 
+skin 1923 u_13___Head 1.0000 
+skin 1924 u_13___Head 1.0000 
+skin 1925 u_13___Head 1.0000 
+skin 1926 u_13___Head 1.0000 
+skin 1927 u_13___Head 1.0000 
+skin 1928 u_13___Head 1.0000 
+skin 1929 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1930 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1931 u_12___Neck 0.5960 u_13___Head 0.3939 u_27___Feeler_E 0.0101 
+skin 1932 u_12___Neck 0.6000 u_13___Head 0.4000 
+skin 1933 u_13___Head 1.0000 
+skin 1934 u_13___Head 1.0000 
+skin 1935 u_13___Head 1.0000 
+skin 1936 u_13___Head 1.0000 
+skin 1937 u_13___Head 1.0000 
+skin 1938 u_13___Head 1.0000 
+skin 1939 u_13___Head 1.0000 
+skin 1940 u_13___Head 1.0000 
+skin 1941 u_13___Head 1.0000 
+skin 1942 u_13___Head 1.0000 
+skin 1943 u_13___Head 1.0000 
+skin 1944 u_13___Head 1.0000 
+skin 1945 u_13___Head 1.0000 
+skin 1946 u_13___Head 1.0000 
+skin 1947 u_13___Head 1.0000 
+skin 1948 u_13___Head 1.0000 
+skin 1949 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1950 u_12___Neck 0.5900 u_13___Head 0.3900 u_27___Feeler_E 0.0200 
+skin 1951 u_13___Head 1.0000 
+skin 1952 u_13___Head 1.0000 
+skin 1953 u_13___Head 1.0000 
+skin 1954 u_13___Head 1.0000 
+skin 1955 u_13___Head 1.0000 
+skin 1956 u_13___Head 1.0000 
+skin 1957 u_13___Head 1.0000 
+skin 1958 u_13___Head 1.0000 
+skin 1959 u_13___Head 1.0000 
+skin 1960 u_13___Head 1.0000 
+skin 1961 u_13___Head 1.0000 
+skin 1962 u_12___Neck 0.1485 u_13___Head 0.5842 u_23___Feeler_A 0.2673 
+skin 1963 u_12___Neck 0.1400 u_13___Head 0.5600 u_23___Feeler_A 0.3000 
+skin 1964 u_12___Neck 0.5051 u_13___Head 0.3333 u_23___Feeler_A 0.1616 
+skin 1965 u_12___Neck 0.4500 u_13___Head 0.3000 u_23___Feeler_A 0.2500 
+skin 1966 u_12___Neck 0.5700 u_13___Head 0.3800 u_24___Feeler_B 0.0500 
+skin 1967 u_12___Neck 0.5051 u_13___Head 0.3333 u_24___Feeler_B 0.1616 
+skin 1968 u_12___Neck 0.5000 u_18___L_Shoulder 0.0600 u_13___Head 0.3300 u_24___Feeler_B 0.1100 
+skin 1969 u_12___Neck 0.5500 u_18___L_Shoulder 0.0200 u_13___Head 0.3700 u_25___Feeler_C 0.0600 
+skin 1970 u_12___Neck 0.5200 u_13___Head 0.3500 u_25___Feeler_C 0.1300 
+skin 1971 u_12___Neck 0.5758 u_13___Head 0.3838 u_25___Feeler_C 0.0404 
+skin 1972 u_12___Neck 0.5700 u_13___Head 0.3800 u_26___Feeler_D 0.0500 
+skin 1973 u_12___Neck 0.5800 u_13___Head 0.3900 u_26___Feeler_D 0.0300 
+skin 1974 u_12___Neck 0.1980 u_13___Head 0.7723 u_23___Feeler_A 0.0099 u_24___Feeler_B 0.0198 
+skin 1975 u_12___Neck 0.1717 u_13___Head 0.6970 u_24___Feeler_B 0.1313 
+skin 1976 u_12___Neck 0.1800 u_13___Head 0.7100 u_24___Feeler_B 0.1100 
+skin 1977 u_12___Neck 0.2000 u_13___Head 0.7900 u_24___Feeler_B 0.0100 
+skin 1978 u_12___Neck 0.2000 u_13___Head 0.7900 u_25___Feeler_C 0.0100 
+skin 1979 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1980 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1981 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 1982 u_13___Head 1.0000 
+skin 1983 u_13___Head 1.0000 
+skin 1984 u_13___Head 1.0000 
+skin 1985 u_13___Head 1.0000 
+skin 1986 u_13___Head 1.0000 
+skin 1987 u_13___Head 1.0000 
+skin 1988 u_13___Head 1.0000 
+skin 1989 u_13___Head 1.0000 
+skin 1990 u_13___Head 1.0000 
+skin 1991 u_13___Head 1.0000 
+skin 1992 u_13___Head 1.0000 
+skin 1993 u_13___Head 1.0000 
+skin 1994 u_13___Head 1.0000 
+skin 1995 u_13___Head 1.0000 
+skin 1996 u_13___Head 1.0000 
+skin 1997 u_13___Head 1.0000 
+skin 1998 u_13___Head 1.0000 
+skin 1999 u_13___Head 1.0000 
+skin 2000 u_13___Head 1.0000 
+skin 2001 u_13___Head 1.0000 
+skin 2002 u_13___Head 1.0000 
+skin 2003 u_13___Head 1.0000 
+skin 2004 u_13___Head 1.0000 
+skin 2005 u_13___Head 1.0000 
+skin 2006 u_13___Head 1.0000 
+skin 2007 u_13___Head 1.0000 
+skin 2008 u_13___Head 1.0000 
+skin 2009 u_13___Head 1.0000 
+skin 2010 u_13___Head 1.0000 
+skin 2011 u_13___Head 1.0000 
+skin 2012 u_13___Head 1.0000 
+skin 2013 u_13___Head 1.0000 
+skin 2014 u_13___Head 1.0000 
+skin 2015 u_13___Head 1.0000 
+skin 2016 u_13___Head 1.0000 
+skin 2017 u_13___Head 1.0000 
+skin 2018 u_13___Head 1.0000 
+skin 2019 u_13___Head 1.0000 
+skin 2020 u_13___Head 1.0000 
+skin 2021 u_13___Head 1.0000 
+skin 2022 u_13___Head 1.0000 
+skin 2023 u_13___Head 1.0000 
+skin 2024 u_13___Head 1.0000 
+skin 2025 u_13___Head 1.0000 
+skin 2026 u_13___Head 1.0000 
+skin 2027 u_13___Head 1.0000 
+skin 2028 u_13___Head 1.0000 
+skin 2029 u_13___Head 1.0000 
+skin 2030 u_13___Head 0.9600 u_37___L_Ear 0.0400 
+skin 2031 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2032 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2033 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2034 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2035 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2036 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2037 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2038 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2039 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2040 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2041 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2042 u_13___Head 0.9000 u_37___L_Ear 0.1000 
+skin 2043 u_13___Head 1.0000 
+skin 2044 u_13___Head 1.0000 
+skin 2045 u_13___Head 1.0000 
+skin 2046 u_13___Head 1.0000 
+skin 2047 u_13___Head 1.0000 
+skin 2048 u_13___Head 1.0000 
+skin 2049 u_13___Head 1.0000 
+skin 2050 u_13___Head 0.9700 u_37___L_Ear 0.0300 
+skin 2051 u_13___Head 0.8500 u_37___L_Ear 0.1500 
+skin 2052 u_13___Head 0.8500 u_37___L_Ear 0.1500 
+skin 2053 u_13___Head 1.0000 
+skin 2054 u_13___Head 1.0000 
+skin 2055 u_13___Head 1.0000 
+skin 2056 u_13___Head 1.0000 
+skin 2057 u_13___Head 1.0000 
+skin 2058 u_13___Head 1.0000 
+skin 2059 u_13___Head 1.0000 
+skin 2060 u_13___Head 1.0000 
+skin 2061 u_13___Head 1.0000 
+skin 2062 u_13___Head 0.9700 u_37___L_Ear 0.0300 
+skin 2063 u_13___Head 1.0000 
+skin 2064 u_13___Head 1.0000 
+skin 2065 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2066 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2067 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2068 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2069 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2070 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2071 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2072 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2073 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2074 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2075 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2076 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2077 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2078 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2079 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2080 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2081 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2082 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2083 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2084 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2085 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2086 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2087 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2088 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2089 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2090 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2091 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2092 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2093 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2094 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2095 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2096 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2097 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2098 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2099 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2100 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2101 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2102 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2103 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2104 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2105 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2106 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2107 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2108 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2109 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2110 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2111 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2112 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2113 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2114 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2115 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2116 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2117 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2118 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2119 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2120 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2121 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2122 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2123 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2124 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2125 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2126 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2127 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2128 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2129 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2130 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2131 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2132 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2133 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2134 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2135 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2136 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2137 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2138 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2139 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2140 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2141 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2142 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2143 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2144 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2145 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2146 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2147 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2148 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2149 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2150 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2151 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2152 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2153 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2154 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2155 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2156 u_13___Head 1.0000 
+skin 2157 u_13___Head 1.0000 
+skin 2158 u_13___Head 1.0000 
+skin 2159 u_13___Head 1.0000 
+skin 2160 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2161 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2162 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2163 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2164 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2165 u_13___Head 1.0000 
+skin 2166 u_13___Head 1.0000 
+skin 2167 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2168 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2169 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2170 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2171 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2172 u_13___Head 1.0000 
+skin 2173 u_13___Head 1.0000 
+skin 2174 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2175 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2176 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2177 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2178 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2179 u_13___Head 1.0000 
+skin 2180 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2181 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2182 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2183 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2184 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2185 u_13___Head 1.0000 
+skin 2186 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2187 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2188 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2189 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2190 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2191 u_13___Head 1.0000 
+skin 2192 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 2193 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 2194 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 2195 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 2196 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 2197 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 2198 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 2199 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 2200 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 2201 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 2202 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 2203 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 2204 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 2205 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 2206 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 2207 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 2208 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 2209 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 2210 u_38___R_Ear 1.0000 
+skin 2211 u_38___R_Ear 1.0000 
+skin 2212 u_38___R_Ear 1.0000 
+skin 2213 u_38___R_Ear 1.0000 
+skin 2214 u_38___R_Ear 1.0000 
+skin 2215 u_38___R_Ear 1.0000 
+skin 2216 u_38___R_Ear 1.0000 
+skin 2217 u_38___R_Ear 1.0000 
+skin 2218 u_38___R_Ear 1.0000 
+skin 2219 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 2220 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 2221 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 2222 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 2223 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 2224 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 2225 u_38___R_Ear 1.0000 
+skin 2226 u_38___R_Ear 1.0000 
+skin 2227 u_13___Head 0.0500 u_38___R_Ear 0.9500 
+skin 2228 u_13___Head 0.1000 u_38___R_Ear 0.9000 
+skin 2229 u_13___Head 0.2000 u_38___R_Ear 0.8000 
+skin 2230 u_13___Head 0.3000 u_38___R_Ear 0.7000 
+skin 2231 u_13___Head 0.5000 u_38___R_Ear 0.5000 
+skin 2232 u_13___Head 0.7000 u_38___R_Ear 0.3000 
+skin 2233 u_13___Head 1.0000 
+skin 2234 u_13___Head 1.0000 
+skin 2235 u_13___Head 1.0000 
+skin 2236 u_13___Head 1.0000 
+skin 2237 u_13___Head 1.0000 
+skin 2238 u_13___Head 1.0000 
+skin 2239 u_13___Head 1.0000 
+skin 2240 u_13___Head 1.0000 
+skin 2241 u_13___Head 1.0000 
+skin 2242 u_13___Head 1.0000 
+skin 2243 u_13___Head 1.0000 
+skin 2244 u_13___Head 1.0000 
+skin 2245 u_13___Head 1.0000 
+skin 2246 u_13___Head 1.0000 
+skin 2247 u_13___Head 1.0000 
+skin 2248 u_13___Head 1.0000 
+skin 2249 u_13___Head 1.0000 
+skin 2250 u_13___Head 1.0000 
+skin 2251 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2252 u_12___Neck 0.5960 u_13___Head 0.3939 u_27___Feeler_E 0.0101 
+skin 2253 u_13___Head 1.0000 
+skin 2254 u_13___Head 1.0000 
+skin 2255 u_13___Head 1.0000 
+skin 2256 u_13___Head 1.0000 
+skin 2257 u_13___Head 1.0000 
+skin 2258 u_13___Head 1.0000 
+skin 2259 u_13___Head 1.0000 
+skin 2260 u_13___Head 1.0000 
+skin 2261 u_13___Head 1.0000 
+skin 2262 u_13___Head 1.0000 
+skin 2263 u_13___Head 1.0000 
+skin 2264 u_13___Head 1.0000 
+skin 2265 u_13___Head 1.0000 
+skin 2266 u_13___Head 1.0000 
+skin 2267 u_13___Head 1.0000 
+skin 2268 u_13___Head 1.0000 
+skin 2269 u_13___Head 1.0000 
+skin 2270 u_13___Head 1.0000 
+skin 2271 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2272 u_12___Neck 0.6000 u_13___Head 0.4000 
+skin 2273 u_13___Head 1.0000 
+skin 2274 u_13___Head 1.0000 
+skin 2275 u_13___Head 1.0000 
+skin 2276 u_13___Head 1.0000 
+skin 2277 u_13___Head 1.0000 
+skin 2278 u_13___Head 1.0000 
+skin 2279 u_13___Head 1.0000 
+skin 2280 u_13___Head 1.0000 
+skin 2281 u_12___Neck 0.1485 u_13___Head 0.5842 u_23___Feeler_A 0.2673 
+skin 2282 u_12___Neck 0.1900 u_13___Head 0.7800 u_23___Feeler_A 0.0100 u_30___Feeler_H 0.0200 
+skin 2283 u_12___Neck 0.5051 u_13___Head 0.3333 u_23___Feeler_A 0.1616 
+skin 2284 u_12___Neck 0.5700 u_13___Head 0.3800 u_30___Feeler_H 0.0500 
+skin 2285 u_13___Head 1.0000 
+skin 2286 u_13___Head 1.0000 
+skin 2287 u_13___Head 1.0000 
+skin 2288 u_13___Head 1.0000 
+skin 2289 u_13___Head 1.0000 
+skin 2290 u_13___Head 1.0000 
+skin 2291 u_13___Head 1.0000 
+skin 2292 u_13___Head 1.0000 
+skin 2293 u_13___Head 1.0000 
+skin 2294 u_13___Head 1.0000 
+skin 2295 u_13___Head 1.0000 
+skin 2296 u_13___Head 1.0000 
+skin 2297 u_13___Head 1.0000 
+skin 2298 u_13___Head 1.0000 
+skin 2299 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2300 u_12___Neck 0.5800 u_13___Head 0.3900 u_28___Feeler_F 0.0300 
+skin 2301 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2302 u_12___Neck 0.5700 u_13___Head 0.3800 u_28___Feeler_F 0.0500 
+skin 2303 u_13___Head 1.0000 
+skin 2304 u_13___Head 1.0000 
+skin 2305 u_13___Head 1.0000 
+skin 2306 u_13___Head 1.0000 
+skin 2307 u_13___Head 0.9700 u_38___R_Ear 0.0300 
+skin 2308 u_13___Head 0.8500 u_38___R_Ear 0.1500 
+skin 2309 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2310 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2311 u_13___Head 1.0000 
+skin 2312 u_13___Head 1.0000 
+skin 2313 u_13___Head 1.0000 
+skin 2314 u_13___Head 1.0000 
+skin 2315 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2316 u_13___Head 1.0000 
+skin 2317 u_13___Head 1.0000 
+skin 2318 u_13___Head 1.0000 
+skin 2319 u_13___Head 1.0000 
+skin 2320 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2321 u_13___Head 1.0000 
+skin 2322 u_13___Head 1.0000 
+skin 2323 u_13___Head 1.0000 
+skin 2324 u_13___Head 1.0000 
+skin 2325 u_13___Head 1.0000 
+skin 2326 u_13___Head 1.0000 
+skin 2327 u_13___Head 1.0000 
+skin 2328 u_13___Head 1.0000 
+skin 2329 u_13___Head 1.0000 
+skin 2330 u_13___Head 1.0000 
+skin 2331 u_13___Head 1.0000 
+skin 2332 u_13___Head 1.0000 
+skin 2333 u_13___Head 1.0000 
+skin 2334 u_13___Head 1.0000 
+skin 2335 u_13___Head 1.0000 
+skin 2336 u_13___Head 1.0000 
+skin 2337 u_13___Head 1.0000 
+skin 2338 u_13___Head 1.0000 
+skin 2339 u_13___Head 1.0000 
+skin 2340 u_13___Head 1.0000 
+skin 2341 u_13___Head 1.0000 
+skin 2342 u_13___Head 1.0000 
+skin 2343 u_13___Head 1.0000 
+skin 2344 u_13___Head 1.0000 
+skin 2345 u_13___Head 1.0000 
+skin 2346 u_13___Head 1.0000 
+skin 2347 u_13___Head 1.0000 
+skin 2348 u_13___Head 1.0000 
+skin 2349 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2350 u_13___Head 0.8500 u_38___R_Ear 0.1500 
+skin 2351 u_13___Head 0.9700 u_38___R_Ear 0.0300 
+skin 2352 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2353 u_13___Head 0.9600 u_38___R_Ear 0.0400 
+skin 2354 u_13___Head 1.0000 
+skin 2355 u_13___Head 1.0000 
+skin 2356 u_13___Head 1.0000 
+skin 2357 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2358 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2359 u_13___Head 1.0000 
+skin 2360 u_13___Head 1.0000 
+skin 2361 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2362 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2363 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2364 u_13___Head 0.9000 u_38___R_Ear 0.1000 
+skin 2365 u_13___Head 1.0000 
+skin 2366 u_13___Head 1.0000 
+skin 2367 u_13___Head 1.0000 
+skin 2368 u_13___Head 1.0000 
+skin 2369 u_13___Head 1.0000 
+skin 2370 u_13___Head 1.0000 
+skin 2371 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2372 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2373 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2374 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2375 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2376 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2377 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2378 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2379 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2380 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2381 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2382 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2383 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2384 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2385 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2386 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2387 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2388 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2389 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2390 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2391 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2392 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2393 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2394 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2395 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2396 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2397 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2398 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2399 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2400 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2401 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2402 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2403 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2404 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2405 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2406 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2407 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2408 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2409 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2410 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2411 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2412 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2413 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2414 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2415 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2416 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2417 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2418 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2419 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2420 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2421 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2422 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2423 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2424 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2425 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2426 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2427 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2428 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2429 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2430 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2431 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2432 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2433 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2434 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2435 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2436 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2437 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2438 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2439 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2440 u_13___Head 1.0000 
+skin 2441 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2442 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2443 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2444 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2445 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2446 u_13___Head 1.0000 
+skin 2447 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2448 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2449 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2450 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2451 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2452 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2453 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2454 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2455 u_13___Head 1.0000 
+skin 2456 u_13___Head 1.0000 
+skin 2457 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2458 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2459 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2460 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2461 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2462 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2463 u_13___Head 1.0000 
+skin 2464 u_13___Head 1.0000 
+skin 2465 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2466 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2467 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2468 u_13___Head 1.0000 
+skin 2469 u_13___Head 1.0000 
+skin 2470 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2471 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2472 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2473 u_13___Head 1.0000 
+skin 2474 u_13___Head 1.0000 
+skin 2475 u_12___Neck 0.5758 u_13___Head 0.3838 u_29___Feeler_G 0.0404 
+skin 2476 u_12___Neck 0.5200 u_13___Head 0.3500 u_29___Feeler_G 0.1300 
+skin 2477 u_12___Neck 0.5556 u_14___R_Shoulder 0.0202 u_13___Head 0.3636 u_29___Feeler_G 0.0606 
+skin 2478 u_12___Neck 0.5050 u_14___R_Shoulder 0.0594 u_13___Head 0.3366 u_30___Feeler_H 0.0990 
+skin 2479 u_12___Neck 0.5000 u_13___Head 0.3300 u_30___Feeler_H 0.1700 
+skin 2480 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2481 u_12___Neck 0.2000 u_13___Head 0.7900 u_29___Feeler_G 0.0100 
+skin 2482 u_12___Neck 0.2000 u_13___Head 0.8000 
+skin 2483 u_12___Neck 0.1800 u_13___Head 0.7300 u_30___Feeler_H 0.0900 
+skin 2484 u_12___Neck 0.1700 u_13___Head 0.6700 u_30___Feeler_H 0.1600 
+skin 2485 u_22___Feeler 0.2400 u_23___Feeler_A 0.4500 u_24___Feeler_B 0.3100 
+skin 2486 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_24___Feeler_B 0.2300 
+skin 2487 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_24___Feeler_B 0.4100 
+skin 2488 u_22___Feeler 0.2200 u_23___Feeler_A 0.2600 u_24___Feeler_B 0.5200 
+skin 2489 u_22___Feeler 0.1900 u_23___Feeler_A 0.2100 u_24___Feeler_B 0.6000 
+skin 2490 u_22___Feeler 0.1414 u_23___Feeler_A 0.1414 u_24___Feeler_B 0.7172 
+skin 2491 u_22___Feeler 0.0900 u_23___Feeler_A 0.0800 u_24___Feeler_B 0.8300 
+skin 2492 u_22___Feeler 0.0900 u_24___Feeler_B 0.8200 u_25___Feeler_C 0.0900 
+skin 2493 u_22___Feeler 0.1400 u_24___Feeler_B 0.7000 u_25___Feeler_C 0.1600 
+skin 2494 u_22___Feeler 0.1818 u_24___Feeler_B 0.6061 u_25___Feeler_C 0.2121 
+skin 2495 u_22___Feeler 0.2200 u_24___Feeler_B 0.4900 u_25___Feeler_C 0.2900 
+skin 2496 u_22___Feeler 0.2178 u_24___Feeler_B 0.3366 u_25___Feeler_C 0.4455 
+skin 2497 u_22___Feeler 0.1717 u_24___Feeler_B 0.2121 u_25___Feeler_C 0.6162 
+skin 2498 u_22___Feeler 0.0700 u_24___Feeler_B 0.0700 u_25___Feeler_C 0.8600 
+skin 2499 u_22___Feeler 0.0900 u_25___Feeler_C 0.8200 u_26___Feeler_D 0.0900 
+skin 2500 u_22___Feeler 0.1600 u_25___Feeler_C 0.6300 u_26___Feeler_D 0.2100 
+skin 2501 u_22___Feeler 0.1980 u_25___Feeler_C 0.4950 u_26___Feeler_D 0.3069 
+skin 2502 u_22___Feeler 0.2100 u_25___Feeler_C 0.4000 u_26___Feeler_D 0.3900 
+skin 2503 u_22___Feeler 0.2020 u_25___Feeler_C 0.2929 u_26___Feeler_D 0.5051 
+skin 2504 u_22___Feeler 0.1600 u_25___Feeler_C 0.2000 u_26___Feeler_D 0.6400 
+skin 2505 u_22___Feeler 0.1010 u_25___Feeler_C 0.1111 u_26___Feeler_D 0.7879 
+skin 2506 u_22___Feeler 0.0707 u_25___Feeler_C 0.0707 u_26___Feeler_D 0.8586 
+skin 2507 u_22___Feeler 0.1313 u_26___Feeler_D 0.7374 u_27___Feeler_E 0.1313 
+skin 2508 u_22___Feeler 0.1800 u_26___Feeler_D 0.6200 u_27___Feeler_E 0.2000 
+skin 2509 u_22___Feeler 0.2121 u_26___Feeler_D 0.5354 u_27___Feeler_E 0.2525 
+skin 2510 u_22___Feeler 0.2300 u_26___Feeler_D 0.4800 u_27___Feeler_E 0.2900 
+skin 2511 u_22___Feeler 0.2400 u_26___Feeler_D 0.4200 u_27___Feeler_E 0.3400 
+skin 2512 u_22___Feeler 0.2400 u_26___Feeler_D 0.3200 u_27___Feeler_E 0.4400 
+skin 2513 u_22___Feeler 0.2100 u_26___Feeler_D 0.2300 u_27___Feeler_E 0.5600 
+skin 2514 u_22___Feeler 0.1400 u_26___Feeler_D 0.1300 u_27___Feeler_E 0.7300 
+skin 2515 u_22___Feeler 0.0200 u_27___Feeler_E 0.9700 u_28___Feeler_F 0.0100 
+skin 2516 u_22___Feeler 0.1400 u_27___Feeler_E 0.7300 u_28___Feeler_F 0.1300 
+skin 2517 u_22___Feeler 0.2100 u_27___Feeler_E 0.5600 u_28___Feeler_F 0.2300 
+skin 2518 u_22___Feeler 0.2400 u_27___Feeler_E 0.4400 u_28___Feeler_F 0.3200 
+skin 2519 u_22___Feeler 0.2400 u_27___Feeler_E 0.3400 u_28___Feeler_F 0.4200 
+skin 2520 u_22___Feeler 0.2300 u_27___Feeler_E 0.2900 u_28___Feeler_F 0.4800 
+skin 2521 u_22___Feeler 0.2121 u_27___Feeler_E 0.2525 u_28___Feeler_F 0.5354 
+skin 2522 u_22___Feeler 0.1800 u_27___Feeler_E 0.2000 u_28___Feeler_F 0.6200 
+skin 2523 u_22___Feeler 0.1313 u_27___Feeler_E 0.1313 u_28___Feeler_F 0.7374 
+skin 2524 u_22___Feeler 0.0707 u_28___Feeler_F 0.8586 u_29___Feeler_G 0.0707 
+skin 2525 u_22___Feeler 0.1010 u_28___Feeler_F 0.7879 u_29___Feeler_G 0.1111 
+skin 2526 u_22___Feeler 0.1600 u_28___Feeler_F 0.6400 u_29___Feeler_G 0.2000 
+skin 2527 u_22___Feeler 0.2020 u_28___Feeler_F 0.5051 u_29___Feeler_G 0.2929 
+skin 2528 u_22___Feeler 0.2100 u_28___Feeler_F 0.3900 u_29___Feeler_G 0.4000 
+skin 2529 u_22___Feeler 0.1980 u_28___Feeler_F 0.3069 u_29___Feeler_G 0.4950 
+skin 2530 u_22___Feeler 0.1600 u_28___Feeler_F 0.2100 u_29___Feeler_G 0.6300 
+skin 2531 u_22___Feeler 0.0900 u_28___Feeler_F 0.0900 u_29___Feeler_G 0.8200 
+skin 2532 u_22___Feeler 0.0700 u_29___Feeler_G 0.8600 u_30___Feeler_H 0.0700 
+skin 2533 u_22___Feeler 0.1717 u_29___Feeler_G 0.6162 u_30___Feeler_H 0.2121 
+skin 2534 u_22___Feeler 0.2178 u_29___Feeler_G 0.4455 u_30___Feeler_H 0.3366 
+skin 2535 u_22___Feeler 0.2200 u_29___Feeler_G 0.2900 u_30___Feeler_H 0.4900 
+skin 2536 u_22___Feeler 0.1818 u_29___Feeler_G 0.2121 u_30___Feeler_H 0.6061 
+skin 2537 u_22___Feeler 0.1400 u_29___Feeler_G 0.1600 u_30___Feeler_H 0.7000 
+skin 2538 u_22___Feeler 0.0900 u_29___Feeler_G 0.0900 u_30___Feeler_H 0.8200 
+skin 2539 u_22___Feeler 0.0900 u_23___Feeler_A 0.0800 u_30___Feeler_H 0.8300 
+skin 2540 u_22___Feeler 0.1414 u_23___Feeler_A 0.1414 u_30___Feeler_H 0.7172 
+skin 2541 u_22___Feeler 0.1900 u_23___Feeler_A 0.2100 u_30___Feeler_H 0.6000 
+skin 2542 u_22___Feeler 0.2200 u_23___Feeler_A 0.2600 u_30___Feeler_H 0.5200 
+skin 2543 u_22___Feeler 0.2400 u_23___Feeler_A 0.3500 u_30___Feeler_H 0.4100 
+skin 2544 u_22___Feeler 0.2400 u_23___Feeler_A 0.4500 u_30___Feeler_H 0.3100 
+skin 2545 u_22___Feeler 0.2100 u_23___Feeler_A 0.5600 u_30___Feeler_H 0.2300 
+skin 2546 u_22___Feeler 0.1400 u_23___Feeler_A 0.7300 u_30___Feeler_H 0.1300 
+skin 2547 u_22___Feeler 0.0099 u_23___Feeler_A 0.9802 u_30___Feeler_H 0.0099 
+skin 2548 u_22___Feeler 0.1400 u_23___Feeler_A 0.7300 u_24___Feeler_B 0.1300 
+skin 2549 u_22___Feeler 0.2300 u_23___Feeler_A 0.4900 u_24___Feeler_B 0.2800 
+skin 2550 u_22___Feeler 0.2000 u_23___Feeler_A 0.5800 u_24___Feeler_B 0.2200 
+skin 2551 u_22___Feeler 0.2500 u_23___Feeler_A 0.3400 u_24___Feeler_B 0.4100 
+skin 2552 u_22___Feeler 0.2100 u_23___Feeler_A 0.2300 u_24___Feeler_B 0.5600 
+skin 2553 u_22___Feeler 0.1800 u_23___Feeler_A 0.1900 u_24___Feeler_B 0.6300 
+skin 2554 u_22___Feeler 0.1300 u_23___Feeler_A 0.1300 u_24___Feeler_B 0.7400 
+skin 2555 u_22___Feeler 0.0808 u_23___Feeler_A 0.0707 u_24___Feeler_B 0.8485 
+skin 2556 u_22___Feeler 0.0700 u_24___Feeler_B 0.8700 u_25___Feeler_C 0.0600 
+skin 2557 u_22___Feeler 0.1200 u_24___Feeler_B 0.7500 u_25___Feeler_C 0.1300 
+skin 2558 u_22___Feeler 0.1515 u_24___Feeler_B 0.6869 u_25___Feeler_C 0.1616 
+skin 2559 u_22___Feeler 0.2200 u_24___Feeler_B 0.5000 u_25___Feeler_C 0.2800 
+skin 2560 u_22___Feeler 0.2100 u_24___Feeler_B 0.2900 u_25___Feeler_C 0.5000 
+skin 2561 u_22___Feeler 0.1717 u_24___Feeler_B 0.2020 u_25___Feeler_C 0.6263 
+skin 2562 u_22___Feeler 0.0900 u_24___Feeler_B 0.0900 u_25___Feeler_C 0.8200 
+skin 2563 u_22___Feeler 0.0800 u_25___Feeler_C 0.8300 u_26___Feeler_D 0.0900 
+skin 2564 u_22___Feeler 0.1700 u_25___Feeler_C 0.6100 u_26___Feeler_D 0.2200 
+skin 2565 u_22___Feeler 0.2000 u_25___Feeler_C 0.5100 u_26___Feeler_D 0.2900 
+skin 2566 u_22___Feeler 0.2100 u_25___Feeler_C 0.4300 u_26___Feeler_D 0.3600 
+skin 2567 u_22___Feeler 0.2079 u_25___Feeler_C 0.2871 u_26___Feeler_D 0.5050 
+skin 2568 u_22___Feeler 0.1300 u_25___Feeler_C 0.1400 u_26___Feeler_D 0.7300 
+skin 2569 u_22___Feeler 0.0900 u_25___Feeler_C 0.0900 u_26___Feeler_D 0.8200 
+skin 2570 u_22___Feeler 0.0700 u_25___Feeler_C 0.0700 u_26___Feeler_D 0.8600 
+skin 2571 u_22___Feeler 0.1300 u_26___Feeler_D 0.7500 u_27___Feeler_E 0.1200 
+skin 2572 u_22___Feeler 0.1700 u_26___Feeler_D 0.6600 u_27___Feeler_E 0.1700 
+skin 2573 u_22___Feeler 0.2100 u_26___Feeler_D 0.5600 u_27___Feeler_E 0.2300 
+skin 2574 u_22___Feeler 0.2200 u_26___Feeler_D 0.5200 u_27___Feeler_E 0.2600 
+skin 2575 u_22___Feeler 0.2500 u_26___Feeler_D 0.4300 u_27___Feeler_E 0.3200 
+skin 2576 u_22___Feeler 0.2300 u_26___Feeler_D 0.2900 u_27___Feeler_E 0.4800 
+skin 2577 u_22___Feeler 0.2100 u_26___Feeler_D 0.2200 u_27___Feeler_E 0.5700 
+skin 2578 u_22___Feeler 0.1500 u_26___Feeler_D 0.1400 u_27___Feeler_E 0.7100 
+skin 2579 u_22___Feeler 0.0300 u_27___Feeler_E 0.9400 u_28___Feeler_F 0.0300 
+skin 2580 u_22___Feeler 0.1500 u_27___Feeler_E 0.7100 u_28___Feeler_F 0.1400 
+skin 2581 u_22___Feeler 0.2100 u_27___Feeler_E 0.5700 u_28___Feeler_F 0.2200 
+skin 2582 u_22___Feeler 0.2300 u_27___Feeler_E 0.4800 u_28___Feeler_F 0.2900 
+skin 2583 u_22___Feeler 0.2500 u_27___Feeler_E 0.3200 u_28___Feeler_F 0.4300 
+skin 2584 u_22___Feeler 0.2200 u_27___Feeler_E 0.2600 u_28___Feeler_F 0.5200 
+skin 2585 u_22___Feeler 0.2100 u_27___Feeler_E 0.2300 u_28___Feeler_F 0.5600 
+skin 2586 u_22___Feeler 0.1700 u_27___Feeler_E 0.1700 u_28___Feeler_F 0.6600 
+skin 2587 u_22___Feeler 0.1300 u_27___Feeler_E 0.1200 u_28___Feeler_F 0.7500 
+skin 2588 u_22___Feeler 0.0700 u_28___Feeler_F 0.8600 u_29___Feeler_G 0.0700 
+skin 2589 u_22___Feeler 0.0900 u_28___Feeler_F 0.8200 u_29___Feeler_G 0.0900 
+skin 2590 u_22___Feeler 0.1300 u_28___Feeler_F 0.7300 u_29___Feeler_G 0.1400 
+skin 2591 u_22___Feeler 0.2079 u_28___Feeler_F 0.5050 u_29___Feeler_G 0.2871 
+skin 2592 u_22___Feeler 0.2100 u_28___Feeler_F 0.3600 u_29___Feeler_G 0.4300 
+skin 2593 u_22___Feeler 0.2000 u_28___Feeler_F 0.2900 u_29___Feeler_G 0.5100 
+skin 2594 u_22___Feeler 0.1700 u_28___Feeler_F 0.2200 u_29___Feeler_G 0.6100 
+skin 2595 u_22___Feeler 0.0800 u_28___Feeler_F 0.0900 u_29___Feeler_G 0.8300 
+skin 2596 u_22___Feeler 0.0900 u_29___Feeler_G 0.8200 u_30___Feeler_H 0.0900 
+skin 2597 u_22___Feeler 0.1717 u_29___Feeler_G 0.6263 u_30___Feeler_H 0.2020 
+skin 2598 u_22___Feeler 0.2100 u_29___Feeler_G 0.5000 u_30___Feeler_H 0.2900 
+skin 2599 u_22___Feeler 0.2200 u_29___Feeler_G 0.2800 u_30___Feeler_H 0.5000 
+skin 2600 u_22___Feeler 0.1515 u_29___Feeler_G 0.1616 u_30___Feeler_H 0.6869 
+skin 2601 u_22___Feeler 0.1200 u_29___Feeler_G 0.1300 u_30___Feeler_H 0.7500 
+skin 2602 u_22___Feeler 0.0700 u_29___Feeler_G 0.0600 u_30___Feeler_H 0.8700 
+skin 2603 u_22___Feeler 0.0808 u_23___Feeler_A 0.0707 u_30___Feeler_H 0.8485 
+skin 2604 u_22___Feeler 0.1300 u_23___Feeler_A 0.1300 u_30___Feeler_H 0.7400 
+skin 2605 u_22___Feeler 0.1800 u_23___Feeler_A 0.1900 u_30___Feeler_H 0.6300 
+skin 2606 u_22___Feeler 0.2100 u_23___Feeler_A 0.2300 u_30___Feeler_H 0.5600 
+skin 2607 u_22___Feeler 0.2500 u_23___Feeler_A 0.3400 u_30___Feeler_H 0.4100 
+skin 2608 u_22___Feeler 0.2300 u_23___Feeler_A 0.4900 u_30___Feeler_H 0.2800 
+skin 2609 u_22___Feeler 0.2000 u_23___Feeler_A 0.5800 u_30___Feeler_H 0.2200 
+skin 2610 u_22___Feeler 0.1500 u_23___Feeler_A 0.7100 u_30___Feeler_H 0.1400 
+skin 2611 u_22___Feeler 0.0200 u_23___Feeler_A 0.9700 u_30___Feeler_H 0.0100 
+skin 2612 u_22___Feeler 0.1500 u_23___Feeler_A 0.7100 u_24___Feeler_B 0.1400 
+skin 2613 u_22___Feeler 0.0800 u_23___Feeler_A 0.0700 u_24___Feeler_B 0.8500 
+skin 2614 u_22___Feeler 0.1000 u_23___Feeler_A 0.0800 u_24___Feeler_B 0.8200 
+skin 2615 u_22___Feeler 0.2700 u_23___Feeler_A 0.3200 u_24___Feeler_B 0.4100 
+skin 2616 u_22___Feeler 0.1400 u_23___Feeler_A 0.1000 u_24___Feeler_B 0.7600 
+skin 2617 u_22___Feeler 0.3100 u_23___Feeler_A 0.2900 u_24___Feeler_B 0.4000 
+skin 2618 u_22___Feeler 0.2200 u_23___Feeler_A 0.1100 u_24___Feeler_B 0.6700 
+skin 2619 u_22___Feeler 0.3600 u_23___Feeler_A 0.2500 u_24___Feeler_B 0.3900 
+skin 2620 u_22___Feeler 0.3300 u_24___Feeler_B 0.5600 u_25___Feeler_C 0.1100 
+skin 2621 u_22___Feeler 0.3700 u_13___Head 0.0800 u_23___Feeler_A 0.1800 u_24___Feeler_B 0.3700 
+skin 2622 u_18___L_Shoulder 0.0303 u_22___Feeler 0.4343 u_24___Feeler_B 0.4343 u_25___Feeler_C 0.1010 
+skin 2623 u_22___Feeler 0.3400 u_13___Head 0.1800 u_23___Feeler_A 0.1500 u_24___Feeler_B 0.3300 
+skin 2624 u_18___L_Shoulder 0.0200 u_22___Feeler 0.4100 u_13___Head 0.0100 u_24___Feeler_B 0.3800 u_25___Feeler_C 0.1800 
+skin 2625 u_12___Neck 0.0100 u_22___Feeler 0.4200 u_13___Head 0.0200 u_24___Feeler_B 0.3200 u_25___Feeler_C 0.2300 
+skin 2626 u_18___L_Shoulder 0.0200 u_22___Feeler 0.3600 u_24___Feeler_B 0.2800 u_25___Feeler_C 0.3400 
+skin 2627 u_12___Neck 0.0099 u_22___Feeler 0.4653 u_25___Feeler_C 0.3069 u_26___Feeler_D 0.2178 
+skin 2628 u_22___Feeler 0.4500 u_25___Feeler_C 0.3900 u_26___Feeler_D 0.1600 
+skin 2629 u_22___Feeler 0.4600 u_25___Feeler_C 0.2200 u_26___Feeler_D 0.3200 
+skin 2630 u_22___Feeler 0.3600 u_25___Feeler_C 0.3300 u_26___Feeler_D 0.3100 
+skin 2631 u_22___Feeler 0.4300 u_26___Feeler_D 0.4000 u_27___Feeler_E 0.1700 
+skin 2632 u_22___Feeler 0.4400 u_25___Feeler_C 0.1600 u_26___Feeler_D 0.4000 
+skin 2633 u_22___Feeler 0.4059 u_26___Feeler_D 0.4059 u_27___Feeler_E 0.1881 
+skin 2634 u_22___Feeler 0.4600 u_25___Feeler_C 0.0800 u_26___Feeler_D 0.4600 
+skin 2635 u_22___Feeler 0.3700 u_26___Feeler_D 0.4100 u_27___Feeler_E 0.2200 
+skin 2636 u_22___Feeler 0.2600 u_25___Feeler_C 0.0900 u_26___Feeler_D 0.6500 
+skin 2637 u_22___Feeler 0.3100 u_26___Feeler_D 0.4300 u_27___Feeler_E 0.2600 
+skin 2638 u_22___Feeler 0.1300 u_25___Feeler_C 0.0700 u_26___Feeler_D 0.8000 
+skin 2639 u_22___Feeler 0.2700 u_26___Feeler_D 0.4400 u_27___Feeler_E 0.2900 
+skin 2640 u_22___Feeler 0.0900 u_25___Feeler_C 0.0600 u_26___Feeler_D 0.8500 
+skin 2641 u_22___Feeler 0.0900 u_25___Feeler_C 0.0800 u_26___Feeler_D 0.8300 
+skin 2642 u_22___Feeler 0.1000 u_26___Feeler_D 0.8100 u_27___Feeler_E 0.0900 
+skin 2643 u_22___Feeler 0.2500 u_24___Feeler_B 0.4900 u_25___Feeler_C 0.2600 
+skin 2644 u_22___Feeler 0.2871 u_24___Feeler_B 0.4653 u_25___Feeler_C 0.2475 
+skin 2645 u_18___L_Shoulder 0.0707 u_22___Feeler 0.3333 u_24___Feeler_B 0.3939 u_25___Feeler_C 0.2020 
+skin 2646 u_18___L_Shoulder 0.0700 u_22___Feeler 0.3800 u_24___Feeler_B 0.3800 u_25___Feeler_C 0.1700 
+skin 2647 u_18___L_Shoulder 0.0400 u_22___Feeler 0.3700 u_24___Feeler_B 0.2200 u_25___Feeler_C 0.3700 
+skin 2648 u_22___Feeler 0.4545 u_25___Feeler_C 0.4545 u_26___Feeler_D 0.0909 
+skin 2649 u_22___Feeler 0.3663 u_25___Feeler_C 0.3663 u_26___Feeler_D 0.2673 
+skin 2650 u_22___Feeler 0.4200 u_25___Feeler_C 0.1600 u_26___Feeler_D 0.4200 
+skin 2651 u_22___Feeler 0.2300 u_25___Feeler_C 0.2600 u_26___Feeler_D 0.5100 
+skin 2652 u_22___Feeler 0.2673 u_25___Feeler_C 0.2376 u_26___Feeler_D 0.4950 
+skin 2653 u_22___Feeler 0.3400 u_25___Feeler_C 0.2000 u_26___Feeler_D 0.4600 
+skin 2654 u_22___Feeler 0.3400 u_25___Feeler_C 0.3900 u_26___Feeler_D 0.2700 
+skin 2655 u_22___Feeler 0.3200 u_25___Feeler_C 0.5700 u_26___Feeler_D 0.1100 
+skin 2656 u_18___L_Shoulder 0.0200 u_22___Feeler 0.3500 u_24___Feeler_B 0.2200 u_25___Feeler_C 0.4100 
+skin 2657 u_22___Feeler 0.2828 u_25___Feeler_C 0.4343 u_26___Feeler_D 0.2828 
+skin 2658 u_22___Feeler 0.2000 u_25___Feeler_C 0.6900 u_26___Feeler_D 0.1100 
+skin 2659 u_22___Feeler 0.2900 u_24___Feeler_B 0.2300 u_25___Feeler_C 0.4800 
+skin 2660 u_22___Feeler 0.2400 u_25___Feeler_C 0.4700 u_26___Feeler_D 0.2900 
+skin 2661 u_22___Feeler 0.2121 u_25___Feeler_C 0.5152 u_26___Feeler_D 0.2727 
+skin 2662 u_22___Feeler 0.1900 u_25___Feeler_C 0.5700 u_26___Feeler_D 0.2400 
+skin 2663 u_22___Feeler 0.1287 u_25___Feeler_C 0.7723 u_26___Feeler_D 0.0990 
+skin 2664 u_22___Feeler 0.1000 u_25___Feeler_C 0.8200 u_26___Feeler_D 0.0800 
+skin 2665 u_22___Feeler 0.0808 u_25___Feeler_C 0.8384 u_26___Feeler_D 0.0808 
+skin 2666 u_22___Feeler 0.2400 u_24___Feeler_B 0.2300 u_25___Feeler_C 0.5300 
+skin 2667 u_22___Feeler 0.2000 u_24___Feeler_B 0.2200 u_25___Feeler_C 0.5800 
+skin 2668 u_22___Feeler 0.1500 u_24___Feeler_B 0.1500 u_25___Feeler_C 0.7000 
+skin 2669 u_22___Feeler 0.1800 u_23___Feeler_A 0.6500 u_24___Feeler_B 0.1700 
+skin 2670 u_22___Feeler 0.2222 u_23___Feeler_A 0.5657 u_24___Feeler_B 0.2121 
+skin 2671 u_22___Feeler 0.2600 u_23___Feeler_A 0.5200 u_24___Feeler_B 0.2200 
+skin 2672 u_22___Feeler 0.3100 u_23___Feeler_A 0.4700 u_24___Feeler_B 0.2200 
+skin 2673 u_22___Feeler 0.3700 u_23___Feeler_A 0.4100 u_24___Feeler_B 0.2200 
+skin 2674 u_22___Feeler 0.3131 u_13___Head 0.1818 u_23___Feeler_A 0.3131 u_24___Feeler_B 0.1919 
+skin 2675 u_12___Neck 0.0100 u_22___Feeler 0.2300 u_13___Head 0.3800 u_23___Feeler_A 0.2100 u_24___Feeler_B 0.1700 
+skin 2676 u_12___Neck 0.2828 u_22___Feeler 0.2727 u_13___Head 0.1111 u_23___Feeler_A 0.1515 u_24___Feeler_B 0.1818 
+skin 2677 u_12___Neck 0.3030 u_22___Feeler 0.3333 u_25___Feeler_C 0.1919 u_26___Feeler_D 0.1717 
+skin 2678 u_12___Neck 0.1400 u_22___Feeler 0.4000 u_26___Feeler_D 0.2500 u_27___Feeler_E 0.2100 
+skin 2679 u_22___Feeler 0.3800 u_26___Feeler_D 0.2700 u_27___Feeler_E 0.3500 
+skin 2680 u_22___Feeler 0.3861 u_26___Feeler_D 0.2277 u_27___Feeler_E 0.3861 
+skin 2681 u_22___Feeler 0.3700 u_26___Feeler_D 0.2200 u_27___Feeler_E 0.4100 
+skin 2682 u_22___Feeler 0.3069 u_26___Feeler_D 0.2277 u_27___Feeler_E 0.4653 
+skin 2683 u_22___Feeler 0.2600 u_26___Feeler_D 0.2300 u_27___Feeler_E 0.5100 
+skin 2684 u_22___Feeler 0.2300 u_26___Feeler_D 0.2100 u_27___Feeler_E 0.5600 
+skin 2685 u_22___Feeler 0.1818 u_26___Feeler_D 0.1717 u_27___Feeler_E 0.6465 
+skin 2686 u_22___Feeler 0.0600 u_23___Feeler_A 0.8900 u_30___Feeler_H 0.0500 
+skin 2687 u_22___Feeler 0.1100 u_23___Feeler_A 0.8100 u_30___Feeler_H 0.0800 
+skin 2688 u_22___Feeler 0.1700 u_23___Feeler_A 0.7300 u_30___Feeler_H 0.1000 
+skin 2689 u_22___Feeler 0.2400 u_23___Feeler_A 0.6400 u_30___Feeler_H 0.1200 
+skin 2690 u_22___Feeler 0.3535 u_23___Feeler_A 0.5354 u_30___Feeler_H 0.1111 
+skin 2691 u_22___Feeler 0.3900 u_13___Head 0.1400 u_23___Feeler_A 0.3900 u_30___Feeler_H 0.0800 
+skin 2692 u_12___Neck 0.0396 u_22___Feeler 0.2673 u_13___Head 0.3663 u_23___Feeler_A 0.2376 u_30___Feeler_H 0.0891 
+skin 2693 u_12___Neck 0.4545 u_22___Feeler 0.2121 u_13___Head 0.1010 u_23___Feeler_A 0.1313 u_30___Feeler_H 0.1010 
+skin 2694 u_12___Neck 0.4950 u_22___Feeler 0.2475 u_27___Feeler_E 0.1287 u_28___Feeler_F 0.1287 
+skin 2695 u_12___Neck 0.3267 u_22___Feeler 0.3267 u_27___Feeler_E 0.1980 u_28___Feeler_F 0.1485 
+skin 2696 u_22___Feeler 0.4700 u_27___Feeler_E 0.4100 u_28___Feeler_F 0.1200 
+skin 2697 u_22___Feeler 0.4646 u_27___Feeler_E 0.4646 u_28___Feeler_F 0.0707 
+skin 2698 u_22___Feeler 0.3200 u_27___Feeler_E 0.6000 u_28___Feeler_F 0.0800 
+skin 2699 u_22___Feeler 0.1700 u_27___Feeler_E 0.7500 u_28___Feeler_F 0.0800 
+skin 2700 u_22___Feeler 0.1010 u_27___Feeler_E 0.8384 u_28___Feeler_F 0.0606 
+skin 2701 u_22___Feeler 0.0693 u_27___Feeler_E 0.8812 u_28___Feeler_F 0.0495 
+skin 2702 u_22___Feeler 0.0495 u_27___Feeler_E 0.9109 u_28___Feeler_F 0.0396 
+skin 2703 u_22___Feeler 0.0800 u_23___Feeler_A 0.0700 u_30___Feeler_H 0.8500 
+skin 2704 u_22___Feeler 0.1000 u_23___Feeler_A 0.0800 u_30___Feeler_H 0.8200 
+skin 2705 u_22___Feeler 0.2500 u_29___Feeler_G 0.2600 u_30___Feeler_H 0.4900 
+skin 2706 u_22___Feeler 0.1400 u_23___Feeler_A 0.1000 u_30___Feeler_H 0.7600 
+skin 2707 u_22___Feeler 0.2900 u_29___Feeler_G 0.2500 u_30___Feeler_H 0.4600 
+skin 2708 u_22___Feeler 0.2200 u_23___Feeler_A 0.1100 u_30___Feeler_H 0.6700 
+skin 2709 u_14___R_Shoulder 0.0700 u_22___Feeler 0.3400 u_29___Feeler_G 0.2000 u_30___Feeler_H 0.3900 
+skin 2710 u_22___Feeler 0.3300 u_29___Feeler_G 0.1100 u_30___Feeler_H 0.5600 
+skin 2711 u_14___R_Shoulder 0.0600 u_22___Feeler 0.3800 u_29___Feeler_G 0.1800 u_30___Feeler_H 0.3800 
+skin 2712 u_14___R_Shoulder 0.0200 u_22___Feeler 0.4400 u_29___Feeler_G 0.1000 u_30___Feeler_H 0.4400 
+skin 2713 u_14___R_Shoulder 0.0200 u_22___Feeler 0.4100 u_13___Head 0.0100 u_29___Feeler_G 0.1800 u_30___Feeler_H 0.3800 
+skin 2714 u_22___Feeler 0.3700 u_13___Head 0.0800 u_23___Feeler_A 0.1800 u_30___Feeler_H 0.3700 
+skin 2715 u_22___Feeler 0.3400 u_13___Head 0.1800 u_23___Feeler_A 0.1500 u_30___Feeler_H 0.3300 
+skin 2716 u_22___Feeler 0.3131 u_13___Head 0.1818 u_23___Feeler_A 0.3131 u_30___Feeler_H 0.1919 
+skin 2717 u_12___Neck 0.0100 u_22___Feeler 0.2300 u_13___Head 0.3800 u_23___Feeler_A 0.2100 u_30___Feeler_H 0.1700 
+skin 2718 u_22___Feeler 0.2700 u_23___Feeler_A 0.3200 u_30___Feeler_H 0.4100 
+skin 2719 u_22___Feeler 0.3100 u_23___Feeler_A 0.2900 u_30___Feeler_H 0.4000 
+skin 2720 u_22___Feeler 0.3600 u_23___Feeler_A 0.2500 u_30___Feeler_H 0.3900 
+skin 2721 u_22___Feeler 0.3700 u_23___Feeler_A 0.4100 u_30___Feeler_H 0.2200 
+skin 2722 u_22___Feeler 0.3100 u_23___Feeler_A 0.4700 u_30___Feeler_H 0.2200 
+skin 2723 u_22___Feeler 0.2600 u_23___Feeler_A 0.5200 u_30___Feeler_H 0.2200 
+skin 2724 u_22___Feeler 0.2222 u_23___Feeler_A 0.5657 u_30___Feeler_H 0.2121 
+skin 2725 u_22___Feeler 0.1500 u_29___Feeler_G 0.7000 u_30___Feeler_H 0.1500 
+skin 2726 u_22___Feeler 0.2000 u_29___Feeler_G 0.5800 u_30___Feeler_H 0.2200 
+skin 2727 u_22___Feeler 0.2400 u_29___Feeler_G 0.5300 u_30___Feeler_H 0.2300 
+skin 2728 u_22___Feeler 0.2900 u_29___Feeler_G 0.4800 u_30___Feeler_H 0.2300 
+skin 2729 u_14___R_Shoulder 0.0297 u_22___Feeler 0.3465 u_29___Feeler_G 0.4059 u_30___Feeler_H 0.2178 
+skin 2730 u_14___R_Shoulder 0.0400 u_22___Feeler 0.3700 u_29___Feeler_G 0.3700 u_30___Feeler_H 0.2200 
+skin 2731 u_14___R_Shoulder 0.0200 u_22___Feeler 0.3600 u_29___Feeler_G 0.3400 u_30___Feeler_H 0.2800 
+skin 2732 u_12___Neck 0.0100 u_22___Feeler 0.4200 u_13___Head 0.0200 u_29___Feeler_G 0.2300 u_30___Feeler_H 0.3200 
+skin 2733 u_12___Neck 0.2828 u_22___Feeler 0.2727 u_13___Head 0.1111 u_23___Feeler_A 0.1515 u_30___Feeler_H 0.1818 
+skin 2734 u_22___Feeler 0.0808 u_28___Feeler_F 0.0808 u_29___Feeler_G 0.8384 
+skin 2735 u_22___Feeler 0.1000 u_28___Feeler_F 0.0800 u_29___Feeler_G 0.8200 
+skin 2736 u_22___Feeler 0.1287 u_28___Feeler_F 0.0990 u_29___Feeler_G 0.7723 
+skin 2737 u_22___Feeler 0.2000 u_28___Feeler_F 0.1100 u_29___Feeler_G 0.6900 
+skin 2738 u_22___Feeler 0.3200 u_28___Feeler_F 0.1100 u_29___Feeler_G 0.5700 
+skin 2739 u_22___Feeler 0.4545 u_28___Feeler_F 0.0909 u_29___Feeler_G 0.4545 
+skin 2740 u_22___Feeler 0.4500 u_28___Feeler_F 0.1600 u_29___Feeler_G 0.3900 
+skin 2741 u_12___Neck 0.0099 u_22___Feeler 0.4653 u_28___Feeler_F 0.2178 u_29___Feeler_G 0.3069 
+skin 2742 u_12___Neck 0.3030 u_22___Feeler 0.3333 u_28___Feeler_F 0.1717 u_29___Feeler_G 0.1919 
+skin 2743 u_22___Feeler 0.1900 u_28___Feeler_F 0.2400 u_29___Feeler_G 0.5700 
+skin 2744 u_22___Feeler 0.2121 u_28___Feeler_F 0.2727 u_29___Feeler_G 0.5152 
+skin 2745 u_22___Feeler 0.2400 u_28___Feeler_F 0.2900 u_29___Feeler_G 0.4700 
+skin 2746 u_22___Feeler 0.2828 u_28___Feeler_F 0.2828 u_29___Feeler_G 0.4343 
+skin 2747 u_22___Feeler 0.3400 u_28___Feeler_F 0.2700 u_29___Feeler_G 0.3900 
+skin 2748 u_22___Feeler 0.3663 u_28___Feeler_F 0.2673 u_29___Feeler_G 0.3663 
+skin 2749 u_22___Feeler 0.3600 u_28___Feeler_F 0.3100 u_29___Feeler_G 0.3300 
+skin 2750 u_22___Feeler 0.4600 u_28___Feeler_F 0.3200 u_29___Feeler_G 0.2200 
+skin 2751 u_12___Neck 0.1400 u_22___Feeler 0.4000 u_27___Feeler_E 0.2100 u_28___Feeler_F 0.2500 
+skin 2752 u_22___Feeler 0.2300 u_28___Feeler_F 0.5100 u_29___Feeler_G 0.2600 
+skin 2753 u_22___Feeler 0.2673 u_28___Feeler_F 0.4950 u_29___Feeler_G 0.2376 
+skin 2754 u_22___Feeler 0.3400 u_28___Feeler_F 0.4600 u_29___Feeler_G 0.2000 
+skin 2755 u_22___Feeler 0.4200 u_28___Feeler_F 0.4200 u_29___Feeler_G 0.1600 
+skin 2756 u_22___Feeler 0.4400 u_28___Feeler_F 0.4000 u_29___Feeler_G 0.1600 
+skin 2757 u_22___Feeler 0.4300 u_27___Feeler_E 0.1700 u_28___Feeler_F 0.4000 
+skin 2758 u_22___Feeler 0.3800 u_27___Feeler_E 0.3500 u_28___Feeler_F 0.2700 
+skin 2759 u_22___Feeler 0.1000 u_27___Feeler_E 0.0900 u_28___Feeler_F 0.8100 
+skin 2760 u_22___Feeler 0.0900 u_28___Feeler_F 0.8300 u_29___Feeler_G 0.0800 
+skin 2761 u_22___Feeler 0.2700 u_27___Feeler_E 0.2900 u_28___Feeler_F 0.4400 
+skin 2762 u_22___Feeler 0.0900 u_28___Feeler_F 0.8500 u_29___Feeler_G 0.0600 
+skin 2763 u_22___Feeler 0.3100 u_27___Feeler_E 0.2600 u_28___Feeler_F 0.4300 
+skin 2764 u_22___Feeler 0.1300 u_28___Feeler_F 0.8000 u_29___Feeler_G 0.0700 
+skin 2765 u_22___Feeler 0.3700 u_27___Feeler_E 0.2200 u_28___Feeler_F 0.4100 
+skin 2766 u_22___Feeler 0.2600 u_28___Feeler_F 0.6500 u_29___Feeler_G 0.0900 
+skin 2767 u_22___Feeler 0.4059 u_27___Feeler_E 0.1881 u_28___Feeler_F 0.4059 
+skin 2768 u_22___Feeler 0.4600 u_28___Feeler_F 0.4600 u_29___Feeler_G 0.0800 
+skin 2769 u_22___Feeler 0.1800 u_23___Feeler_A 0.6500 u_30___Feeler_H 0.1700 
+skin 2770 u_22___Feeler 0.1818 u_27___Feeler_E 0.6465 u_28___Feeler_F 0.1717 
+skin 2771 u_22___Feeler 0.2300 u_27___Feeler_E 0.5600 u_28___Feeler_F 0.2100 
+skin 2772 u_22___Feeler 0.2600 u_27___Feeler_E 0.5100 u_28___Feeler_F 0.2300 
+skin 2773 u_22___Feeler 0.3069 u_27___Feeler_E 0.4653 u_28___Feeler_F 0.2277 
+skin 2774 u_22___Feeler 0.3700 u_27___Feeler_E 0.4100 u_28___Feeler_F 0.2200 
+skin 2775 u_22___Feeler 0.3861 u_27___Feeler_E 0.3861 u_28___Feeler_F 0.2277 
+skin 2776 u_13___Head 1.0000 
+skin 2777 u_13___Head 1.0000 
+skin 2778 u_13___Head 1.0000 
+skin 2779 u_13___Head 1.0000 
+skin 2780 u_13___Head 1.0000 
+skin 2781 u_13___Head 1.0000 
+skin 2782 u_13___Head 1.0000 
+skin 2783 u_13___Head 1.0000 
+skin 2784 u_13___Head 1.0000 
+skin 2785 u_13___Head 1.0000 
+skin 2786 u_13___Head 1.0000 
+skin 2787 u_13___Head 1.0000 
+skin 2788 u_13___Head 1.0000 
+skin 2789 u_13___Head 1.0000 
+skin 2790 u_13___Head 1.0000 
+skin 2791 u_13___Head 1.0000 
+skin 2792 u_13___Head 1.0000 
+skin 2793 u_13___Head 1.0000 
+skin 2794 u_13___Head 1.0000 
+skin 2795 u_13___Head 1.0000 
+skin 2796 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2797 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2798 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2799 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2800 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2801 u_13___Head 1.0000 
+skin 2802 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2803 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2804 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2805 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2806 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2807 u_13___Head 1.0000 
+skin 2808 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2809 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2810 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2811 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2812 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2813 u_13___Head 1.0000 
+skin 2814 u_13___Head 1.0000 
+skin 2815 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2816 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2817 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2818 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2819 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2820 u_13___Head 1.0000 
+skin 2821 u_13___Head 1.0000 
+skin 2822 u_13___Head 1.0000 
+skin 2823 u_13___Head 1.0000 
+skin 2824 u_13___Head 1.0000 
+skin 2825 u_13___Head 1.0000 
+skin 2826 u_13___Head 1.0000 
+skin 2827 u_13___Head 1.0000 
+skin 2828 u_13___Head 1.0000 
+skin 2829 u_13___Head 1.0000 
+skin 2830 u_13___Head 1.0000 
+skin 2831 u_13___Head 1.0000 
+skin 2832 u_13___Head 1.0000 
+skin 2833 u_13___Head 1.0000 
+skin 2834 u_13___Head 1.0000 
+skin 2835 u_13___Head 1.0000 
+skin 2836 u_13___Head 1.0000 
+skin 2837 u_13___Head 1.0000 
+skin 2838 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2839 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2840 u_13___Head 0.1000 u_39___Nose 0.9000 
+skin 2841 u_13___Head 1.0000 
+skin 2842 u_13___Head 1.0000 
+skin 2843 u_13___Head 1.0000 
+skin 2844 u_13___Head 1.0000 
+skin 2845 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2846 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2847 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2848 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2849 u_13___Head 1.0000 
+skin 2850 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2851 u_13___Head 0.1500 u_39___Nose 0.8500 
+skin 2852 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2853 u_13___Head 0.2000 u_39___Nose 0.8000 
+skin 2854 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2855 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2856 u_13___Head 1.0000 
+skin 2857 u_13___Head 0.4000 u_39___Nose 0.6000 
+skin 2858 u_13___Head 0.8000 u_39___Nose 0.2000 
+skin 2859 u_13___Head 1.0000 
+hier u_09___Spine1 u_10___Spine2
+hier u_09___Spine1 u_31___Tail1
+hier u_10___Spine2 u_12___Neck
+hier u_10___Spine2 u_14___R_Shoulder
+hier u_10___Spine2 u_18___L_Shoulder
+hier u_10___Spine2 u_22___Feeler
+hier u_31___Tail1 u_32___Tail2
+hier u_12___Neck u_13___Head
+hier u_14___R_Shoulder u_15___R_Arm
+hier u_18___L_Shoulder u_19___L_Arm
+hier u_22___Feeler u_23___Feeler_A
+hier u_22___Feeler u_24___Feeler_B
+hier u_22___Feeler u_25___Feeler_C
+hier u_22___Feeler u_26___Feeler_D
+hier u_22___Feeler u_27___Feeler_E
+hier u_22___Feeler u_28___Feeler_F
+hier u_22___Feeler u_29___Feeler_G
+hier u_22___Feeler u_30___Feeler_H
+hier u_32___Tail2 u_33___R_Toe1
+hier u_32___Tail2 u_35___L_Toe1
+hier u_13___Head u_37___L_Ear
+hier u_13___Head u_38___R_Ear
+hier u_13___Head u_39___Nose
+hier u_15___R_Arm u_16___R_ForeArm
+hier u_19___L_Arm u_20___L_ForeArm
+hier u_33___R_Toe1 u_34___R_Toe2
+hier u_35___L_Toe1 u_36___L_Toe2
+hier u_16___R_ForeArm u_17___R_Hand
+hier u_20___L_ForeArm u_21___L_Hand

@@ -1,0 +1,1742 @@
+joints pelvis 0.00000000 0.32506100 -0.03225991
+joints chst 0.00000000 0.32604400 -0.00791100
+joints ll_01 0.10062700 0.30429600 -0.04041900
+joints loc_ef_01 0.00000000 0.32503000 0.05474390
+joints rl_01 -0.10062700 0.30429600 -0.04041914
+joints tale_01 0.00000013 0.30752200 -0.14678100
+joints la_01 0.07398100 0.28087100 0.12963100
+joints neck_01 0.00000000 0.34657100 0.14313200
+joints ra_01 -0.07398100 0.28087000 0.12963100
+joints ll_02 0.10062700 0.16216600 -0.01008320
+joints rl_02 -0.10062700 0.16216600 -0.01008360
+joints tale_02 0.00000013 0.30714000 -0.26605600
+joints la_02 0.07398100 0.20779200 0.13736900
+joints head_01 -0.00000000 0.37355100 0.22463700
+joints ra_02 -0.07398100 0.20779200 0.13736900
+joints ll_03 0.10062700 0.09531450 -0.03480112
+joints rl_03 -0.10062700 0.09531430 -0.03480227
+joints tale_03 0.00000009 0.32359200 -0.38709800
+joints la_03 0.07398100 0.16136600 0.16144100
+joints loc_l_eye 0.01177780 0.38044200 0.23326700
+joints loc_r_eye -0.01177780 0.38044200 0.23326700
+joints loc_shadow_01 -0.00000000 0.35601300 0.43820400
+joints ra_03 -0.07398100 0.16136600 0.16144100
+joints ll_04 0.10062700 0.04812480 -0.02693635
+joints loc_shadow_04 0.10062700 0.04812470 -0.02693631
+joints loc_shadow_02 -0.10062700 0.04812510 -0.02693755
+joints rl_04 -0.10062700 0.04812480 -0.02693756
+joints loc_shadow_03 0.00000007 0.33529200 -0.49977400
+joints obj_l_eye 0.04153980 0.41029800 0.28150800
+joints obj_r_eye -0.04155570 0.41029800 0.28150800
+root pelvis
+skin 0 head_01 1.0000 
+skin 1 head_01 1.0000 
+skin 2 la_01 0.0900 head_01 0.9100 
+skin 3 head_01 1.0000 
+skin 4 head_01 1.0000 
+skin 5 head_01 1.0000 
+skin 6 head_01 1.0000 
+skin 7 ra_01 0.0900 head_01 0.9100 
+skin 8 head_01 1.0000 
+skin 9 head_01 1.0000 
+skin 10 head_01 1.0000 
+skin 11 head_01 1.0000 
+skin 12 head_01 1.0000 
+skin 13 head_01 1.0000 
+skin 14 head_01 1.0000 
+skin 15 head_01 1.0000 
+skin 16 head_01 1.0000 
+skin 17 head_01 1.0000 
+skin 18 head_01 1.0000 
+skin 19 head_01 1.0000 
+skin 20 head_01 1.0000 
+skin 21 head_01 1.0000 
+skin 22 head_01 1.0000 
+skin 23 head_01 1.0000 
+skin 24 head_01 1.0000 
+skin 25 head_01 1.0000 
+skin 26 head_01 1.0000 
+skin 27 head_01 1.0000 
+skin 28 head_01 1.0000 
+skin 29 head_01 1.0000 
+skin 30 head_01 1.0000 
+skin 31 head_01 1.0000 
+skin 32 head_01 1.0000 
+skin 33 head_01 1.0000 
+skin 34 head_01 1.0000 
+skin 35 head_01 1.0000 
+skin 36 head_01 1.0000 
+skin 37 head_01 1.0000 
+skin 38 head_01 1.0000 
+skin 39 head_01 1.0000 
+skin 40 head_01 1.0000 
+skin 41 head_01 1.0000 
+skin 42 head_01 1.0000 
+skin 43 head_01 1.0000 
+skin 44 head_01 1.0000 
+skin 45 head_01 1.0000 
+skin 46 rl_02 1.0000 
+skin 47 rl_01 0.0700 rl_02 0.8400 rl_03 0.0900 
+skin 48 rl_02 0.6800 rl_03 0.3200 
+skin 49 rl_04 1.0000 
+skin 50 rl_04 1.0000 
+skin 51 rl_04 1.0000 
+skin 52 rl_04 1.0000 
+skin 53 rl_04 1.0000 
+skin 54 rl_04 1.0000 
+skin 55 rl_04 1.0000 
+skin 56 rl_04 1.0000 
+skin 57 rl_04 1.0000 
+skin 58 rl_04 1.0000 
+skin 59 rl_04 1.0000 
+skin 60 rl_04 1.0000 
+skin 61 rl_04 1.0000 
+skin 62 rl_04 1.0000 
+skin 63 rl_03 0.0300 rl_04 0.9700 
+skin 64 rl_04 1.0000 
+skin 65 rl_04 1.0000 
+skin 66 rl_04 1.0000 
+skin 67 rl_02 1.0000 
+skin 68 rl_01 0.1800 rl_02 0.8200 
+skin 69 rl_02 0.6800 rl_03 0.3200 
+skin 70 rl_01 0.4100 rl_02 0.5900 
+skin 71 rl_01 0.3000 rl_02 0.7000 
+skin 72 rl_01 0.4000 rl_02 0.6000 
+skin 73 rl_01 0.4800 rl_02 0.4800 rl_03 0.0400 
+skin 74 rl_01 0.1800 rl_02 0.8200 
+skin 75 rl_04 1.0000 
+skin 76 rl_04 1.0000 
+skin 77 rl_03 0.0300 rl_04 0.9700 
+skin 78 rl_04 1.0000 
+skin 79 rl_04 1.0000 
+skin 80 rl_04 1.0000 
+skin 81 rl_03 0.4500 rl_04 0.5500 
+skin 82 rl_04 1.0000 
+skin 83 rl_04 1.0000 
+skin 84 rl_04 1.0000 
+skin 85 rl_04 1.0000 
+skin 86 rl_04 1.0000 
+skin 87 rl_04 1.0000 
+skin 88 rl_04 1.0000 
+skin 89 rl_04 1.0000 
+skin 90 rl_04 1.0000 
+skin 91 rl_04 1.0000 
+skin 92 rl_04 1.0000 
+skin 93 rl_04 1.0000 
+skin 94 rl_04 1.0000 
+skin 95 rl_03 0.4200 rl_04 0.5800 
+skin 96 rl_03 0.4500 rl_04 0.5500 
+skin 97 rl_04 1.0000 
+skin 98 rl_04 1.0000 
+skin 99 rl_04 1.0000 
+skin 100 rl_04 1.0000 
+skin 101 rl_04 1.0000 
+skin 102 rl_03 0.2400 rl_04 0.7600 
+skin 103 rl_04 1.0000 
+skin 104 rl_04 1.0000 
+skin 105 rl_04 1.0000 
+skin 106 rl_04 1.0000 
+skin 107 rl_04 1.0000 
+skin 108 rl_04 1.0000 
+skin 109 rl_04 1.0000 
+skin 110 rl_04 1.0000 
+skin 111 rl_04 1.0000 
+skin 112 rl_04 1.0000 
+skin 113 rl_04 1.0000 
+skin 114 rl_02 0.0100 rl_03 0.1900 rl_04 0.8000 
+skin 115 rl_03 0.4200 rl_04 0.5800 
+skin 116 rl_04 1.0000 
+skin 117 rl_04 1.0000 
+skin 118 rl_04 1.0000 
+skin 119 rl_04 1.0000 
+skin 120 rl_04 1.0000 
+skin 121 rl_03 0.4200 rl_04 0.5800 
+skin 122 rl_04 1.0000 
+skin 123 rl_04 1.0000 
+skin 124 rl_04 1.0000 
+skin 125 rl_04 1.0000 
+skin 126 rl_04 1.0000 
+skin 127 rl_04 1.0000 
+skin 128 rl_04 1.0000 
+skin 129 rl_04 1.0000 
+skin 130 rl_03 0.4200 rl_04 0.5800 
+skin 131 rl_04 1.0000 
+skin 132 rl_04 1.0000 
+skin 133 rl_04 1.0000 
+skin 134 rl_04 1.0000 
+skin 135 rl_04 1.0000 
+skin 136 rl_04 1.0000 
+skin 137 rl_01 1.0000 
+skin 138 rl_01 0.9100 rl_02 0.0900 
+skin 139 pelvis 0.0100 rl_01 0.6100 rl_02 0.3800 
+skin 140 pelvis 1.0000 
+skin 141 pelvis 1.0000 
+skin 142 pelvis 0.4800 rl_01 0.5200 
+skin 143 pelvis 0.8600 chst 0.1400 
+skin 144 pelvis 0.7500 rl_01 0.2500 
+skin 145 pelvis 1.0000 
+skin 146 pelvis 0.9000 tale_01 0.1000 
+skin 147 pelvis 0.9000 tale_01 0.1000 
+skin 148 tale_03 1.0000 
+skin 149 tale_02 0.2100 tale_03 0.7900 
+skin 150 tale_02 0.2100 tale_03 0.7900 
+skin 151 pelvis 1.0000 
+skin 152 pelvis 0.9000 tale_01 0.1000 
+skin 153 pelvis 1.0000 
+skin 154 pelvis 1.0000 
+skin 155 pelvis 0.9000 chst 0.1000 
+skin 156 pelvis 0.9500 tale_01 0.0500 
+skin 157 pelvis 1.0000 
+skin 158 pelvis 0.4800 ll_01 0.5200 
+skin 159 pelvis 0.7500 ll_01 0.2500 
+skin 160 pelvis 0.8600 chst 0.1400 
+skin 161 ll_01 1.0000 
+skin 162 pelvis 0.2500 ll_01 0.7500 
+skin 163 pelvis 0.0100 ll_01 0.5500 ll_02 0.4400 
+skin 164 ll_01 0.6000 ll_02 0.4000 
+skin 165 pelvis 0.0100 ll_01 0.6100 ll_02 0.3800 
+skin 166 ll_02 1.0000 
+skin 167 ll_02 0.6800 ll_03 0.3200 
+skin 168 ll_01 0.1800 ll_02 0.8200 
+skin 169 ll_01 0.0900 ll_02 0.8100 ll_03 0.1000 
+skin 170 ll_02 1.0000 
+skin 171 ll_02 0.6800 ll_03 0.3200 
+skin 172 ll_01 0.0700 ll_02 0.8400 ll_03 0.0900 
+skin 173 ll_04 1.0000 
+skin 174 ll_04 1.0000 
+skin 175 ll_04 1.0000 
+skin 176 ll_04 1.0000 
+skin 177 ll_04 1.0000 
+skin 178 ll_04 1.0000 
+skin 179 ll_04 1.0000 
+skin 180 ll_04 1.0000 
+skin 181 ll_04 1.0000 
+skin 182 ll_04 1.0000 
+skin 183 ll_04 1.0000 
+skin 184 ll_04 1.0000 
+skin 185 ll_04 1.0000 
+skin 186 ll_04 1.0000 
+skin 187 ll_04 1.0000 
+skin 188 ll_04 1.0000 
+skin 189 ll_04 1.0000 
+skin 190 ll_04 1.0000 
+skin 191 ll_04 1.0000 
+skin 192 ll_04 1.0000 
+skin 193 ll_04 1.0000 
+skin 194 ll_04 1.0000 
+skin 195 ll_03 0.0300 ll_04 0.9700 
+skin 196 ll_04 1.0000 
+skin 197 ll_04 1.0000 
+skin 198 ll_04 1.0000 
+skin 199 ll_04 1.0000 
+skin 200 ll_04 1.0000 
+skin 201 ll_04 1.0000 
+skin 202 ll_04 1.0000 
+skin 203 ll_04 1.0000 
+skin 204 ll_03 0.5000 ll_04 0.5000 
+skin 205 ll_04 1.0000 
+skin 206 ll_04 1.0000 
+skin 207 ll_04 1.0000 
+skin 208 ll_04 1.0000 
+skin 209 ll_04 1.0000 
+skin 210 ll_04 1.0000 
+skin 211 ll_03 0.4500 ll_04 0.5500 
+skin 212 ll_04 1.0000 
+skin 213 ll_04 1.0000 
+skin 214 ll_04 1.0000 
+skin 215 ll_03 0.2400 ll_04 0.7600 
+skin 216 ll_04 1.0000 
+skin 217 ll_04 1.0000 
+skin 218 ll_04 1.0000 
+skin 219 ll_04 1.0000 
+skin 220 ll_04 1.0000 
+skin 221 ll_04 1.0000 
+skin 222 ll_04 1.0000 
+skin 223 ll_02 0.0100 ll_03 0.1900 ll_04 0.8000 
+skin 224 ll_04 1.0000 
+skin 225 ll_04 1.0000 
+skin 226 ll_04 1.0000 
+skin 227 ll_04 1.0000 
+skin 228 ll_03 0.4500 ll_04 0.5500 
+skin 229 ll_04 1.0000 
+skin 230 ll_04 1.0000 
+skin 231 ll_04 1.0000 
+skin 232 ll_04 1.0000 
+skin 233 ll_04 1.0000 
+skin 234 ll_04 1.0000 
+skin 235 ll_04 1.0000 
+skin 236 ll_04 1.0000 
+skin 237 ll_04 1.0000 
+skin 238 ll_04 1.0000 
+skin 239 ll_04 1.0000 
+skin 240 ll_04 1.0000 
+skin 241 ll_04 1.0000 
+skin 242 ll_04 1.0000 
+skin 243 ll_04 1.0000 
+skin 244 ll_04 1.0000 
+skin 245 ll_04 1.0000 
+skin 246 ll_04 1.0000 
+skin 247 ll_04 1.0000 
+skin 248 ll_04 1.0000 
+skin 249 ll_03 0.0300 ll_04 0.9700 
+skin 250 ll_02 0.0800 ll_03 0.4600 ll_04 0.4600 
+skin 251 ll_02 0.0800 ll_03 0.4600 ll_04 0.4600 
+skin 252 ll_01 0.4800 ll_02 0.4800 ll_03 0.0400 
+skin 253 ll_01 0.4000 ll_02 0.6000 
+skin 254 chst 1.0000 
+skin 255 chst 1.0000 
+skin 256 pelvis 0.2000 chst 0.8000 
+skin 257 chst 0.8800 ra_01 0.1200 
+skin 258 chst 0.9500 ra_01 0.0500 
+skin 259 chst 0.5100 neck_01 0.4900 
+skin 260 pelvis 0.1000 chst 0.7800 neck_01 0.1200 
+skin 261 pelvis 1.0000 
+skin 262 pelvis 0.7100 chst 0.2900 
+skin 263 pelvis 0.9500 chst 0.0500 
+skin 264 pelvis 0.7100 chst 0.2900 
+skin 265 chst 1.0000 
+skin 266 chst 1.0000 
+skin 267 pelvis 0.2000 chst 0.8000 
+skin 268 chst 0.9500 la_01 0.0500 
+skin 269 chst 0.8800 la_01 0.1200 
+skin 270 chst 0.8800 la_01 0.1200 
+skin 271 pelvis 0.2000 chst 0.8000 
+skin 272 pelvis 1.0000 
+skin 273 pelvis 0.8600 chst 0.1400 
+skin 274 pelvis 0.8600 chst 0.1400 
+skin 275 pelvis 0.8600 chst 0.1400 
+skin 276 la_03 1.0000 
+skin 277 la_03 1.0000 
+skin 278 la_02 0.2500 la_03 0.7500 
+skin 279 la_03 1.0000 
+skin 280 la_03 1.0000 
+skin 281 la_03 1.0000 
+skin 282 la_03 1.0000 
+skin 283 la_03 1.0000 
+skin 284 la_03 1.0000 
+skin 285 la_03 1.0000 
+skin 286 la_03 1.0000 
+skin 287 la_03 1.0000 
+skin 288 la_03 1.0000 
+skin 289 ra_03 1.0000 
+skin 290 ra_02 0.2500 ra_03 0.7500 
+skin 291 ra_03 1.0000 
+skin 292 ra_03 1.0000 
+skin 293 ra_03 1.0000 
+skin 294 ra_03 1.0000 
+skin 295 ra_03 1.0000 
+skin 296 ra_03 1.0000 
+skin 297 ra_03 1.0000 
+skin 298 ra_03 1.0000 
+skin 299 ra_03 1.0000 
+skin 300 ra_03 1.0000 
+skin 301 ra_03 1.0000 
+skin 302 head_01 1.0000 
+skin 303 neck_01 0.3900 head_01 0.6100 
+skin 304 head_01 1.0000 
+skin 305 head_01 1.0000 
+skin 306 head_01 1.0000 
+skin 307 head_01 1.0000 
+skin 308 head_01 1.0000 
+skin 309 head_01 1.0000 
+skin 310 head_01 1.0000 
+skin 311 head_01 1.0000 
+skin 312 head_01 1.0000 
+skin 313 head_01 1.0000 
+skin 314 neck_01 0.2000 head_01 0.8000 
+skin 315 head_01 1.0000 
+skin 316 head_01 1.0000 
+skin 317 head_01 1.0000 
+skin 318 head_01 1.0000 
+skin 319 head_01 1.0000 
+skin 320 head_01 1.0000 
+skin 321 head_01 1.0000 
+skin 322 head_01 1.0000 
+skin 323 head_01 1.0000 
+skin 324 head_01 1.0000 
+skin 325 neck_01 0.1200 head_01 0.8800 
+skin 326 head_01 1.0000 
+skin 327 head_01 1.0000 
+skin 328 head_01 1.0000 
+skin 329 head_01 1.0000 
+skin 330 head_01 1.0000 
+skin 331 head_01 1.0000 
+skin 332 head_01 1.0000 
+skin 333 head_01 1.0000 
+skin 334 head_01 1.0000 
+skin 335 head_01 1.0000 
+skin 336 head_01 1.0000 
+skin 337 head_01 1.0000 
+skin 338 head_01 1.0000 
+skin 339 head_01 1.0000 
+skin 340 head_01 1.0000 
+skin 341 head_01 1.0000 
+skin 342 head_01 1.0000 
+skin 343 head_01 1.0000 
+skin 344 head_01 1.0000 
+skin 345 head_01 1.0000 
+skin 346 head_01 1.0000 
+skin 347 head_01 1.0000 
+skin 348 head_01 1.0000 
+skin 349 head_01 1.0000 
+skin 350 head_01 1.0000 
+skin 351 head_01 1.0000 
+skin 352 head_01 1.0000 
+skin 353 head_01 1.0000 
+skin 354 head_01 1.0000 
+skin 355 head_01 1.0000 
+skin 356 head_01 1.0000 
+skin 357 head_01 1.0000 
+skin 358 neck_01 0.1300 head_01 0.8700 
+skin 359 head_01 1.0000 
+skin 360 head_01 1.0000 
+skin 361 head_01 1.0000 
+skin 362 head_01 1.0000 
+skin 363 head_01 1.0000 
+skin 364 head_01 1.0000 
+skin 365 head_01 1.0000 
+skin 366 head_01 1.0000 
+skin 367 head_01 1.0000 
+skin 368 head_01 1.0000 
+skin 369 head_01 1.0000 
+skin 370 head_01 1.0000 
+skin 371 head_01 1.0000 
+skin 372 head_01 1.0000 
+skin 373 head_01 1.0000 
+skin 374 head_01 1.0000 
+skin 375 head_01 1.0000 
+skin 376 head_01 1.0000 
+skin 377 head_01 1.0000 
+skin 378 head_01 1.0000 
+skin 379 head_01 1.0000 
+skin 380 head_01 1.0000 
+skin 381 head_01 1.0000 
+skin 382 head_01 1.0000 
+skin 383 head_01 1.0000 
+skin 384 head_01 1.0000 
+skin 385 head_01 1.0000 
+skin 386 head_01 1.0000 
+skin 387 head_01 1.0000 
+skin 388 head_01 1.0000 
+skin 389 head_01 1.0000 
+skin 390 head_01 1.0000 
+skin 391 head_01 1.0000 
+skin 392 head_01 1.0000 
+skin 393 head_01 1.0000 
+skin 394 head_01 1.0000 
+skin 395 head_01 1.0000 
+skin 396 head_01 1.0000 
+skin 397 head_01 1.0000 
+skin 398 head_01 1.0000 
+skin 399 head_01 1.0000 
+skin 400 head_01 1.0000 
+skin 401 head_01 1.0000 
+skin 402 head_01 1.0000 
+skin 403 head_01 1.0000 
+skin 404 head_01 1.0000 
+skin 405 head_01 1.0000 
+skin 406 head_01 1.0000 
+skin 407 head_01 1.0000 
+skin 408 head_01 1.0000 
+skin 409 head_01 1.0000 
+skin 410 head_01 1.0000 
+skin 411 head_01 1.0000 
+skin 412 head_01 1.0000 
+skin 413 head_01 1.0000 
+skin 414 head_01 1.0000 
+skin 415 head_01 1.0000 
+skin 416 head_01 1.0000 
+skin 417 head_01 1.0000 
+skin 418 head_01 1.0000 
+skin 419 head_01 1.0000 
+skin 420 head_01 1.0000 
+skin 421 head_01 1.0000 
+skin 422 head_01 1.0000 
+skin 423 head_01 1.0000 
+skin 424 head_01 1.0000 
+skin 425 head_01 1.0000 
+skin 426 head_01 1.0000 
+skin 427 head_01 1.0000 
+skin 428 head_01 1.0000 
+skin 429 head_01 1.0000 
+skin 430 head_01 1.0000 
+skin 431 head_01 1.0000 
+skin 432 neck_01 0.3900 head_01 0.6100 
+skin 433 head_01 1.0000 
+skin 434 head_01 1.0000 
+skin 435 head_01 1.0000 
+skin 436 head_01 1.0000 
+skin 437 head_01 1.0000 
+skin 438 head_01 1.0000 
+skin 439 head_01 1.0000 
+skin 440 head_01 1.0000 
+skin 441 head_01 1.0000 
+skin 442 head_01 1.0000 
+skin 443 head_01 1.0000 
+skin 444 head_01 1.0000 
+skin 445 neck_01 0.2000 head_01 0.8000 
+skin 446 head_01 1.0000 
+skin 447 head_01 1.0000 
+skin 448 head_01 1.0000 
+skin 449 head_01 1.0000 
+skin 450 head_01 1.0000 
+skin 451 head_01 1.0000 
+skin 452 head_01 1.0000 
+skin 453 neck_01 0.1200 head_01 0.8800 
+skin 454 head_01 1.0000 
+skin 455 neck_01 0.1200 head_01 0.8800 
+skin 456 head_01 1.0000 
+skin 457 head_01 1.0000 
+skin 458 head_01 1.0000 
+skin 459 head_01 1.0000 
+skin 460 head_01 1.0000 
+skin 461 head_01 1.0000 
+skin 462 head_01 1.0000 
+skin 463 head_01 1.0000 
+skin 464 head_01 1.0000 
+skin 465 head_01 1.0000 
+skin 466 head_01 1.0000 
+skin 467 head_01 1.0000 
+skin 468 head_01 1.0000 
+skin 469 head_01 1.0000 
+skin 470 head_01 1.0000 
+skin 471 head_01 1.0000 
+skin 472 neck_01 0.1300 head_01 0.8700 
+skin 473 head_01 1.0000 
+skin 474 head_01 1.0000 
+skin 475 head_01 1.0000 
+skin 476 head_01 1.0000 
+skin 477 head_01 1.0000 
+skin 478 head_01 1.0000 
+skin 479 head_01 1.0000 
+skin 480 head_01 1.0000 
+skin 481 head_01 1.0000 
+skin 482 head_01 1.0000 
+skin 483 head_01 1.0000 
+skin 484 head_01 1.0000 
+skin 485 head_01 1.0000 
+skin 486 head_01 1.0000 
+skin 487 head_01 1.0000 
+skin 488 head_01 1.0000 
+skin 489 head_01 1.0000 
+skin 490 head_01 1.0000 
+skin 491 head_01 1.0000 
+skin 492 head_01 1.0000 
+skin 493 head_01 1.0000 
+skin 494 head_01 1.0000 
+skin 495 head_01 1.0000 
+skin 496 head_01 1.0000 
+skin 497 head_01 1.0000 
+skin 498 head_01 1.0000 
+skin 499 head_01 1.0000 
+skin 500 head_01 1.0000 
+skin 501 head_01 1.0000 
+skin 502 head_01 1.0000 
+skin 503 head_01 1.0000 
+skin 504 head_01 1.0000 
+skin 505 head_01 1.0000 
+skin 506 head_01 1.0000 
+skin 507 head_01 1.0000 
+skin 508 head_01 1.0000 
+skin 509 head_01 1.0000 
+skin 510 head_01 1.0000 
+skin 511 head_01 1.0000 
+skin 512 head_01 1.0000 
+skin 513 head_01 1.0000 
+skin 514 head_01 1.0000 
+skin 515 head_01 1.0000 
+skin 516 head_01 1.0000 
+skin 517 head_01 1.0000 
+skin 518 head_01 1.0000 
+skin 519 head_01 1.0000 
+skin 520 head_01 1.0000 
+skin 521 head_01 1.0000 
+skin 522 head_01 1.0000 
+skin 523 head_01 1.0000 
+skin 524 head_01 1.0000 
+skin 525 head_01 1.0000 
+skin 526 head_01 1.0000 
+skin 527 head_01 1.0000 
+skin 528 head_01 1.0000 
+skin 529 head_01 1.0000 
+skin 530 head_01 1.0000 
+skin 531 head_01 1.0000 
+skin 532 head_01 1.0000 
+skin 533 head_01 1.0000 
+skin 534 head_01 1.0000 
+skin 535 head_01 1.0000 
+skin 536 head_01 1.0000 
+skin 537 head_01 1.0000 
+skin 538 head_01 1.0000 
+skin 539 head_01 1.0000 
+skin 540 head_01 1.0000 
+skin 541 head_01 1.0000 
+skin 542 head_01 1.0000 
+skin 543 head_01 1.0000 
+skin 544 head_01 1.0000 
+skin 545 head_01 1.0000 
+skin 546 head_01 1.0000 
+skin 547 head_01 1.0000 
+skin 548 head_01 1.0000 
+skin 549 head_01 1.0000 
+skin 550 head_01 1.0000 
+skin 551 head_01 1.0000 
+skin 552 head_01 1.0000 
+skin 553 head_01 1.0000 
+skin 554 head_01 1.0000 
+skin 555 head_01 1.0000 
+skin 556 head_01 1.0000 
+skin 557 head_01 1.0000 
+skin 558 head_01 1.0000 
+skin 559 head_01 1.0000 
+skin 560 head_01 1.0000 
+skin 561 head_01 1.0000 
+skin 562 head_01 1.0000 
+skin 563 head_01 1.0000 
+skin 564 head_01 1.0000 
+skin 565 head_01 1.0000 
+skin 566 head_01 1.0000 
+skin 567 head_01 1.0000 
+skin 568 head_01 1.0000 
+skin 569 head_01 1.0000 
+skin 570 head_01 1.0000 
+skin 571 head_01 1.0000 
+skin 572 head_01 1.0000 
+skin 573 head_01 1.0000 
+skin 574 head_01 1.0000 
+skin 575 head_01 1.0000 
+skin 576 head_01 1.0000 
+skin 577 head_01 1.0000 
+skin 578 head_01 1.0000 
+skin 579 head_01 1.0000 
+skin 580 head_01 1.0000 
+skin 581 head_01 1.0000 
+skin 582 head_01 1.0000 
+skin 583 head_01 1.0000 
+skin 584 head_01 1.0000 
+skin 585 head_01 1.0000 
+skin 586 head_01 1.0000 
+skin 587 head_01 1.0000 
+skin 588 head_01 1.0000 
+skin 589 head_01 1.0000 
+skin 590 head_01 1.0000 
+skin 591 head_01 1.0000 
+skin 592 head_01 1.0000 
+skin 593 head_01 1.0000 
+skin 594 head_01 1.0000 
+skin 595 head_01 1.0000 
+skin 596 head_01 1.0000 
+skin 597 head_01 1.0000 
+skin 598 head_01 1.0000 
+skin 599 head_01 1.0000 
+skin 600 pelvis 0.7500 rl_01 0.2500 
+skin 601 pelvis 0.2500 rl_01 0.7500 
+skin 602 pelvis 0.7500 rl_01 0.2500 
+skin 603 pelvis 0.0100 rl_01 0.5300 rl_02 0.4600 
+skin 604 pelvis 0.7700 chst 0.2300 
+skin 605 pelvis 0.7500 rl_01 0.2500 
+skin 606 rl_01 0.5000 rl_02 0.5000 
+skin 607 rl_01 0.5500 rl_02 0.4500 
+skin 608 rl_01 0.5000 rl_02 0.5000 
+skin 609 rl_01 0.5000 rl_02 0.5000 
+skin 610 rl_01 0.5000 rl_02 0.5000 
+skin 611 rl_01 0.4900 rl_02 0.5100 
+skin 612 rl_01 0.5000 rl_02 0.5000 
+skin 613 pelvis 0.0100 rl_01 0.5500 rl_02 0.4400 
+skin 614 rl_01 0.5000 rl_02 0.5000 
+skin 615 rl_01 0.3400 rl_02 0.6600 
+skin 616 rl_01 0.5000 rl_02 0.5000 
+skin 617 rl_01 0.6000 rl_02 0.4000 
+skin 618 rl_01 0.5000 rl_02 0.5000 
+skin 619 rl_01 0.0900 rl_02 0.8500 rl_03 0.0600 
+skin 620 rl_01 0.2600 rl_02 0.7400 
+skin 621 rl_02 0.4500 rl_03 0.2500 rl_04 0.3000 
+skin 622 rl_02 0.4200 rl_03 0.4400 rl_04 0.1400 
+skin 623 rl_01 0.3600 rl_02 0.6400 
+skin 624 rl_01 0.5000 rl_02 0.5000 
+skin 625 rl_01 0.1000 rl_02 0.8400 rl_03 0.0600 
+skin 626 rl_01 0.1000 rl_02 0.8400 rl_03 0.0600 
+skin 627 rl_01 0.5000 rl_02 0.5000 
+skin 628 rl_01 0.4900 rl_02 0.5100 
+skin 629 rl_01 0.5000 rl_02 0.5000 
+skin 630 rl_01 0.0900 rl_02 0.8100 rl_03 0.1000 
+skin 631 rl_01 0.5000 rl_02 0.5000 
+skin 632 rl_03 0.7000 rl_04 0.3000 
+skin 633 rl_03 0.4200 rl_04 0.5800 
+skin 634 rl_02 0.1500 rl_03 0.4400 rl_04 0.4100 
+skin 635 rl_03 0.4200 rl_04 0.5800 
+skin 636 rl_02 0.0800 rl_03 0.4600 rl_04 0.4600 
+skin 637 rl_01 0.4700 rl_02 0.5300 
+skin 638 rl_03 0.4200 rl_04 0.5800 
+skin 639 rl_03 0.4200 rl_04 0.5800 
+skin 640 rl_01 0.4900 rl_02 0.5100 
+skin 641 rl_02 0.8000 rl_03 0.2000 
+skin 642 rl_02 0.3000 rl_03 0.6400 rl_04 0.0600 
+skin 643 rl_01 0.4700 rl_02 0.5300 
+skin 644 rl_01 0.3800 rl_02 0.6200 
+skin 645 rl_01 0.3100 rl_02 0.6900 
+skin 646 rl_01 0.1800 rl_02 0.8200 
+skin 647 rl_01 0.3000 rl_02 0.7000 
+skin 648 rl_01 0.4800 rl_02 0.5200 
+skin 649 rl_02 0.8000 rl_03 0.2000 
+skin 650 rl_02 0.8000 rl_03 0.2000 
+skin 651 rl_02 0.3900 rl_03 0.4200 rl_04 0.1900 
+skin 652 rl_02 0.3900 rl_03 0.4100 rl_04 0.2000 
+skin 653 rl_02 0.3900 rl_03 0.4100 rl_04 0.2000 
+skin 654 pelvis 0.1300 rl_01 0.5900 rl_02 0.2800 
+skin 655 pelvis 0.1300 rl_01 0.5900 rl_02 0.2800 
+skin 656 pelvis 0.1300 rl_01 0.5900 rl_02 0.2800 
+skin 657 rl_03 0.7000 rl_04 0.3000 
+skin 658 rl_02 0.1500 rl_03 0.5500 rl_04 0.3000 
+skin 659 rl_03 0.4200 rl_04 0.5800 
+skin 660 rl_03 0.5000 rl_04 0.5000 
+skin 661 rl_02 0.1100 rl_03 0.5300 rl_04 0.3600 
+skin 662 rl_02 0.0700 rl_03 0.6800 rl_04 0.2500 
+skin 663 pelvis 0.3500 rl_01 0.6500 
+skin 664 pelvis 0.7500 rl_01 0.2500 
+skin 665 pelvis 0.1000 rl_01 0.9000 
+skin 666 pelvis 0.0400 rl_01 0.9600 
+skin 667 pelvis 0.2200 rl_01 0.7800 
+skin 668 pelvis 0.3500 rl_01 0.6500 
+skin 669 pelvis 0.1800 rl_01 0.8200 
+skin 670 rl_01 0.9100 rl_02 0.0900 
+skin 671 pelvis 0.4200 rl_01 0.5800 
+skin 672 pelvis 0.2000 rl_01 0.8000 
+skin 673 rl_01 0.7500 rl_02 0.2500 
+skin 674 pelvis 0.0500 rl_01 0.6600 rl_02 0.2900 
+skin 675 pelvis 0.0100 rl_01 0.6700 rl_02 0.3200 
+skin 676 pelvis 0.3000 rl_01 0.7000 
+skin 677 pelvis 0.1000 rl_01 0.8200 rl_02 0.0800 
+skin 678 pelvis 0.0100 rl_01 0.6200 rl_02 0.3700 
+skin 679 pelvis 0.3100 rl_01 0.6900 
+skin 680 pelvis 0.4900 rl_01 0.5000 rl_02 0.0100 
+skin 681 pelvis 0.5200 rl_01 0.4800 
+skin 682 pelvis 0.3700 rl_01 0.6300 
+skin 683 pelvis 0.5700 rl_01 0.4300 
+skin 684 pelvis 0.7200 rl_01 0.2800 
+skin 685 pelvis 0.4400 rl_01 0.5600 
+skin 686 pelvis 0.6700 rl_01 0.3300 
+skin 687 pelvis 0.8200 rl_01 0.1800 
+skin 688 pelvis 0.8700 rl_01 0.1300 
+skin 689 pelvis 0.8000 rl_01 0.2000 
+skin 690 pelvis 0.8000 rl_01 0.2000 
+skin 691 pelvis 0.9800 tale_01 0.0200 
+skin 692 pelvis 0.9000 chst 0.1000 
+skin 693 pelvis 0.9500 tale_01 0.0500 
+skin 694 pelvis 0.9200 rl_01 0.0300 tale_01 0.0500 
+skin 695 pelvis 0.9000 chst 0.1000 
+skin 696 pelvis 0.8700 rl_01 0.1300 
+skin 697 pelvis 0.7100 chst 0.2900 
+skin 698 pelvis 0.4300 chst 0.5700 
+skin 699 pelvis 0.4300 chst 0.5700 
+skin 700 pelvis 0.4300 chst 0.5700 
+skin 701 pelvis 0.7800 rl_01 0.2200 
+skin 702 pelvis 0.4300 chst 0.5700 
+skin 703 pelvis 0.9000 tale_01 0.1000 
+skin 704 pelvis 0.9000 tale_01 0.1000 
+skin 705 pelvis 0.9000 tale_01 0.1000 
+skin 706 pelvis 0.9000 tale_01 0.1000 
+skin 707 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 708 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 709 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 710 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 711 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 712 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 713 tale_02 0.6200 tale_03 0.3800 
+skin 714 tale_02 0.6200 tale_03 0.3800 
+skin 715 tale_02 0.2500 tale_03 0.7500 
+skin 716 tale_02 0.6200 tale_03 0.3800 
+skin 717 tale_02 0.2500 tale_03 0.7500 
+skin 718 tale_02 0.6200 tale_03 0.3800 
+skin 719 tale_02 0.2500 tale_03 0.7500 
+skin 720 tale_02 0.2100 tale_03 0.7900 
+skin 721 tale_02 0.2100 tale_03 0.7900 
+skin 722 tale_02 0.2500 tale_03 0.7500 
+skin 723 tale_02 0.2100 tale_03 0.7900 
+skin 724 tale_02 0.6200 tale_03 0.3800 
+skin 725 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 726 tale_02 0.2500 tale_03 0.7500 
+skin 727 tale_02 0.2100 tale_03 0.7900 
+skin 728 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 729 tale_02 0.6200 tale_03 0.3800 
+skin 730 tale_02 0.2500 tale_03 0.7500 
+skin 731 tale_02 0.6200 tale_03 0.3800 
+skin 732 tale_02 0.2100 tale_03 0.7900 
+skin 733 tale_02 0.2500 tale_03 0.7500 
+skin 734 tale_02 0.2500 tale_03 0.7500 
+skin 735 tale_02 0.2100 tale_03 0.7900 
+skin 736 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 737 tale_02 0.6200 tale_03 0.3800 
+skin 738 tale_02 0.2500 tale_03 0.7500 
+skin 739 tale_02 0.6200 tale_03 0.3800 
+skin 740 tale_02 0.2100 tale_03 0.7900 
+skin 741 tale_02 0.2500 tale_03 0.7500 
+skin 742 tale_02 0.2100 tale_03 0.7900 
+skin 743 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 744 tale_02 0.6200 tale_03 0.3800 
+skin 745 tale_02 0.2500 tale_03 0.7500 
+skin 746 tale_02 0.2500 tale_03 0.7500 
+skin 747 tale_02 0.6200 tale_03 0.3800 
+skin 748 tale_02 0.6200 tale_03 0.3800 
+skin 749 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 750 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 751 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 752 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 753 pelvis 0.9000 tale_01 0.1000 
+skin 754 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 755 pelvis 0.9800 tale_01 0.0200 
+skin 756 pelvis 0.9000 tale_01 0.1000 
+skin 757 pelvis 0.9000 tale_01 0.1000 
+skin 758 pelvis 0.9200 ll_01 0.0300 tale_01 0.0500 
+skin 759 pelvis 0.9000 tale_01 0.1000 
+skin 760 pelvis 0.6700 ll_01 0.3300 
+skin 761 pelvis 0.8200 ll_01 0.1800 
+skin 762 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 763 pelvis 0.9000 tale_01 0.1000 
+skin 764 pelvis 0.8700 ll_01 0.1300 
+skin 765 pelvis 0.5200 ll_01 0.4800 
+skin 766 pelvis 0.7200 ll_01 0.2800 
+skin 767 pelvis 0.3700 ll_01 0.6300 
+skin 768 pelvis 0.8000 ll_01 0.2000 
+skin 769 pelvis 0.9000 chst 0.1000 
+skin 770 pelvis 0.5700 ll_01 0.4300 
+skin 771 pelvis 0.3100 ll_01 0.6900 
+skin 772 pelvis 0.1300 ll_01 0.7100 ll_02 0.1600 
+skin 773 pelvis 0.1300 ll_01 0.5900 ll_02 0.2800 
+skin 774 pelvis 0.4900 ll_01 0.5000 ll_02 0.0100 
+skin 775 pelvis 0.3000 ll_01 0.7000 
+skin 776 pelvis 0.0200 ll_01 0.8900 ll_02 0.0900 
+skin 777 pelvis 0.1000 ll_01 0.8200 ll_02 0.0800 
+skin 778 pelvis 0.8000 ll_01 0.2000 
+skin 779 pelvis 0.4400 ll_01 0.5600 
+skin 780 pelvis 0.2000 ll_01 0.8000 
+skin 781 pelvis 0.4200 ll_01 0.5800 
+skin 782 pelvis 0.8700 ll_01 0.1300 
+skin 783 pelvis 0.7100 chst 0.2900 
+skin 784 pelvis 0.4300 chst 0.5700 
+skin 785 pelvis 0.4300 chst 0.5700 
+skin 786 pelvis 0.4300 chst 0.5700 
+skin 787 ll_01 0.9100 ll_02 0.0900 
+skin 788 pelvis 0.1800 ll_01 0.8200 
+skin 789 pelvis 0.3500 ll_01 0.6500 
+skin 790 pelvis 0.7800 ll_01 0.2200 
+skin 791 pelvis 0.4300 chst 0.5700 
+skin 792 pelvis 0.7500 ll_01 0.2500 
+skin 793 pelvis 0.2200 ll_01 0.7800 
+skin 794 pelvis 0.3500 ll_01 0.6500 
+skin 795 pelvis 0.7500 ll_01 0.2500 
+skin 796 pelvis 0.1000 ll_01 0.9000 
+skin 797 pelvis 0.0400 ll_01 0.9600 
+skin 798 ll_01 0.9100 ll_02 0.0900 
+skin 799 pelvis 0.0500 ll_01 0.6600 ll_02 0.2900 
+skin 800 ll_01 0.7500 ll_02 0.2500 
+skin 801 ll_01 0.5000 ll_02 0.5000 
+skin 802 ll_01 0.4900 ll_02 0.5100 
+skin 803 ll_01 0.5000 ll_02 0.5000 
+skin 804 ll_01 0.5000 ll_02 0.5000 
+skin 805 ll_01 0.4100 ll_02 0.5900 
+skin 806 ll_01 0.4700 ll_02 0.5300 
+skin 807 ll_01 0.4700 ll_02 0.5300 
+skin 808 ll_01 0.5000 ll_02 0.5000 
+skin 809 ll_01 0.5000 ll_02 0.5000 
+skin 810 ll_01 0.3800 ll_02 0.6200 
+skin 811 ll_01 0.3000 ll_02 0.7000 
+skin 812 ll_01 0.5000 ll_02 0.5000 
+skin 813 ll_01 0.4900 ll_02 0.5100 
+skin 814 ll_01 0.3600 ll_02 0.6400 
+skin 815 ll_01 0.5000 ll_02 0.5000 
+skin 816 ll_01 0.5000 ll_02 0.5000 
+skin 817 pelvis 0.0100 ll_01 0.5300 ll_02 0.4600 
+skin 818 ll_01 0.5000 ll_02 0.5000 
+skin 819 ll_01 0.5000 ll_02 0.5000 
+skin 820 ll_01 0.5000 ll_02 0.5000 
+skin 821 ll_01 0.3100 ll_02 0.6900 
+skin 822 ll_01 0.3400 ll_02 0.6600 
+skin 823 ll_01 0.4900 ll_02 0.5100 
+skin 824 ll_01 0.5500 ll_02 0.4500 
+skin 825 ll_01 0.2600 ll_02 0.7400 
+skin 826 ll_01 0.1000 ll_02 0.8400 ll_03 0.0600 
+skin 827 pelvis 0.7500 ll_01 0.2500 
+skin 828 ll_01 0.5000 ll_02 0.5000 
+skin 829 ll_01 0.0900 ll_02 0.8500 ll_03 0.0600 
+skin 830 ll_01 0.1000 ll_02 0.8400 ll_03 0.0600 
+skin 831 pelvis 0.7700 chst 0.2300 
+skin 832 pelvis 0.7500 ll_01 0.2500 
+skin 833 ll_01 0.1800 ll_02 0.8200 
+skin 834 ll_02 0.8000 ll_03 0.2000 
+skin 835 ll_02 0.4600 ll_03 0.2400 ll_04 0.3000 
+skin 836 ll_02 0.3000 ll_03 0.6400 ll_04 0.0600 
+skin 837 ll_02 0.4200 ll_03 0.4400 ll_04 0.1400 
+skin 838 ll_02 0.4500 ll_03 0.2500 ll_04 0.3000 
+skin 839 ll_02 0.8000 ll_03 0.2000 
+skin 840 ll_02 0.3900 ll_03 0.4100 ll_04 0.2000 
+skin 841 ll_03 0.7000 ll_04 0.3000 
+skin 842 ll_03 0.4200 ll_04 0.5800 
+skin 843 ll_03 0.4200 ll_04 0.5800 
+skin 844 ll_02 0.1500 ll_03 0.4400 ll_04 0.4100 
+skin 845 ll_03 0.7000 ll_04 0.3000 
+skin 846 ll_03 0.4200 ll_04 0.5800 
+skin 847 ll_02 0.1500 ll_03 0.4300 ll_04 0.4200 
+skin 848 ll_03 0.4200 ll_04 0.5800 
+skin 849 ll_03 0.4200 ll_04 0.5800 
+skin 850 ll_03 0.4200 ll_04 0.5800 
+skin 851 ll_03 0.4200 ll_04 0.5800 
+skin 852 ll_03 0.4200 ll_04 0.5800 
+skin 853 ll_03 0.4200 ll_04 0.5800 
+skin 854 ll_02 0.1000 ll_03 0.4500 ll_04 0.4500 
+skin 855 ll_02 0.0800 ll_03 0.4600 ll_04 0.4600 
+skin 856 ll_02 0.8000 ll_03 0.2000 
+skin 857 ll_01 0.1800 ll_02 0.8200 
+skin 858 ll_01 0.3000 ll_02 0.7000 
+skin 859 ll_01 0.4800 ll_02 0.5200 
+skin 860 pelvis 0.1300 ll_01 0.5900 ll_02 0.2800 
+skin 861 pelvis 0.1300 ll_01 0.5900 ll_02 0.2800 
+skin 862 pelvis 0.7700 chst 0.2300 
+skin 863 pelvis 0.5100 chst 0.4900 
+skin 864 pelvis 0.7700 chst 0.2300 
+skin 865 pelvis 0.5100 chst 0.4900 
+skin 866 pelvis 0.2000 chst 0.8000 
+skin 867 pelvis 0.2000 chst 0.8000 
+skin 868 chst 0.8800 ra_01 0.1200 
+skin 869 chst 0.8900 ra_01 0.0900 ra_02 0.0200 
+skin 870 pelvis 0.4300 chst 0.5700 
+skin 871 chst 0.8600 neck_01 0.0200 ra_01 0.1200 
+skin 872 chst 0.4800 neck_01 0.4700 ra_01 0.0500 
+skin 873 chst 0.7400 ra_01 0.2600 
+skin 874 chst 0.5700 ra_01 0.4200 ra_02 0.0100 
+skin 875 chst 0.7500 neck_01 0.0200 ra_01 0.2300 
+skin 876 pelvis 0.3700 chst 0.6300 
+skin 877 chst 0.1900 neck_01 0.7800 head_01 0.0300 
+skin 878 pelvis 0.5000 chst 0.5000 
+skin 879 chst 0.4600 neck_01 0.5400 
+skin 880 chst 0.4600 neck_01 0.5400 
+skin 881 pelvis 0.1000 chst 0.7800 neck_01 0.1200 
+skin 882 pelvis 0.1400 chst 0.8600 
+skin 883 chst 0.1900 neck_01 0.7800 head_01 0.0300 
+skin 884 chst 0.7300 neck_01 0.2700 
+skin 885 chst 0.5700 neck_01 0.4300 
+skin 886 chst 0.4800 neck_01 0.4700 ra_01 0.0500 
+skin 887 chst 0.5100 neck_01 0.4900 
+skin 888 pelvis 0.4300 chst 0.5700 
+skin 889 pelvis 0.1000 chst 0.7800 neck_01 0.1200 
+skin 890 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 891 chst 0.1200 neck_01 0.8100 head_01 0.0700 
+skin 892 chst 0.1200 neck_01 0.8100 head_01 0.0700 
+skin 893 pelvis 0.7400 chst 0.2600 
+skin 894 pelvis 0.1000 chst 0.7800 neck_01 0.1200 
+skin 895 neck_01 0.7900 head_01 0.2100 
+skin 896 neck_01 0.7900 head_01 0.2100 
+skin 897 chst 0.5100 neck_01 0.4900 
+skin 898 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 899 chst 0.4600 neck_01 0.5400 
+skin 900 chst 0.4600 neck_01 0.5400 
+skin 901 chst 0.4600 neck_01 0.5400 
+skin 902 neck_01 0.5600 head_01 0.4400 
+skin 903 neck_01 0.1300 head_01 0.8700 
+skin 904 neck_01 0.1300 head_01 0.8700 
+skin 905 chst 0.1200 neck_01 0.8100 head_01 0.0700 
+skin 906 neck_01 0.4400 head_01 0.5600 
+skin 907 neck_01 0.4000 head_01 0.6000 
+skin 908 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 909 chst 0.5100 neck_01 0.4900 
+skin 910 pelvis 0.1000 chst 0.7800 neck_01 0.1200 
+skin 911 neck_01 0.1300 head_01 0.8700 
+skin 912 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 913 neck_01 0.7900 head_01 0.2100 
+skin 914 chst 0.1900 neck_01 0.7800 head_01 0.0300 
+skin 915 chst 0.4800 la_01 0.0500 neck_01 0.4700 
+skin 916 neck_01 0.2000 head_01 0.8000 
+skin 917 neck_01 0.7900 head_01 0.2100 
+skin 918 neck_01 0.7900 head_01 0.2100 
+skin 919 chst 0.1900 neck_01 0.7800 head_01 0.0300 
+skin 920 neck_01 0.7900 head_01 0.2100 
+skin 921 neck_01 0.5600 head_01 0.4400 
+skin 922 neck_01 0.7900 head_01 0.2100 
+skin 923 neck_01 0.1300 head_01 0.8700 
+skin 924 chst 0.7300 la_01 0.2600 la_02 0.0100 
+skin 925 pelvis 0.2000 chst 0.8000 
+skin 926 chst 0.8600 la_01 0.1200 neck_01 0.0200 
+skin 927 neck_01 0.4400 head_01 0.5600 
+skin 928 neck_01 0.1300 head_01 0.8700 
+skin 929 neck_01 0.1300 head_01 0.8700 
+skin 930 chst 0.8900 la_01 0.0900 la_02 0.0200 
+skin 931 chst 0.7400 la_01 0.2600 
+skin 932 chst 0.7500 la_01 0.2300 neck_01 0.0200 
+skin 933 chst 0.5700 la_01 0.4200 la_02 0.0100 
+skin 934 chst 0.1200 neck_01 0.8100 head_01 0.0700 
+skin 935 chst 0.1200 neck_01 0.8600 head_01 0.0200 
+skin 936 neck_01 0.1200 head_01 0.8800 
+skin 937 neck_01 0.4000 head_01 0.6000 
+skin 938 chst 0.5700 neck_01 0.4300 
+skin 939 chst 0.5100 neck_01 0.4900 
+skin 940 chst 0.7300 neck_01 0.2700 
+skin 941 chst 0.1200 neck_01 0.8100 head_01 0.0700 
+skin 942 neck_01 0.7300 head_01 0.2700 
+skin 943 neck_01 0.7300 head_01 0.2700 
+skin 944 pelvis 0.7700 chst 0.2300 
+skin 945 pelvis 0.7700 chst 0.2300 
+skin 946 pelvis 0.5100 chst 0.4900 
+skin 947 pelvis 0.5100 chst 0.4900 
+skin 948 pelvis 0.5100 chst 0.4900 
+skin 949 pelvis 0.3600 chst 0.6400 
+skin 950 pelvis 0.3600 chst 0.6400 
+skin 951 pelvis 0.3600 chst 0.6400 
+skin 952 pelvis 0.1400 chst 0.8600 
+skin 953 pelvis 0.3600 chst 0.6400 
+skin 954 pelvis 0.1400 chst 0.8600 
+skin 955 pelvis 0.2300 chst 0.7700 
+skin 956 pelvis 0.1000 chst 0.9000 
+skin 957 pelvis 0.2300 chst 0.7700 
+skin 958 pelvis 0.1000 chst 0.9000 
+skin 959 pelvis 0.1400 chst 0.8600 
+skin 960 pelvis 0.1000 chst 0.9000 
+skin 961 chst 0.7300 neck_01 0.2700 
+skin 962 chst 0.5700 la_01 0.4300 
+skin 963 pelvis 0.1000 chst 0.9000 
+skin 964 chst 0.7300 neck_01 0.2700 
+skin 965 chst 0.7300 neck_01 0.2700 
+skin 966 pelvis 0.7700 chst 0.2300 
+skin 967 pelvis 0.5100 chst 0.4900 
+skin 968 pelvis 0.3600 chst 0.6400 
+skin 969 pelvis 0.5100 chst 0.4900 
+skin 970 pelvis 0.1400 chst 0.8600 
+skin 971 pelvis 0.3600 chst 0.6400 
+skin 972 pelvis 0.3600 chst 0.6400 
+skin 973 pelvis 0.1000 chst 0.9000 
+skin 974 pelvis 0.2300 chst 0.7700 
+skin 975 pelvis 0.2300 chst 0.7700 
+skin 976 chst 0.7300 neck_01 0.2700 
+skin 977 pelvis 0.1000 chst 0.9000 
+skin 978 pelvis 0.1400 chst 0.8600 
+skin 979 pelvis 0.1000 chst 0.9000 
+skin 980 chst 0.5700 ra_01 0.4300 
+skin 981 chst 0.7300 neck_01 0.2700 
+skin 982 la_01 0.6500 la_02 0.3500 
+skin 983 la_01 0.5000 la_02 0.5000 
+skin 984 la_01 0.6700 la_02 0.3300 
+skin 985 la_01 0.4900 la_02 0.5100 
+skin 986 la_01 0.6500 la_02 0.3500 
+skin 987 la_01 0.4900 la_02 0.5100 
+skin 988 la_01 0.4700 la_02 0.5300 
+skin 989 la_02 0.7500 la_03 0.2500 
+skin 990 la_01 0.4600 la_02 0.5400 
+skin 991 la_01 0.6300 la_02 0.3700 
+skin 992 la_02 0.7500 la_03 0.2500 
+skin 993 la_01 0.4600 la_02 0.5400 
+skin 994 la_02 0.7500 la_03 0.2500 
+skin 995 la_02 0.7500 la_03 0.2500 
+skin 996 la_02 0.2500 la_03 0.7500 
+skin 997 la_02 0.2500 la_03 0.7500 
+skin 998 la_02 0.2500 la_03 0.7500 
+skin 999 ra_01 0.6500 ra_02 0.3500 
+skin 1000 ra_01 0.5000 ra_02 0.5000 
+skin 1001 ra_01 0.4900 ra_02 0.5100 
+skin 1002 ra_01 0.4700 ra_02 0.5300 
+skin 1003 ra_02 0.7500 ra_03 0.2500 
+skin 1004 ra_01 0.4900 ra_02 0.5100 
+skin 1005 ra_01 0.6700 ra_02 0.3300 
+skin 1006 ra_02 0.7500 ra_03 0.2500 
+skin 1007 ra_01 0.6500 ra_02 0.3500 
+skin 1008 ra_01 0.4600 ra_02 0.5400 
+skin 1009 ra_02 0.2500 ra_03 0.7500 
+skin 1010 ra_02 0.7500 ra_03 0.2500 
+skin 1011 ra_01 0.6300 ra_02 0.3700 
+skin 1012 ra_02 0.7500 ra_03 0.2500 
+skin 1013 ra_01 0.4600 ra_02 0.5400 
+skin 1014 ra_02 0.2500 ra_03 0.7500 
+skin 1015 ra_02 0.2500 ra_03 0.7500 
+skin 1016 neck_01 0.3900 head_01 0.6100 
+skin 1017 neck_01 0.1200 head_01 0.8800 
+skin 1018 head_01 1.0000 
+skin 1019 head_01 1.0000 
+skin 1020 head_01 1.0000 
+skin 1021 head_01 1.0000 
+skin 1022 head_01 1.0000 
+skin 1023 head_01 1.0000 
+skin 1024 neck_01 0.7300 head_01 0.2700 
+skin 1025 neck_01 0.1200 head_01 0.8800 
+skin 1026 head_01 1.0000 
+skin 1027 head_01 1.0000 
+skin 1028 head_01 1.0000 
+skin 1029 head_01 1.0000 
+skin 1030 head_01 1.0000 
+skin 1031 head_01 1.0000 
+skin 1032 head_01 1.0000 
+skin 1033 head_01 1.0000 
+skin 1034 rl_02 0.4300 rl_03 0.2600 rl_04 0.3100 
+skin 1035 rl_02 0.4100 rl_03 0.2200 rl_04 0.3700 
+skin 1036 rl_02 0.1100 rl_03 0.5900 rl_04 0.3000 
+skin 1037 rl_02 0.1000 rl_03 0.5500 rl_04 0.3500 
+skin 1038 rl_02 0.0500 rl_03 0.7300 rl_04 0.2200 
+skin 1039 rl_02 0.1000 rl_03 0.4500 rl_04 0.4500 
+skin 1040 rl_02 0.3900 rl_03 0.2100 rl_04 0.4000 
+skin 1041 rl_02 0.1100 rl_03 0.4700 rl_04 0.4200 
+skin 1042 rl_02 0.2900 rl_03 0.3900 rl_04 0.3200 
+skin 1043 rl_02 0.4400 rl_03 0.2400 rl_04 0.3200 
+skin 1044 rl_02 0.4600 rl_03 0.2400 rl_04 0.3000 
+skin 1045 rl_02 0.1300 rl_03 0.4400 rl_04 0.4300 
+skin 1046 rl_02 0.1300 rl_03 0.4300 rl_04 0.4400 
+skin 1047 rl_02 0.1500 rl_03 0.4300 rl_04 0.4200 
+skin 1048 rl_02 0.0900 rl_03 0.4600 rl_04 0.4500 
+skin 1049 rl_02 0.1000 rl_03 0.4500 rl_04 0.4500 
+skin 1050 rl_02 0.0900 rl_03 0.4600 rl_04 0.4500 
+skin 1051 rl_02 0.0700 rl_03 0.4700 rl_04 0.4600 
+skin 1052 rl_02 0.0800 rl_03 0.4600 rl_04 0.4600 
+skin 1053 rl_02 0.0800 rl_03 0.4600 rl_04 0.4600 
+skin 1054 rl_02 0.0600 rl_03 0.4700 rl_04 0.4700 
+skin 1055 pelvis 0.0200 rl_01 0.8900 rl_02 0.0900 
+skin 1056 pelvis 0.1300 rl_01 0.7100 rl_02 0.1600 
+skin 1057 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1058 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1059 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1060 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1061 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1062 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1063 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1064 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1065 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1066 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1067 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1068 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1069 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1070 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1071 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1072 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1073 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1074 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1075 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1076 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1077 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1078 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1079 tale_01 0.4800 tale_02 0.4700 tale_03 0.0500 
+skin 1080 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1081 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1082 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1083 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 1084 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1085 pelvis 0.1100 tale_01 0.6800 tale_02 0.2100 
+skin 1086 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 1087 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 1088 pelvis 0.3200 tale_01 0.6000 tale_02 0.0800 
+skin 1089 pelvis 0.0100 ll_01 0.6200 ll_02 0.3700 
+skin 1090 pelvis 0.0100 ll_01 0.6700 ll_02 0.3200 
+skin 1091 ll_02 0.4400 ll_03 0.2400 ll_04 0.3200 
+skin 1092 ll_02 0.2900 ll_03 0.3900 ll_04 0.3200 
+skin 1093 ll_02 0.1500 ll_03 0.5500 ll_04 0.3000 
+skin 1094 ll_02 0.4300 ll_03 0.2600 ll_04 0.3100 
+skin 1095 ll_02 0.4100 ll_03 0.2200 ll_04 0.3700 
+skin 1096 ll_02 0.3900 ll_03 0.2100 ll_04 0.4000 
+skin 1097 ll_02 0.1100 ll_03 0.4700 ll_04 0.4200 
+skin 1098 ll_02 0.1000 ll_03 0.5500 ll_04 0.3500 
+skin 1099 ll_02 0.1100 ll_03 0.5300 ll_04 0.3600 
+skin 1100 ll_02 0.0700 ll_03 0.6800 ll_04 0.2500 
+skin 1101 ll_02 0.1100 ll_03 0.5900 ll_04 0.3000 
+skin 1102 ll_02 0.0500 ll_03 0.7300 ll_04 0.2200 
+skin 1103 ll_02 0.1000 ll_03 0.4500 ll_04 0.4500 
+skin 1104 ll_02 0.1300 ll_03 0.4300 ll_04 0.4400 
+skin 1105 ll_02 0.0900 ll_03 0.4600 ll_04 0.4500 
+skin 1106 ll_02 0.0900 ll_03 0.4600 ll_04 0.4500 
+skin 1107 ll_02 0.0700 ll_03 0.4700 ll_04 0.4600 
+skin 1108 ll_02 0.0600 ll_03 0.4700 ll_04 0.4700 
+skin 1109 ll_02 0.1300 ll_03 0.4400 ll_04 0.4300 
+skin 1110 ll_02 0.3900 ll_03 0.4200 ll_04 0.1900 
+skin 1111 ll_02 0.3900 ll_03 0.4100 ll_04 0.2000 
+skin 1112 chst 0.7300 ra_01 0.2600 ra_02 0.0100 
+skin 1113 chst 0.1200 neck_01 0.8600 head_01 0.0200 
+skin 1114 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1115 chst 0.4800 la_01 0.0500 neck_01 0.4700 
+skin 1116 head_01 1.0000 
+skin 1117 head_01 1.0000 
+skin 1118 head_01 1.0000 
+skin 1119 head_01 1.0000 
+skin 1120 head_01 1.0000 
+skin 1121 head_01 1.0000 
+skin 1122 head_01 1.0000 
+skin 1123 head_01 1.0000 
+skin 1124 head_01 1.0000 
+skin 1125 head_01 1.0000 
+skin 1126 head_01 1.0000 
+skin 1127 head_01 1.0000 
+skin 1128 head_01 1.0000 
+skin 1129 head_01 1.0000 
+skin 1130 head_01 1.0000 
+skin 1131 head_01 1.0000 
+skin 1132 head_01 1.0000 
+skin 1133 head_01 1.0000 
+skin 1134 head_01 1.0000 
+skin 1135 head_01 1.0000 
+skin 1136 head_01 1.0000 
+skin 1137 head_01 1.0000 
+skin 1138 head_01 1.0000 
+skin 1139 head_01 1.0000 
+skin 1140 head_01 1.0000 
+skin 1141 head_01 1.0000 
+skin 1142 head_01 1.0000 
+skin 1143 head_01 1.0000 
+skin 1144 head_01 1.0000 
+skin 1145 head_01 1.0000 
+skin 1146 head_01 1.0000 
+skin 1147 head_01 1.0000 
+skin 1148 head_01 1.0000 
+skin 1149 head_01 1.0000 
+skin 1150 head_01 1.0000 
+skin 1151 head_01 1.0000 
+skin 1152 head_01 1.0000 
+skin 1153 head_01 1.0000 
+skin 1154 head_01 1.0000 
+skin 1155 head_01 1.0000 
+skin 1156 head_01 1.0000 
+skin 1157 head_01 1.0000 
+skin 1158 head_01 1.0000 
+skin 1159 head_01 1.0000 
+skin 1160 head_01 1.0000 
+skin 1161 head_01 1.0000 
+skin 1162 head_01 1.0000 
+skin 1163 head_01 1.0000 
+skin 1164 head_01 1.0000 
+skin 1165 head_01 1.0000 
+skin 1166 head_01 1.0000 
+skin 1167 head_01 1.0000 
+skin 1168 head_01 1.0000 
+skin 1169 head_01 1.0000 
+skin 1170 head_01 1.0000 
+skin 1171 head_01 1.0000 
+skin 1172 head_01 1.0000 
+skin 1173 head_01 1.0000 
+skin 1174 head_01 1.0000 
+skin 1175 head_01 1.0000 
+skin 1176 head_01 1.0000 
+skin 1177 head_01 1.0000 
+skin 1178 head_01 1.0000 
+skin 1179 head_01 1.0000 
+skin 1180 head_01 1.0000 
+skin 1181 head_01 1.0000 
+skin 1182 head_01 1.0000 
+skin 1183 head_01 1.0000 
+skin 1184 head_01 1.0000 
+skin 1185 obj_l_eye 1.0000 
+skin 1186 obj_l_eye 1.0000 
+skin 1187 obj_l_eye 1.0000 
+skin 1188 obj_l_eye 1.0000 
+skin 1189 obj_l_eye 1.0000 
+skin 1190 obj_l_eye 1.0000 
+skin 1191 obj_l_eye 1.0000 
+skin 1192 obj_l_eye 1.0000 
+skin 1193 obj_l_eye 1.0000 
+skin 1194 obj_l_eye 1.0000 
+skin 1195 obj_l_eye 1.0000 
+skin 1196 obj_l_eye 1.0000 
+skin 1197 obj_l_eye 1.0000 
+skin 1198 obj_l_eye 1.0000 
+skin 1199 obj_l_eye 1.0000 
+skin 1200 obj_l_eye 1.0000 
+skin 1201 obj_l_eye 1.0000 
+skin 1202 obj_l_eye 1.0000 
+skin 1203 obj_l_eye 1.0000 
+skin 1204 obj_l_eye 1.0000 
+skin 1205 obj_l_eye 1.0000 
+skin 1206 obj_l_eye 1.0000 
+skin 1207 obj_l_eye 1.0000 
+skin 1208 obj_l_eye 1.0000 
+skin 1209 obj_l_eye 1.0000 
+skin 1210 obj_l_eye 1.0000 
+skin 1211 obj_l_eye 1.0000 
+skin 1212 obj_l_eye 1.0000 
+skin 1213 obj_l_eye 1.0000 
+skin 1214 obj_l_eye 1.0000 
+skin 1215 obj_l_eye 1.0000 
+skin 1216 obj_l_eye 1.0000 
+skin 1217 obj_l_eye 1.0000 
+skin 1218 obj_l_eye 1.0000 
+skin 1219 obj_l_eye 1.0000 
+skin 1220 obj_l_eye 1.0000 
+skin 1221 obj_l_eye 1.0000 
+skin 1222 obj_l_eye 1.0000 
+skin 1223 obj_l_eye 1.0000 
+skin 1224 obj_l_eye 1.0000 
+skin 1225 obj_l_eye 1.0000 
+skin 1226 obj_r_eye 1.0000 
+skin 1227 obj_r_eye 1.0000 
+skin 1228 obj_r_eye 1.0000 
+skin 1229 obj_r_eye 1.0000 
+skin 1230 obj_r_eye 1.0000 
+skin 1231 obj_r_eye 1.0000 
+skin 1232 obj_r_eye 1.0000 
+skin 1233 obj_r_eye 1.0000 
+skin 1234 obj_r_eye 1.0000 
+skin 1235 obj_r_eye 1.0000 
+skin 1236 obj_r_eye 1.0000 
+skin 1237 obj_r_eye 1.0000 
+skin 1238 obj_r_eye 1.0000 
+skin 1239 obj_r_eye 1.0000 
+skin 1240 obj_r_eye 1.0000 
+skin 1241 obj_r_eye 1.0000 
+skin 1242 obj_r_eye 1.0000 
+skin 1243 obj_r_eye 1.0000 
+skin 1244 obj_r_eye 1.0000 
+skin 1245 obj_r_eye 1.0000 
+skin 1246 obj_r_eye 1.0000 
+skin 1247 obj_r_eye 1.0000 
+skin 1248 obj_r_eye 1.0000 
+skin 1249 obj_r_eye 1.0000 
+skin 1250 obj_r_eye 1.0000 
+skin 1251 obj_r_eye 1.0000 
+skin 1252 obj_r_eye 1.0000 
+skin 1253 obj_r_eye 1.0000 
+skin 1254 obj_r_eye 1.0000 
+skin 1255 obj_r_eye 1.0000 
+skin 1256 obj_r_eye 1.0000 
+skin 1257 obj_r_eye 1.0000 
+skin 1258 obj_r_eye 1.0000 
+skin 1259 obj_r_eye 1.0000 
+skin 1260 obj_r_eye 1.0000 
+skin 1261 obj_r_eye 1.0000 
+skin 1262 obj_r_eye 1.0000 
+skin 1263 obj_r_eye 1.0000 
+skin 1264 obj_r_eye 1.0000 
+skin 1265 obj_r_eye 1.0000 
+skin 1266 obj_r_eye 1.0000 
+skin 1267 head_01 1.0000 
+skin 1268 head_01 1.0000 
+skin 1269 head_01 1.0000 
+skin 1270 head_01 1.0000 
+skin 1271 head_01 1.0000 
+skin 1272 head_01 1.0000 
+skin 1273 head_01 1.0000 
+skin 1274 head_01 1.0000 
+skin 1275 head_01 1.0000 
+skin 1276 head_01 1.0000 
+skin 1277 head_01 1.0000 
+skin 1278 head_01 1.0000 
+skin 1279 head_01 1.0000 
+skin 1280 head_01 1.0000 
+skin 1281 head_01 1.0000 
+skin 1282 head_01 1.0000 
+skin 1283 head_01 1.0000 
+skin 1284 head_01 1.0000 
+skin 1285 head_01 1.0000 
+skin 1286 head_01 1.0000 
+skin 1287 head_01 1.0000 
+skin 1288 head_01 1.0000 
+skin 1289 head_01 1.0000 
+skin 1290 head_01 1.0000 
+skin 1291 head_01 1.0000 
+skin 1292 head_01 1.0000 
+skin 1293 head_01 1.0000 
+skin 1294 head_01 1.0000 
+skin 1295 head_01 1.0000 
+skin 1296 head_01 1.0000 
+skin 1297 head_01 1.0000 
+skin 1298 head_01 1.0000 
+skin 1299 head_01 1.0000 
+skin 1300 head_01 1.0000 
+skin 1301 head_01 1.0000 
+skin 1302 head_01 1.0000 
+skin 1303 head_01 1.0000 
+skin 1304 head_01 1.0000 
+skin 1305 head_01 1.0000 
+skin 1306 head_01 1.0000 
+skin 1307 head_01 1.0000 
+skin 1308 head_01 1.0000 
+skin 1309 head_01 1.0000 
+skin 1310 head_01 1.0000 
+skin 1311 head_01 1.0000 
+skin 1312 head_01 1.0000 
+skin 1313 head_01 1.0000 
+skin 1314 head_01 1.0000 
+skin 1315 head_01 1.0000 
+skin 1316 head_01 1.0000 
+skin 1317 head_01 1.0000 
+skin 1318 head_01 1.0000 
+skin 1319 head_01 1.0000 
+skin 1320 head_01 1.0000 
+skin 1321 head_01 1.0000 
+skin 1322 head_01 1.0000 
+skin 1323 head_01 1.0000 
+skin 1324 head_01 1.0000 
+skin 1325 head_01 1.0000 
+skin 1326 head_01 1.0000 
+skin 1327 head_01 1.0000 
+skin 1328 head_01 1.0000 
+skin 1329 head_01 1.0000 
+skin 1330 head_01 1.0000 
+skin 1331 head_01 1.0000 
+skin 1332 head_01 1.0000 
+skin 1333 head_01 1.0000 
+skin 1334 head_01 1.0000 
+skin 1335 head_01 1.0000 
+skin 1336 head_01 1.0000 
+skin 1337 head_01 1.0000 
+skin 1338 head_01 1.0000 
+skin 1339 head_01 1.0000 
+skin 1340 head_01 1.0000 
+skin 1341 head_01 1.0000 
+skin 1342 head_01 1.0000 
+skin 1343 head_01 1.0000 
+skin 1344 head_01 1.0000 
+skin 1345 head_01 1.0000 
+skin 1346 head_01 1.0000 
+skin 1347 head_01 1.0000 
+skin 1348 head_01 1.0000 
+skin 1349 head_01 1.0000 
+skin 1350 head_01 1.0000 
+skin 1351 head_01 1.0000 
+skin 1352 head_01 1.0000 
+skin 1353 head_01 1.0000 
+skin 1354 head_01 1.0000 
+skin 1355 head_01 1.0000 
+skin 1356 head_01 1.0000 
+skin 1357 head_01 1.0000 
+skin 1358 head_01 1.0000 
+skin 1359 head_01 1.0000 
+skin 1360 head_01 1.0000 
+skin 1361 head_01 1.0000 
+skin 1362 head_01 1.0000 
+skin 1363 head_01 1.0000 
+skin 1364 head_01 1.0000 
+skin 1365 head_01 1.0000 
+skin 1366 head_01 1.0000 
+skin 1367 head_01 1.0000 
+skin 1368 head_01 1.0000 
+skin 1369 head_01 1.0000 
+skin 1370 head_01 1.0000 
+skin 1371 head_01 1.0000 
+skin 1372 head_01 1.0000 
+skin 1373 head_01 1.0000 
+skin 1374 head_01 1.0000 
+skin 1375 head_01 1.0000 
+skin 1376 head_01 1.0000 
+skin 1377 head_01 1.0000 
+skin 1378 head_01 1.0000 
+skin 1379 head_01 1.0000 
+skin 1380 head_01 1.0000 
+skin 1381 head_01 1.0000 
+skin 1382 head_01 1.0000 
+skin 1383 head_01 1.0000 
+skin 1384 head_01 1.0000 
+skin 1385 head_01 1.0000 
+skin 1386 head_01 1.0000 
+skin 1387 head_01 1.0000 
+skin 1388 head_01 1.0000 
+skin 1389 head_01 1.0000 
+skin 1390 head_01 1.0000 
+skin 1391 head_01 1.0000 
+skin 1392 head_01 1.0000 
+skin 1393 rl_04 1.0000 
+skin 1394 rl_04 1.0000 
+skin 1395 rl_04 1.0000 
+skin 1396 rl_04 1.0000 
+skin 1397 rl_04 1.0000 
+skin 1398 rl_04 1.0000 
+skin 1399 rl_04 1.0000 
+skin 1400 rl_04 1.0000 
+skin 1401 ll_01 1.0000 
+skin 1402 ll_01 1.0000 
+skin 1403 ll_01 1.0000 
+skin 1404 ll_01 1.0000 
+skin 1405 ll_01 1.0000 
+skin 1406 ll_01 1.0000 
+skin 1407 ll_01 1.0000 
+skin 1408 ll_01 1.0000 
+skin 1409 ll_01 1.0000 
+skin 1410 ll_01 1.0000 
+skin 1411 ll_01 1.0000 
+skin 1412 ll_01 1.0000 
+skin 1413 ll_01 1.0000 
+skin 1414 ll_01 1.0000 
+skin 1415 ll_01 1.0000 
+skin 1416 ll_01 1.0000 
+skin 1417 ll_01 1.0000 
+skin 1418 ll_01 1.0000 
+skin 1419 ll_01 1.0000 
+skin 1420 ll_01 1.0000 
+skin 1421 ll_01 1.0000 
+skin 1422 ll_01 1.0000 
+skin 1423 ll_01 1.0000 
+skin 1424 ll_01 1.0000 
+skin 1425 ll_01 1.0000 
+skin 1426 ll_01 1.0000 
+skin 1427 ll_01 1.0000 
+skin 1428 rl_01 1.0000 
+skin 1429 rl_01 1.0000 
+skin 1430 rl_01 1.0000 
+skin 1431 rl_01 1.0000 
+skin 1432 rl_01 1.0000 
+skin 1433 rl_01 1.0000 
+skin 1434 rl_01 1.0000 
+skin 1435 rl_01 1.0000 
+skin 1436 rl_01 1.0000 
+skin 1437 rl_01 1.0000 
+skin 1438 rl_01 1.0000 
+skin 1439 rl_01 1.0000 
+skin 1440 rl_01 1.0000 
+skin 1441 rl_01 1.0000 
+skin 1442 rl_01 1.0000 
+skin 1443 rl_01 1.0000 
+skin 1444 rl_01 1.0000 
+skin 1445 rl_01 1.0000 
+skin 1446 rl_01 1.0000 
+skin 1447 rl_01 1.0000 
+skin 1448 rl_01 1.0000 
+skin 1449 rl_01 1.0000 
+skin 1450 rl_01 1.0000 
+skin 1451 rl_01 1.0000 
+skin 1452 rl_01 1.0000 
+skin 1453 rl_01 1.0000 
+skin 1454 rl_01 1.0000 
+skin 1455 ll_04 1.0000 
+skin 1456 ll_04 1.0000 
+skin 1457 ll_04 1.0000 
+skin 1458 ll_04 1.0000 
+skin 1459 ll_04 1.0000 
+skin 1460 ll_04 1.0000 
+skin 1461 ll_04 1.0000 
+skin 1462 ll_04 1.0000 
+skin 1463 ll_04 1.0000 
+skin 1464 ll_04 1.0000 
+skin 1465 ll_04 1.0000 
+skin 1466 ll_04 1.0000 
+skin 1467 ll_04 1.0000 
+skin 1468 ll_04 1.0000 
+skin 1469 ll_04 1.0000 
+skin 1470 ll_04 1.0000 
+skin 1471 ll_04 1.0000 
+skin 1472 ll_04 1.0000 
+skin 1473 ll_04 1.0000 
+skin 1474 ll_04 1.0000 
+skin 1475 ll_04 1.0000 
+skin 1476 ll_04 1.0000 
+skin 1477 ll_04 1.0000 
+skin 1478 ll_04 1.0000 
+skin 1479 rl_04 1.0000 
+skin 1480 rl_04 1.0000 
+skin 1481 rl_04 1.0000 
+skin 1482 rl_04 1.0000 
+skin 1483 rl_04 1.0000 
+skin 1484 rl_04 1.0000 
+skin 1485 rl_04 1.0000 
+skin 1486 rl_04 1.0000 
+skin 1487 rl_04 1.0000 
+skin 1488 rl_04 1.0000 
+skin 1489 rl_04 1.0000 
+skin 1490 rl_04 1.0000 
+skin 1491 rl_04 1.0000 
+skin 1492 rl_04 1.0000 
+skin 1493 rl_04 1.0000 
+skin 1494 rl_04 1.0000 
+skin 1495 la_03 1.0000 
+skin 1496 la_03 1.0000 
+skin 1497 la_03 1.0000 
+skin 1498 la_03 1.0000 
+skin 1499 la_03 1.0000 
+skin 1500 la_03 1.0000 
+skin 1501 la_03 1.0000 
+skin 1502 la_03 1.0000 
+skin 1503 ra_03 1.0000 
+skin 1504 ra_03 1.0000 
+skin 1505 ra_03 1.0000 
+skin 1506 ra_03 1.0000 
+skin 1507 ra_03 1.0000 
+skin 1508 ra_03 1.0000 
+skin 1509 ra_03 1.0000 
+skin 1510 ra_03 1.0000 
+skin 1511 rl_01 0.5000 rl_02 0.5000 
+skin 1512 rl_01 0.5000 rl_02 0.5000 
+skin 1513 rl_01 0.5000 rl_02 0.5000 
+skin 1514 rl_01 0.5000 rl_02 0.5000 
+skin 1515 rl_01 0.5000 rl_02 0.5000 
+skin 1516 rl_01 0.5000 rl_02 0.5000 
+skin 1517 rl_01 0.5000 rl_02 0.5000 
+skin 1518 rl_01 0.5000 rl_02 0.5000 
+skin 1519 rl_01 0.5000 rl_02 0.5000 
+skin 1520 rl_01 0.4900 rl_02 0.5100 
+skin 1521 rl_01 0.5000 rl_02 0.5000 
+skin 1522 rl_01 0.5000 rl_02 0.5000 
+skin 1523 rl_01 0.5000 rl_02 0.5000 
+skin 1524 rl_01 0.5000 rl_02 0.5000 
+skin 1525 rl_01 0.5000 rl_02 0.5000 
+skin 1526 rl_01 0.5000 rl_02 0.5000 
+skin 1527 ll_01 0.5000 ll_02 0.5000 
+skin 1528 ll_01 0.5000 ll_02 0.5000 
+skin 1529 ll_01 0.5000 ll_02 0.5000 
+skin 1530 ll_01 0.5000 ll_02 0.5000 
+skin 1531 ll_01 0.5000 ll_02 0.5000 
+skin 1532 ll_01 0.5000 ll_02 0.5000 
+skin 1533 ll_01 0.5000 ll_02 0.5000 
+skin 1534 ll_01 0.5000 ll_02 0.5000 
+skin 1535 ll_01 0.5000 ll_02 0.5000 
+skin 1536 ll_01 0.5000 ll_02 0.5000 
+skin 1537 ll_01 0.5000 ll_02 0.5000 
+skin 1538 ll_01 0.5000 ll_02 0.5000 
+skin 1539 ll_01 0.5000 ll_02 0.5000 
+skin 1540 ll_01 0.5000 ll_02 0.5000 
+skin 1541 ll_01 0.5000 ll_02 0.5000 
+skin 1542 ll_01 0.4900 ll_02 0.5100 
+skin 1543 rl_01 0.5000 rl_02 0.5000 
+skin 1544 rl_01 0.4900 rl_02 0.5100 
+skin 1545 ll_01 0.5000 ll_02 0.5000 
+skin 1546 ll_01 0.4900 ll_02 0.5100 
+skin 1547 neck_01 0.7900 head_01 0.2100 
+skin 1548 neck_01 0.7900 head_01 0.2100 
+skin 1549 neck_01 0.7900 head_01 0.2100 
+skin 1550 neck_01 0.7900 head_01 0.2100 
+skin 1551 neck_01 0.7900 head_01 0.2100 
+skin 1552 neck_01 0.7900 head_01 0.2100 
+skin 1553 neck_01 0.7900 head_01 0.2100 
+skin 1554 neck_01 0.7900 head_01 0.2100 
+skin 1555 neck_01 0.7900 head_01 0.2100 
+skin 1556 pelvis 0.1000 chst 0.9000 
+skin 1557 pelvis 0.1000 chst 0.9000 
+skin 1558 pelvis 0.1000 chst 0.9000 
+skin 1559 pelvis 0.1000 chst 0.9000 
+skin 1560 pelvis 0.1000 chst 0.9000 
+skin 1561 pelvis 0.1000 chst 0.9000 
+skin 1562 pelvis 0.1000 chst 0.9000 
+skin 1563 pelvis 0.1000 chst 0.9000 
+skin 1564 pelvis 0.1000 chst 0.9000 
+skin 1565 pelvis 0.1000 chst 0.9000 
+skin 1566 pelvis 0.1000 chst 0.9000 
+skin 1567 pelvis 0.1000 chst 0.9000 
+skin 1568 pelvis 0.1000 chst 0.9000 
+skin 1569 pelvis 0.1000 chst 0.9000 
+skin 1570 pelvis 0.1000 chst 0.9000 
+skin 1571 pelvis 0.1000 chst 0.9000 
+skin 1572 pelvis 0.1000 chst 0.9000 
+skin 1573 pelvis 0.1000 chst 0.9000 
+skin 1574 pelvis 0.3700 chst 0.6300 
+skin 1575 pelvis 0.3700 chst 0.6300 
+skin 1576 pelvis 0.3700 chst 0.6300 
+skin 1577 pelvis 0.3700 chst 0.6300 
+skin 1578 pelvis 0.3700 chst 0.6300 
+skin 1579 pelvis 0.3700 chst 0.6300 
+skin 1580 pelvis 0.3700 chst 0.6300 
+skin 1581 pelvis 0.3700 chst 0.6300 
+skin 1582 pelvis 0.3700 chst 0.6300 
+skin 1583 pelvis 0.7400 chst 0.2600 
+skin 1584 pelvis 0.7400 chst 0.2600 
+skin 1585 pelvis 0.7400 chst 0.2600 
+skin 1586 pelvis 0.7400 chst 0.2600 
+skin 1587 pelvis 0.7400 chst 0.2600 
+skin 1588 pelvis 0.7400 chst 0.2600 
+skin 1589 pelvis 0.7400 chst 0.2600 
+skin 1590 pelvis 0.7400 chst 0.2600 
+skin 1591 pelvis 0.7400 chst 0.2600 
+skin 1592 pelvis 0.9500 chst 0.0500 
+skin 1593 pelvis 0.9500 chst 0.0500 
+skin 1594 pelvis 0.9500 chst 0.0500 
+skin 1595 pelvis 0.9500 chst 0.0500 
+skin 1596 pelvis 0.9500 chst 0.0500 
+skin 1597 pelvis 0.9500 chst 0.0500 
+skin 1598 pelvis 0.9500 chst 0.0500 
+skin 1599 pelvis 0.9500 chst 0.0500 
+skin 1600 pelvis 0.9500 chst 0.0500 
+skin 1601 pelvis 0.1000 chst 0.9000 
+skin 1602 pelvis 0.1000 chst 0.9000 
+skin 1603 pelvis 0.1000 chst 0.9000 
+skin 1604 pelvis 0.1000 chst 0.9000 
+skin 1605 pelvis 0.1000 chst 0.9000 
+skin 1606 pelvis 0.1000 chst 0.9000 
+skin 1607 pelvis 0.1000 chst 0.9000 
+skin 1608 pelvis 0.1000 chst 0.9000 
+skin 1609 pelvis 0.1000 chst 0.9000 
+skin 1610 pelvis 0.4800 ll_01 0.5200 
+skin 1611 pelvis 0.4800 ll_01 0.5200 
+skin 1612 pelvis 0.4800 ll_01 0.5200 
+skin 1613 pelvis 0.4800 ll_01 0.5200 
+skin 1614 pelvis 0.4800 ll_01 0.5200 
+skin 1615 pelvis 0.4800 ll_01 0.5200 
+skin 1616 pelvis 0.4800 ll_01 0.5200 
+skin 1617 pelvis 0.4800 ll_01 0.5200 
+skin 1618 pelvis 0.4800 ll_01 0.5200 
+skin 1619 pelvis 0.4800 rl_01 0.5200 
+skin 1620 pelvis 0.4800 rl_01 0.5200 
+skin 1621 pelvis 0.4800 rl_01 0.5200 
+skin 1622 pelvis 0.4800 rl_01 0.5200 
+skin 1623 pelvis 0.4800 rl_01 0.5200 
+skin 1624 pelvis 0.4800 rl_01 0.5200 
+skin 1625 pelvis 0.4800 rl_01 0.5200 
+skin 1626 pelvis 0.4800 rl_01 0.5200 
+skin 1627 pelvis 0.4800 rl_01 0.5200 
+skin 1628 tale_01 0.6500 tale_02 0.3500 
+skin 1629 tale_01 0.6500 tale_02 0.3500 
+skin 1630 tale_01 0.6500 tale_02 0.3500 
+skin 1631 tale_01 0.6500 tale_02 0.3500 
+skin 1632 tale_01 0.6500 tale_02 0.3500 
+skin 1633 tale_01 0.6500 tale_02 0.3500 
+skin 1634 tale_01 0.6500 tale_02 0.3500 
+skin 1635 tale_01 0.6500 tale_02 0.3500 
+skin 1636 tale_01 0.6500 tale_02 0.3500 
+skin 1637 tale_02 0.3900 tale_03 0.6100 
+skin 1638 tale_02 0.3900 tale_03 0.6100 
+skin 1639 tale_02 0.3900 tale_03 0.6100 
+skin 1640 tale_02 0.3900 tale_03 0.6100 
+skin 1641 tale_02 0.3900 tale_03 0.6100 
+skin 1642 tale_02 0.3900 tale_03 0.6100 
+skin 1643 tale_02 0.3900 tale_03 0.6100 
+skin 1644 tale_02 0.3900 tale_03 0.6100 
+skin 1645 tale_02 0.3900 tale_03 0.6100 
+skin 1646 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1647 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1648 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1649 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1650 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1651 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1652 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1653 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1654 chst 0.2000 neck_01 0.7700 head_01 0.0300 
+skin 1655 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1656 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1657 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1658 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1659 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1660 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1661 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1662 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1663 pelvis 0.0800 chst 0.6300 neck_01 0.2900 
+skin 1664 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1665 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1666 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1667 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1668 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1669 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1670 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1671 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1672 pelvis 0.4200 tale_01 0.5100 tale_02 0.0700 
+skin 1673 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1674 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1675 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1676 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1677 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1678 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1679 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1680 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+skin 1681 tale_01 0.1600 tale_02 0.6900 tale_03 0.1500 
+hier pelvis chst
+hier pelvis ll_01
+hier pelvis loc_ef_01
+hier pelvis rl_01
+hier pelvis tale_01
+hier chst la_01
+hier chst neck_01
+hier chst ra_01
+hier ll_01 ll_02
+hier rl_01 rl_02
+hier tale_01 tale_02
+hier la_01 la_02
+hier neck_01 head_01
+hier ra_01 ra_02
+hier ll_02 ll_03
+hier rl_02 rl_03
+hier tale_02 tale_03
+hier la_02 la_03
+hier head_01 loc_l_eye
+hier head_01 loc_r_eye
+hier head_01 loc_shadow_01
+hier ra_02 ra_03
+hier ll_03 ll_04
+hier ll_03 loc_shadow_04
+hier rl_03 loc_shadow_02
+hier rl_03 rl_04
+hier tale_03 loc_shadow_03
+hier loc_l_eye obj_l_eye
+hier loc_r_eye obj_r_eye

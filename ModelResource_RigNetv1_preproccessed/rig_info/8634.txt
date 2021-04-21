@@ -1,0 +1,633 @@
+joints bn_bodyroot 0.00000000 0.44467400 0.06117516
+joints b_L_thigh 0.06809050 0.37651400 0.05768604
+joints b_R_thigh -0.06809050 0.37651400 0.05768604
+joints b_neck -0.00000085 0.71634800 0.04765241
+joints bn_L_shoulder 0.05361720 0.69841100 0.04206288
+joints bn_R_shoulder -0.05361890 0.69840900 0.04206322
+joints nuno_00 0.02611590 0.78368200 0.01924390
+joints b_L_knee 0.06808990 0.20032500 0.05675219
+joints b_R_knee -0.06808990 0.20032500 0.05675220
+joints b_head -0.00000102 0.79637100 0.06653450
+joints b_L_lowerArm 0.27073500 0.69841200 0.03814600
+joints b_R_lowerArm -0.27073700 0.69840800 0.03814760
+joints nuno_01 0.12219000 0.80423000 -0.07823300
+joints b_L_ankle 0.06808960 0.04316510 0.01840490
+joints b_R_ankle -0.06808930 0.04316510 0.01840490
+joints b_L_hand 0.40301400 0.69841200 0.05812627
+joints b_R_hand -0.40301400 0.69840800 0.05812853
+joints nuno_02 0.20213600 0.78681000 -0.07823300
+joints x_L_legend 0.06808900 0.01794920 0.12206950
+joints x_R_legend -0.06808940 0.01794920 0.12206890
+joints x_R_armend -0.49804000 0.69840800 0.07001660
+root bn_bodyroot
+skin 0 bn_bodyroot 1.0000 
+skin 1 bn_bodyroot 0.8000 b_neck 0.2000 
+skin 2 bn_bodyroot 0.9000 bn_L_shoulder 0.1000 
+skin 3 bn_bodyroot 1.0000 
+skin 4 bn_bodyroot 1.0000 
+skin 5 bn_bodyroot 0.6500 b_neck 0.3500 
+skin 6 bn_bodyroot 1.0000 
+skin 7 bn_bodyroot 1.0000 
+skin 8 bn_bodyroot 0.6500 b_neck 0.3500 
+skin 9 bn_bodyroot 1.0000 
+skin 10 bn_bodyroot 0.5000 b_neck 0.5000 
+skin 11 b_neck 1.0000 
+skin 12 b_neck 1.0000 
+skin 13 bn_bodyroot 0.5000 b_neck 0.5000 
+skin 14 b_neck 1.0000 
+skin 15 b_neck 1.0000 
+skin 16 b_neck 1.0000 
+skin 17 bn_bodyroot 1.0000 
+skin 18 bn_bodyroot 0.8000 b_neck 0.2000 
+skin 19 bn_bodyroot 1.0000 
+skin 20 bn_bodyroot 0.6500 b_neck 0.3500 
+skin 21 bn_bodyroot 0.5000 b_neck 0.5000 
+skin 22 b_neck 1.0000 
+skin 23 bn_bodyroot 0.8000 b_neck 0.2000 
+skin 24 bn_bodyroot 1.0000 
+skin 25 bn_bodyroot 1.0000 
+skin 26 bn_bodyroot 1.0000 
+skin 27 bn_bodyroot 1.0000 
+skin 28 bn_bodyroot 1.0000 
+skin 29 bn_bodyroot 0.2000 b_neck 0.8000 
+skin 30 bn_bodyroot 1.0000 
+skin 31 b_neck 1.0000 
+skin 32 b_neck 1.0000 
+skin 33 b_neck 1.0000 
+skin 34 bn_bodyroot 1.0000 
+skin 35 b_neck 1.0000 
+skin 36 bn_bodyroot 1.0000 
+skin 37 bn_bodyroot 1.0000 
+skin 38 b_neck 1.0000 
+skin 39 bn_bodyroot 1.0000 
+skin 40 bn_bodyroot 0.7500 bn_L_shoulder 0.2500 
+skin 41 bn_bodyroot 1.0000 
+skin 42 bn_bodyroot 1.0000 
+skin 43 bn_bodyroot 0.7500 bn_L_shoulder 0.2500 
+skin 44 bn_bodyroot 0.7500 bn_L_shoulder 0.2500 
+skin 45 bn_L_shoulder 1.0000 
+skin 46 bn_L_shoulder 1.0000 
+skin 47 bn_bodyroot 0.2500 bn_L_shoulder 0.7500 
+skin 48 bn_L_shoulder 1.0000 
+skin 49 bn_L_shoulder 1.0000 
+skin 50 bn_L_shoulder 1.0000 
+skin 51 bn_L_shoulder 1.0000 
+skin 52 bn_bodyroot 0.9000 bn_R_shoulder 0.1000 
+skin 53 bn_bodyroot 1.0000 
+skin 54 bn_bodyroot 0.7500 bn_R_shoulder 0.2500 
+skin 55 bn_bodyroot 1.0000 
+skin 56 bn_bodyroot 0.7500 bn_R_shoulder 0.2500 
+skin 57 bn_bodyroot 0.7500 bn_R_shoulder 0.2500 
+skin 58 bn_R_shoulder 1.0000 
+skin 59 bn_R_shoulder 1.0000 
+skin 60 bn_R_shoulder 1.0000 
+skin 61 bn_R_shoulder 1.0000 
+skin 62 bn_R_shoulder 1.0000 
+skin 63 bn_R_shoulder 1.0000 
+skin 64 bn_R_shoulder 1.0000 
+skin 65 bn_bodyroot 1.0000 
+skin 66 bn_bodyroot 1.0000 
+skin 67 bn_bodyroot 1.0000 
+skin 68 bn_bodyroot 1.0000 
+skin 69 bn_bodyroot 1.0000 
+skin 70 bn_bodyroot 1.0000 
+skin 71 bn_bodyroot 1.0000 
+skin 72 bn_bodyroot 1.0000 
+skin 73 bn_bodyroot 1.0000 
+skin 74 bn_bodyroot 1.0000 
+skin 75 bn_bodyroot 1.0000 
+skin 76 bn_bodyroot 1.0000 
+skin 77 bn_bodyroot 1.0000 
+skin 78 bn_bodyroot 1.0000 
+skin 79 bn_bodyroot 1.0000 
+skin 80 bn_bodyroot 1.0000 
+skin 81 bn_bodyroot 1.0000 
+skin 82 bn_bodyroot 1.0000 
+skin 83 bn_bodyroot 1.0000 
+skin 84 bn_bodyroot 1.0000 
+skin 85 bn_bodyroot 1.0000 
+skin 86 bn_bodyroot 1.0000 
+skin 87 bn_bodyroot 1.0000 
+skin 88 bn_bodyroot 1.0000 
+skin 89 bn_bodyroot 1.0000 
+skin 90 bn_bodyroot 1.0000 
+skin 91 bn_bodyroot 1.0000 
+skin 92 bn_bodyroot 1.0000 
+skin 93 bn_bodyroot 1.0000 
+skin 94 bn_bodyroot 1.0000 
+skin 95 bn_bodyroot 1.0000 
+skin 96 bn_bodyroot 1.0000 
+skin 97 bn_bodyroot 1.0000 
+skin 98 bn_bodyroot 1.0000 
+skin 99 bn_bodyroot 1.0000 
+skin 100 bn_bodyroot 1.0000 
+skin 101 bn_bodyroot 1.0000 
+skin 102 bn_bodyroot 1.0000 
+skin 103 bn_bodyroot 1.0000 
+skin 104 bn_bodyroot 1.0000 
+skin 105 bn_bodyroot 1.0000 
+skin 106 bn_bodyroot 1.0000 
+skin 107 bn_bodyroot 1.0000 
+skin 108 bn_bodyroot 1.0000 
+skin 109 bn_bodyroot 1.0000 
+skin 110 bn_bodyroot 1.0000 
+skin 111 bn_bodyroot 1.0000 
+skin 112 bn_bodyroot 1.0000 
+skin 113 bn_bodyroot 1.0000 
+skin 114 bn_bodyroot 1.0000 
+skin 115 bn_bodyroot 1.0000 
+skin 116 bn_bodyroot 1.0000 
+skin 117 bn_bodyroot 1.0000 
+skin 118 bn_bodyroot 1.0000 
+skin 119 bn_bodyroot 1.0000 
+skin 120 bn_bodyroot 1.0000 
+skin 121 bn_bodyroot 1.0000 
+skin 122 bn_bodyroot 1.0000 
+skin 123 bn_bodyroot 1.0000 
+skin 124 bn_bodyroot 1.0000 
+skin 125 bn_bodyroot 1.0000 
+skin 126 bn_bodyroot 1.0000 
+skin 127 bn_bodyroot 1.0000 
+skin 128 bn_bodyroot 1.0000 
+skin 129 bn_bodyroot 1.0000 
+skin 130 bn_bodyroot 1.0000 
+skin 131 bn_bodyroot 1.0000 
+skin 132 bn_bodyroot 1.0000 
+skin 133 bn_bodyroot 1.0000 
+skin 134 b_head 1.0000 
+skin 135 b_head 1.0000 
+skin 136 b_head 1.0000 
+skin 137 b_head 1.0000 
+skin 138 b_head 1.0000 
+skin 139 b_head 1.0000 
+skin 140 b_head 1.0000 
+skin 141 b_head 1.0000 
+skin 142 b_head 1.0000 
+skin 143 b_head 1.0000 
+skin 144 b_head 1.0000 
+skin 145 b_head 1.0000 
+skin 146 b_head 1.0000 
+skin 147 b_head 1.0000 
+skin 148 b_head 1.0000 
+skin 149 b_head 1.0000 
+skin 150 b_head 1.0000 
+skin 151 b_head 1.0000 
+skin 152 b_head 1.0000 
+skin 153 b_head 1.0000 
+skin 154 b_head 1.0000 
+skin 155 b_head 1.0000 
+skin 156 b_head 1.0000 
+skin 157 b_head 1.0000 
+skin 158 b_head 1.0000 
+skin 159 b_head 1.0000 
+skin 160 b_head 1.0000 
+skin 161 b_head 1.0000 
+skin 162 b_head 1.0000 
+skin 163 b_head 1.0000 
+skin 164 b_head 1.0000 
+skin 165 b_head 1.0000 
+skin 166 b_head 1.0000 
+skin 167 b_head 1.0000 
+skin 168 b_head 1.0000 
+skin 169 b_head 1.0000 
+skin 170 b_head 1.0000 
+skin 171 b_head 1.0000 
+skin 172 b_head 1.0000 
+skin 173 b_head 1.0000 
+skin 174 b_head 1.0000 
+skin 175 b_head 1.0000 
+skin 176 b_head 1.0000 
+skin 177 b_head 1.0000 
+skin 178 b_head 1.0000 
+skin 179 b_head 1.0000 
+skin 180 b_head 1.0000 
+skin 181 b_head 1.0000 
+skin 182 b_head 1.0000 
+skin 183 b_head 1.0000 
+skin 184 b_head 1.0000 
+skin 185 b_head 1.0000 
+skin 186 b_head 1.0000 
+skin 187 b_head 1.0000 
+skin 188 b_head 1.0000 
+skin 189 b_head 1.0000 
+skin 190 b_head 1.0000 
+skin 191 b_head 1.0000 
+skin 192 b_head 1.0000 
+skin 193 b_head 1.0000 
+skin 194 b_head 1.0000 
+skin 195 b_head 1.0000 
+skin 196 b_head 1.0000 
+skin 197 b_head 1.0000 
+skin 198 b_head 1.0000 
+skin 199 b_head 1.0000 
+skin 200 b_head 1.0000 
+skin 201 b_head 1.0000 
+skin 202 b_head 1.0000 
+skin 203 b_head 1.0000 
+skin 204 b_head 1.0000 
+skin 205 b_head 1.0000 
+skin 206 b_head 1.0000 
+skin 207 b_head 1.0000 
+skin 208 b_head 1.0000 
+skin 209 b_head 1.0000 
+skin 210 b_head 1.0000 
+skin 211 b_head 1.0000 
+skin 212 b_head 1.0000 
+skin 213 b_head 1.0000 
+skin 214 b_head 1.0000 
+skin 215 b_head 1.0000 
+skin 216 b_head 1.0000 
+skin 217 b_L_lowerArm 1.0000 
+skin 218 b_L_lowerArm 1.0000 
+skin 219 b_L_lowerArm 0.8500 b_L_hand 0.1500 
+skin 220 b_L_hand 1.0000 
+skin 221 b_L_lowerArm 0.3000 b_L_hand 0.7000 
+skin 222 b_L_hand 1.0000 
+skin 223 b_L_lowerArm 0.3000 b_L_hand 0.7000 
+skin 224 b_L_hand 1.0000 
+skin 225 b_L_hand 1.0000 
+skin 226 b_L_hand 1.0000 
+skin 227 b_L_hand 1.0000 
+skin 228 b_L_hand 1.0000 
+skin 229 b_L_hand 1.0000 
+skin 230 b_L_hand 1.0000 
+skin 231 b_L_hand 1.0000 
+skin 232 b_L_hand 1.0000 
+skin 233 b_L_hand 1.0000 
+skin 234 b_L_hand 1.0000 
+skin 235 b_L_hand 1.0000 
+skin 236 b_L_hand 1.0000 
+skin 237 b_L_hand 1.0000 
+skin 238 b_L_hand 1.0000 
+skin 239 b_L_hand 1.0000 
+skin 240 b_L_hand 1.0000 
+skin 241 b_L_hand 1.0000 
+skin 242 b_L_hand 1.0000 
+skin 243 b_L_hand 1.0000 
+skin 244 b_L_hand 1.0000 
+skin 245 b_L_hand 1.0000 
+skin 246 b_L_hand 1.0000 
+skin 247 b_L_hand 1.0000 
+skin 248 b_L_hand 1.0000 
+skin 249 b_L_hand 1.0000 
+skin 250 b_L_hand 1.0000 
+skin 251 b_L_hand 1.0000 
+skin 252 b_L_hand 1.0000 
+skin 253 b_L_hand 1.0000 
+skin 254 b_L_hand 1.0000 
+skin 255 b_L_hand 1.0000 
+skin 256 b_L_hand 1.0000 
+skin 257 b_L_hand 1.0000 
+skin 258 b_L_hand 1.0000 
+skin 259 b_L_hand 1.0000 
+skin 260 b_L_hand 1.0000 
+skin 261 b_L_hand 1.0000 
+skin 262 b_L_hand 1.0000 
+skin 263 b_L_lowerArm 0.8500 b_L_hand 0.1500 
+skin 264 b_L_lowerArm 1.0000 
+skin 265 b_L_lowerArm 0.8500 b_L_hand 0.1500 
+skin 266 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 267 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 268 bn_L_shoulder 1.0000 
+skin 269 bn_L_shoulder 1.0000 
+skin 270 bn_L_shoulder 0.8000 b_L_lowerArm 0.2000 
+skin 271 bn_L_shoulder 0.8000 b_L_lowerArm 0.2000 
+skin 272 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 273 b_L_lowerArm 1.0000 
+skin 274 bn_L_shoulder 0.2500 b_L_lowerArm 0.7500 
+skin 275 bn_L_shoulder 0.2500 b_L_lowerArm 0.7500 
+skin 276 bn_L_shoulder 0.8000 b_L_lowerArm 0.2000 
+skin 277 bn_L_shoulder 0.8000 b_L_lowerArm 0.2000 
+skin 278 b_R_lowerArm 1.0000 
+skin 279 b_R_lowerArm 0.8500 b_R_hand 0.1500 
+skin 280 b_R_lowerArm 1.0000 
+skin 281 b_R_hand 1.0000 
+skin 282 b_R_lowerArm 0.3000 b_R_hand 0.7000 
+skin 283 b_R_hand 1.0000 
+skin 284 b_R_lowerArm 0.3000 b_R_hand 0.7000 
+skin 285 b_R_lowerArm 0.3000 b_R_hand 0.7000 
+skin 286 b_R_hand 1.0000 
+skin 287 b_R_hand 1.0000 
+skin 288 b_R_hand 1.0000 
+skin 289 b_R_hand 1.0000 
+skin 290 b_R_hand 1.0000 
+skin 291 b_R_hand 1.0000 
+skin 292 b_R_hand 1.0000 
+skin 293 b_R_hand 1.0000 
+skin 294 b_R_hand 1.0000 
+skin 295 b_R_hand 1.0000 
+skin 296 b_R_hand 1.0000 
+skin 297 b_R_hand 1.0000 
+skin 298 b_R_hand 1.0000 
+skin 299 b_R_hand 1.0000 
+skin 300 b_R_hand 1.0000 
+skin 301 b_R_hand 1.0000 
+skin 302 b_R_hand 1.0000 
+skin 303 b_R_hand 1.0000 
+skin 304 b_R_hand 1.0000 
+skin 305 b_R_hand 1.0000 
+skin 306 b_R_hand 1.0000 
+skin 307 b_R_hand 1.0000 
+skin 308 b_R_hand 1.0000 
+skin 309 b_R_hand 1.0000 
+skin 310 b_R_hand 1.0000 
+skin 311 b_R_hand 1.0000 
+skin 312 b_R_hand 1.0000 
+skin 313 b_R_hand 1.0000 
+skin 314 b_R_hand 1.0000 
+skin 315 b_R_hand 1.0000 
+skin 316 b_R_hand 1.0000 
+skin 317 b_R_lowerArm 0.3000 b_R_hand 0.7000 
+skin 318 b_R_hand 1.0000 
+skin 319 b_R_hand 1.0000 
+skin 320 b_R_hand 1.0000 
+skin 321 b_R_hand 1.0000 
+skin 322 b_R_hand 1.0000 
+skin 323 b_R_hand 1.0000 
+skin 324 b_R_hand 1.0000 
+skin 325 b_R_hand 1.0000 
+skin 326 b_R_lowerArm 0.8500 b_R_hand 0.1500 
+skin 327 b_R_lowerArm 1.0000 
+skin 328 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 329 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 330 bn_R_shoulder 1.0000 
+skin 331 bn_R_shoulder 0.8000 b_R_lowerArm 0.2000 
+skin 332 b_R_lowerArm 1.0000 
+skin 333 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 334 bn_R_shoulder 0.2500 b_R_lowerArm 0.7500 
+skin 335 bn_R_shoulder 0.2500 b_R_lowerArm 0.7500 
+skin 336 bn_R_shoulder 0.8000 b_R_lowerArm 0.2000 
+skin 337 bn_R_shoulder 0.8000 b_R_lowerArm 0.2000 
+skin 338 bn_bodyroot 0.3500 b_L_thigh 0.6500 
+skin 339 bn_bodyroot 0.5000 b_L_thigh 0.5000 
+skin 340 bn_bodyroot 0.8000 b_L_thigh 0.2000 
+skin 341 b_L_thigh 1.0000 
+skin 342 bn_bodyroot 0.5000 b_L_thigh 0.5000 
+skin 343 bn_bodyroot 0.1000 b_L_thigh 0.9000 
+skin 344 bn_bodyroot 0.5000 b_L_thigh 0.5000 
+skin 345 b_L_thigh 1.0000 
+skin 346 b_L_thigh 1.0000 
+skin 347 bn_bodyroot 0.3500 b_L_thigh 0.6500 
+skin 348 bn_bodyroot 0.7000 b_L_thigh 0.3000 
+skin 349 bn_bodyroot 0.3000 b_L_thigh 0.7000 
+skin 350 b_L_thigh 1.0000 
+skin 351 bn_bodyroot 0.2500 b_L_thigh 0.7500 
+skin 352 bn_bodyroot 0.8000 b_L_thigh 0.1000 b_R_thigh 0.1000 
+skin 353 bn_bodyroot 0.5000 b_R_thigh 0.5000 
+skin 354 bn_bodyroot 0.3500 b_R_thigh 0.6500 
+skin 355 bn_bodyroot 0.8000 b_R_thigh 0.2000 
+skin 356 bn_bodyroot 0.5000 b_R_thigh 0.5000 
+skin 357 b_R_thigh 1.0000 
+skin 358 bn_bodyroot 0.1000 b_R_thigh 0.9000 
+skin 359 b_R_thigh 1.0000 
+skin 360 bn_bodyroot 0.5000 b_R_thigh 0.5000 
+skin 361 bn_bodyroot 0.3500 b_R_thigh 0.6500 
+skin 362 b_R_thigh 1.0000 
+skin 363 bn_bodyroot 0.7000 b_R_thigh 0.3000 
+skin 364 bn_bodyroot 0.3000 b_R_thigh 0.7000 
+skin 365 b_R_thigh 1.0000 
+skin 366 bn_bodyroot 0.2500 b_R_thigh 0.7500 
+skin 367 b_L_thigh 0.9500 b_L_knee 0.0500 
+skin 368 b_L_knee 1.0000 
+skin 369 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 370 b_L_knee 1.0000 
+skin 371 b_L_knee 1.0000 
+skin 372 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 373 b_L_knee 1.0000 
+skin 374 b_L_thigh 0.9500 b_L_knee 0.0500 
+skin 375 b_R_thigh 0.9500 b_R_knee 0.0500 
+skin 376 b_R_knee 1.0000 
+skin 377 b_R_knee 1.0000 
+skin 378 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 379 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 380 b_R_knee 1.0000 
+skin 381 b_R_knee 1.0000 
+skin 382 b_R_thigh 0.9500 b_R_knee 0.0500 
+skin 383 b_R_thigh 0.9500 b_R_knee 0.0500 
+skin 384 b_R_knee 1.0000 
+skin 385 b_R_knee 1.0000 
+skin 386 b_R_thigh 0.1500 b_R_knee 0.8500 
+skin 387 b_L_ankle 1.0000 
+skin 388 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 389 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 390 b_L_ankle 1.0000 
+skin 391 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 392 b_L_knee 1.0000 
+skin 393 b_L_knee 1.0000 
+skin 394 b_L_knee 1.0000 
+skin 395 b_L_knee 1.0000 
+skin 396 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 397 b_L_knee 1.0000 
+skin 398 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 399 b_L_knee 1.0000 
+skin 400 b_L_ankle 1.0000 
+skin 401 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 402 b_L_ankle 1.0000 
+skin 403 b_L_knee 0.2900 b_L_ankle 0.7100 
+skin 404 b_L_ankle 1.0000 
+skin 405 b_L_knee 0.2200 b_L_ankle 0.7800 
+skin 406 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 407 b_L_ankle 1.0000 
+skin 408 b_L_ankle 1.0000 
+skin 409 b_L_ankle 1.0000 
+skin 410 b_L_ankle 1.0000 
+skin 411 b_L_ankle 1.0000 
+skin 412 b_L_ankle 1.0000 
+skin 413 b_L_ankle 1.0000 
+skin 414 b_L_ankle 1.0000 
+skin 415 b_L_ankle 1.0000 
+skin 416 b_L_ankle 1.0000 
+skin 417 b_L_ankle 1.0000 
+skin 418 b_L_ankle 1.0000 
+skin 419 b_L_ankle 1.0000 
+skin 420 b_L_ankle 1.0000 
+skin 421 b_L_ankle 1.0000 
+skin 422 b_R_ankle 1.0000 
+skin 423 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 424 b_R_ankle 1.0000 
+skin 425 b_R_ankle 1.0000 
+skin 426 b_R_ankle 1.0000 
+skin 427 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 428 b_R_knee 1.0000 
+skin 429 b_R_knee 1.0000 
+skin 430 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 431 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 432 b_R_knee 1.0000 
+skin 433 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 434 b_R_knee 1.0000 
+skin 435 b_R_knee 0.2900 b_R_ankle 0.7100 
+skin 436 b_R_ankle 1.0000 
+skin 437 b_R_ankle 1.0000 
+skin 438 b_R_knee 0.2200 b_R_ankle 0.7800 
+skin 439 b_R_ankle 1.0000 
+skin 440 b_R_ankle 1.0000 
+skin 441 b_R_ankle 1.0000 
+skin 442 b_R_ankle 1.0000 
+skin 443 b_R_ankle 1.0000 
+skin 444 b_R_ankle 1.0000 
+skin 445 b_R_ankle 1.0000 
+skin 446 b_R_ankle 1.0000 
+skin 447 b_R_ankle 1.0000 
+skin 448 b_R_ankle 1.0000 
+skin 449 b_R_ankle 1.0000 
+skin 450 b_R_ankle 1.0000 
+skin 451 b_R_ankle 1.0000 
+skin 452 b_R_ankle 1.0000 
+skin 453 bn_bodyroot 0.7500 bn_L_shoulder 0.2500 
+skin 454 bn_bodyroot 0.8000 b_neck 0.2000 
+skin 455 bn_bodyroot 0.5000 b_neck 0.5000 
+skin 456 bn_bodyroot 0.5000 b_neck 0.5000 
+skin 457 b_neck 1.0000 
+skin 458 b_neck 1.0000 
+skin 459 b_neck 1.0000 
+skin 460 bn_bodyroot 0.2000 b_neck 0.8000 
+skin 461 bn_bodyroot 0.8000 b_neck 0.2000 
+skin 462 bn_bodyroot 0.5000 bn_L_shoulder 0.5000 
+skin 463 bn_bodyroot 0.5000 bn_L_shoulder 0.5000 
+skin 464 bn_bodyroot 0.2500 bn_L_shoulder 0.7500 
+skin 465 bn_bodyroot 0.2500 bn_L_shoulder 0.7500 
+skin 466 bn_bodyroot 0.2500 bn_L_shoulder 0.7500 
+skin 467 bn_bodyroot 0.7500 bn_R_shoulder 0.2500 
+skin 468 bn_bodyroot 0.5000 bn_R_shoulder 0.5000 
+skin 469 bn_bodyroot 0.5000 bn_R_shoulder 0.5000 
+skin 470 bn_bodyroot 0.2500 bn_R_shoulder 0.7500 
+skin 471 bn_bodyroot 0.2500 bn_R_shoulder 0.7500 
+skin 472 bn_bodyroot 0.2500 bn_R_shoulder 0.7500 
+skin 473 bn_bodyroot 0.2500 bn_R_shoulder 0.7500 
+skin 474 bn_bodyroot 1.0000 
+skin 475 bn_bodyroot 1.0000 
+skin 476 bn_bodyroot 1.0000 
+skin 477 bn_bodyroot 1.0000 
+skin 478 bn_bodyroot 1.0000 
+skin 479 bn_bodyroot 1.0000 
+skin 480 bn_bodyroot 1.0000 
+skin 481 bn_bodyroot 1.0000 
+skin 482 bn_bodyroot 1.0000 
+skin 483 bn_bodyroot 1.0000 
+skin 484 bn_bodyroot 1.0000 
+skin 485 bn_bodyroot 1.0000 
+skin 486 bn_bodyroot 1.0000 
+skin 487 bn_bodyroot 1.0000 
+skin 488 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 489 b_L_lowerArm 1.0000 
+skin 490 b_L_lowerArm 0.8500 b_L_hand 0.1500 
+skin 491 b_L_lowerArm 0.3000 b_L_hand 0.7000 
+skin 492 b_L_lowerArm 0.3000 b_L_hand 0.7000 
+skin 493 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 494 bn_L_shoulder 0.5000 b_L_lowerArm 0.5000 
+skin 495 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 496 b_R_lowerArm 1.0000 
+skin 497 b_R_lowerArm 0.8500 b_R_hand 0.1500 
+skin 498 b_R_lowerArm 0.8500 b_R_hand 0.1500 
+skin 499 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 500 bn_R_shoulder 0.8000 b_R_lowerArm 0.2000 
+skin 501 bn_R_shoulder 0.5000 b_R_lowerArm 0.5000 
+skin 502 bn_bodyroot 0.3000 b_L_thigh 0.7000 
+skin 503 bn_bodyroot 0.5000 b_L_thigh 0.2500 b_R_thigh 0.2500 
+skin 504 bn_bodyroot 0.2500 b_L_thigh 0.7500 
+skin 505 bn_bodyroot 0.2000 b_L_thigh 0.8000 
+skin 506 bn_bodyroot 0.9000 b_L_thigh 0.1000 
+skin 507 bn_bodyroot 0.5000 b_L_thigh 0.5000 
+skin 508 bn_bodyroot 0.8000 b_L_thigh 0.1000 b_R_thigh 0.1000 
+skin 509 bn_bodyroot 0.5000 b_L_thigh 0.2500 b_R_thigh 0.2500 
+skin 510 bn_bodyroot 0.1000 b_L_thigh 0.9000 
+skin 511 bn_bodyroot 0.1000 b_L_thigh 0.9000 
+skin 512 bn_bodyroot 0.8000 b_L_thigh 0.2000 
+skin 513 bn_bodyroot 0.1000 b_L_thigh 0.9000 
+skin 514 bn_bodyroot 0.0500 b_L_thigh 0.9500 
+skin 515 bn_bodyroot 0.3000 b_L_thigh 0.3500 b_R_thigh 0.3500 
+skin 516 bn_bodyroot 0.3000 b_L_thigh 0.3500 b_R_thigh 0.3500 
+skin 517 bn_bodyroot 0.3000 b_L_thigh 0.3500 b_R_thigh 0.3500 
+skin 518 bn_bodyroot 0.3000 b_R_thigh 0.7000 
+skin 519 bn_bodyroot 0.2500 b_R_thigh 0.7500 
+skin 520 bn_bodyroot 0.2000 b_R_thigh 0.8000 
+skin 521 bn_bodyroot 0.9000 b_R_thigh 0.1000 
+skin 522 bn_bodyroot 0.5000 b_R_thigh 0.5000 
+skin 523 bn_bodyroot 0.1000 b_R_thigh 0.9000 
+skin 524 bn_bodyroot 0.1000 b_R_thigh 0.9000 
+skin 525 bn_bodyroot 0.8000 b_R_thigh 0.2000 
+skin 526 bn_bodyroot 0.1000 b_R_thigh 0.9000 
+skin 527 bn_bodyroot 0.0500 b_R_thigh 0.9500 
+skin 528 b_L_thigh 0.8000 b_L_knee 0.2000 
+skin 529 b_L_thigh 0.8000 b_L_knee 0.2000 
+skin 530 b_L_thigh 0.8000 b_L_knee 0.2000 
+skin 531 b_L_thigh 0.8000 b_L_knee 0.2000 
+skin 532 b_L_thigh 0.9500 b_L_knee 0.0500 
+skin 533 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 534 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 535 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 536 b_L_thigh 0.3500 b_L_knee 0.6500 
+skin 537 b_L_thigh 0.1500 b_L_knee 0.8500 
+skin 538 b_L_thigh 0.3500 b_L_knee 0.6500 
+skin 539 b_L_thigh 0.1500 b_L_knee 0.8500 
+skin 540 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 541 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 542 b_L_thigh 0.5000 b_L_knee 0.5000 
+skin 543 b_L_thigh 0.6000 b_L_knee 0.4000 
+skin 544 b_L_thigh 0.6000 b_L_knee 0.4000 
+skin 545 b_L_thigh 0.9500 b_L_knee 0.0500 
+skin 546 b_R_thigh 0.8000 b_R_knee 0.2000 
+skin 547 b_R_thigh 0.8000 b_R_knee 0.2000 
+skin 548 b_R_thigh 0.8000 b_R_knee 0.2000 
+skin 549 b_R_thigh 0.8000 b_R_knee 0.2000 
+skin 550 b_R_thigh 0.9500 b_R_knee 0.0500 
+skin 551 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 552 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 553 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 554 b_R_thigh 0.3500 b_R_knee 0.6500 
+skin 555 b_R_thigh 0.3500 b_R_knee 0.6500 
+skin 556 b_R_thigh 0.1500 b_R_knee 0.8500 
+skin 557 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 558 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 559 b_R_thigh 0.5000 b_R_knee 0.5000 
+skin 560 b_R_thigh 0.6000 b_R_knee 0.4000 
+skin 561 b_R_thigh 0.6000 b_R_knee 0.4000 
+skin 562 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 563 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 564 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 565 b_L_knee 0.8000 b_L_ankle 0.2000 
+skin 566 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 567 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 568 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 569 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 570 b_L_knee 0.1500 b_L_ankle 0.8500 
+skin 571 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 572 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 573 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 574 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 575 b_R_knee 0.8000 b_R_ankle 0.2000 
+skin 576 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 577 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 578 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 579 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 580 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 581 b_R_knee 0.1500 b_R_ankle 0.8500 
+skin 582 b_neck 1.0000 
+skin 583 nuno_00 1.0000 
+skin 584 b_neck 1.0000 
+skin 585 nuno_00 1.0000 
+skin 586 nuno_01 1.0000 
+skin 587 nuno_01 1.0000 
+skin 588 nuno_02 1.0000 
+skin 589 nuno_02 1.0000 
+skin 590 nuno_02 1.0000 
+hier bn_bodyroot b_L_thigh
+hier bn_bodyroot b_R_thigh
+hier bn_bodyroot b_neck
+hier bn_bodyroot bn_L_shoulder
+hier bn_bodyroot bn_R_shoulder
+hier bn_bodyroot nuno_00
+hier b_L_thigh b_L_knee
+hier b_R_thigh b_R_knee
+hier b_neck b_head
+hier bn_L_shoulder b_L_lowerArm
+hier bn_R_shoulder b_R_lowerArm
+hier nuno_00 nuno_01
+hier b_L_knee b_L_ankle
+hier b_R_knee b_R_ankle
+hier b_L_lowerArm b_L_hand
+hier b_R_lowerArm b_R_hand
+hier nuno_01 nuno_02
+hier b_L_ankle x_L_legend
+hier b_R_ankle x_R_legend
+hier b_R_hand x_R_armend

@@ -1,0 +1,680 @@
+joints chf_02catfish 0.00035700 0.21895150 0.27743300
+joints body_bone2 0.00035700 0.21895150 0.10380000
+joints body_eff 0.00035700 0.21895150 -0.33028300
+joints l_hand_bone 0.15820500 0.17948940 0.19850880
+joints lw_fin1_bone 0.00035700 0.03955550 0.11279000
+joints r_hand_bone -0.15749100 0.17948940 0.19850880
+joints up_fin2_bone 0.00035700 0.33742950 0.11952500
+joints lowerjaw_bone1 0.00035700 0.17813510 0.25912860
+joints l_eye 0.13114800 0.25991830 0.32438610
+joints l_eyelid 0.13114800 0.25991830 0.32438610
+joints r_eye -0.13043400 0.25991810 0.32438600
+joints r_eyelid -0.13043400 0.25991810 0.32438600
+joints upperjaw_bone2 0.00035700 0.27475930 0.33324110
+joints body_bone3 0.00035700 0.21895150 -0.10929500
+joints lw_tail_bone1 0.00035700 0.21895150 -0.37763800
+joints up_tail_bone1 0.00035700 0.21895150 -0.37763800
+joints lowerjaw_bone2 0.00035700 0.12232730 0.31493640
+joints l_cheek_bone 0.03981910 0.15808590 0.37610280
+joints line_point 0.04287030 0.19573000 0.48478300
+joints r_cheek_bone -0.03910520 0.15808590 0.37610280
+joints lw_tail_bone2 0.00035700 0.16314370 -0.43344500
+joints up_tail_bone2 0.00035700 0.27475930 -0.43344500
+root chf_02catfish
+skin 0 lowerjaw_bone2 1.0000 
+skin 1 lowerjaw_bone2 1.0000 
+skin 2 upperjaw_bone2 1.0000 
+skin 3 lowerjaw_bone2 1.0000 
+skin 4 lowerjaw_bone1 0.6300 r_cheek_bone 0.3700 
+skin 5 lowerjaw_bone2 1.0000 
+skin 6 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 r_cheek_bone 0.0700 
+skin 7 lowerjaw_bone1 0.6300 r_cheek_bone 0.3700 
+skin 8 lowerjaw_bone1 0.6300 r_cheek_bone 0.3700 
+skin 9 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 r_cheek_bone 0.0700 
+skin 10 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 r_cheek_bone 0.0700 
+skin 11 lowerjaw_bone2 1.0000 
+skin 12 lowerjaw_bone2 1.0000 
+skin 13 lowerjaw_bone1 0.7500 r_cheek_bone 0.2500 
+skin 14 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 r_cheek_bone 0.0700 
+skin 15 lowerjaw_bone2 1.0000 
+skin 16 lowerjaw_bone2 1.0000 
+skin 17 chf_02catfish 0.8700 r_cheek_bone 0.1300 
+skin 18 lowerjaw_bone1 0.6300 r_cheek_bone 0.3700 
+skin 19 body_bone2 0.0100 body_bone3 0.2100 lw_tail_bone1 0.3200 up_tail_bone1 0.0400 lw_tail_bone2 0.4200 
+skin 20 body_bone2 0.0300 body_bone3 0.4400 lw_tail_bone1 0.2700 up_tail_bone1 0.0400 lw_tail_bone2 0.2200 
+skin 21 body_bone2 0.0200 body_bone3 0.3400 lw_tail_bone1 0.3100 up_tail_bone1 0.0900 lw_tail_bone2 0.2300 up_tail_bone2 0.0100 
+skin 22 body_bone3 0.0600 lw_tail_bone1 0.4100 up_tail_bone1 0.0200 lw_tail_bone2 0.5100 
+skin 23 body_bone2 0.0200 body_bone3 0.3400 lw_tail_bone1 0.2600 up_tail_bone1 0.2500 lw_tail_bone2 0.0600 up_tail_bone2 0.0700 
+skin 24 lw_tail_bone1 0.4600 up_tail_bone1 0.5100 lw_tail_bone2 0.0300 
+skin 25 body_bone2 0.0200 body_bone3 0.3400 lw_tail_bone1 0.3100 up_tail_bone1 0.0900 lw_tail_bone2 0.2300 up_tail_bone2 0.0100 
+skin 26 body_bone3 0.0600 lw_tail_bone1 0.4100 up_tail_bone1 0.0200 lw_tail_bone2 0.5100 
+skin 27 lw_tail_bone1 0.0200 lw_tail_bone2 0.9800 
+skin 28 lw_tail_bone1 0.1500 up_tail_bone1 0.0300 lw_tail_bone2 0.8200 
+skin 29 body_bone2 0.0200 body_bone3 0.3400 lw_tail_bone1 0.2600 up_tail_bone1 0.2500 lw_tail_bone2 0.0600 up_tail_bone2 0.0700 
+skin 30 body_bone3 1.0000 
+skin 31 body_bone2 0.0100 body_bone3 0.3700 lw_tail_bone1 0.0700 up_tail_bone1 0.2400 up_tail_bone2 0.3100 
+skin 32 body_bone2 0.0100 body_bone3 0.3400 lw_tail_bone1 0.1000 up_tail_bone1 0.2600 lw_tail_bone2 0.0100 up_tail_bone2 0.2800 
+skin 33 body_bone3 1.0000 
+skin 34 body_bone2 0.0400 body_bone3 0.5000 lw_tail_bone1 0.1800 up_tail_bone1 0.1800 lw_tail_bone2 0.0400 up_tail_bone2 0.0600 
+skin 35 body_bone2 0.0400 body_bone3 0.4900 lw_tail_bone1 0.2300 up_tail_bone1 0.1100 lw_tail_bone2 0.1100 up_tail_bone2 0.0200 
+skin 36 body_bone2 0.0400 body_bone3 0.5200 lw_tail_bone1 0.2500 up_tail_bone1 0.0400 lw_tail_bone2 0.1500 
+skin 37 body_bone2 0.1100 body_bone3 0.8900 
+skin 38 body_bone2 0.1100 body_bone3 0.8900 
+skin 39 body_bone2 0.1100 body_bone3 0.8900 
+skin 40 body_bone2 0.0400 body_bone3 0.4900 lw_tail_bone1 0.2300 up_tail_bone1 0.1100 lw_tail_bone2 0.1100 up_tail_bone2 0.0200 
+skin 41 body_bone2 0.0400 body_bone3 0.5000 lw_tail_bone1 0.1800 up_tail_bone1 0.1800 lw_tail_bone2 0.0400 up_tail_bone2 0.0600 
+skin 42 body_bone3 1.0000 
+skin 43 body_bone2 0.0100 body_bone3 0.3400 lw_tail_bone1 0.1000 up_tail_bone1 0.2600 lw_tail_bone2 0.0100 up_tail_bone2 0.2800 
+skin 44 body_bone2 0.1100 body_bone3 0.8900 
+skin 45 body_bone2 0.1100 body_bone3 0.8900 
+skin 46 body_bone2 0.1100 body_bone3 0.8900 
+skin 47 body_bone2 0.1100 body_bone3 0.8900 
+skin 48 body_bone2 0.1100 body_bone3 0.8900 
+skin 49 body_bone2 0.1100 body_bone3 0.8900 
+skin 50 body_bone2 0.1100 body_bone3 0.8900 
+skin 51 up_tail_bone1 0.2600 up_tail_bone2 0.7400 
+skin 52 body_bone3 0.0300 lw_tail_bone1 0.0100 up_tail_bone1 0.2800 up_tail_bone2 0.6800 
+skin 53 up_tail_bone2 1.0000 
+skin 54 body_bone3 0.0700 lw_tail_bone1 0.0300 up_tail_bone1 0.1900 up_tail_bone2 0.7100 
+skin 55 body_bone3 0.0300 lw_tail_bone1 0.0100 up_tail_bone1 0.2800 up_tail_bone2 0.6800 
+skin 56 chf_02catfish 0.4500 lowerjaw_bone1 0.5500 
+skin 57 chf_02catfish 1.0000 
+skin 58 chf_02catfish 1.0000 
+skin 59 chf_02catfish 0.4500 lowerjaw_bone1 0.5500 
+skin 60 chf_02catfish 1.0000 
+skin 61 chf_02catfish 0.4500 lowerjaw_bone1 0.5500 
+skin 62 chf_02catfish 1.0000 
+skin 63 chf_02catfish 0.4200 lowerjaw_bone1 0.5000 l_cheek_bone 0.0800 
+skin 64 chf_02catfish 0.2200 lowerjaw_bone1 0.7100 lowerjaw_bone2 0.0700 
+skin 65 chf_02catfish 0.2300 lowerjaw_bone1 0.6400 r_cheek_bone 0.1300 
+skin 66 chf_02catfish 0.4200 lowerjaw_bone1 0.5000 r_cheek_bone 0.0800 
+skin 67 chf_02catfish 0.4500 lowerjaw_bone1 0.5500 
+skin 68 chf_02catfish 1.0000 
+skin 69 chf_02catfish 1.0000 
+skin 70 chf_02catfish 0.4500 lowerjaw_bone1 0.5500 
+skin 71 chf_02catfish 1.0000 
+skin 72 chf_02catfish 0.2200 lowerjaw_bone1 0.7100 lowerjaw_bone2 0.0700 
+skin 73 chf_02catfish 0.2300 lowerjaw_bone1 0.6400 l_cheek_bone 0.1300 
+skin 74 lowerjaw_bone2 1.0000 
+skin 75 lowerjaw_bone2 1.0000 
+skin 76 lowerjaw_bone1 1.0000 
+skin 77 lowerjaw_bone1 0.3800 lowerjaw_bone2 0.6200 
+skin 78 lowerjaw_bone1 0.4500 lowerjaw_bone2 0.5500 
+skin 79 lowerjaw_bone2 1.0000 
+skin 80 lowerjaw_bone1 0.3800 lowerjaw_bone2 0.6200 
+skin 81 lowerjaw_bone1 1.0000 
+skin 82 lowerjaw_bone2 1.0000 
+skin 83 lowerjaw_bone2 1.0000 
+skin 84 lowerjaw_bone1 0.4800 lowerjaw_bone2 0.5200 
+skin 85 lowerjaw_bone2 1.0000 
+skin 86 lowerjaw_bone2 1.0000 
+skin 87 lowerjaw_bone1 0.4800 lowerjaw_bone2 0.5200 
+skin 88 lowerjaw_bone2 1.0000 
+skin 89 lowerjaw_bone2 1.0000 
+skin 90 chf_02catfish 0.4700 lowerjaw_bone1 0.3800 r_cheek_bone 0.1500 
+skin 91 chf_02catfish 0.4700 lowerjaw_bone1 0.3800 r_cheek_bone 0.1500 
+skin 92 chf_02catfish 0.5800 lowerjaw_bone1 0.4000 r_cheek_bone 0.0200 
+skin 93 chf_02catfish 0.8300 lowerjaw_bone1 0.1500 r_cheek_bone 0.0200 
+skin 94 chf_02catfish 1.0000 
+skin 95 chf_02catfish 1.0000 
+skin 96 chf_02catfish 1.0000 
+skin 97 upperjaw_bone2 1.0000 
+skin 98 upperjaw_bone2 1.0000 
+skin 99 upperjaw_bone2 1.0000 
+skin 100 chf_02catfish 1.0000 
+skin 101 chf_02catfish 1.0000 
+skin 102 chf_02catfish 0.8300 lowerjaw_bone1 0.1500 r_cheek_bone 0.0200 
+skin 103 chf_02catfish 1.0000 
+skin 104 chf_02catfish 1.0000 
+skin 105 chf_02catfish 1.0000 
+skin 106 chf_02catfish 1.0000 
+skin 107 chf_02catfish 1.0000 
+skin 108 upperjaw_bone2 0.4400 r_cheek_bone 0.5600 
+skin 109 upperjaw_bone2 0.5100 r_cheek_bone 0.4900 
+skin 110 upperjaw_bone2 0.5100 r_cheek_bone 0.4900 
+skin 111 upperjaw_bone2 0.7200 r_cheek_bone 0.2800 
+skin 112 upperjaw_bone2 0.7200 r_cheek_bone 0.2800 
+skin 113 upperjaw_bone2 0.7200 r_cheek_bone 0.2800 
+skin 114 upperjaw_bone2 0.8500 r_cheek_bone 0.1500 
+skin 115 upperjaw_bone2 0.7200 r_cheek_bone 0.2800 
+skin 116 upperjaw_bone2 0.5100 r_cheek_bone 0.4900 
+skin 117 chf_02catfish 0.0400 upperjaw_bone2 0.2700 r_cheek_bone 0.6900 
+skin 118 upperjaw_bone2 1.0000 
+skin 119 upperjaw_bone2 1.0000 
+skin 120 upperjaw_bone2 1.0000 
+skin 121 upperjaw_bone2 0.9000 r_cheek_bone 0.1000 
+skin 122 upperjaw_bone2 0.9000 r_cheek_bone 0.1000 
+skin 123 upperjaw_bone2 0.8200 r_cheek_bone 0.1800 
+skin 124 upperjaw_bone2 1.0000 
+skin 125 upperjaw_bone2 1.0000 
+skin 126 upperjaw_bone2 0.8200 r_cheek_bone 0.1800 
+skin 127 upperjaw_bone2 1.0000 
+skin 128 upperjaw_bone2 0.9500 r_cheek_bone 0.0500 
+skin 129 upperjaw_bone2 1.0000 
+skin 130 upperjaw_bone2 0.8400 r_cheek_bone 0.1600 
+skin 131 upperjaw_bone2 1.0000 
+skin 132 upperjaw_bone2 1.0000 
+skin 133 upperjaw_bone2 1.0000 
+skin 134 upperjaw_bone2 1.0000 
+skin 135 upperjaw_bone2 1.0000 
+skin 136 upperjaw_bone2 1.0000 
+skin 137 upperjaw_bone2 1.0000 
+skin 138 upperjaw_bone2 0.9000 l_cheek_bone 0.1000 
+skin 139 upperjaw_bone2 1.0000 
+skin 140 upperjaw_bone2 0.9000 l_cheek_bone 0.1000 
+skin 141 upperjaw_bone2 0.8200 l_cheek_bone 0.1800 
+skin 142 upperjaw_bone2 0.7200 l_cheek_bone 0.2800 
+skin 143 upperjaw_bone2 0.7200 l_cheek_bone 0.2800 
+skin 144 chf_02catfish 0.8700 l_cheek_bone 0.1300 
+skin 145 upperjaw_bone2 0.8500 l_cheek_bone 0.1500 
+skin 146 upperjaw_bone2 0.8200 l_cheek_bone 0.1800 
+skin 147 upperjaw_bone2 0.7200 l_cheek_bone 0.2800 
+skin 148 upperjaw_bone2 0.8400 l_cheek_bone 0.1600 
+skin 149 upperjaw_bone2 0.9500 l_cheek_bone 0.0500 
+skin 150 upperjaw_bone2 1.0000 
+skin 151 upperjaw_bone2 1.0000 
+skin 152 upperjaw_bone2 1.0000 
+skin 153 upperjaw_bone2 0.7200 l_cheek_bone 0.2800 
+skin 154 upperjaw_bone2 1.0000 
+skin 155 upperjaw_bone2 1.0000 
+skin 156 upperjaw_bone2 0.4400 l_cheek_bone 0.5600 
+skin 157 upperjaw_bone2 0.5100 l_cheek_bone 0.4900 
+skin 158 upperjaw_bone2 0.5100 l_cheek_bone 0.4900 
+skin 159 chf_02catfish 0.0400 upperjaw_bone2 0.2700 l_cheek_bone 0.6900 
+skin 160 upperjaw_bone2 0.5100 l_cheek_bone 0.4900 
+skin 161 chf_02catfish 0.4700 lowerjaw_bone1 0.3800 l_cheek_bone 0.1500 
+skin 162 upperjaw_bone2 1.0000 
+skin 163 chf_02catfish 1.0000 
+skin 164 chf_02catfish 1.0000 
+skin 165 chf_02catfish 1.0000 
+skin 166 chf_02catfish 1.0000 
+skin 167 chf_02catfish 1.0000 
+skin 168 chf_02catfish 1.0000 
+skin 169 lowerjaw_bone2 1.0000 
+skin 170 lowerjaw_bone2 1.0000 
+skin 171 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 l_cheek_bone 0.0700 
+skin 172 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 l_cheek_bone 0.0700 
+skin 173 lowerjaw_bone1 0.6300 l_cheek_bone 0.3700 
+skin 174 lowerjaw_bone1 0.6300 l_cheek_bone 0.3700 
+skin 175 lowerjaw_bone1 0.7500 l_cheek_bone 0.2500 
+skin 176 lowerjaw_bone1 0.6300 l_cheek_bone 0.3700 
+skin 177 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 l_cheek_bone 0.0700 
+skin 178 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6100 l_cheek_bone 0.0700 
+skin 179 lowerjaw_bone2 1.0000 
+skin 180 lowerjaw_bone2 1.0000 
+skin 181 lowerjaw_bone1 0.6300 l_cheek_bone 0.3700 
+skin 182 lowerjaw_bone2 1.0000 
+skin 183 lowerjaw_bone2 1.0000 
+skin 184 lowerjaw_bone2 1.0000 
+skin 185 lowerjaw_bone2 1.0000 
+skin 186 lowerjaw_bone2 1.0000 
+skin 187 lowerjaw_bone2 1.0000 
+skin 188 lowerjaw_bone2 1.0000 
+skin 189 lowerjaw_bone2 1.0000 
+skin 190 lowerjaw_bone2 1.0000 
+skin 191 chf_02catfish 0.4700 lowerjaw_bone1 0.3800 l_cheek_bone 0.1500 
+skin 192 lowerjaw_bone2 1.0000 
+skin 193 lowerjaw_bone2 1.0000 
+skin 194 lowerjaw_bone2 1.0000 
+skin 195 lowerjaw_bone2 1.0000 
+skin 196 lowerjaw_bone2 1.0000 
+skin 197 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 198 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 199 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 200 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 201 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 202 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 203 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 204 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 205 lowerjaw_bone2 1.0000 
+skin 206 lowerjaw_bone2 1.0000 
+skin 207 lowerjaw_bone2 1.0000 
+skin 208 lowerjaw_bone2 1.0000 
+skin 209 lowerjaw_bone2 1.0000 
+skin 210 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 211 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 212 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 213 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 214 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 215 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 216 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 217 lowerjaw_bone1 0.3200 lowerjaw_bone2 0.6800 
+skin 218 upperjaw_bone2 1.0000 
+skin 219 upperjaw_bone2 1.0000 
+skin 220 upperjaw_bone2 1.0000 
+skin 221 upperjaw_bone2 1.0000 
+skin 222 upperjaw_bone2 1.0000 
+skin 223 upperjaw_bone2 1.0000 
+skin 224 upperjaw_bone2 1.0000 
+skin 225 upperjaw_bone2 1.0000 
+skin 226 upperjaw_bone2 1.0000 
+skin 227 upperjaw_bone2 1.0000 
+skin 228 upperjaw_bone2 1.0000 
+skin 229 chf_02catfish 1.0000 
+skin 230 upperjaw_bone2 1.0000 
+skin 231 chf_02catfish 1.0000 
+skin 232 chf_02catfish 1.0000 
+skin 233 chf_02catfish 1.0000 
+skin 234 chf_02catfish 0.5800 lowerjaw_bone1 0.4000 l_cheek_bone 0.0200 
+skin 235 chf_02catfish 1.0000 
+skin 236 chf_02catfish 1.0000 
+skin 237 chf_02catfish 1.0000 
+skin 238 chf_02catfish 1.0000 
+skin 239 chf_02catfish 1.0000 
+skin 240 chf_02catfish 1.0000 
+skin 241 chf_02catfish 1.0000 
+skin 242 chf_02catfish 1.0000 
+skin 243 upperjaw_bone2 1.0000 
+skin 244 upperjaw_bone2 1.0000 
+skin 245 upperjaw_bone2 1.0000 
+skin 246 upperjaw_bone2 1.0000 
+skin 247 upperjaw_bone2 1.0000 
+skin 248 upperjaw_bone2 1.0000 
+skin 249 upperjaw_bone2 1.0000 
+skin 250 upperjaw_bone2 1.0000 
+skin 251 upperjaw_bone2 1.0000 
+skin 252 upperjaw_bone2 1.0000 
+skin 253 chf_02catfish 1.0000 
+skin 254 chf_02catfish 1.0000 
+skin 255 chf_02catfish 1.0000 
+skin 256 chf_02catfish 1.0000 
+skin 257 chf_02catfish 1.0000 
+skin 258 chf_02catfish 1.0000 
+skin 259 chf_02catfish 1.0000 
+skin 260 upperjaw_bone2 1.0000 
+skin 261 upperjaw_bone2 1.0000 
+skin 262 upperjaw_bone2 1.0000 
+skin 263 upperjaw_bone2 1.0000 
+skin 264 upperjaw_bone2 1.0000 
+skin 265 chf_02catfish 1.0000 
+skin 266 upperjaw_bone2 1.0000 
+skin 267 upperjaw_bone2 1.0000 
+skin 268 upperjaw_bone2 1.0000 
+skin 269 upperjaw_bone2 1.0000 
+skin 270 chf_02catfish 1.0000 
+skin 271 chf_02catfish 1.0000 
+skin 272 chf_02catfish 1.0000 
+skin 273 chf_02catfish 1.0000 
+skin 274 chf_02catfish 1.0000 
+skin 275 chf_02catfish 1.0000 
+skin 276 chf_02catfish 1.0000 
+skin 277 chf_02catfish 1.0000 
+skin 278 chf_02catfish 1.0000 
+skin 279 chf_02catfish 1.0000 
+skin 280 chf_02catfish 1.0000 
+skin 281 chf_02catfish 1.0000 
+skin 282 chf_02catfish 1.0000 
+skin 283 chf_02catfish 1.0000 
+skin 284 chf_02catfish 1.0000 
+skin 285 chf_02catfish 1.0000 
+skin 286 chf_02catfish 1.0000 
+skin 287 chf_02catfish 1.0000 
+skin 288 chf_02catfish 1.0000 
+skin 289 chf_02catfish 1.0000 
+skin 290 chf_02catfish 0.8900 lowerjaw_bone1 0.1100 
+skin 291 chf_02catfish 1.0000 
+skin 292 chf_02catfish 1.0000 
+skin 293 chf_02catfish 0.8900 lowerjaw_bone1 0.1100 
+skin 294 chf_02catfish 1.0000 
+skin 295 chf_02catfish 0.8300 lowerjaw_bone1 0.1500 l_cheek_bone 0.0200 
+skin 296 chf_02catfish 1.0000 
+skin 297 chf_02catfish 1.0000 
+skin 298 chf_02catfish 1.0000 
+skin 299 chf_02catfish 0.8300 lowerjaw_bone1 0.1500 l_cheek_bone 0.0200 
+skin 300 chf_02catfish 1.0000 
+skin 301 chf_02catfish 1.0000 
+skin 302 chf_02catfish 1.0000 
+skin 303 body_bone2 1.0000 
+skin 304 body_bone2 1.0000 
+skin 305 chf_02catfish 0.5800 body_bone2 0.4200 
+skin 306 body_bone2 1.0000 
+skin 307 chf_02catfish 0.5800 body_bone2 0.4200 
+skin 308 body_bone2 1.0000 
+skin 309 chf_02catfish 0.5100 body_bone2 0.4900 
+skin 310 chf_02catfish 0.8700 body_bone2 0.1300 
+skin 311 chf_02catfish 1.0000 
+skin 312 chf_02catfish 0.9400 upperjaw_bone2 0.0600 
+skin 313 chf_02catfish 1.0000 
+skin 314 chf_02catfish 1.0000 
+skin 315 chf_02catfish 1.0000 
+skin 316 chf_02catfish 1.0000 
+skin 317 chf_02catfish 1.0000 
+skin 318 chf_02catfish 0.8700 body_bone2 0.1300 
+skin 319 body_bone2 1.0000 
+skin 320 body_bone2 1.0000 
+skin 321 chf_02catfish 0.8700 body_bone2 0.1300 
+skin 322 chf_02catfish 0.5100 body_bone2 0.4900 
+skin 323 chf_02catfish 1.0000 
+skin 324 chf_02catfish 1.0000 
+skin 325 chf_02catfish 1.0000 
+skin 326 chf_02catfish 1.0000 
+skin 327 chf_02catfish 1.0000 
+skin 328 chf_02catfish 1.0000 
+skin 329 chf_02catfish 1.0000 
+skin 330 chf_02catfish 1.0000 
+skin 331 chf_02catfish 0.5800 body_bone2 0.4200 
+skin 332 chf_02catfish 1.0000 
+skin 333 chf_02catfish 0.5800 body_bone2 0.4200 
+skin 334 chf_02catfish 1.0000 
+skin 335 chf_02catfish 1.0000 
+skin 336 chf_02catfish 1.0000 
+skin 337 body_bone2 1.0000 
+skin 338 body_bone2 1.0000 
+skin 339 chf_02catfish 1.0000 
+skin 340 chf_02catfish 1.0000 
+skin 341 chf_02catfish 0.9400 upperjaw_bone2 0.0600 
+skin 342 up_fin2_bone 1.0000 
+skin 343 up_fin2_bone 1.0000 
+skin 344 up_fin2_bone 1.0000 
+skin 345 up_fin2_bone 1.0000 
+skin 346 body_bone2 1.0000 
+skin 347 chf_02catfish 1.0000 
+skin 348 chf_02catfish 1.0000 
+skin 349 chf_02catfish 0.8000 body_bone2 0.2000 
+skin 350 chf_02catfish 0.3800 body_bone2 0.6200 
+skin 351 body_bone2 1.0000 
+skin 352 chf_02catfish 0.1400 body_bone2 0.7000 body_bone3 0.1600 
+skin 353 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 354 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 355 chf_02catfish 1.0000 
+skin 356 chf_02catfish 1.0000 
+skin 357 chf_02catfish 0.5500 body_bone2 0.4500 
+skin 358 body_bone2 1.0000 
+skin 359 body_bone2 1.0000 
+skin 360 chf_02catfish 0.5500 body_bone2 0.4500 
+skin 361 chf_02catfish 0.2600 body_bone2 0.5800 body_bone3 0.1600 
+skin 362 chf_02catfish 0.2600 body_bone2 0.5800 body_bone3 0.1600 
+skin 363 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 364 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 365 chf_02catfish 1.0000 
+skin 366 chf_02catfish 1.0000 
+skin 367 chf_02catfish 1.0000 
+skin 368 chf_02catfish 1.0000 
+skin 369 chf_02catfish 1.0000 
+skin 370 chf_02catfish 1.0000 
+skin 371 chf_02catfish 0.5500 body_bone2 0.4500 
+skin 372 chf_02catfish 0.2600 body_bone2 0.5800 body_bone3 0.1600 
+skin 373 chf_02catfish 0.2600 body_bone2 0.5800 body_bone3 0.1600 
+skin 374 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 375 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 376 chf_02catfish 1.0000 
+skin 377 chf_02catfish 1.0000 
+skin 378 chf_02catfish 0.5500 body_bone2 0.4500 
+skin 379 chf_02catfish 0.1400 body_bone2 0.7000 body_bone3 0.1600 
+skin 380 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 381 chf_02catfish 1.0000 
+skin 382 chf_02catfish 1.0000 
+skin 383 chf_02catfish 0.3800 body_bone2 0.6200 
+skin 384 chf_02catfish 0.8000 body_bone2 0.2000 
+skin 385 chf_02catfish 1.0000 
+skin 386 chf_02catfish 1.0000 
+skin 387 chf_02catfish 1.0000 
+skin 388 chf_02catfish 1.0000 
+skin 389 body_bone2 1.0000 
+skin 390 body_bone2 1.0000 
+skin 391 body_bone2 1.0000 
+skin 392 body_bone2 1.0000 
+skin 393 chf_02catfish 1.0000 
+skin 394 body_bone2 1.0000 
+skin 395 body_bone2 1.0000 
+skin 396 body_bone2 1.0000 
+skin 397 chf_02catfish 1.0000 
+skin 398 chf_02catfish 1.0000 
+skin 399 chf_02catfish 1.0000 
+skin 400 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 401 chf_02catfish 1.0000 
+skin 402 chf_02catfish 1.0000 
+skin 403 chf_02catfish 1.0000 
+skin 404 chf_02catfish 1.0000 
+skin 405 body_bone2 1.0000 
+skin 406 body_bone2 1.0000 
+skin 407 body_bone2 1.0000 
+skin 408 chf_02catfish 1.0000 
+skin 409 body_bone2 0.1700 body_bone3 0.8300 
+skin 410 body_bone2 0.1700 body_bone3 0.8300 
+skin 411 body_bone2 0.1700 body_bone3 0.8300 
+skin 412 body_bone2 0.3700 body_bone3 0.6300 
+skin 413 body_bone2 0.3700 body_bone3 0.6300 
+skin 414 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 415 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 416 body_bone2 0.1700 body_bone3 0.8300 
+skin 417 body_bone2 0.1700 body_bone3 0.8300 
+skin 418 body_bone2 0.3700 body_bone3 0.6300 
+skin 419 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 420 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 421 body_bone2 0.1700 body_bone3 0.8300 
+skin 422 body_bone2 0.1700 body_bone3 0.8300 
+skin 423 body_bone2 0.3700 body_bone3 0.6300 
+skin 424 body_bone2 0.3700 body_bone3 0.6300 
+skin 425 body_bone2 0.1700 body_bone3 0.8300 
+skin 426 body_bone2 0.1700 body_bone3 0.8300 
+skin 427 body_bone2 0.3700 body_bone3 0.6300 
+skin 428 body_bone2 0.3700 body_bone3 0.6300 
+skin 429 body_bone2 0.1700 body_bone3 0.8300 
+skin 430 body_bone2 0.3700 body_bone3 0.6300 
+skin 431 body_bone2 0.3700 body_bone3 0.6300 
+skin 432 body_bone2 0.3700 body_bone3 0.6300 
+skin 433 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 434 body_bone2 0.3700 body_bone3 0.6300 
+skin 435 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 436 body_bone2 0.3700 body_bone3 0.6300 
+skin 437 body_bone2 0.3700 body_bone3 0.6300 
+skin 438 body_bone2 0.3700 body_bone3 0.6300 
+skin 439 chf_02catfish 0.0200 body_bone2 0.9200 body_bone3 0.0600 
+skin 440 chf_02catfish 0.1800 body_bone2 0.0200 l_hand_bone 0.8000 
+skin 441 l_hand_bone 1.0000 
+skin 442 l_hand_bone 1.0000 
+skin 443 l_hand_bone 1.0000 
+skin 444 l_hand_bone 1.0000 
+skin 445 l_hand_bone 1.0000 
+skin 446 l_hand_bone 1.0000 
+skin 447 l_hand_bone 1.0000 
+skin 448 l_hand_bone 1.0000 
+skin 449 l_hand_bone 1.0000 
+skin 450 r_hand_bone 1.0000 
+skin 451 chf_02catfish 0.1800 body_bone2 0.0200 r_hand_bone 0.8000 
+skin 452 r_hand_bone 1.0000 
+skin 453 r_hand_bone 1.0000 
+skin 454 r_hand_bone 1.0000 
+skin 455 r_hand_bone 1.0000 
+skin 456 r_hand_bone 1.0000 
+skin 457 r_hand_bone 1.0000 
+skin 458 r_hand_bone 1.0000 
+skin 459 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 460 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 461 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 462 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 463 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 464 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 465 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 466 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 467 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 468 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 469 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 470 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 471 r_hand_bone 1.0000 
+skin 472 r_hand_bone 1.0000 
+skin 473 r_hand_bone 1.0000 
+skin 474 l_hand_bone 1.0000 
+skin 475 l_hand_bone 1.0000 
+skin 476 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 477 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 478 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 479 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 480 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 481 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 482 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 483 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 484 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 485 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 486 l_hand_bone 1.0000 
+skin 487 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 488 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 489 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 490 r_hand_bone 1.0000 
+skin 491 r_hand_bone 1.0000 
+skin 492 l_hand_bone 1.0000 
+skin 493 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 494 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 495 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 496 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 497 chf_02catfish 0.7000 lw_fin1_bone 0.3000 
+skin 498 l_eye 1.0000 
+skin 499 l_eye 1.0000 
+skin 500 l_eye 1.0000 
+skin 501 l_eye 1.0000 
+skin 502 l_eye 1.0000 
+skin 503 l_eye 1.0000 
+skin 504 l_eye 1.0000 
+skin 505 l_eye 1.0000 
+skin 506 l_eye 1.0000 
+skin 507 l_eye 1.0000 
+skin 508 l_eye 1.0000 
+skin 509 l_eye 1.0000 
+skin 510 l_eye 1.0000 
+skin 511 l_eye 1.0000 
+skin 512 l_eye 1.0000 
+skin 513 l_eye 1.0000 
+skin 514 l_eye 1.0000 
+skin 515 l_eye 1.0000 
+skin 516 l_eye 1.0000 
+skin 517 l_eye 1.0000 
+skin 518 l_eye 1.0000 
+skin 519 l_eye 1.0000 
+skin 520 l_eye 1.0000 
+skin 521 l_eye 1.0000 
+skin 522 l_eye 1.0000 
+skin 523 l_eye 1.0000 
+skin 524 l_eye 1.0000 
+skin 525 l_eye 1.0000 
+skin 526 l_eye 1.0000 
+skin 527 l_eye 1.0000 
+skin 528 l_eye 1.0000 
+skin 529 l_eye 1.0000 
+skin 530 l_eye 1.0000 
+skin 531 l_eye 1.0000 
+skin 532 l_eye 1.0000 
+skin 533 l_eye 1.0000 
+skin 534 l_eye 1.0000 
+skin 535 l_eye 1.0000 
+skin 536 l_eye 1.0000 
+skin 537 l_eye 1.0000 
+skin 538 l_eye 1.0000 
+skin 539 l_eye 1.0000 
+skin 540 l_eyelid 1.0000 
+skin 541 l_eyelid 1.0000 
+skin 542 l_eyelid 1.0000 
+skin 543 l_eyelid 1.0000 
+skin 544 l_eyelid 1.0000 
+skin 545 l_eyelid 1.0000 
+skin 546 l_eyelid 1.0000 
+skin 547 l_eyelid 1.0000 
+skin 548 l_eyelid 1.0000 
+skin 549 l_eyelid 1.0000 
+skin 550 l_eyelid 1.0000 
+skin 551 l_eyelid 1.0000 
+skin 552 l_eyelid 1.0000 
+skin 553 l_eyelid 1.0000 
+skin 554 l_eyelid 1.0000 
+skin 555 l_eyelid 1.0000 
+skin 556 l_eyelid 1.0000 
+skin 557 l_eyelid 1.0000 
+skin 558 l_eyelid 1.0000 
+skin 559 l_eyelid 1.0000 
+skin 560 l_eyelid 1.0000 
+skin 561 l_eyelid 1.0000 
+skin 562 l_eyelid 1.0000 
+skin 563 l_eyelid 1.0000 
+skin 564 l_eyelid 1.0000 
+skin 565 l_eyelid 1.0000 
+skin 566 l_eyelid 1.0000 
+skin 567 r_eye 1.0000 
+skin 568 r_eye 1.0000 
+skin 569 r_eye 1.0000 
+skin 570 r_eye 1.0000 
+skin 571 r_eye 1.0000 
+skin 572 r_eye 1.0000 
+skin 573 r_eye 1.0000 
+skin 574 r_eye 1.0000 
+skin 575 r_eye 1.0000 
+skin 576 r_eye 1.0000 
+skin 577 r_eye 1.0000 
+skin 578 r_eye 1.0000 
+skin 579 r_eye 1.0000 
+skin 580 r_eye 1.0000 
+skin 581 r_eye 1.0000 
+skin 582 r_eye 1.0000 
+skin 583 r_eye 1.0000 
+skin 584 r_eye 1.0000 
+skin 585 r_eye 1.0000 
+skin 586 r_eye 1.0000 
+skin 587 r_eye 1.0000 
+skin 588 r_eye 1.0000 
+skin 589 r_eye 1.0000 
+skin 590 r_eye 1.0000 
+skin 591 r_eye 1.0000 
+skin 592 r_eye 1.0000 
+skin 593 r_eye 1.0000 
+skin 594 r_eye 1.0000 
+skin 595 r_eye 1.0000 
+skin 596 r_eye 1.0000 
+skin 597 r_eye 1.0000 
+skin 598 r_eye 1.0000 
+skin 599 r_eye 1.0000 
+skin 600 r_eye 1.0000 
+skin 601 r_eye 1.0000 
+skin 602 r_eye 1.0000 
+skin 603 r_eye 1.0000 
+skin 604 r_eye 1.0000 
+skin 605 r_eye 1.0000 
+skin 606 r_eye 1.0000 
+skin 607 r_eye 1.0000 
+skin 608 r_eye 1.0000 
+skin 609 r_eyelid 1.0000 
+skin 610 r_eyelid 1.0000 
+skin 611 r_eyelid 1.0000 
+skin 612 r_eyelid 1.0000 
+skin 613 r_eyelid 1.0000 
+skin 614 r_eyelid 1.0000 
+skin 615 r_eyelid 1.0000 
+skin 616 r_eyelid 1.0000 
+skin 617 r_eyelid 1.0000 
+skin 618 r_eyelid 1.0000 
+skin 619 r_eyelid 1.0000 
+skin 620 r_eyelid 1.0000 
+skin 621 r_eyelid 1.0000 
+skin 622 r_eyelid 1.0000 
+skin 623 r_eyelid 1.0000 
+skin 624 r_eyelid 1.0000 
+skin 625 r_eyelid 1.0000 
+skin 626 r_eyelid 1.0000 
+skin 627 r_eyelid 1.0000 
+skin 628 r_eyelid 1.0000 
+skin 629 r_eyelid 1.0000 
+skin 630 r_eyelid 1.0000 
+skin 631 r_eyelid 1.0000 
+skin 632 r_eyelid 1.0000 
+skin 633 r_eyelid 1.0000 
+skin 634 r_eyelid 1.0000 
+skin 635 r_eyelid 1.0000 
+hier chf_02catfish body_bone2
+hier chf_02catfish body_eff
+hier chf_02catfish l_hand_bone
+hier chf_02catfish lw_fin1_bone
+hier chf_02catfish r_hand_bone
+hier chf_02catfish up_fin2_bone
+hier chf_02catfish lowerjaw_bone1
+hier chf_02catfish l_eye
+hier chf_02catfish l_eyelid
+hier chf_02catfish r_eye
+hier chf_02catfish r_eyelid
+hier chf_02catfish upperjaw_bone2
+hier body_bone2 body_bone3
+hier body_eff lw_tail_bone1
+hier body_eff up_tail_bone1
+hier lowerjaw_bone1 lowerjaw_bone2
+hier upperjaw_bone2 l_cheek_bone
+hier upperjaw_bone2 line_point
+hier upperjaw_bone2 r_cheek_bone
+hier lw_tail_bone1 lw_tail_bone2
+hier up_tail_bone1 up_tail_bone2

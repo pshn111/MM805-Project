@@ -1,0 +1,1508 @@
+joints SklRoot 0.00000000 0.24166600 0.05727900
+joints LegL1 0.02955970 0.21355700 0.05727900
+joints LegR1 -0.02955970 0.21355800 0.05727900
+joints RearWingL 0.02239340 0.23399800 0.01735500
+joints RearWingR -0.02239340 0.23399800 0.01735590
+joints Tail1 0.00000000 0.23397100 0.00217730
+joints Neck1 0.00000000 0.24166600 0.17445800
+joints WingL1 0.03162820 0.23972700 0.12665220
+joints WingR1 -0.03162820 0.23972700 0.12665220
+joints LegL2 0.02955970 0.12435000 0.04727390
+joints LegR2 -0.02955970 0.12435000 0.04727390
+joints Tail2 0.00000000 0.23397100 -0.05907300
+joints Neck2 0.00000000 0.24166600 0.23268600
+joints Neck_Sub 0.00000000 0.23575200 0.20772900
+joints WingL1_Sub 0.08238080 0.23972700 0.12443330
+joints WingL2 0.12025500 0.23972700 0.12291280
+joints WingR1_Sub -0.08238060 0.23972700 0.12443330
+joints WingR2 -0.12025500 0.23972700 0.12291270
+joints FingerLIn 0.02026820 0.02351610 0.05979229
+joints FingerLMid 0.02955970 0.02064060 0.05727899
+joints FingerLOut 0.03823990 0.02351610 0.05979229
+joints ThumbL 0.02943490 0.01523940 0.04902307
+joints FingerRIn -0.02026820 0.02351610 0.05979234
+joints FingerRMid -0.02955970 0.02064060 0.05727903
+joints FingerROut -0.03824000 0.02351610 0.05979234
+joints ThumbR -0.02943480 0.01523930 0.04902312
+joints Tail3 0.00000000 0.23397100 -0.11874800
+joints Neck3 0.00000000 0.24166600 0.25863500
+joints WingL2_Sub 0.16727900 0.23972700 0.13311570
+joints WingL3 0.21693200 0.23972700 0.14390940
+joints WingR2_Sub -0.16727900 0.23972700 0.13311570
+joints WingR3 -0.21693300 0.23972700 0.14390940
+joints Tail4 0.00000000 0.23397100 -0.17842400
+joints Head 0.00000000 0.24959800 0.28566900
+joints FX_WingL_End 0.44756800 0.23938900 0.13187400
+joints FX_WingR_End -0.44756900 0.23938900 0.13187360
+joints Tail5 0.00000000 0.23397100 -0.23810000
+joints CheekL 0.03710000 0.24826800 0.31500500
+joints CheekR -0.03710000 0.24826800 0.31500400
+joints Hair 0.00000000 0.25978700 0.34551700
+joints Jaw 0.00000000 0.21749400 0.32170400
+root SklRoot
+skin 0 SklRoot 1.0000 
+skin 1 SklRoot 1.0000 
+skin 2 SklRoot 1.0000 
+skin 3 SklRoot 1.0000 
+skin 4 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 5 LegR1 1.0000 
+skin 6 LegR1 1.0000 
+skin 7 LegR1 1.0000 
+skin 8 LegR1 1.0000 
+skin 9 LegR1 1.0000 
+skin 10 LegR1 1.0000 
+skin 11 LegR1 1.0000 
+skin 12 LegR1 1.0000 
+skin 13 ThumbL 1.0000 
+skin 14 SklRoot 1.0000 
+skin 15 SklRoot 1.0000 
+skin 16 SklRoot 1.0000 
+skin 17 SklRoot 1.0000 
+skin 18 SklRoot 1.0000 
+skin 19 SklRoot 1.0000 
+skin 20 SklRoot 1.0000 
+skin 21 SklRoot 1.0000 
+skin 22 SklRoot 1.0000 
+skin 23 LegR1 1.0000 
+skin 24 LegR2 1.0000 
+skin 25 LegR2 1.0000 
+skin 26 LegR2 1.0000 
+skin 27 LegR2 1.0000 
+skin 28 LegR2 1.0000 
+skin 29 LegR2 1.0000 
+skin 30 LegR2 1.0000 
+skin 31 LegR2 1.0000 
+skin 32 LegR2 1.0000 
+skin 33 LegR1 1.0000 
+skin 34 LegR1 0.8000 LegR2 0.2000 
+skin 35 LegR1 1.0000 
+skin 36 LegR1 0.8000 LegR2 0.2000 
+skin 37 LegR1 0.8000 LegR2 0.2000 
+skin 38 FingerLIn 1.0000 
+skin 39 FingerLIn 1.0000 
+skin 40 FingerLIn 1.0000 
+skin 41 LegR2 1.0000 
+skin 42 LegR2 1.0000 
+skin 43 LegR2 1.0000 
+skin 44 LegR2 1.0000 
+skin 45 LegR2 1.0000 
+skin 46 LegR2 1.0000 
+skin 47 SklRoot 1.0000 
+skin 48 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 49 SklRoot 1.0000 
+skin 50 SklRoot 1.0000 
+skin 51 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 52 SklRoot 1.0000 
+skin 53 SklRoot 1.0000 
+skin 54 SklRoot 1.0000 
+skin 55 SklRoot 1.0000 
+skin 56 SklRoot 1.0000 
+skin 57 SklRoot 1.0000 
+skin 58 SklRoot 1.0000 
+skin 59 LegR1 1.0000 
+skin 60 LegR1 1.0000 
+skin 61 LegR2 1.0000 
+skin 62 LegR1 1.0000 
+skin 63 FingerRMid 1.0000 
+skin 64 FingerRMid 1.0000 
+skin 65 FingerRMid 1.0000 
+skin 66 FingerROut 1.0000 
+skin 67 FingerROut 1.0000 
+skin 68 FingerROut 1.0000 
+skin 69 FingerRIn 1.0000 
+skin 70 FingerRIn 1.0000 
+skin 71 ThumbR 1.0000 
+skin 72 ThumbR 1.0000 
+skin 73 FingerROut 1.0000 
+skin 74 FingerROut 1.0000 
+skin 75 FingerRMid 1.0000 
+skin 76 FingerRMid 1.0000 
+skin 77 FingerRIn 1.0000 
+skin 78 ThumbR 1.0000 
+skin 79 ThumbR 1.0000 
+skin 80 FingerRMid 1.0000 
+skin 81 FingerRMid 1.0000 
+skin 82 FingerRMid 1.0000 
+skin 83 FingerRMid 1.0000 
+skin 84 FingerRMid 1.0000 
+skin 85 FingerRMid 1.0000 
+skin 86 FingerRMid 1.0000 
+skin 87 FingerRMid 1.0000 
+skin 88 FingerRIn 1.0000 
+skin 89 FingerRIn 1.0000 
+skin 90 ThumbR 1.0000 
+skin 91 ThumbR 1.0000 
+skin 92 FingerRMid 1.0000 
+skin 93 FingerRMid 1.0000 
+skin 94 FingerRMid 1.0000 
+skin 95 FingerRMid 1.0000 
+skin 96 FingerRMid 1.0000 
+skin 97 SklRoot 1.0000 
+skin 98 FingerROut 1.0000 
+skin 99 FingerROut 1.0000 
+skin 100 FingerROut 1.0000 
+skin 101 FingerROut 1.0000 
+skin 102 FingerROut 1.0000 
+skin 103 FingerROut 1.0000 
+skin 104 FingerROut 1.0000 
+skin 105 FingerROut 1.0000 
+skin 106 LegR2 1.0000 
+skin 107 FingerROut 1.0000 
+skin 108 LegR2 0.5000 FingerROut 0.5000 
+skin 109 FingerRIn 1.0000 
+skin 110 FingerRIn 1.0000 
+skin 111 FingerRIn 1.0000 
+skin 112 FingerRIn 1.0000 
+skin 113 FingerRIn 1.0000 
+skin 114 FingerRIn 1.0000 
+skin 115 FingerRIn 1.0000 
+skin 116 FingerRIn 1.0000 
+skin 117 FingerRIn 1.0000 
+skin 118 ThumbR 1.0000 
+skin 119 ThumbR 1.0000 
+skin 120 ThumbR 1.0000 
+skin 121 ThumbR 1.0000 
+skin 122 ThumbR 1.0000 
+skin 123 ThumbR 1.0000 
+skin 124 FingerROut 1.0000 
+skin 125 FingerROut 1.0000 
+skin 126 FingerROut 1.0000 
+skin 127 FingerRIn 1.0000 
+skin 128 FingerRIn 1.0000 
+skin 129 FingerRIn 1.0000 
+skin 130 LegL2 1.0000 
+skin 131 FingerLIn 1.0000 
+skin 132 LegL2 1.0000 
+skin 133 ThumbR 1.0000 
+skin 134 ThumbR 1.0000 
+skin 135 ThumbR 1.0000 
+skin 136 ThumbR 1.0000 
+skin 137 FingerRMid 1.0000 
+skin 138 FingerRMid 1.0000 
+skin 139 SklRoot 1.0000 
+skin 140 SklRoot 1.0000 
+skin 141 FingerRIn 1.0000 
+skin 142 FingerROut 1.0000 
+skin 143 FingerROut 1.0000 
+skin 144 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 145 SklRoot 1.0000 
+skin 146 SklRoot 1.0000 
+skin 147 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 148 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 149 FingerROut 1.0000 
+skin 150 SklRoot 1.0000 
+skin 151 FingerROut 1.0000 
+skin 152 FingerRIn 1.0000 
+skin 153 FingerRIn 1.0000 
+skin 154 FingerRIn 1.0000 
+skin 155 ThumbR 1.0000 
+skin 156 FingerROut 1.0000 
+skin 157 ThumbR 1.0000 
+skin 158 LegL2 1.0000 
+skin 159 FingerLOut 1.0000 
+skin 160 FingerLOut 1.0000 
+skin 161 ThumbL 1.0000 
+skin 162 ThumbL 1.0000 
+skin 163 FingerROut 1.0000 
+skin 164 FingerRMid 1.0000 
+skin 165 ThumbL 1.0000 
+skin 166 FingerLMid 1.0000 
+skin 167 FingerLMid 1.0000 
+skin 168 FingerLMid 1.0000 
+skin 169 FingerLMid 1.0000 
+skin 170 FingerLMid 1.0000 
+skin 171 FingerRMid 1.0000 
+skin 172 FingerRMid 1.0000 
+skin 173 FingerLMid 1.0000 
+skin 174 FingerLOut 1.0000 
+skin 175 FingerLOut 1.0000 
+skin 176 Jaw 1.0000 
+skin 177 Jaw 1.0000 
+skin 178 Jaw 1.0000 
+skin 179 Jaw 1.0000 
+skin 180 Jaw 1.0000 
+skin 181 Jaw 1.0000 
+skin 182 Jaw 1.0000 
+skin 183 Jaw 1.0000 
+skin 184 Jaw 1.0000 
+skin 185 Jaw 1.0000 
+skin 186 Jaw 1.0000 
+skin 187 Jaw 1.0000 
+skin 188 Jaw 1.0000 
+skin 189 Jaw 1.0000 
+skin 190 Jaw 1.0000 
+skin 191 Jaw 1.0000 
+skin 192 Jaw 1.0000 
+skin 193 Jaw 1.0000 
+skin 194 Jaw 1.0000 
+skin 195 Jaw 1.0000 
+skin 196 Jaw 1.0000 
+skin 197 Head 1.0000 
+skin 198 Head 1.0000 
+skin 199 Head 1.0000 
+skin 200 Head 1.0000 
+skin 201 Head 1.0000 
+skin 202 Head 1.0000 
+skin 203 Head 1.0000 
+skin 204 Head 1.0000 
+skin 205 Head 1.0000 
+skin 206 Head 1.0000 
+skin 207 Head 1.0000 
+skin 208 Head 1.0000 
+skin 209 Head 1.0000 
+skin 210 Head 1.0000 
+skin 211 Head 1.0000 
+skin 212 Head 1.0000 
+skin 213 Head 1.0000 
+skin 214 Head 1.0000 
+skin 215 Head 1.0000 
+skin 216 Head 1.0000 
+skin 217 Head 1.0000 
+skin 218 Head 1.0000 
+skin 219 Jaw 1.0000 
+skin 220 Jaw 1.0000 
+skin 221 Jaw 1.0000 
+skin 222 Jaw 1.0000 
+skin 223 Head 0.5000 Jaw 0.5000 
+skin 224 Head 1.0000 
+skin 225 Head 1.0000 
+skin 226 Head 1.0000 
+skin 227 Head 1.0000 
+skin 228 Head 1.0000 
+skin 229 Head 1.0000 
+skin 230 Head 1.0000 
+skin 231 Head 1.0000 
+skin 232 Head 1.0000 
+skin 233 Head 1.0000 
+skin 234 Head 1.0000 
+skin 235 Head 1.0000 
+skin 236 Head 1.0000 
+skin 237 Head 1.0000 
+skin 238 Head 1.0000 
+skin 239 Head 1.0000 
+skin 240 Head 1.0000 
+skin 241 Head 1.0000 
+skin 242 Head 1.0000 
+skin 243 Head 1.0000 
+skin 244 Head 1.0000 
+skin 245 Head 1.0000 
+skin 246 Head 1.0000 
+skin 247 Head 1.0000 
+skin 248 Head 1.0000 
+skin 249 Head 1.0000 
+skin 250 Head 1.0000 
+skin 251 Head 1.0000 
+skin 252 Head 1.0000 
+skin 253 Head 1.0000 
+skin 254 Head 1.0000 
+skin 255 Head 1.0000 
+skin 256 Head 1.0000 
+skin 257 Head 1.0000 
+skin 258 Head 1.0000 
+skin 259 Head 1.0000 
+skin 260 Head 1.0000 
+skin 261 Head 1.0000 
+skin 262 Head 1.0000 
+skin 263 Head 1.0000 
+skin 264 Jaw 1.0000 
+skin 265 Jaw 1.0000 
+skin 266 Jaw 1.0000 
+skin 267 Jaw 1.0000 
+skin 268 Jaw 1.0000 
+skin 269 Jaw 1.0000 
+skin 270 Head 1.0000 
+skin 271 Head 1.0000 
+skin 272 Head 1.0000 
+skin 273 Head 1.0000 
+skin 274 Head 1.0000 
+skin 275 Head 1.0000 
+skin 276 Head 1.0000 
+skin 277 Head 1.0000 
+skin 278 FingerLOut 1.0000 
+skin 279 FingerLIn 1.0000 
+skin 280 FingerLIn 1.0000 
+skin 281 FingerLIn 1.0000 
+skin 282 FingerLIn 1.0000 
+skin 283 Jaw 1.0000 
+skin 284 Head 0.2000 Jaw 0.8000 
+skin 285 Jaw 1.0000 
+skin 286 Jaw 1.0000 
+skin 287 Jaw 1.0000 
+skin 288 Jaw 1.0000 
+skin 289 Jaw 1.0000 
+skin 290 Jaw 1.0000 
+skin 291 Jaw 1.0000 
+skin 292 Jaw 1.0000 
+skin 293 FingerLIn 1.0000 
+skin 294 FingerLIn 1.0000 
+skin 295 FingerLIn 1.0000 
+skin 296 Head 0.7000 Jaw 0.3000 
+skin 297 Head 1.0000 
+skin 298 Head 1.0000 
+skin 299 Head 1.0000 
+skin 300 Head 1.0000 
+skin 301 Head 1.0000 
+skin 302 Head 1.0000 
+skin 303 Head 1.0000 
+skin 304 Head 1.0000 
+skin 305 Neck3 1.0000 
+skin 306 FingerLIn 1.0000 
+skin 307 FingerLMid 1.0000 
+skin 308 FingerLMid 1.0000 
+skin 309 FingerLMid 1.0000 
+skin 310 FingerLMid 1.0000 
+skin 311 Jaw 1.0000 
+skin 312 Jaw 1.0000 
+skin 313 Jaw 1.0000 
+skin 314 Jaw 1.0000 
+skin 315 Jaw 1.0000 
+skin 316 Jaw 1.0000 
+skin 317 Head 1.0000 
+skin 318 Head 1.0000 
+skin 319 Head 1.0000 
+skin 320 Head 1.0000 
+skin 321 Head 1.0000 
+skin 322 Head 1.0000 
+skin 323 Head 1.0000 
+skin 324 Head 1.0000 
+skin 325 Head 1.0000 
+skin 326 Head 1.0000 
+skin 327 Head 1.0000 
+skin 328 Head 1.0000 
+skin 329 Head 1.0000 
+skin 330 Head 1.0000 
+skin 331 Head 1.0000 
+skin 332 Head 1.0000 
+skin 333 Head 1.0000 
+skin 334 Head 1.0000 
+skin 335 Head 1.0000 
+skin 336 Head 1.0000 
+skin 337 Head 1.0000 
+skin 338 Head 1.0000 
+skin 339 Head 1.0000 
+skin 340 Head 1.0000 
+skin 341 Head 1.0000 
+skin 342 Head 1.0000 
+skin 343 Head 1.0000 
+skin 344 Head 1.0000 
+skin 345 FingerLMid 1.0000 
+skin 346 ThumbL 1.0000 
+skin 347 ThumbL 1.0000 
+skin 348 ThumbL 1.0000 
+skin 349 ThumbL 1.0000 
+skin 350 Jaw 1.0000 
+skin 351 Jaw 1.0000 
+skin 352 Jaw 1.0000 
+skin 353 Jaw 1.0000 
+skin 354 Jaw 1.0000 
+skin 355 Jaw 1.0000 
+skin 356 Head 1.0000 
+skin 357 Head 1.0000 
+skin 358 Head 1.0000 
+skin 359 Head 1.0000 
+skin 360 Head 1.0000 
+skin 361 Head 1.0000 
+skin 362 FingerLMid 1.0000 
+skin 363 Head 1.0000 
+skin 364 Head 1.0000 
+skin 365 Head 1.0000 
+skin 366 Head 1.0000 
+skin 367 Head 1.0000 
+skin 368 Jaw 1.0000 
+skin 369 Jaw 1.0000 
+skin 370 Jaw 1.0000 
+skin 371 Jaw 1.0000 
+skin 372 Jaw 1.0000 
+skin 373 Jaw 1.0000 
+skin 374 Jaw 1.0000 
+skin 375 Jaw 1.0000 
+skin 376 Jaw 1.0000 
+skin 377 Jaw 1.0000 
+skin 378 Jaw 1.0000 
+skin 379 Jaw 1.0000 
+skin 380 Jaw 1.0000 
+skin 381 Jaw 1.0000 
+skin 382 Head 1.0000 
+skin 383 Head 1.0000 
+skin 384 Head 1.0000 
+skin 385 Head 1.0000 
+skin 386 Neck2 0.5000 Neck3 0.5000 
+skin 387 Neck2 0.7000 Neck3 0.3000 
+skin 388 Head 1.0000 
+skin 389 Head 1.0000 
+skin 390 Head 1.0000 
+skin 391 Head 1.0000 
+skin 392 FingerLMid 1.0000 
+skin 393 FingerLIn 1.0000 
+skin 394 FingerRIn 1.0000 
+skin 395 Jaw 1.0000 
+skin 396 Jaw 1.0000 
+skin 397 Head 1.0000 
+skin 398 Jaw 1.0000 
+skin 399 Head 1.0000 
+skin 400 Head 1.0000 
+skin 401 Head 1.0000 
+skin 402 FingerLIn 1.0000 
+skin 403 ThumbL 1.0000 
+skin 404 Head 0.7000 Jaw 0.3000 
+skin 405 ThumbL 1.0000 
+skin 406 Head 1.0000 
+skin 407 Head 1.0000 
+skin 408 Head 1.0000 
+skin 409 ThumbL 1.0000 
+skin 410 ThumbL 1.0000 
+skin 411 ThumbL 1.0000 
+skin 412 Jaw 1.0000 
+skin 413 Head 0.5000 Jaw 0.5000 
+skin 414 Head 0.5000 Jaw 0.5000 
+skin 415 Head 1.0000 
+skin 416 FingerLOut 1.0000 
+skin 417 FingerLOut 1.0000 
+skin 418 FingerLOut 1.0000 
+skin 419 FingerLOut 1.0000 
+skin 420 FingerLOut 1.0000 
+skin 421 FingerLOut 1.0000 
+skin 422 FingerLIn 1.0000 
+skin 423 FingerLIn 1.0000 
+skin 424 FingerLIn 1.0000 
+skin 425 FingerLIn 1.0000 
+skin 426 WingR2 1.0000 
+skin 427 WingR2 1.0000 
+skin 428 FingerLIn 1.0000 
+skin 429 FingerLOut 1.0000 
+skin 430 FingerLMid 1.0000 
+skin 431 FingerLMid 1.0000 
+skin 432 FingerLMid 1.0000 
+skin 433 FingerLMid 1.0000 
+skin 434 FingerLOut 1.0000 
+skin 435 FingerLIn 1.0000 
+skin 436 FingerLIn 1.0000 
+skin 437 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 438 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 439 WingR1 0.5000 WingR1_Sub 0.2000 WingR2 0.3000 
+skin 440 WingR2 1.0000 
+skin 441 WingR2 1.0000 
+skin 442 WingR2 1.0000 
+skin 443 LegL2 0.5000 FingerLIn 0.5000 
+skin 444 FingerLMid 0.5000 FingerLOut 0.5000 
+skin 445 FingerLIn 0.5000 FingerLMid 0.5000 
+skin 446 LegL2 1.0000 
+skin 447 ThumbL 1.0000 
+skin 448 ThumbL 1.0000 
+skin 449 FingerLMid 1.0000 
+skin 450 FingerLMid 1.0000 
+skin 451 FingerLMid 1.0000 
+skin 452 FingerLIn 1.0000 
+skin 453 WingR1 1.0000 
+skin 454 WingR1 1.0000 
+skin 455 WingR1 1.0000 
+skin 456 WingR1 0.5000 WingR2 0.5000 
+skin 457 WingR1 0.8000 WingR2 0.2000 
+skin 458 ThumbL 1.0000 
+skin 459 FingerLMid 1.0000 
+skin 460 FingerLMid 1.0000 
+skin 461 SklRoot 0.5000 WingR1 0.5000 
+skin 462 LegL2 1.0000 
+skin 463 FingerLOut 1.0000 
+skin 464 FingerLOut 1.0000 
+skin 465 FingerLOut 1.0000 
+skin 466 FingerLOut 1.0000 
+skin 467 FingerLOut 1.0000 
+skin 468 FingerLOut 1.0000 
+skin 469 ThumbL 1.0000 
+skin 470 LegL2 1.0000 
+skin 471 LegL2 0.5000 FingerLOut 0.5000 
+skin 472 SklRoot 0.5000 WingR1 0.5000 
+skin 473 SklRoot 0.5000 WingR1 0.5000 
+skin 474 ThumbL 1.0000 
+skin 475 ThumbL 1.0000 
+skin 476 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 477 WingR2 0.6000 WingR3 0.4000 
+skin 478 WingR3 1.0000 
+skin 479 WingR2_Sub 0.2000 WingR3 0.8000 
+skin 480 WingR3 1.0000 
+skin 481 WingR3 1.0000 
+skin 482 WingR3 1.0000 
+skin 483 WingR3 1.0000 
+skin 484 ThumbR 1.0000 
+skin 485 FingerRMid 0.5000 FingerROut 0.5000 
+skin 486 WingR3 1.0000 
+skin 487 WingR3 1.0000 
+skin 488 WingR3 1.0000 
+skin 489 WingR3 1.0000 
+skin 490 WingR3 1.0000 
+skin 491 LegR2 0.5000 FingerRIn 0.5000 
+skin 492 WingR3 1.0000 
+skin 493 FingerLOut 1.0000 
+skin 494 WingR2 0.4000 WingR3 0.6000 
+skin 495 FingerLOut 1.0000 
+skin 496 LegR2 1.0000 
+skin 497 WingR2_Sub 0.2000 WingR3 0.8000 
+skin 498 FingerRIn 1.0000 
+skin 499 FingerRMid 1.0000 
+skin 500 WingR2_Sub 0.9000 WingR3 0.1000 
+skin 501 WingR2_Sub 0.5000 WingR3 0.5000 
+skin 502 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 503 WingR2_Sub 0.9000 WingR3 0.1000 
+skin 504 WingR2_Sub 0.5000 WingR3 0.5000 
+skin 505 WingR2 0.6000 WingR3 0.4000 
+skin 506 FingerLOut 1.0000 
+skin 507 FingerLIn 1.0000 
+skin 508 FingerRIn 0.5000 FingerRMid 0.5000 
+skin 509 FingerLMid 1.0000 
+skin 510 FingerLMid 1.0000 
+skin 511 LegL2 1.0000 
+skin 512 Head 1.0000 
+skin 513 Head 1.0000 
+skin 514 Head 0.3000 Hair 0.7000 
+skin 515 Head 1.0000 
+skin 516 WingL1 1.0000 
+skin 517 WingL1 1.0000 
+skin 518 Head 1.0000 
+skin 519 Head 0.3000 Hair 0.7000 
+skin 520 Head 1.0000 
+skin 521 Head 1.0000 
+skin 522 Head 0.3000 Hair 0.7000 
+skin 523 Head 1.0000 
+skin 524 Head 1.0000 
+skin 525 Head 0.3000 Hair 0.7000 
+skin 526 Head 0.3000 Hair 0.7000 
+skin 527 Hair 1.0000 
+skin 528 Head 0.3000 Hair 0.7000 
+skin 529 Head 1.0000 
+skin 530 Hair 1.0000 
+skin 531 Hair 1.0000 
+skin 532 Head 0.3000 Hair 0.7000 
+skin 533 Hair 1.0000 
+skin 534 Hair 1.0000 
+skin 535 Hair 1.0000 
+skin 536 Hair 1.0000 
+skin 537 Hair 1.0000 
+skin 538 SklRoot 0.5000 WingL1 0.5000 
+skin 539 SklRoot 1.0000 
+skin 540 Head 0.3000 Hair 0.7000 
+skin 541 Head 0.3000 Hair 0.7000 
+skin 542 Head 0.3000 Hair 0.7000 
+skin 543 Head 1.0000 
+skin 544 Head 0.3000 Hair 0.7000 
+skin 545 Head 1.0000 
+skin 546 LegR1 1.0000 
+skin 547 LegR1 1.0000 
+skin 548 LegR1 1.0000 
+skin 549 LegR1 1.0000 
+skin 550 LegR1 1.0000 
+skin 551 LegR1 1.0000 
+skin 552 LegR1 1.0000 
+skin 553 Hair 1.0000 
+skin 554 Hair 1.0000 
+skin 555 Hair 1.0000 
+skin 556 Head 0.3000 Hair 0.7000 
+skin 557 SklRoot 0.5000 LegR1 0.5000 
+skin 558 SklRoot 1.0000 
+skin 559 SklRoot 0.5000 LegL1 0.5000 
+skin 560 SklRoot 0.5000 LegL1 0.5000 
+skin 561 LegL1 1.0000 
+skin 562 SklRoot 0.5000 LegL1 0.5000 
+skin 563 LegL1 1.0000 
+skin 564 SklRoot 1.0000 
+skin 565 SklRoot 1.0000 
+skin 566 SklRoot 1.0000 
+skin 567 Hair 1.0000 
+skin 568 Hair 1.0000 
+skin 569 Hair 1.0000 
+skin 570 Hair 1.0000 
+skin 571 Head 0.3000 Hair 0.7000 
+skin 572 Head 1.0000 
+skin 573 Hair 1.0000 
+skin 574 Hair 1.0000 
+skin 575 Hair 1.0000 
+skin 576 Hair 1.0000 
+skin 577 SklRoot 1.0000 
+skin 578 LegR1 1.0000 
+skin 579 LegR1 1.0000 
+skin 580 LegR1 1.0000 
+skin 581 LegR1 1.0000 
+skin 582 LegR1 1.0000 
+skin 583 SklRoot 0.5000 LegR1 0.5000 
+skin 584 SklRoot 0.5000 LegL1 0.5000 
+skin 585 LegL1 1.0000 
+skin 586 LegL1 1.0000 
+skin 587 SklRoot 0.5000 LegL1 0.5000 
+skin 588 LegL1 1.0000 
+skin 589 LegL1 1.0000 
+skin 590 SklRoot 1.0000 
+skin 591 SklRoot 0.5000 LegR1 0.5000 
+skin 592 LegR1 1.0000 
+skin 593 LegR1 1.0000 
+skin 594 Head 1.0000 
+skin 595 SklRoot 0.5000 LegR1 0.5000 
+skin 596 SklRoot 0.5000 LegR1 0.5000 
+skin 597 SklRoot 1.0000 
+skin 598 SklRoot 1.0000 
+skin 599 Head 1.0000 
+skin 600 Head 1.0000 
+skin 601 SklRoot 1.0000 
+skin 602 SklRoot 1.0000 
+skin 603 SklRoot 1.0000 
+skin 604 SklRoot 1.0000 
+skin 605 Head 1.0000 
+skin 606 Head 0.3000 Hair 0.7000 
+skin 607 FingerLOut 1.0000 
+skin 608 Head 1.0000 
+skin 609 Hair 1.0000 
+skin 610 Head 0.3000 Hair 0.7000 
+skin 611 Head 1.0000 
+skin 612 Head 1.0000 
+skin 613 Head 1.0000 
+skin 614 CheekR 1.0000 
+skin 615 CheekR 1.0000 
+skin 616 CheekR 1.0000 
+skin 617 Head 0.2000 CheekR 0.8000 
+skin 618 CheekR 1.0000 
+skin 619 CheekR 1.0000 
+skin 620 CheekR 1.0000 
+skin 621 Head 0.2000 CheekR 0.8000 
+skin 622 CheekR 1.0000 
+skin 623 CheekR 1.0000 
+skin 624 CheekR 1.0000 
+skin 625 Head 0.2000 CheekR 0.8000 
+skin 626 CheekR 1.0000 
+skin 627 CheekR 1.0000 
+skin 628 CheekR 1.0000 
+skin 629 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 630 Head 0.2000 CheekR 0.8000 
+skin 631 Head 0.2000 CheekR 0.8000 
+skin 632 Head 0.2000 CheekR 0.8000 
+skin 633 CheekL 1.0000 
+skin 634 Head 0.2000 CheekL 0.8000 
+skin 635 CheekL 1.0000 
+skin 636 Head 0.2000 CheekL 0.8000 
+skin 637 CheekL 1.0000 
+skin 638 Head 0.2000 CheekL 0.8000 
+skin 639 CheekL 1.0000 
+skin 640 CheekL 1.0000 
+skin 641 CheekL 1.0000 
+skin 642 Head 0.2000 CheekL 0.8000 
+skin 643 CheekL 1.0000 
+skin 644 CheekL 1.0000 
+skin 645 CheekL 1.0000 
+skin 646 Head 0.2000 CheekL 0.8000 
+skin 647 CheekL 1.0000 
+skin 648 CheekL 1.0000 
+skin 649 CheekL 1.0000 
+skin 650 Head 0.2000 CheekL 0.8000 
+skin 651 Tail4 0.2000 Tail5 0.8000 
+skin 652 Tail5 1.0000 
+skin 653 WingL1 1.0000 
+skin 654 Tail4 0.2000 Tail5 0.8000 
+skin 655 Tail5 1.0000 
+skin 656 Tail4 0.2000 Tail5 0.8000 
+skin 657 Tail4 0.2000 Tail5 0.8000 
+skin 658 Tail5 1.0000 
+skin 659 WingL2 1.0000 
+skin 660 WingL2 1.0000 
+skin 661 WingL2 1.0000 
+skin 662 Tail4 0.2000 Tail5 0.8000 
+skin 663 Tail4 0.2000 Tail5 0.8000 
+skin 664 Tail5 1.0000 
+skin 665 Tail4 0.2000 Tail5 0.8000 
+skin 666 Tail4 0.2000 Tail5 0.8000 
+skin 667 Tail5 1.0000 
+skin 668 Tail4 0.2000 Tail5 0.8000 
+skin 669 WingL2 1.0000 
+skin 670 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 671 WingL2 0.6000 WingL3 0.4000 
+skin 672 WingL2 1.0000 
+skin 673 LegL2 1.0000 
+skin 674 LegL2 1.0000 
+skin 675 LegL1 0.8000 LegL2 0.2000 
+skin 676 LegL1 1.0000 
+skin 677 LegL1 1.0000 
+skin 678 LegL2 1.0000 
+skin 679 LegL2 1.0000 
+skin 680 LegL2 1.0000 
+skin 681 LegL1 1.0000 
+skin 682 LegL1 1.0000 
+skin 683 LegL1 1.0000 
+skin 684 LegL1 1.0000 
+skin 685 LegL2 1.0000 
+skin 686 LegL2 1.0000 
+skin 687 LegL1 0.8000 LegL2 0.2000 
+skin 688 LegL1 1.0000 
+skin 689 LegL1 1.0000 
+skin 690 LegL1 1.0000 
+skin 691 WingL3 1.0000 
+skin 692 WingL3 1.0000 
+skin 693 WingL3 1.0000 
+skin 694 WingL3 1.0000 
+skin 695 WingL3 1.0000 
+skin 696 WingL3 1.0000 
+skin 697 WingL3 1.0000 
+skin 698 WingL3 1.0000 
+skin 699 WingL3 1.0000 
+skin 700 SklRoot 0.7000 Neck1 0.3000 
+skin 701 SklRoot 1.0000 
+skin 702 SklRoot 0.7000 Neck1 0.3000 
+skin 703 SklRoot 1.0000 
+skin 704 LegL2 1.0000 
+skin 705 WingL3 1.0000 
+skin 706 LegL1 1.0000 
+skin 707 LegL1 0.8000 LegL2 0.2000 
+skin 708 WingL2 0.4000 WingL3 0.6000 
+skin 709 SklRoot 1.0000 
+skin 710 SklRoot 0.7000 Neck1 0.3000 
+skin 711 SklRoot 1.0000 
+skin 712 LegL2 1.0000 
+skin 713 LegL1 1.0000 
+skin 714 LegL1 1.0000 
+skin 715 LegL1 1.0000 
+skin 716 LegL1 1.0000 
+skin 717 LegL1 1.0000 
+skin 718 LegL1 1.0000 
+skin 719 LegL1 1.0000 
+skin 720 LegL1 1.0000 
+skin 721 SklRoot 1.0000 
+skin 722 RearWingR 1.0000 
+skin 723 RearWingR 1.0000 
+skin 724 RearWingR 1.0000 
+skin 725 RearWingR 1.0000 
+skin 726 RearWingR 1.0000 
+skin 727 RearWingR 1.0000 
+skin 728 RearWingL 1.0000 
+skin 729 RearWingL 1.0000 
+skin 730 RearWingL 1.0000 
+skin 731 RearWingL 1.0000 
+skin 732 RearWingL 1.0000 
+skin 733 RearWingL 1.0000 
+skin 734 RearWingR 1.0000 
+skin 735 RearWingR 1.0000 
+skin 736 RearWingR 1.0000 
+skin 737 RearWingR 1.0000 
+skin 738 RearWingR 1.0000 
+skin 739 RearWingL 1.0000 
+skin 740 RearWingL 1.0000 
+skin 741 RearWingL 1.0000 
+skin 742 RearWingL 1.0000 
+skin 743 RearWingL 1.0000 
+skin 744 RearWingL 1.0000 
+skin 745 SklRoot 0.5000 RearWingR 0.5000 
+skin 746 RearWingR 1.0000 
+skin 747 RearWingR 1.0000 
+skin 748 LegL2 1.0000 
+skin 749 RearWingR 1.0000 
+skin 750 RearWingR 1.0000 
+skin 751 RearWingR 1.0000 
+skin 752 RearWingR 1.0000 
+skin 753 RearWingL 1.0000 
+skin 754 RearWingL 1.0000 
+skin 755 RearWingL 1.0000 
+skin 756 RearWingL 1.0000 
+skin 757 SklRoot 0.5000 RearWingL 0.5000 
+skin 758 LegL2 1.0000 
+skin 759 RearWingL 1.0000 
+skin 760 SklRoot 1.0000 
+skin 761 SklRoot 0.5000 RearWingL 0.5000 
+skin 762 SklRoot 0.5000 RearWingL 0.5000 
+skin 763 SklRoot 1.0000 
+skin 764 RearWingR 1.0000 
+skin 765 SklRoot 0.8000 WingL1_Sub 0.2000 
+skin 766 SklRoot 0.5000 RearWingR 0.5000 
+skin 767 SklRoot 0.5000 RearWingR 0.5000 
+skin 768 SklRoot 1.0000 
+skin 769 SklRoot 0.5000 RearWingR 0.5000 
+skin 770 RearWingL 1.0000 
+skin 771 RearWingL 1.0000 
+skin 772 RearWingL 1.0000 
+skin 773 RearWingL 1.0000 
+skin 774 RearWingR 1.0000 
+skin 775 SklRoot 1.0000 
+skin 776 RearWingR 1.0000 
+skin 777 RearWingR 1.0000 
+skin 778 RearWingR 1.0000 
+skin 779 RearWingR 1.0000 
+skin 780 SklRoot 0.5000 WingR1_Sub 0.5000 
+skin 781 SklRoot 0.5000 WingR1 0.5000 
+skin 782 SklRoot 1.0000 
+skin 783 SklRoot 0.2000 Tail1 0.8000 
+skin 784 RearWingL 1.0000 
+skin 785 RearWingL 1.0000 
+skin 786 RearWingL 1.0000 
+skin 787 LegL1 1.0000 
+skin 788 LegL1 1.0000 
+skin 789 SklRoot 0.2000 Tail1 0.8000 
+skin 790 RearWingL 1.0000 
+skin 791 LegL1 1.0000 
+skin 792 SklRoot 1.0000 
+skin 793 SklRoot 0.5000 RearWingR 0.5000 
+skin 794 SklRoot 1.0000 
+skin 795 SklRoot 0.5000 RearWingL 0.5000 
+skin 796 SklRoot 1.0000 
+skin 797 SklRoot 1.0000 
+skin 798 LegL1 1.0000 
+skin 799 SklRoot 1.0000 
+skin 800 SklRoot 1.0000 
+skin 801 SklRoot 1.0000 
+skin 802 RearWingR 1.0000 
+skin 803 SklRoot 1.0000 
+skin 804 RearWingR 1.0000 
+skin 805 Head 0.9000 Jaw 0.1000 
+skin 806 Head 0.9000 Jaw 0.1000 
+skin 807 Head 0.7000 Jaw 0.3000 
+skin 808 SklRoot 0.2000 Tail1 0.8000 
+skin 809 SklRoot 0.5000 RearWingL 0.5000 
+skin 810 SklRoot 1.0000 
+skin 811 SklRoot 0.2000 Tail1 0.8000 
+skin 812 SklRoot 1.0000 
+skin 813 Tail2 0.5000 Tail3 0.5000 
+skin 814 Tail2 0.2000 Tail3 0.8000 
+skin 815 Tail2 0.2000 Tail3 0.8000 
+skin 816 Tail2 0.5000 Tail3 0.5000 
+skin 817 Tail2 0.2000 Tail3 0.8000 
+skin 818 Tail2 0.5000 Tail3 0.5000 
+skin 819 Tail2 0.2000 Tail3 0.8000 
+skin 820 Tail2 0.8000 Tail3 0.2000 
+skin 821 Tail2 0.8000 Tail3 0.2000 
+skin 822 Tail1 0.2000 Tail2 0.8000 
+skin 823 Tail2 0.8000 Tail3 0.2000 
+skin 824 Tail1 0.4000 Tail2 0.6000 
+skin 825 Tail1 0.4000 Tail2 0.6000 
+skin 826 Tail1 0.2000 Tail2 0.7000 Tail3 0.1000 
+skin 827 Tail1 0.8000 Tail2 0.2000 
+skin 828 Tail1 0.8000 Tail2 0.2000 
+skin 829 Tail2 0.8000 Tail3 0.2000 
+skin 830 Tail2 0.8000 Tail3 0.2000 
+skin 831 Tail2 0.8000 Tail3 0.2000 
+skin 832 Tail1 0.2000 Tail2 0.7000 Tail3 0.1000 
+skin 833 Tail1 0.4000 Tail2 0.6000 
+skin 834 Tail1 0.8000 Tail2 0.2000 
+skin 835 SklRoot 0.2000 Tail1 0.8000 
+skin 836 Tail2 0.2000 Tail3 0.8000 
+skin 837 Tail1 0.2000 Tail2 0.7000 Tail3 0.1000 
+skin 838 Tail1 0.4000 Tail2 0.6000 
+skin 839 SklRoot 0.2000 Tail1 0.8000 
+skin 840 Tail2 0.2000 Tail3 0.8000 
+skin 841 Tail1 0.8000 Tail2 0.2000 
+skin 842 Tail1 0.4000 Tail2 0.6000 
+skin 843 Tail3 0.2000 Tail4 0.7000 Tail5 0.1000 
+skin 844 Tail4 0.8000 Tail5 0.2000 
+skin 845 Tail4 0.8000 Tail5 0.2000 
+skin 846 Tail3 0.2000 Tail4 0.7000 Tail5 0.1000 
+skin 847 Tail4 0.8000 Tail5 0.2000 
+skin 848 Tail3 0.2000 Tail4 0.7000 Tail5 0.1000 
+skin 849 Tail3 0.5000 Tail4 0.5000 
+skin 850 Tail3 0.3000 Tail4 0.7000 
+skin 851 Tail3 0.8000 Tail4 0.2000 
+skin 852 Tail3 0.5000 Tail4 0.5000 
+skin 853 Head 1.0000 
+skin 854 Tail3 0.5000 Tail4 0.5000 
+skin 855 Tail2 0.1000 Tail3 0.7000 Tail4 0.2000 
+skin 856 Tail2 0.1000 Tail3 0.7000 Tail4 0.2000 
+skin 857 Tail3 0.5000 Tail4 0.5000 
+skin 858 Tail3 0.5000 Tail4 0.5000 
+skin 859 Tail2 0.1000 Tail3 0.7000 Tail4 0.2000 
+skin 860 Tail4 0.8000 Tail5 0.2000 
+skin 861 WingR1_Sub 0.9000 WingR2_Sub 0.1000 
+skin 862 SklRoot 0.8000 WingR1 0.2000 
+skin 863 WingR1_Sub 0.8000 WingR2_Sub 0.2000 
+skin 864 SklRoot 0.5000 WingR1 0.5000 
+skin 865 WingR1_Sub 0.7000 WingR2_Sub 0.3000 
+skin 866 WingR1_Sub 0.8000 WingR2_Sub 0.2000 
+skin 867 WingR1_Sub 0.9000 WingR2_Sub 0.1000 
+skin 868 SklRoot 1.0000 
+skin 869 WingR1_Sub 0.9000 WingR2_Sub 0.1000 
+skin 870 WingR1_Sub 0.7000 WingR2_Sub 0.3000 
+skin 871 WingR1_Sub 0.8000 WingR2_Sub 0.2000 
+skin 872 WingR1_Sub 0.9000 WingR2_Sub 0.1000 
+skin 873 SklRoot 0.5000 WingR1_Sub 0.5000 
+skin 874 SklRoot 0.3000 WingR1_Sub 0.7000 
+skin 875 SklRoot 0.8000 WingR1_Sub 0.2000 
+skin 876 SklRoot 0.5000 WingL1_Sub 0.5000 
+skin 877 SklRoot 0.5000 WingL1_Sub 0.5000 
+skin 878 SklRoot 1.0000 
+skin 879 SklRoot 1.0000 
+skin 880 SklRoot 1.0000 
+skin 881 SklRoot 1.0000 
+skin 882 SklRoot 1.0000 
+skin 883 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 884 SklRoot 0.6000 Neck_Sub 0.4000 
+skin 885 WingL3 1.0000 
+skin 886 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 887 SklRoot 0.6000 Neck_Sub 0.4000 
+skin 888 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 889 SklRoot 0.6000 Neck_Sub 0.4000 
+skin 890 SklRoot 1.0000 
+skin 891 SklRoot 1.0000 
+skin 892 SklRoot 1.0000 
+skin 893 SklRoot 1.0000 
+skin 894 SklRoot 0.6000 Neck_Sub 0.4000 
+skin 895 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 896 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 897 SklRoot 0.4000 Neck_Sub 0.6000 
+skin 898 SklRoot 0.4000 Neck_Sub 0.6000 
+skin 899 SklRoot 0.5000 Neck1 0.5000 
+skin 900 SklRoot 0.5000 Neck1 0.5000 
+skin 901 Neck1 0.5000 Neck2 0.5000 
+skin 902 SklRoot 0.5000 Neck_Sub 0.5000 
+skin 903 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 904 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 905 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 906 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 907 SklRoot 0.5000 Neck1 0.5000 
+skin 908 Neck1 0.5000 Neck2 0.5000 
+skin 909 Neck1 0.5000 Neck2 0.5000 
+skin 910 WingL2_Sub 0.5000 WingL3 0.5000 
+skin 911 WingL2_Sub 0.4000 WingL3 0.6000 
+skin 912 WingL2 0.6000 WingL3 0.4000 
+skin 913 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 914 WingL2_Sub 0.4000 WingL3 0.6000 
+skin 915 WingL2_Sub 0.5000 WingL3 0.5000 
+skin 916 WingL2 0.6000 WingL3 0.4000 
+skin 917 SklRoot 0.5000 Neck_Sub 0.5000 
+skin 918 SklRoot 0.1000 Neck2 0.3000 Neck_Sub 0.6000 
+skin 919 SklRoot 0.4000 Neck_Sub 0.6000 
+skin 920 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 921 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 922 SklRoot 0.6000 Neck_Sub 0.4000 
+skin 923 SklRoot 0.4000 Neck_Sub 0.6000 
+skin 924 WingL1_Sub 0.1000 WingL2_Sub 0.9000 
+skin 925 Neck1 0.5000 Neck2 0.5000 
+skin 926 Neck2 0.5000 Neck_Sub 0.4000 Neck3 0.1000 
+skin 927 Neck1 0.5000 Neck2 0.5000 
+skin 928 Neck1 0.5000 Neck2 0.5000 
+skin 929 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 930 WingL1_Sub 0.1000 WingL2_Sub 0.9000 
+skin 931 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 932 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 933 Tail4 0.5000 Tail5 0.5000 
+skin 934 Tail4 0.3000 Tail5 0.7000 
+skin 935 Tail4 0.8000 Tail5 0.2000 
+skin 936 Tail4 0.3000 Tail5 0.7000 
+skin 937 Tail4 0.5500 Tail5 0.4500 
+skin 938 Tail4 0.3000 Tail5 0.7000 
+skin 939 Tail4 0.6000 Tail5 0.4000 
+skin 940 Tail4 0.3000 Tail5 0.7000 
+skin 941 Tail4 0.5000 Tail5 0.5000 
+skin 942 Tail4 0.5000 Tail5 0.5000 
+skin 943 Tail4 0.4000 Tail5 0.6000 
+skin 944 Tail4 0.2000 Tail5 0.8000 
+skin 945 Tail4 0.2000 Tail5 0.8000 
+skin 946 Tail4 0.2000 Tail5 0.8000 
+skin 947 Tail4 0.1500 Tail5 0.8500 
+skin 948 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 949 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 950 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 951 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 952 WingL1 0.8000 WingL2 0.2000 
+skin 953 Tail4 0.4000 Tail5 0.6000 
+skin 954 Tail4 0.8000 Tail5 0.2000 
+skin 955 Tail4 0.1000 Tail5 0.9000 
+skin 956 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 957 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 958 Head 0.2000 CheekL 0.8000 
+skin 959 Head 1.0000 
+skin 960 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 961 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 962 Head 0.2000 CheekL 0.8000 
+skin 963 Head 1.0000 
+skin 964 WingL1_Sub 0.7000 WingL2_Sub 0.3000 
+skin 965 Head 0.2000 CheekL 0.8000 
+skin 966 Head 1.0000 
+skin 967 WingL1_Sub 0.8000 WingL2_Sub 0.2000 
+skin 968 WingL1_Sub 0.7000 WingL2_Sub 0.3000 
+skin 969 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 970 Head 1.0000 
+skin 971 Head 0.2000 CheekR 0.8000 
+skin 972 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 973 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 974 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 975 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 976 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 977 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 978 Head 1.0000 
+skin 979 Head 0.2000 CheekR 0.8000 
+skin 980 WingL1 0.5000 WingL1_Sub 0.2000 WingL2 0.3000 
+skin 981 WingL1_Sub 0.4000 WingL2_Sub 0.6000 
+skin 982 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 983 Head 1.0000 
+skin 984 Head 0.2000 CheekR 0.8000 
+skin 985 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 986 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 987 WingL1 0.5000 WingL1_Sub 0.2000 WingL2 0.3000 
+skin 988 WingL1_Sub 0.4000 WingL2_Sub 0.6000 
+skin 989 WingL1 0.5000 WingL2 0.5000 
+skin 990 SklRoot 0.8000 WingL1 0.2000 
+skin 991 SklRoot 1.0000 
+skin 992 SklRoot 1.0000 
+skin 993 SklRoot 1.0000 
+skin 994 WingL1_Sub 0.9000 WingL2_Sub 0.1000 
+skin 995 WingL1_Sub 0.8000 WingL2_Sub 0.2000 
+skin 996 WingL1_Sub 0.9000 WingL2_Sub 0.1000 
+skin 997 WingL1_Sub 0.9000 WingL2_Sub 0.1000 
+skin 998 WingL1_Sub 0.9000 WingL2_Sub 0.1000 
+skin 999 WingL1_Sub 0.8000 WingL2_Sub 0.2000 
+skin 1000 SklRoot 0.5000 WingL1 0.5000 
+skin 1001 SklRoot 0.5000 WingL1 0.5000 
+skin 1002 SklRoot 0.5000 WingL1 0.5000 
+skin 1003 SklRoot 0.5000 WingL1 0.5000 
+skin 1004 SklRoot 0.3000 WingL1_Sub 0.7000 
+skin 1005 WingR1_Sub 0.1000 WingR2_Sub 0.9000 
+skin 1006 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 1007 WingR1_Sub 0.1000 WingR2_Sub 0.9000 
+skin 1008 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 1009 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 1010 WingR2_Sub 0.4000 WingR3 0.6000 
+skin 1011 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1012 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1013 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1014 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1015 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1016 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1017 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1018 WingR1 0.5000 WingR1_Sub 0.2000 WingR2 0.3000 
+skin 1019 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1020 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1021 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1022 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1023 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1024 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1025 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1026 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1027 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1028 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1029 WingR1_Sub 0.4000 WingR2_Sub 0.6000 
+skin 1030 WingR1_Sub 0.4000 WingR2_Sub 0.6000 
+skin 1031 Head 0.5000 Jaw 0.5000 
+skin 1032 Head 0.7000 Jaw 0.3000 
+skin 1033 Head 0.2000 Jaw 0.8000 
+skin 1034 Head 0.7000 Jaw 0.3000 
+skin 1035 Head 0.5000 Jaw 0.5000 
+skin 1036 Head 0.5000 Jaw 0.5000 
+skin 1037 Head 0.2000 Jaw 0.8000 
+skin 1038 Head 0.2000 Jaw 0.8000 
+skin 1039 Neck3 0.2000 Head 0.4000 Jaw 0.4000 
+skin 1040 Head 0.5000 Jaw 0.5000 
+skin 1041 Neck2 0.5000 Neck_Sub 0.2000 Neck3 0.3000 
+skin 1042 Neck2 0.5000 Neck3 0.5000 
+skin 1043 Neck2 0.5000 Neck3 0.5000 
+skin 1044 Neck2 0.5000 Neck3 0.3000 Head 0.1000 Jaw 0.1000 
+skin 1045 Head 0.7000 Jaw 0.3000 
+skin 1046 Neck1 0.5000 Neck2 0.5000 
+skin 1047 Neck2 0.5000 Neck3 0.5000 
+skin 1048 Neck2 0.5000 Neck_Sub 0.4000 Neck3 0.1000 
+skin 1049 SklRoot 0.1000 Neck2 0.3000 Neck_Sub 0.6000 
+skin 1050 Neck2 0.5000 Neck_Sub 0.4000 Neck3 0.1000 
+skin 1051 SklRoot 0.1000 Neck2 0.3000 Neck_Sub 0.6000 
+skin 1052 SklRoot 0.3000 Neck_Sub 0.7000 
+skin 1053 Neck2 0.5000 Neck_Sub 0.2000 Neck3 0.3000 
+skin 1054 Neck2 0.5000 Neck_Sub 0.2000 Neck3 0.3000 
+skin 1055 SklRoot 1.0000 
+skin 1056 WingL2_Sub 0.2000 WingL3 0.8000 
+skin 1057 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1058 WingL2_Sub 0.2000 WingL3 0.8000 
+skin 1059 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1060 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1061 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1062 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1063 WingL2_Sub 0.7000 WingL3 0.3000 
+skin 1064 WingL2_Sub 0.3000 WingL3 0.7000 
+skin 1065 WingL2_Sub 0.4000 WingL3 0.6000 
+skin 1066 WingL2_Sub 0.5000 WingL3 0.5000 
+skin 1067 WingL2_Sub 0.7000 WingL3 0.3000 
+skin 1068 WingL2_Sub 0.9000 WingL3 0.1000 
+skin 1069 WingL2_Sub 0.5000 WingL3 0.5000 
+skin 1070 WingL2_Sub 0.9000 WingL3 0.1000 
+skin 1071 WingR2_Sub 0.5000 WingR3 0.5000 
+skin 1072 WingR2_Sub 0.7000 WingR3 0.3000 
+skin 1073 WingR2_Sub 0.4000 WingR3 0.6000 
+skin 1074 WingR2_Sub 0.5000 WingR3 0.5000 
+skin 1075 WingR2_Sub 0.4000 WingR3 0.6000 
+skin 1076 WingR2_Sub 0.7000 WingR3 0.3000 
+skin 1077 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1078 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1079 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1080 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1081 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1082 WingR2_Sub 0.3000 WingR3 0.7000 
+skin 1083 WingR2 0.6000 WingR3 0.4000 
+skin 1084 Neck3 0.2000 Head 0.4000 Jaw 0.4000 
+skin 1085 Neck3 0.2000 Head 0.4000 Jaw 0.4000 
+skin 1086 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1087 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1088 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1089 Neck2 0.2000 Neck3 0.3000 Head 0.3000 Jaw 0.2000 
+skin 1090 Neck2 0.2000 Neck3 0.3000 Head 0.3000 Jaw 0.2000 
+skin 1091 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1092 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1093 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1094 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1095 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1096 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1097 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1098 Neck2 0.2000 Neck3 0.3000 Head 0.3000 Jaw 0.2000 
+skin 1099 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1100 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1101 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1102 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1103 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1104 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1105 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1106 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1107 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1108 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1109 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1110 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1111 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1112 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1113 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1114 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1115 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1116 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1117 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1118 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1119 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1120 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1121 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1122 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1123 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1124 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1125 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1126 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1127 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1128 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1129 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1130 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1131 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1132 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1133 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1134 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1135 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1136 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1137 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1138 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1139 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1140 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1141 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1142 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1143 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1144 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1145 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1146 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1147 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1148 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1149 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1150 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1151 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1152 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1153 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1154 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1155 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1156 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1157 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1158 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1159 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1160 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1161 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1162 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1163 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1164 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1165 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1166 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1167 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1168 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1169 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1170 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1171 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1172 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1173 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1174 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1175 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1176 SklRoot 0.9000 Neck_Sub 0.1000 
+skin 1177 SklRoot 0.8000 Neck_Sub 0.2000 
+skin 1178 Neck2 0.5000 Neck3 0.3000 Head 0.1000 Jaw 0.1000 
+skin 1179 Neck2 0.5000 Neck3 0.3000 Head 0.1000 Jaw 0.1000 
+skin 1180 Head 1.0000 
+skin 1181 Head 1.0000 
+skin 1182 Head 1.0000 
+skin 1183 Head 1.0000 
+skin 1184 Head 1.0000 
+skin 1185 Head 1.0000 
+skin 1186 Head 1.0000 
+skin 1187 Head 1.0000 
+skin 1188 Head 1.0000 
+skin 1189 Head 1.0000 
+skin 1190 Head 1.0000 
+skin 1191 Head 1.0000 
+skin 1192 Head 1.0000 
+skin 1193 Head 1.0000 
+skin 1194 Head 1.0000 
+skin 1195 Head 1.0000 
+skin 1196 Head 1.0000 
+skin 1197 Head 1.0000 
+skin 1198 Head 1.0000 
+skin 1199 Head 1.0000 
+skin 1200 Head 1.0000 
+skin 1201 Head 1.0000 
+skin 1202 Head 1.0000 
+skin 1203 Head 1.0000 
+skin 1204 Head 1.0000 
+skin 1205 Head 1.0000 
+skin 1206 Head 1.0000 
+skin 1207 Head 1.0000 
+skin 1208 Head 1.0000 
+skin 1209 Head 1.0000 
+skin 1210 Head 1.0000 
+skin 1211 Head 1.0000 
+skin 1212 Head 1.0000 
+skin 1213 Head 1.0000 
+skin 1214 Head 1.0000 
+skin 1215 Head 1.0000 
+skin 1216 Head 1.0000 
+skin 1217 Head 1.0000 
+skin 1218 Head 1.0000 
+skin 1219 Head 1.0000 
+skin 1220 Head 1.0000 
+skin 1221 Head 1.0000 
+skin 1222 SklRoot 1.0000 
+skin 1223 SklRoot 1.0000 
+skin 1224 RearWingL 1.0000 
+skin 1225 RearWingL 1.0000 
+skin 1226 RearWingL 1.0000 
+skin 1227 RearWingL 1.0000 
+skin 1228 RearWingL 1.0000 
+skin 1229 RearWingL 1.0000 
+skin 1230 RearWingL 1.0000 
+skin 1231 RearWingL 1.0000 
+skin 1232 RearWingL 1.0000 
+skin 1233 RearWingL 1.0000 
+skin 1234 RearWingL 1.0000 
+skin 1235 RearWingL 1.0000 
+skin 1236 SklRoot 1.0000 
+skin 1237 RearWingL 1.0000 
+skin 1238 RearWingL 1.0000 
+skin 1239 RearWingL 1.0000 
+skin 1240 RearWingL 1.0000 
+skin 1241 RearWingR 1.0000 
+skin 1242 SklRoot 1.0000 
+skin 1243 RearWingR 1.0000 
+skin 1244 RearWingR 1.0000 
+skin 1245 RearWingR 1.0000 
+skin 1246 RearWingR 1.0000 
+skin 1247 RearWingR 1.0000 
+skin 1248 RearWingR 1.0000 
+skin 1249 RearWingR 1.0000 
+skin 1250 RearWingR 1.0000 
+skin 1251 RearWingR 1.0000 
+skin 1252 SklRoot 1.0000 
+skin 1253 RearWingR 1.0000 
+skin 1254 RearWingR 1.0000 
+skin 1255 RearWingR 1.0000 
+skin 1256 SklRoot 1.0000 
+skin 1257 RearWingR 1.0000 
+skin 1258 RearWingR 1.0000 
+skin 1259 RearWingR 1.0000 
+skin 1260 WingL1_Sub 1.0000 
+skin 1261 SklRoot 1.0000 
+skin 1262 SklRoot 1.0000 
+skin 1263 WingL1_Sub 0.9000 WingL2_Sub 0.1000 
+skin 1264 WingR3 1.0000 
+skin 1265 WingR3 1.0000 
+skin 1266 WingR2 0.4000 WingR3 0.6000 
+skin 1267 WingR2 0.4000 WingR3 0.6000 
+skin 1268 SklRoot 1.0000 
+skin 1269 WingL1_Sub 1.0000 
+skin 1270 WingL1_Sub 0.8000 WingL2_Sub 0.2000 
+skin 1271 WingR3 1.0000 
+skin 1272 WingR3 1.0000 
+skin 1273 WingR3 1.0000 
+skin 1274 WingR3 1.0000 
+skin 1275 WingR2 0.4000 WingR3 0.6000 
+skin 1276 WingR2 0.4000 WingR3 0.6000 
+skin 1277 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 1278 WingR1_Sub 0.1000 WingR2_Sub 0.9000 
+skin 1279 WingR2_Sub 1.0000 
+skin 1280 WingR2_Sub 1.0000 
+skin 1281 WingR2 0.4000 WingR3 0.6000 
+skin 1282 WingR2 0.4000 WingR3 0.6000 
+skin 1283 WingR1_Sub 0.7000 WingR2_Sub 0.3000 
+skin 1284 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1285 WingL1 1.0000 
+skin 1286 WingR1_Sub 0.9000 WingR2_Sub 0.1000 
+skin 1287 WingR1_Sub 1.0000 
+skin 1288 SklRoot 1.0000 
+skin 1289 SklRoot 1.0000 
+skin 1290 WingR1_Sub 0.8000 WingR2_Sub 0.2000 
+skin 1291 WingR1_Sub 1.0000 
+skin 1292 SklRoot 1.0000 
+skin 1293 WingL3 1.0000 
+skin 1294 WingL3 1.0000 
+skin 1295 WingL3 1.0000 
+skin 1296 WingL2 0.4000 WingL3 0.6000 
+skin 1297 WingL2 0.4000 WingL3 0.6000 
+skin 1298 WingL3 1.0000 
+skin 1299 WingL3 1.0000 
+skin 1300 WingL3 1.0000 
+skin 1301 WingL3 1.0000 
+skin 1302 WingL3 1.0000 
+skin 1303 WingL2 0.4000 WingL3 0.6000 
+skin 1304 WingL2 0.4000 WingL3 0.6000 
+skin 1305 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 1306 WingL1_Sub 0.1000 WingL2_Sub 0.9000 
+skin 1307 WingL2_Sub 1.0000 
+skin 1308 WingL2_Sub 1.0000 
+skin 1309 WingL2 0.4000 WingL3 0.6000 
+skin 1310 WingL2 0.4000 WingL3 0.6000 
+skin 1311 WingL1_Sub 0.5000 WingL2_Sub 0.5000 
+skin 1312 WingL1_Sub 0.4000 WingL2_Sub 0.6000 
+skin 1313 WingL2 0.4000 WingL3 0.6000 
+skin 1314 WingL2 0.8000 WingL3 0.2000 
+skin 1315 WingL1_Sub 0.2000 WingL2_Sub 0.8000 
+skin 1316 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 1317 WingL1 1.0000 
+skin 1318 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 1319 WingL2 0.8000 WingL3 0.2000 
+skin 1320 WingL2 1.0000 
+skin 1321 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 1322 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 1323 WingL2 1.0000 
+skin 1324 WingL1_Sub 0.3000 WingL2_Sub 0.7000 
+skin 1325 WingL2 0.4000 WingL3 0.6000 
+skin 1326 WingL2 0.4000 WingL3 0.6000 
+skin 1327 SklRoot 0.3000 WingL1 0.7000 
+skin 1328 WingL1_Sub 0.8000 WingL2_Sub 0.2000 
+skin 1329 WingR3 1.0000 
+skin 1330 WingR3 1.0000 
+skin 1331 WingR3 1.0000 
+skin 1332 WingL3 1.0000 
+skin 1333 WingL3 1.0000 
+skin 1334 WingL3 1.0000 
+skin 1335 WingR3 1.0000 
+skin 1336 WingR3 1.0000 
+skin 1337 WingL3 1.0000 
+skin 1338 WingL3 1.0000 
+skin 1339 WingL3 1.0000 
+skin 1340 WingR3 1.0000 
+skin 1341 WingR3 1.0000 
+skin 1342 WingR3 1.0000 
+skin 1343 WingL3 1.0000 
+skin 1344 SklRoot 0.3000 WingL1 0.7000 
+skin 1345 WingL3 1.0000 
+skin 1346 WingL2 0.4000 WingL3 0.6000 
+skin 1347 WingL2 0.4000 WingL3 0.6000 
+skin 1348 WingL3 1.0000 
+skin 1349 WingL3 1.0000 
+skin 1350 WingL1_Sub 0.6000 WingL2_Sub 0.4000 
+skin 1351 WingL1_Sub 0.7000 WingL2_Sub 0.3000 
+skin 1352 WingR3 1.0000 
+skin 1353 WingR3 1.0000 
+skin 1354 WingL3 1.0000 
+skin 1355 WingR3 1.0000 
+skin 1356 WingR3 1.0000 
+skin 1357 WingR3 1.0000 
+skin 1358 WingL1 0.5000 WingL2 0.5000 
+skin 1359 WingL3 1.0000 
+skin 1360 WingL3 1.0000 
+skin 1361 WingL3 1.0000 
+skin 1362 WingL1_Sub 0.4000 WingL2_Sub 0.6000 
+skin 1363 WingL1 0.5000 WingL2 0.5000 
+skin 1364 WingR2 0.4000 WingR3 0.6000 
+skin 1365 WingR2 0.4000 WingR3 0.6000 
+skin 1366 WingR2 0.4000 WingR3 0.6000 
+skin 1367 WingR3 1.0000 
+skin 1368 WingR3 1.0000 
+skin 1369 WingL3 1.0000 
+skin 1370 SklRoot 0.3000 WingR1 0.7000 
+skin 1371 WingR1_Sub 0.8000 WingR2_Sub 0.2000 
+skin 1372 SklRoot 0.3000 WingR1 0.7000 
+skin 1373 WingR1_Sub 0.6000 WingR2_Sub 0.4000 
+skin 1374 WingR1 1.0000 
+skin 1375 WingR1 0.5000 WingR2 0.5000 
+skin 1376 WingR2 1.0000 
+skin 1377 WingR1_Sub 0.4000 WingR2_Sub 0.6000 
+skin 1378 WingR1_Sub 0.4000 WingR2_Sub 0.6000 
+skin 1379 WingR1 1.0000 
+skin 1380 WingR1_Sub 0.5000 WingR2_Sub 0.5000 
+skin 1381 WingR1 0.5000 WingR2 0.5000 
+skin 1382 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1383 WingR2 0.4000 WingR3 0.6000 
+skin 1384 WingR2 0.8000 WingR3 0.2000 
+skin 1385 WingR1_Sub 0.2000 WingR2_Sub 0.8000 
+skin 1386 WingR2 0.8000 WingR3 0.2000 
+skin 1387 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1388 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1389 WingR1_Sub 0.3000 WingR2_Sub 0.7000 
+skin 1390 WingR2 1.0000 
+skin 1391 WingR2 0.4000 WingR3 0.6000 
+skin 1392 WingR3 1.0000 
+skin 1393 WingR3 1.0000 
+skin 1394 WingR3 1.0000 
+skin 1395 WingR3 1.0000 
+skin 1396 WingR3 1.0000 
+skin 1397 WingR3 1.0000 
+skin 1398 WingR3 1.0000 
+skin 1399 WingR3 1.0000 
+skin 1400 WingR3 1.0000 
+skin 1401 WingL3 1.0000 
+skin 1402 WingL3 1.0000 
+skin 1403 WingL3 1.0000 
+skin 1404 WingL3 1.0000 
+skin 1405 WingR3 1.0000 
+skin 1406 WingR3 1.0000 
+skin 1407 WingR3 1.0000 
+skin 1408 WingR3 1.0000 
+skin 1409 WingR3 1.0000 
+skin 1410 WingR3 1.0000 
+skin 1411 WingL3 1.0000 
+skin 1412 WingL3 1.0000 
+skin 1413 WingL3 1.0000 
+skin 1414 WingL3 1.0000 
+skin 1415 WingL3 1.0000 
+skin 1416 WingL3 1.0000 
+skin 1417 WingL3 1.0000 
+skin 1418 WingL3 1.0000 
+skin 1419 WingL3 1.0000 
+skin 1420 WingL3 1.0000 
+skin 1421 WingL3 1.0000 
+skin 1422 WingL3 1.0000 
+skin 1423 WingR3 1.0000 
+skin 1424 WingR3 1.0000 
+skin 1425 WingR3 1.0000 
+hier SklRoot LegL1
+hier SklRoot LegR1
+hier SklRoot RearWingL
+hier SklRoot RearWingR
+hier SklRoot Tail1
+hier SklRoot Neck1
+hier SklRoot WingL1
+hier SklRoot WingR1
+hier LegL1 LegL2
+hier LegR1 LegR2
+hier Tail1 Tail2
+hier Neck1 Neck2
+hier Neck1 Neck_Sub
+hier WingL1 WingL1_Sub
+hier WingL1 WingL2
+hier WingR1 WingR1_Sub
+hier WingR1 WingR2
+hier LegL2 FingerLIn
+hier LegL2 FingerLMid
+hier LegL2 FingerLOut
+hier LegL2 ThumbL
+hier LegR2 FingerRIn
+hier LegR2 FingerRMid
+hier LegR2 FingerROut
+hier LegR2 ThumbR
+hier Tail2 Tail3
+hier Neck2 Neck3
+hier WingL2 WingL2_Sub
+hier WingL2 WingL3
+hier WingR2 WingR2_Sub
+hier WingR2 WingR3
+hier Tail3 Tail4
+hier Neck3 Head
+hier WingL3 FX_WingL_End
+hier WingR3 FX_WingR_End
+hier Tail4 Tail5
+hier Head CheekL
+hier Head CheekR
+hier Head Hair
+hier Head Jaw

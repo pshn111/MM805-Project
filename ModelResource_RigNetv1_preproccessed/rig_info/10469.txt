@@ -1,0 +1,867 @@
+joints Y1_00_ROOT -0.00000800 0.22861500 0.12490600
+joints Y_L_hip 0.09178990 0.20088500 0.12490600
+joints Y_R_hip -0.09180590 0.20088500 0.12490600
+joints Y_spine -0.00000800 0.29834500 0.12490600
+joints Y_L_knee 0.09183540 0.09666700 0.12490600
+joints Y_R_knee -0.09185100 0.09666710 0.12490600
+joints Y_chest -0.00000828 0.39060900 0.12490600
+joints Y_L_toe 0.09182260 0.03818490 0.11399200
+joints Y_R_toe -0.09183860 0.03818490 0.11399200
+joints Y_L_clavicle 0.04253190 0.41420100 0.12490600
+joints Y_R_clavicle -0.04254860 0.41420000 0.12490600
+joints Y_neck -0.00000853 0.47529400 0.12490600
+joints Y_L_shoulder 0.09180550 0.41489700 0.12490600
+joints Y_R_shoulder -0.09182190 0.41489700 0.12490600
+joints L_manto_01 0.09296020 0.46447200 0.08181660
+joints R_manto_01 -0.09297720 0.46447200 0.08181660
+joints Y_head -0.00000913 0.67389900 0.12490600
+joints Zipper_01 -0.00000849 0.46149800 0.15663530
+joints Y_L_elbow 0.18796700 0.41516500 0.12066037
+joints Y_R_elbow -0.18798300 0.41516600 0.12066037
+joints L_manto_02 0.13369600 0.46447200 -0.08073500
+joints R_manto_02 -0.13371400 0.46447200 -0.08073400
+joints Y_L_down_tuno_01 0.18585700 0.49692300 0.06380320
+joints Y_L_up_tuno_01 0.16866400 0.86027500 0.06905090
+joints Y_R_down_tuno_01 -0.18587600 0.49692300 0.06380330
+joints Y_R_up_tuno_01 -0.16868300 0.86027600 0.06905090
+joints zipper_02 -0.00000818 0.40415900 0.19732080
+joints Y_L_wrist 0.26888300 0.41575500 0.12552568
+joints Y_R_wrist -0.26889900 0.41575600 0.12552568
+joints L_manto_03 0.25395700 0.46447200 -0.24783800
+joints R_manto_03 -0.25397400 0.46447200 -0.24783800
+joints Y_L_down_tuno_02 0.22544500 0.45485000 0.02888200
+joints Y_L_up_tuno_02 0.22719500 0.94386300 0.03031920
+joints Y_R_down_tuno_02 -0.22546300 0.45485000 0.02888200
+joints Y_R_up_tuno_02 -0.22721300 0.94386300 0.03031890
+joints zipper_03 -0.00000757 0.30531800 0.24465900
+joints Y_L_hand 0.36378500 0.43638600 0.12552590
+joints Y_R_hand -0.36380100 0.43638700 0.12552579
+joints Y_L_finger 0.39374000 0.40107100 0.12552600
+joints Y_R_finger -0.39375600 0.40107300 0.12552590
+root Y1_00_ROOT
+skin 0 Y1_00_ROOT 1.0000 
+skin 1 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 2 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 3 Y1_00_ROOT 1.0000 
+skin 4 Y1_00_ROOT 0.7200 Y_L_hip 0.1400 Y_spine 0.1400 
+skin 5 Y1_00_ROOT 0.7400 Y_L_hip 0.1000 Y_spine 0.1600 
+skin 6 Y1_00_ROOT 0.5300 Y_R_hip 0.0200 Y_spine 0.4500 
+skin 7 Y1_00_ROOT 0.7400 Y_R_hip 0.1000 Y_spine 0.1600 
+skin 8 Y1_00_ROOT 0.7200 Y_R_hip 0.1400 Y_spine 0.1400 
+skin 9 Y1_00_ROOT 0.9900 Y_L_hip 0.0100 
+skin 10 Y1_00_ROOT 0.7400 Y_L_hip 0.1000 Y_spine 0.1600 
+skin 11 Y1_00_ROOT 0.7400 Y_R_hip 0.1000 Y_spine 0.1600 
+skin 12 Y1_00_ROOT 0.9900 Y_R_hip 0.0100 
+skin 13 Y1_00_ROOT 1.0000 
+skin 14 Y1_00_ROOT 1.0000 
+skin 15 Y1_00_ROOT 0.7800 Y_L_hip 0.2000 Y_spine 0.0200 
+skin 16 Y1_00_ROOT 0.7800 Y_R_hip 0.2000 Y_spine 0.0200 
+skin 17 Y1_00_ROOT 0.6100 Y_R_hip 0.3900 
+skin 18 Y1_00_ROOT 1.0000 
+skin 19 Y1_00_ROOT 1.0000 
+skin 20 Y1_00_ROOT 0.7200 Y_L_hip 0.1400 Y_spine 0.1400 
+skin 21 Y1_00_ROOT 0.7200 Y_R_hip 0.1400 Y_spine 0.1400 
+skin 22 Y1_00_ROOT 0.0800 Y_spine 0.9200 
+skin 23 Y1_00_ROOT 0.4300 Y_spine 0.4700 Y_R_clavicle 0.0500 Y_R_shoulder 0.0500 
+skin 24 Y1_00_ROOT 0.9200 Y_spine 0.0800 
+skin 25 Y1_00_ROOT 0.0800 Y_spine 0.9200 
+skin 26 Y1_00_ROOT 0.9200 Y_spine 0.0800 
+skin 27 Y1_00_ROOT 0.4300 Y_spine 0.4700 Y_L_clavicle 0.0500 Y_L_shoulder 0.0500 
+skin 28 Y1_00_ROOT 0.0300 Y_spine 0.9100 Y_R_clavicle 0.0100 Y_R_shoulder 0.0500 
+skin 29 Y1_00_ROOT 0.1000 Y_spine 0.9000 
+skin 30 Y1_00_ROOT 0.0300 Y_spine 0.8600 Y_R_clavicle 0.1000 Y_R_shoulder 0.0100 
+skin 31 Y1_00_ROOT 0.2200 Y_spine 0.7600 Y_R_clavicle 0.0200 
+skin 32 Y1_00_ROOT 0.4500 Y_R_hip 0.0200 Y_spine 0.5300 
+skin 33 Y1_00_ROOT 0.2000 Y_spine 0.8000 
+skin 34 Y1_00_ROOT 0.4100 Y_R_hip 0.0200 Y_spine 0.5700 
+skin 35 Y1_00_ROOT 0.1700 Y_spine 0.8300 
+skin 36 Y1_00_ROOT 0.0300 Y_spine 0.8400 Y_L_clavicle 0.1300 
+skin 37 Y1_00_ROOT 0.1700 Y_spine 0.8300 
+skin 38 Y1_00_ROOT 0.0100 Y_neck 0.9900 
+skin 39 Y1_00_ROOT 0.5700 Y_spine 0.4200 Y_neck 0.0100 
+skin 40 Y1_00_ROOT 0.3500 Y_spine 0.6000 Y_head 0.0500 
+skin 41 Y1_00_ROOT 0.4900 Y_spine 0.4700 Y_neck 0.0400 
+skin 42 Y1_00_ROOT 0.5900 Y_spine 0.4000 L_manto_01 0.0100 
+skin 43 Y1_00_ROOT 0.5700 Y_spine 0.4200 Y_neck 0.0100 
+skin 44 Y1_00_ROOT 0.3500 Y_spine 0.6000 Y_head 0.0500 
+skin 45 Y1_00_ROOT 0.9700 Y_spine 0.0300 
+skin 46 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 47 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 48 Y1_00_ROOT 0.1000 Y_spine 0.9000 
+skin 49 Y1_00_ROOT 0.0300 Y_spine 0.9100 Y_L_clavicle 0.0100 Y_L_shoulder 0.0500 
+skin 50 Y1_00_ROOT 0.0300 Y_spine 0.8600 Y_L_clavicle 0.1000 Y_L_shoulder 0.0100 
+skin 51 Y1_00_ROOT 0.2200 Y_spine 0.7600 Y_L_clavicle 0.0200 
+skin 52 Y1_00_ROOT 0.4500 Y_L_hip 0.0200 Y_spine 0.5300 
+skin 53 Y1_00_ROOT 0.5300 Y_L_hip 0.0200 Y_spine 0.4500 
+skin 54 Y1_00_ROOT 0.2500 Y_spine 0.6600 Y_L_clavicle 0.0700 Y_L_shoulder 0.0200 
+skin 55 Y1_00_ROOT 0.9900 Y_spine 0.0100 
+skin 56 Y1_00_ROOT 0.4100 Y_L_hip 0.0200 Y_spine 0.5700 
+skin 57 Y1_00_ROOT 0.1700 Y_spine 0.8300 
+skin 58 Y1_00_ROOT 0.7500 Y_L_hip 0.1100 Y_spine 0.1400 
+skin 59 Y1_00_ROOT 0.7000 Y_L_hip 0.1000 Y_spine 0.2000 
+skin 60 Y1_00_ROOT 0.7500 Y_R_hip 0.1100 Y_spine 0.1400 
+skin 61 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 62 Y1_00_ROOT 0.3000 Y_R_hip 0.0100 Y_spine 0.6900 
+skin 63 Y1_00_ROOT 0.7500 Y_R_hip 0.1100 Y_spine 0.1400 
+skin 64 Y1_00_ROOT 0.9000 Y_spine 0.1000 
+skin 65 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 66 Y1_00_ROOT 0.9200 Y_L_hip 0.0800 
+skin 67 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 68 Y1_00_ROOT 0.9200 Y_L_hip 0.0800 
+skin 69 Y1_00_ROOT 0.9200 Y_L_hip 0.0800 
+skin 70 Y1_00_ROOT 0.2500 Y_L_hip 0.0100 Y_spine 0.7400 
+skin 71 Y1_00_ROOT 0.1200 Y_L_hip 0.4000 Y_L_knee 0.4700 Y_L_toe 0.0100 
+skin 72 Y1_00_ROOT 0.7700 Y_L_hip 0.2000 Y_spine 0.0300 
+skin 73 Y1_00_ROOT 0.9600 Y_spine 0.0400 
+skin 74 Y1_00_ROOT 0.6100 Y_L_hip 0.3900 
+skin 75 Y1_00_ROOT 0.7700 Y_R_hip 0.2000 Y_spine 0.0300 
+skin 76 Y1_00_ROOT 0.6100 Y_L_hip 0.3900 
+skin 77 Y1_00_ROOT 0.3000 Y_L_hip 0.3700 Y_L_knee 0.3000 Y_L_toe 0.0300 
+skin 78 Y1_00_ROOT 0.6100 Y_L_hip 0.3900 
+skin 79 Y1_00_ROOT 0.6100 Y_R_hip 0.3900 
+skin 80 Y1_00_ROOT 0.9200 Y_R_hip 0.0800 
+skin 81 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 82 Y1_00_ROOT 0.9800 Y_spine 0.0200 
+skin 83 Y1_00_ROOT 0.6100 Y_L_hip 0.3900 
+skin 84 Y1_00_ROOT 0.5700 Y_L_hip 0.1000 Y_L_knee 0.3000 Y_L_toe 0.0300 
+skin 85 Y1_00_ROOT 0.6100 Y_R_hip 0.3900 
+skin 86 Y1_00_ROOT 0.9000 Y_spine 0.1000 
+skin 87 Y1_00_ROOT 0.2500 Y_R_hip 0.0100 Y_spine 0.7400 
+skin 88 Y1_00_ROOT 0.6100 Y_L_hip 0.3900 
+skin 89 Y1_00_ROOT 0.6100 Y_R_hip 0.3900 
+skin 90 Y1_00_ROOT 0.9200 Y_R_hip 0.0800 
+skin 91 Y1_00_ROOT 0.9200 Y_R_hip 0.0800 
+skin 92 Y1_00_ROOT 0.3000 Y_L_hip 0.3800 Y_L_knee 0.3000 Y_L_toe 0.0200 
+skin 93 Y1_00_ROOT 0.1300 Y_L_hip 0.4000 Y_L_knee 0.4600 Y_L_toe 0.0100 
+skin 94 Y1_00_ROOT 0.1300 Y_R_hip 0.4000 Y_R_knee 0.4600 Y_R_toe 0.0100 
+skin 95 Y1_00_ROOT 0.4300 Y_R_hip 0.4000 Y_R_knee 0.1500 Y_R_toe 0.0200 
+skin 96 Y1_00_ROOT 0.6100 Y_R_hip 0.3900 
+skin 97 Y1_00_ROOT 0.5700 Y_R_hip 0.1000 Y_R_knee 0.3000 Y_R_toe 0.0300 
+skin 98 Y1_00_ROOT 0.1200 Y_R_hip 0.4000 Y_R_knee 0.4700 Y_R_toe 0.0100 
+skin 99 Y1_00_ROOT 0.3000 Y_R_hip 0.3800 Y_R_knee 0.3000 Y_R_toe 0.0200 
+skin 100 Y1_00_ROOT 0.3000 Y_R_hip 0.3700 Y_R_knee 0.3000 Y_R_toe 0.0300 
+skin 101 Y1_00_ROOT 0.0200 Y_R_hand 0.5900 Y_R_finger 0.3900 
+skin 102 Y1_00_ROOT 0.0200 Y_R_elbow 0.0100 Y_R_hand 0.5400 Y_R_finger 0.4300 
+skin 103 Y1_00_ROOT 0.0100 Y_R_wrist 0.0200 Y_R_hand 0.4900 Y_R_finger 0.4800 
+skin 104 Y1_00_ROOT 0.0200 Y_R_wrist 0.0200 Y_R_hand 0.8200 Y_R_finger 0.1400 
+skin 105 Y1_00_ROOT 0.0200 Y_R_elbow 0.0100 Y_R_hand 0.6400 Y_R_finger 0.3300 
+skin 106 Y1_00_ROOT 0.0400 Y_spine 0.4000 Y_chest 0.5600 
+skin 107 Y1_00_ROOT 0.3000 Y_spine 0.6100 Y_neck 0.0100 Y_head 0.0800 
+skin 108 Y1_00_ROOT 0.3000 Y_spine 0.2800 Y_chest 0.3900 Y_R_shoulder 0.0300 
+skin 109 Y1_00_ROOT 0.5200 Y_spine 0.4000 Y_neck 0.0800 
+skin 110 Y1_00_ROOT 0.1100 Y_spine 0.3500 Y_chest 0.5000 Y_R_shoulder 0.0400 
+skin 111 Y1_00_ROOT 0.3000 Y_spine 0.6100 Y_neck 0.0100 Y_head 0.0800 
+skin 112 Y1_00_ROOT 0.1000 Y_spine 0.4000 Y_chest 0.5000 
+skin 113 Y1_00_ROOT 0.3000 Y_spine 0.2800 Y_chest 0.3900 Y_L_shoulder 0.0300 
+skin 114 Y1_00_ROOT 0.1100 Y_spine 0.3500 Y_chest 0.5000 Y_L_shoulder 0.0400 
+skin 115 Y1_00_ROOT 0.3600 Y_R_clavicle 0.5400 Y_R_shoulder 0.1000 
+skin 116 Y1_00_ROOT 0.0500 Y_R_clavicle 0.4700 Y_neck 0.2800 Y_R_shoulder 0.2000 
+skin 117 Y1_00_ROOT 0.3000 Y_spine 0.2900 Y_R_clavicle 0.3600 Y_neck 0.0500 
+skin 118 Y1_00_ROOT 0.0600 Y_spine 0.7200 Y_R_clavicle 0.1700 Y_R_shoulder 0.0500 
+skin 119 Y1_00_ROOT 0.1200 Y_spine 0.8100 Y_R_clavicle 0.0200 Y_R_shoulder 0.0500 
+skin 120 Y1_00_ROOT 0.0200 Y_spine 0.2100 Y_R_clavicle 0.0900 Y_R_shoulder 0.6800 
+skin 121 Y_spine 0.3500 Y_L_clavicle 0.3000 Y_R_clavicle 0.3000 Y_neck 0.0500 
+skin 122 Y1_00_ROOT 0.3000 Y_spine 0.2900 Y_L_clavicle 0.3600 Y_neck 0.0500 
+skin 123 Y1_00_ROOT 0.3600 Y_L_clavicle 0.5400 Y_L_shoulder 0.1000 
+skin 124 Y1_00_ROOT 0.0300 Y_L_clavicle 0.4400 Y_neck 0.3300 Y_L_shoulder 0.2000 
+skin 125 Y1_00_ROOT 0.0500 Y_L_clavicle 0.4700 Y_neck 0.2800 Y_L_shoulder 0.2000 
+skin 126 Y_spine 0.2900 Y_R_clavicle 0.6600 Y_R_shoulder 0.0500 
+skin 127 Y1_00_ROOT 0.2500 Y_spine 0.6600 Y_R_clavicle 0.0700 Y_R_shoulder 0.0200 
+skin 128 Y1_00_ROOT 0.0300 Y_spine 0.8400 Y_R_clavicle 0.1300 
+skin 129 Y_spine 0.1900 Y_chest 0.3400 Y_R_clavicle 0.4700 
+skin 130 Y1_00_ROOT 0.0600 Y_spine 0.7500 Y_L_clavicle 0.0900 Y_R_clavicle 0.1000 
+skin 131 Y1_00_ROOT 0.5000 Y_R_hip 0.0200 Y_spine 0.4800 
+skin 132 Y_spine 0.2900 Y_L_clavicle 0.6600 Y_L_shoulder 0.0500 
+skin 133 Y_spine 0.1900 Y_chest 0.3400 Y_L_clavicle 0.4700 
+skin 134 Y1_00_ROOT 0.4100 Y_L_clavicle 0.4900 Y_neck 0.0500 Y_L_shoulder 0.0500 
+skin 135 Y1_00_ROOT 0.4400 Y_R_hip 0.0200 Y_spine 0.5400 
+skin 136 Y1_00_ROOT 0.0200 Y_R_shoulder 0.2100 Y_R_elbow 0.7700 
+skin 137 Y1_00_ROOT 0.0300 Y_R_clavicle 0.0300 Y_R_shoulder 0.4200 Y_R_elbow 0.5200 
+skin 138 Y1_00_ROOT 0.0200 Y_R_clavicle 0.4900 Y_R_shoulder 0.4900 
+skin 139 Y1_00_ROOT 0.0100 Y_R_clavicle 0.3400 Y_R_shoulder 0.6500 
+skin 140 Y1_00_ROOT 0.0200 Y_R_clavicle 0.6100 Y_neck 0.0700 Y_R_shoulder 0.3000 
+skin 141 Y1_00_ROOT 0.3000 Y_R_clavicle 0.1000 Y_R_shoulder 0.6000 
+skin 142 Y1_00_ROOT 0.0100 Y_R_clavicle 0.5000 Y_R_shoulder 0.4900 
+skin 143 Y1_00_ROOT 0.0400 Y_R_clavicle 0.0400 Y_R_shoulder 0.5000 Y_R_elbow 0.4200 
+skin 144 Y1_00_ROOT 0.0400 Y_R_clavicle 0.0400 Y_R_shoulder 0.5000 Y_R_elbow 0.4200 
+skin 145 Y1_00_ROOT 0.0200 Y_R_clavicle 0.6500 Y_neck 0.0300 Y_R_shoulder 0.3000 
+skin 146 Y1_00_ROOT 0.0300 Y_R_clavicle 0.4400 Y_neck 0.3300 Y_R_shoulder 0.2000 
+skin 147 Y1_00_ROOT 0.0200 Y_L_clavicle 0.6200 Y_neck 0.0500 Y_L_shoulder 0.3100 
+skin 148 Y1_00_ROOT 0.0200 Y_L_clavicle 0.6100 Y_neck 0.0700 Y_L_shoulder 0.3000 
+skin 149 Y1_00_ROOT 0.0100 Y_L_clavicle 0.3400 Y_L_shoulder 0.6500 
+skin 150 Y1_00_ROOT 0.0200 Y_L_clavicle 0.4900 Y_L_shoulder 0.4900 
+skin 151 Y1_00_ROOT 0.4400 Y_L_hip 0.0200 Y_spine 0.5400 
+skin 152 Y1_00_ROOT 0.2600 Y_L_hip 0.0100 Y_spine 0.7200 Y_L_shoulder 0.0100 
+skin 153 Y1_00_ROOT 0.5000 Y_L_hip 0.0200 Y_spine 0.4800 
+skin 154 Y1_00_ROOT 0.3000 Y_L_clavicle 0.1000 Y_L_shoulder 0.6000 
+skin 155 Y1_00_ROOT 0.0600 Y_spine 0.7200 Y_L_clavicle 0.1700 Y_L_shoulder 0.0500 
+skin 156 Y1_00_ROOT 0.0200 Y_spine 0.2100 Y_L_clavicle 0.0900 Y_L_shoulder 0.6800 
+skin 157 Y1_00_ROOT 0.7400 Y_L_hip 0.1000 Y_spine 0.1600 
+skin 158 Y1_00_ROOT 0.7300 Y_L_hip 0.1000 Y_spine 0.1700 
+skin 159 Y1_00_ROOT 0.7500 Y_L_hip 0.1000 Y_spine 0.1500 
+skin 160 Y1_00_ROOT 0.7400 Y_L_hip 0.1000 Y_spine 0.1600 
+skin 161 Y1_00_ROOT 0.7300 Y_L_hip 0.1000 Y_spine 0.1700 
+skin 162 Y1_00_ROOT 0.7500 Y_L_hip 0.1100 Y_spine 0.1400 
+skin 163 Y1_00_ROOT 0.7600 Y_L_hip 0.1000 Y_spine 0.1400 
+skin 164 Y1_00_ROOT 0.1900 Y_L_hip 0.0100 Y_spine 0.8000 
+skin 165 Y1_00_ROOT 0.7000 Y_L_hip 0.1000 Y_spine 0.2000 
+skin 166 Y1_00_ROOT 0.7400 Y_R_hip 0.1000 Y_spine 0.1600 
+skin 167 Y1_00_ROOT 0.3200 Y_L_hip 0.0100 Y_spine 0.6700 
+skin 168 Y1_00_ROOT 0.7500 Y_R_hip 0.1000 Y_spine 0.1500 
+skin 169 Y1_00_ROOT 0.3000 Y_L_hip 0.0100 Y_spine 0.6900 
+skin 170 Y1_00_ROOT 0.7600 Y_R_hip 0.1000 Y_spine 0.1400 
+skin 171 Y1_00_ROOT 0.7300 Y_R_hip 0.1000 Y_spine 0.1700 
+skin 172 Y1_00_ROOT 0.7400 Y_R_hip 0.1000 Y_spine 0.1600 
+skin 173 Y1_00_ROOT 0.7300 Y_R_hip 0.1000 Y_spine 0.1700 
+skin 174 Y1_00_ROOT 0.3200 Y_R_hip 0.0100 Y_spine 0.6700 
+skin 175 Y1_00_ROOT 0.1900 Y_R_hip 0.0100 Y_spine 0.8000 
+skin 176 Y1_00_ROOT 0.1400 Y_L_knee 0.0100 Y_L_toe 0.8500 
+skin 177 Y1_00_ROOT 0.3100 Y_L_hip 0.4000 Y_L_knee 0.2700 Y_L_toe 0.0200 
+skin 178 Y1_00_ROOT 0.1400 Y_L_knee 0.0100 Y_L_toe 0.8500 
+skin 179 Y1_00_ROOT 0.0500 Y_L_knee 0.2600 Y_L_toe 0.6900 
+skin 180 Y1_00_ROOT 0.1200 Y_L_hip 0.1000 Y_L_knee 0.0100 Y_L_toe 0.7700 
+skin 181 Y1_00_ROOT 0.3100 Y_L_hip 0.4000 Y_L_knee 0.2700 Y_L_toe 0.0200 
+skin 182 Y1_00_ROOT 0.1300 Y_L_hip 0.4000 Y_L_knee 0.4600 Y_L_toe 0.0100 
+skin 183 Y1_00_ROOT 0.1400 Y_L_knee 0.0100 Y_L_toe 0.8500 
+skin 184 Y1_00_ROOT 0.3500 Y_L_hip 0.4500 Y_L_knee 0.1900 Y_L_toe 0.0100 
+skin 185 Y1_00_ROOT 0.2100 Y_L_hip 0.0800 Y_L_knee 0.2000 Y_L_toe 0.5100 
+skin 186 Y1_00_ROOT 0.1400 Y_R_knee 0.0100 Y_R_toe 0.8500 
+skin 187 Y1_00_ROOT 0.1400 Y_R_knee 0.0100 Y_R_toe 0.8500 
+skin 188 Y1_00_ROOT 0.0500 Y_R_knee 0.2600 Y_R_toe 0.6900 
+skin 189 Y1_00_ROOT 0.1400 Y_R_knee 0.0100 Y_R_toe 0.8500 
+skin 190 Y1_00_ROOT 0.1200 Y_R_hip 0.1000 Y_R_knee 0.0100 Y_R_toe 0.7700 
+skin 191 Y1_00_ROOT 0.1700 Y_R_hip 0.0800 Y_R_knee 0.0100 Y_R_toe 0.7400 
+skin 192 Y1_00_ROOT 0.2100 Y_R_hip 0.0800 Y_R_knee 0.2000 Y_R_toe 0.5100 
+skin 193 Y1_00_ROOT 0.0400 Y_L_clavicle 0.0400 Y_L_shoulder 0.5000 Y_L_elbow 0.4200 
+skin 194 Y1_00_ROOT 0.0100 Y_L_clavicle 0.5000 Y_L_shoulder 0.4900 
+skin 195 Y1_00_ROOT 0.0400 Y_L_clavicle 0.0400 Y_L_shoulder 0.5000 Y_L_elbow 0.4200 
+skin 196 Y1_00_ROOT 0.0200 Y_L_clavicle 0.0100 Y_L_shoulder 0.2100 Y_L_elbow 0.7600 
+skin 197 Y1_00_ROOT 0.0300 Y_L_clavicle 0.0300 Y_L_shoulder 0.4200 Y_L_elbow 0.5200 
+skin 198 Y1_00_ROOT 0.0200 Y_L_shoulder 0.2100 Y_L_elbow 0.7700 
+skin 199 Y1_00_ROOT 0.0300 Y_L_clavicle 0.0200 Y_L_shoulder 0.4200 Y_L_elbow 0.5300 
+skin 200 Y1_00_ROOT 0.0200 Y_L_clavicle 0.0100 Y_L_shoulder 0.2000 Y_L_elbow 0.7700 
+skin 201 Y1_00_ROOT 0.0200 Y_L_hand 0.6400 Y_L_finger 0.3400 
+skin 202 Y_L_shoulder 0.0500 Y_L_elbow 0.2000 Y_L_hand 0.5100 Y_L_finger 0.2400 
+skin 203 Y_L_shoulder 0.0500 Y_L_elbow 0.0700 Y_L_hand 0.5000 Y_L_finger 0.3800 
+skin 204 Y1_00_ROOT 0.0100 Y_L_elbow 0.0700 Y_L_hand 0.4600 Y_L_finger 0.4600 
+skin 205 Y1_00_ROOT 0.0200 Y_L_elbow 0.0800 Y_L_hand 0.5000 Y_L_finger 0.4000 
+skin 206 Y1_00_ROOT 0.0200 Y_L_hand 0.5900 Y_L_finger 0.3900 
+skin 207 Y1_00_ROOT 0.0100 Y_L_wrist 0.0100 Y_L_hand 0.4900 Y_L_finger 0.4900 
+skin 208 Y1_00_ROOT 0.0100 Y_L_wrist 0.0200 Y_L_hand 0.4900 Y_L_finger 0.4800 
+skin 209 Y_R_elbow 0.0100 Y_R_wrist 0.0400 Y_R_hand 0.4800 Y_R_finger 0.4700 
+skin 210 Y_R_shoulder 0.0200 Y_R_wrist 0.0500 Y_R_hand 0.4700 Y_R_finger 0.4600 
+skin 211 Y1_00_ROOT 0.0100 Y_R_wrist 0.0400 Y_R_hand 0.4800 Y_R_finger 0.4700 
+skin 212 Y_R_elbow 0.0100 Y_R_wrist 0.0700 Y_R_hand 0.4700 Y_R_finger 0.4500 
+skin 213 Y1_00_ROOT 0.0100 Y_R_wrist 0.0100 Y_R_hand 0.4900 Y_R_finger 0.4900 
+skin 214 Y_R_elbow 0.0400 Y_R_wrist 0.1000 Y_R_hand 0.4400 Y_R_finger 0.4200 
+skin 215 Y_R_elbow 0.0100 Y_R_wrist 0.0300 Y_R_hand 0.4800 Y_R_finger 0.4800 
+skin 216 Y_R_elbow 0.0200 Y_R_wrist 0.0700 Y_R_hand 0.4600 Y_R_finger 0.4500 
+skin 217 Y1_00_ROOT 0.0100 Y_R_elbow 0.0500 Y_R_hand 0.4700 Y_R_finger 0.4700 
+skin 218 Y_R_elbow 0.0500 Y_R_wrist 0.0800 Y_R_hand 0.4400 Y_R_finger 0.4300 
+skin 219 Y_R_elbow 0.0100 Y_R_wrist 0.1400 Y_R_hand 0.5200 Y_R_finger 0.3300 
+skin 220 Y_R_shoulder 0.0200 Y_R_wrist 0.0500 Y_R_hand 0.4700 Y_R_finger 0.4600 
+skin 221 Y_R_shoulder 0.0200 Y_R_wrist 0.0600 Y_R_hand 0.4700 Y_R_finger 0.4500 
+skin 222 Y1_00_ROOT 0.0100 Y_R_wrist 0.0100 Y_R_hand 0.4900 Y_R_finger 0.4900 
+skin 223 Y1_00_ROOT 0.0200 Y_R_wrist 0.0400 Y_R_hand 0.6400 Y_R_finger 0.3000 
+skin 224 Y_R_elbow 0.0900 Y_R_wrist 0.0300 Y_R_hand 0.4500 Y_R_finger 0.4300 
+skin 225 Y_R_shoulder 0.0200 Y_R_elbow 0.0900 Y_R_hand 0.4500 Y_R_finger 0.4400 
+skin 226 Y1_00_ROOT 0.0200 Y_R_elbow 0.0400 Y_R_hand 0.4700 Y_R_finger 0.4700 
+skin 227 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0400 Y_R_hand 0.4700 Y_R_finger 0.4700 
+skin 228 Y1_00_ROOT 0.0200 Y_R_wrist 0.0100 Y_R_hand 0.5200 Y_R_finger 0.4500 
+skin 229 Y1_00_ROOT 0.0400 Y_R_wrist 0.1100 Y_R_hand 0.4700 Y_R_finger 0.3800 
+skin 230 Y_R_elbow 0.0200 Y_R_wrist 0.0300 Y_R_hand 0.5300 Y_R_finger 0.4200 
+skin 231 Y_R_elbow 0.0100 Y_R_wrist 0.2200 Y_R_hand 0.5000 Y_R_finger 0.2700 
+skin 232 Y1_00_ROOT 0.0200 Y_R_elbow 0.0200 Y_R_hand 0.8300 Y_R_finger 0.1300 
+skin 233 Y1_00_ROOT 0.0100 Y_R_elbow 0.0700 Y_R_hand 0.4600 Y_R_finger 0.4600 
+skin 234 Y_R_shoulder 0.0100 Y_R_elbow 0.0300 Y_R_hand 0.4900 Y_R_finger 0.4700 
+skin 235 Y1_00_ROOT 0.0200 Y_R_elbow 0.0800 Y_R_hand 0.4500 Y_R_finger 0.4500 
+skin 236 Y_R_elbow 0.0200 Y_R_wrist 0.0200 Y_R_hand 0.4900 Y_R_finger 0.4700 
+skin 237 Y_R_shoulder 0.0200 Y_R_elbow 0.2000 Y_R_wrist 0.7500 Y_R_hand 0.0300 
+skin 238 Y1_00_ROOT 0.0600 Y_R_shoulder 0.0700 Y_R_hand 0.6700 Y_R_finger 0.2000 
+skin 239 Y_R_shoulder 0.0300 Y_R_elbow 0.1300 Y_R_hand 0.4300 Y_R_finger 0.4100 
+skin 240 Y1_00_ROOT 0.0200 Y_R_elbow 0.0100 Y_R_hand 0.9000 Y_R_finger 0.0700 
+skin 241 Y1_00_ROOT 0.0200 Y_R_elbow 0.0700 Y_R_hand 0.6200 Y_R_finger 0.2900 
+skin 242 Y1_00_ROOT 0.0700 Y_R_wrist 0.1300 Y_R_hand 0.3000 Y_R_finger 0.5000 
+skin 243 Y_R_elbow 0.1500 Y_R_wrist 0.0600 Y_R_hand 0.6300 Y_R_finger 0.1600 
+skin 244 Y1_00_ROOT 0.0200 Y_R_elbow 0.0800 Y_R_hand 0.5000 Y_R_finger 0.4000 
+skin 245 Y1_00_ROOT 0.0200 Y_R_elbow 0.0900 Y_R_hand 0.4800 Y_R_finger 0.4100 
+skin 246 Y_R_shoulder 0.0400 Y_R_elbow 0.2000 Y_R_wrist 0.7000 Y_R_hand 0.0600 
+skin 247 Y1_00_ROOT 0.0600 Y_R_wrist 0.0700 Y_R_hand 0.7700 Y_R_finger 0.1000 
+skin 248 Y_R_shoulder 0.0500 Y_R_elbow 0.0700 Y_R_hand 0.5000 Y_R_finger 0.3800 
+skin 249 Y1_00_ROOT 0.0300 Y_R_elbow 0.0700 Y_R_hand 0.4700 Y_R_finger 0.4300 
+skin 250 Y_R_elbow 0.1100 Y_R_wrist 0.0800 Y_R_hand 0.5500 Y_R_finger 0.2600 
+skin 251 Y_R_shoulder 0.0100 Y_R_elbow 0.1500 Y_R_wrist 0.7800 Y_R_hand 0.0600 
+skin 252 Y1_00_ROOT 0.0200 Y_R_elbow 0.1700 Y_R_wrist 0.7500 Y_R_hand 0.0600 
+skin 253 Y_R_elbow 0.0100 Y_R_wrist 0.0900 Y_R_hand 0.4500 Y_R_finger 0.4500 
+skin 254 Y1_00_ROOT 0.0400 Y_R_wrist 0.0300 Y_R_hand 0.7100 Y_R_finger 0.2200 
+skin 255 Y1_00_ROOT 0.0100 Y_R_elbow 0.0500 Y_R_hand 0.5900 Y_R_finger 0.3500 
+skin 256 Y_R_shoulder 0.0200 Y_R_elbow 0.1400 Y_R_wrist 0.7900 Y_R_hand 0.0500 
+skin 257 Y1_00_ROOT 0.0200 Y_R_hand 0.6400 Y_R_finger 0.3400 
+skin 258 Y_R_elbow 0.1900 Y_R_wrist 0.7100 Y_R_hand 0.0600 Y_R_finger 0.0400 
+skin 259 Y1_00_ROOT 0.0100 Y_R_elbow 0.0200 Y_R_hand 0.4900 Y_R_finger 0.4800 
+skin 260 Y_R_shoulder 0.0500 Y_R_elbow 0.2000 Y_R_hand 0.5100 Y_R_finger 0.2400 
+skin 261 Y1_00_ROOT 0.3300 Y_R_clavicle 0.1500 Y_neck 0.0100 Y_R_shoulder 0.5100 
+skin 262 Y1_00_ROOT 0.3300 Y_L_clavicle 0.1500 Y_neck 0.0100 Y_L_shoulder 0.5100 
+skin 263 Y1_00_ROOT 0.1200 Y_spine 0.8100 Y_L_clavicle 0.0200 Y_L_shoulder 0.0500 
+skin 264 Y1_00_ROOT 0.3200 Y_spine 0.1200 Y_chest 0.3000 Y_R_clavicle 0.2600 
+skin 265 Y1_00_ROOT 0.4100 Y_R_clavicle 0.4900 Y_neck 0.0500 Y_R_shoulder 0.0500 
+skin 266 Y1_00_ROOT 0.3000 Y_spine 0.0100 Y_R_clavicle 0.2600 Y_R_shoulder 0.4300 
+skin 267 Y_spine 0.2400 Y_chest 0.2700 Y_L_clavicle 0.2400 Y_R_clavicle 0.2500 
+skin 268 Y_spine 0.3000 Y_chest 0.1300 Y_L_clavicle 0.2900 Y_R_clavicle 0.2800 
+skin 269 Y1_00_ROOT 0.3200 Y_spine 0.1200 Y_chest 0.3000 Y_L_clavicle 0.2600 
+skin 270 Y1_00_ROOT 0.3000 Y_spine 0.0100 Y_L_clavicle 0.2600 Y_L_shoulder 0.4300 
+skin 271 Y1_00_ROOT 0.2600 Y_R_hip 0.0100 Y_spine 0.7200 Y_R_shoulder 0.0100 
+skin 272 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0700 Y_R_elbow 0.2400 Y_R_wrist 0.6700 
+skin 273 Y1_00_ROOT 0.0200 Y_R_shoulder 0.1100 Y_R_elbow 0.2800 Y_R_wrist 0.5900 
+skin 274 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0700 Y_R_elbow 0.3200 Y_R_wrist 0.5900 
+skin 275 Y1_00_ROOT 0.0200 Y_R_shoulder 0.1000 Y_R_elbow 0.2500 Y_R_wrist 0.6300 
+skin 276 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0400 Y_R_elbow 0.3100 Y_R_wrist 0.6300 
+skin 277 Y_R_shoulder 0.0400 Y_R_elbow 0.2000 Y_R_wrist 0.7100 Y_R_hand 0.0500 
+skin 278 Y1_00_ROOT 0.0100 Y_R_shoulder 0.0500 Y_R_elbow 0.2700 Y_R_wrist 0.6700 
+skin 279 Y_R_shoulder 0.0200 Y_R_elbow 0.2000 Y_R_wrist 0.7500 Y_R_hand 0.0300 
+skin 280 Y_R_elbow 0.1900 Y_R_wrist 0.7300 Y_R_hand 0.0500 Y_R_finger 0.0300 
+skin 281 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0800 Y_R_elbow 0.3900 Y_R_wrist 0.5100 
+skin 282 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0300 Y_R_elbow 0.2800 Y_R_wrist 0.6700 
+skin 283 Y_R_shoulder 0.0200 Y_R_elbow 0.2100 Y_R_wrist 0.7300 Y_R_hand 0.0400 
+skin 284 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0800 Y_R_elbow 0.3200 Y_R_wrist 0.5800 
+skin 285 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0200 Y_R_elbow 0.2400 Y_R_wrist 0.7200 
+skin 286 Y1_00_ROOT 0.0200 Y_R_shoulder 0.0200 Y_R_elbow 0.2800 Y_R_wrist 0.6800 
+skin 287 Y1_00_ROOT 0.0200 Y_R_elbow 0.1700 Y_R_wrist 0.7700 Y_R_hand 0.0400 
+skin 288 Y1_00_ROOT 0.0100 Y_R_shoulder 0.0400 Y_R_elbow 0.2400 Y_R_wrist 0.7100 
+skin 289 Y_R_shoulder 0.0100 Y_R_elbow 0.1600 Y_R_wrist 0.7900 Y_R_hand 0.0400 
+skin 290 Y1_00_ROOT 0.0200 Y_R_clavicle 0.0100 Y_R_shoulder 0.2000 Y_R_elbow 0.7700 
+skin 291 Y1_00_ROOT 0.0200 Y_R_clavicle 0.0100 Y_R_shoulder 0.2000 Y_R_elbow 0.7700 
+skin 292 Y1_00_ROOT 0.0200 Y_R_clavicle 0.0100 Y_R_shoulder 0.2100 Y_R_elbow 0.7600 
+skin 293 Y1_00_ROOT 0.0300 Y_R_clavicle 0.0200 Y_R_shoulder 0.4200 Y_R_elbow 0.5300 
+skin 294 Y1_00_ROOT 0.0300 Y_R_clavicle 0.0300 Y_R_shoulder 0.5200 Y_R_elbow 0.4200 
+skin 295 Y1_00_ROOT 0.0300 Y_R_clavicle 0.0300 Y_R_shoulder 0.4200 Y_R_elbow 0.5200 
+skin 296 Y1_00_ROOT 0.0300 Y_R_clavicle 0.0200 Y_R_shoulder 0.4200 Y_R_elbow 0.5300 
+skin 297 Y1_00_ROOT 0.0400 Y_R_clavicle 0.0300 Y_R_shoulder 0.5000 Y_R_elbow 0.4300 
+skin 298 Y1_00_ROOT 0.0200 Y_R_clavicle 0.6200 Y_neck 0.0500 Y_R_shoulder 0.3100 
+skin 299 Y1_00_ROOT 0.0200 Y_L_clavicle 0.6500 Y_neck 0.0300 Y_L_shoulder 0.3000 
+skin 300 Y1_00_ROOT 0.1300 Y_L_hip 0.4000 Y_L_knee 0.4600 Y_L_toe 0.0100 
+skin 301 Y1_00_ROOT 0.4800 Y_L_hip 0.2000 Y_L_knee 0.3100 Y_L_toe 0.0100 
+skin 302 Y1_00_ROOT 0.1700 Y_L_hip 0.0800 Y_L_knee 0.0100 Y_L_toe 0.7400 
+skin 303 Y1_00_ROOT 0.4300 Y_L_hip 0.4000 Y_L_knee 0.1500 Y_L_toe 0.0200 
+skin 304 Y1_00_ROOT 0.3500 Y_R_hip 0.4500 Y_R_knee 0.1900 Y_R_toe 0.0100 
+skin 305 Y1_00_ROOT 0.1300 Y_R_hip 0.4000 Y_R_knee 0.4600 Y_R_toe 0.0100 
+skin 306 Y1_00_ROOT 0.4800 Y_R_hip 0.2000 Y_R_knee 0.3100 Y_R_toe 0.0100 
+skin 307 Y1_00_ROOT 0.1300 Y_R_hip 0.4000 Y_R_knee 0.4600 Y_R_toe 0.0100 
+skin 308 Y1_00_ROOT 0.3100 Y_R_hip 0.4000 Y_R_knee 0.2700 Y_R_toe 0.0200 
+skin 309 Y1_00_ROOT 0.3100 Y_R_hip 0.4000 Y_R_knee 0.2700 Y_R_toe 0.0200 
+skin 310 Y1_00_ROOT 0.0300 Y_L_clavicle 0.0300 Y_L_shoulder 0.4200 Y_L_elbow 0.5200 
+skin 311 Y1_00_ROOT 0.0300 Y_L_clavicle 0.0200 Y_L_shoulder 0.4200 Y_L_elbow 0.5300 
+skin 312 Y1_00_ROOT 0.0400 Y_L_clavicle 0.0300 Y_L_shoulder 0.5000 Y_L_elbow 0.4300 
+skin 313 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0700 Y_L_elbow 0.3200 Y_L_wrist 0.5900 
+skin 314 Y1_00_ROOT 0.0100 Y_L_shoulder 0.0400 Y_L_elbow 0.3100 Y_L_wrist 0.6400 
+skin 315 Y1_00_ROOT 0.0300 Y_L_clavicle 0.0300 Y_L_shoulder 0.5200 Y_L_elbow 0.4200 
+skin 316 Y1_00_ROOT 0.0200 Y_L_clavicle 0.0100 Y_L_shoulder 0.2000 Y_L_elbow 0.7700 
+skin 317 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0300 Y_L_elbow 0.2800 Y_L_wrist 0.6700 
+skin 318 Y1_00_ROOT 0.0200 Y_L_shoulder 0.1100 Y_L_elbow 0.2800 Y_L_wrist 0.5900 
+skin 319 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0200 Y_L_elbow 0.2800 Y_L_wrist 0.6800 
+skin 320 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0800 Y_L_elbow 0.3900 Y_L_wrist 0.5100 
+skin 321 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0700 Y_L_elbow 0.2400 Y_L_wrist 0.6700 
+skin 322 Y1_00_ROOT 0.0200 Y_L_shoulder 0.1000 Y_L_elbow 0.2500 Y_L_wrist 0.6300 
+skin 323 Y1_00_ROOT 0.0100 Y_L_shoulder 0.0500 Y_L_elbow 0.2700 Y_L_wrist 0.6700 
+skin 324 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0800 Y_L_elbow 0.3200 Y_L_wrist 0.5800 
+skin 325 Y_L_elbow 0.1900 Y_L_wrist 0.7300 Y_L_hand 0.0500 Y_L_finger 0.0300 
+skin 326 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0200 Y_L_elbow 0.2400 Y_L_wrist 0.7200 
+skin 327 Y_L_shoulder 0.0200 Y_L_elbow 0.2100 Y_L_wrist 0.7300 Y_L_hand 0.0400 
+skin 328 Y_L_shoulder 0.0400 Y_L_elbow 0.2000 Y_L_wrist 0.7100 Y_L_hand 0.0500 
+skin 329 Y1_00_ROOT 0.0200 Y_L_elbow 0.1700 Y_L_wrist 0.7700 Y_L_hand 0.0400 
+skin 330 Y1_00_ROOT 0.0100 Y_L_shoulder 0.0400 Y_L_elbow 0.2400 Y_L_wrist 0.7100 
+skin 331 Y_L_shoulder 0.0400 Y_L_elbow 0.2000 Y_L_wrist 0.7000 Y_L_hand 0.0600 
+skin 332 Y_L_shoulder 0.0200 Y_L_elbow 0.2000 Y_L_wrist 0.7500 Y_L_hand 0.0300 
+skin 333 Y_L_shoulder 0.0200 Y_L_elbow 0.2000 Y_L_wrist 0.7500 Y_L_hand 0.0300 
+skin 334 Y_L_shoulder 0.0200 Y_L_elbow 0.1400 Y_L_wrist 0.7900 Y_L_hand 0.0500 
+skin 335 Y_L_shoulder 0.0100 Y_L_elbow 0.1500 Y_L_wrist 0.7800 Y_L_hand 0.0600 
+skin 336 Y1_00_ROOT 0.0200 Y_L_elbow 0.1700 Y_L_wrist 0.7500 Y_L_hand 0.0600 
+skin 337 Y_L_shoulder 0.0100 Y_L_elbow 0.1600 Y_L_wrist 0.7900 Y_L_hand 0.0400 
+skin 338 Y_L_elbow 0.1900 Y_L_wrist 0.7100 Y_L_hand 0.0600 Y_L_finger 0.0400 
+skin 339 Y_L_elbow 0.1500 Y_L_wrist 0.0600 Y_L_hand 0.6300 Y_L_finger 0.1600 
+skin 340 Y_L_elbow 0.1100 Y_L_wrist 0.0800 Y_L_hand 0.5500 Y_L_finger 0.2600 
+skin 341 Y1_00_ROOT 0.0700 Y_L_wrist 0.1300 Y_L_hand 0.3000 Y_L_finger 0.5000 
+skin 342 Y1_00_ROOT 0.0300 Y_L_elbow 0.0700 Y_L_hand 0.4700 Y_L_finger 0.4300 
+skin 343 Y1_00_ROOT 0.0400 Y_L_wrist 0.0300 Y_L_hand 0.7100 Y_L_finger 0.2200 
+skin 344 Y1_00_ROOT 0.0200 Y_L_elbow 0.0700 Y_L_hand 0.6200 Y_L_finger 0.2900 
+skin 345 Y1_00_ROOT 0.0200 Y_L_elbow 0.0200 Y_L_hand 0.8300 Y_L_finger 0.1300 
+skin 346 Y_L_elbow 0.0200 Y_L_wrist 0.0300 Y_L_hand 0.5300 Y_L_finger 0.4200 
+skin 347 Y1_00_ROOT 0.0200 Y_L_elbow 0.0100 Y_L_hand 0.9000 Y_L_finger 0.0700 
+skin 348 Y1_00_ROOT 0.0200 Y_L_wrist 0.0200 Y_L_hand 0.8200 Y_L_finger 0.1400 
+skin 349 Y1_00_ROOT 0.0400 Y_L_wrist 0.1100 Y_L_hand 0.4700 Y_L_finger 0.3800 
+skin 350 Y1_00_ROOT 0.0200 Y_L_shoulder 0.0400 Y_L_hand 0.4700 Y_L_finger 0.4700 
+skin 351 Y_L_shoulder 0.0300 Y_L_elbow 0.1300 Y_L_hand 0.4300 Y_L_finger 0.4100 
+skin 352 Y1_00_ROOT 0.0600 Y_L_wrist 0.0700 Y_L_hand 0.7700 Y_L_finger 0.1000 
+skin 353 Y1_00_ROOT 0.0100 Y_L_elbow 0.0500 Y_L_hand 0.5900 Y_L_finger 0.3500 
+skin 354 Y_L_elbow 0.0100 Y_L_wrist 0.2200 Y_L_hand 0.5000 Y_L_finger 0.2700 
+skin 355 Y1_00_ROOT 0.0100 Y_L_elbow 0.0500 Y_L_hand 0.4700 Y_L_finger 0.4700 
+skin 356 Y_L_shoulder 0.0100 Y_L_elbow 0.0300 Y_L_hand 0.4900 Y_L_finger 0.4700 
+skin 357 Y1_00_ROOT 0.0600 Y_L_shoulder 0.0700 Y_L_hand 0.6700 Y_L_finger 0.2000 
+skin 358 Y_L_elbow 0.0900 Y_L_wrist 0.0300 Y_L_hand 0.4500 Y_L_finger 0.4300 
+skin 359 Y1_00_ROOT 0.0200 Y_L_elbow 0.0100 Y_L_hand 0.6400 Y_L_finger 0.3300 
+skin 360 Y1_00_ROOT 0.0200 Y_L_elbow 0.0100 Y_L_hand 0.5400 Y_L_finger 0.4300 
+skin 361 Y1_00_ROOT 0.0200 Y_L_elbow 0.0900 Y_L_hand 0.4800 Y_L_finger 0.4100 
+skin 362 Y_L_elbow 0.0100 Y_L_wrist 0.1400 Y_L_hand 0.5200 Y_L_finger 0.3300 
+skin 363 Y_L_elbow 0.0500 Y_L_wrist 0.0800 Y_L_hand 0.4400 Y_L_finger 0.4300 
+skin 364 Y_L_shoulder 0.0200 Y_L_elbow 0.0900 Y_L_hand 0.4500 Y_L_finger 0.4400 
+skin 365 Y_L_shoulder 0.0200 Y_L_wrist 0.0500 Y_L_hand 0.4700 Y_L_finger 0.4600 
+skin 366 Y1_00_ROOT 0.0200 Y_L_wrist 0.0100 Y_L_hand 0.5200 Y_L_finger 0.4500 
+skin 367 Y1_00_ROOT 0.0200 Y_L_wrist 0.0400 Y_L_hand 0.6400 Y_L_finger 0.3000 
+skin 368 Y1_00_ROOT 0.0100 Y_L_elbow 0.0200 Y_L_hand 0.4900 Y_L_finger 0.4800 
+skin 369 Y_L_shoulder 0.0200 Y_L_wrist 0.0600 Y_L_hand 0.4700 Y_L_finger 0.4500 
+skin 370 Y_L_elbow 0.0200 Y_L_wrist 0.0700 Y_L_hand 0.4600 Y_L_finger 0.4500 
+skin 371 Y_L_elbow 0.0100 Y_L_wrist 0.0700 Y_L_hand 0.4700 Y_L_finger 0.4500 
+skin 372 Y1_00_ROOT 0.0200 Y_L_elbow 0.0800 Y_L_hand 0.4500 Y_L_finger 0.4500 
+skin 373 Y1_00_ROOT 0.0200 Y_L_elbow 0.0400 Y_L_hand 0.4700 Y_L_finger 0.4700 
+skin 374 Y1_00_ROOT 0.0100 Y_L_wrist 0.0400 Y_L_hand 0.4800 Y_L_finger 0.4700 
+skin 375 Y_L_elbow 0.0100 Y_L_wrist 0.0900 Y_L_hand 0.4500 Y_L_finger 0.4500 
+skin 376 Y_L_shoulder 0.0200 Y_L_wrist 0.0500 Y_L_hand 0.4700 Y_L_finger 0.4600 
+skin 377 Y_L_elbow 0.0100 Y_L_wrist 0.0400 Y_L_hand 0.4800 Y_L_finger 0.4700 
+skin 378 Y_L_elbow 0.0400 Y_L_wrist 0.1000 Y_L_hand 0.4400 Y_L_finger 0.4200 
+skin 379 Y_L_elbow 0.0200 Y_L_wrist 0.0200 Y_L_hand 0.4900 Y_L_finger 0.4700 
+skin 380 Y_L_elbow 0.0100 Y_L_wrist 0.0300 Y_L_hand 0.4800 Y_L_finger 0.4800 
+skin 381 Y1_00_ROOT 0.0100 Y_L_wrist 0.0100 Y_L_hand 0.4900 Y_L_finger 0.4900 
+skin 382 Zipper_01 1.0000 
+skin 383 Zipper_01 1.0000 
+skin 384 Zipper_01 0.3400 zipper_02 0.6600 
+skin 385 Zipper_01 1.0000 
+skin 386 Zipper_01 1.0000 
+skin 387 Zipper_01 1.0000 
+skin 388 Zipper_01 1.0000 
+skin 389 Zipper_01 0.3900 zipper_02 0.6100 
+skin 390 Zipper_01 0.4500 zipper_02 0.5500 
+skin 391 Zipper_01 0.0100 zipper_02 0.3300 zipper_03 0.6600 
+skin 392 Zipper_01 0.3600 zipper_02 0.6400 
+skin 393 zipper_02 0.3300 zipper_03 0.6700 
+skin 394 Zipper_01 0.3900 zipper_02 0.6100 
+skin 395 Zipper_01 0.3600 zipper_02 0.6400 
+skin 396 Zipper_01 0.0100 zipper_02 0.3300 zipper_03 0.6600 
+skin 397 Zipper_01 0.3200 zipper_02 0.6800 
+skin 398 Zipper_01 0.3300 zipper_02 0.6700 
+skin 399 Zipper_01 0.0100 zipper_02 0.3300 zipper_03 0.6600 
+skin 400 zipper_02 0.3300 zipper_03 0.6700 
+skin 401 Zipper_01 0.0100 zipper_02 0.3300 zipper_03 0.6600 
+skin 402 Zipper_01 0.3300 zipper_02 0.6700 
+skin 403 Zipper_01 0.3400 zipper_02 0.6600 
+skin 404 Y_neck 1.0000 
+skin 405 Y_neck 1.0000 
+skin 406 Y_R_clavicle 0.5000 Y_neck 0.4600 Y_R_shoulder 0.0300 R_manto_01 0.0100 
+skin 407 Y_neck 0.8400 L_manto_01 0.0700 R_manto_01 0.0500 L_manto_02 0.0400 
+skin 408 Y_R_clavicle 0.8900 R_manto_01 0.0100 Y_R_elbow 0.1000 
+skin 409 Y_R_clavicle 0.8800 Y_neck 0.1000 R_manto_01 0.0200 
+skin 410 Y_neck 1.0000 
+skin 411 Y_L_clavicle 0.5000 Y_neck 0.4600 Y_L_shoulder 0.0300 L_manto_01 0.0100 
+skin 412 Y_neck 0.8400 L_manto_01 0.0700 R_manto_01 0.0500 L_manto_02 0.0400 
+skin 413 Y_neck 1.0000 
+skin 414 Y_R_clavicle 0.5000 Y_neck 0.4600 Y_R_shoulder 0.0300 R_manto_01 0.0100 
+skin 415 Y_R_clavicle 0.8800 Y_neck 0.1000 R_manto_01 0.0200 
+skin 416 Y_L_clavicle 0.8800 Y_neck 0.1000 L_manto_01 0.0200 
+skin 417 Y_R_clavicle 0.8800 R_manto_01 0.0200 Y_R_elbow 0.1000 
+skin 418 Y_L_clavicle 0.8800 L_manto_01 0.0200 Y_L_elbow 0.1000 
+skin 419 L_manto_01 0.3000 L_manto_02 0.7000 
+skin 420 L_manto_01 0.2700 L_manto_02 0.4200 L_manto_03 0.3100 
+skin 421 L_manto_01 0.2000 L_manto_02 0.8000 
+skin 422 R_manto_01 0.3000 R_manto_02 0.7000 
+skin 423 R_manto_01 0.2000 R_manto_02 0.8000 
+skin 424 R_manto_01 0.2700 R_manto_02 0.4200 R_manto_03 0.3100 
+skin 425 Y_neck 0.0500 Y_R_shoulder 0.1000 R_manto_01 0.8500 
+skin 426 L_manto_01 0.1500 L_manto_02 0.7000 L_manto_03 0.1500 
+skin 427 Y_R_shoulder 0.0100 R_manto_01 0.3000 Y_R_elbow 0.6800 R_manto_02 0.0100 
+skin 428 R_manto_01 0.1500 R_manto_02 0.7000 R_manto_03 0.1500 
+skin 429 R_manto_01 0.3000 R_manto_02 0.7000 
+skin 430 R_manto_01 0.2700 R_manto_02 0.4200 R_manto_03 0.3100 
+skin 431 R_manto_01 0.2000 R_manto_02 0.8000 
+skin 432 L_manto_01 0.3000 L_manto_02 0.7000 
+skin 433 L_manto_01 0.2000 L_manto_02 0.8000 
+skin 434 L_manto_01 0.2700 L_manto_02 0.4200 L_manto_03 0.3100 
+skin 435 Y_neck 0.0500 Y_L_shoulder 0.1000 L_manto_01 0.8500 
+skin 436 Y_R_shoulder 0.0100 R_manto_01 0.3000 Y_R_elbow 0.6800 R_manto_02 0.0100 
+skin 437 Y_R_shoulder 0.5500 R_manto_01 0.4500 
+skin 438 R_manto_01 0.0400 R_manto_02 0.4100 R_manto_03 0.5500 
+skin 439 R_manto_01 0.1500 R_manto_02 0.7000 R_manto_03 0.1500 
+skin 440 R_manto_01 0.0500 R_manto_02 0.1100 R_manto_03 0.8400 
+skin 441 Y_R_clavicle 0.1000 Y_R_shoulder 0.3000 R_manto_01 0.0400 Y_R_elbow 0.5600 
+skin 442 Y_L_shoulder 0.5500 L_manto_01 0.4500 
+skin 443 L_manto_01 0.0400 L_manto_02 0.4100 L_manto_03 0.5500 
+skin 444 Y_L_shoulder 0.0100 L_manto_01 0.3000 Y_L_elbow 0.6800 L_manto_02 0.0100 
+skin 445 L_manto_01 0.0500 L_manto_02 0.1100 L_manto_03 0.8400 
+skin 446 L_manto_01 0.1500 L_manto_02 0.7000 L_manto_03 0.1500 
+skin 447 R_manto_02 0.0100 R_manto_03 0.9900 
+skin 448 R_manto_02 0.0100 R_manto_03 0.9900 
+skin 449 R_manto_01 0.4500 R_manto_02 0.5000 R_manto_03 0.0500 
+skin 450 Y_L_clavicle 0.1000 Y_L_shoulder 0.3000 L_manto_01 0.0400 Y_L_elbow 0.5600 
+skin 451 Y_L_clavicle 0.3000 Y_L_shoulder 0.4000 Y_L_elbow 0.3000 
+skin 452 R_manto_01 0.4500 R_manto_02 0.5000 R_manto_03 0.0500 
+skin 453 L_manto_02 0.0100 L_manto_03 0.9900 
+skin 454 L_manto_01 0.0500 L_manto_02 0.1100 L_manto_03 0.8400 
+skin 455 L_manto_02 0.0100 L_manto_03 0.9900 
+skin 456 Y_neck 0.0500 Y_L_shoulder 0.1000 L_manto_01 0.8500 
+skin 457 Y_L_clavicle 0.5000 Y_neck 0.4600 Y_L_shoulder 0.0300 L_manto_01 0.0100 
+skin 458 Y_L_clavicle 0.5100 Y_neck 0.4200 Y_L_shoulder 0.0500 Y_L_elbow 0.0200 
+skin 459 L_manto_01 0.1600 R_manto_01 0.1700 L_manto_02 0.3200 R_manto_02 0.3500 
+skin 460 Y_L_clavicle 0.5000 Y_neck 0.1900 Y_L_shoulder 0.2900 Y_L_elbow 0.0200 
+skin 461 Y_L_clavicle 0.4600 Y_neck 0.1100 Y_L_shoulder 0.4000 Y_L_elbow 0.0300 
+skin 462 Y_L_shoulder 0.5400 L_manto_01 0.4500 L_manto_02 0.0100 
+skin 463 Y_L_shoulder 0.0100 L_manto_01 0.3000 Y_L_elbow 0.6800 L_manto_02 0.0100 
+skin 464 Y_L_clavicle 0.3000 Y_L_shoulder 0.4000 Y_L_elbow 0.3000 
+skin 465 Y_L_clavicle 0.1000 Y_L_shoulder 0.3000 L_manto_01 0.0400 Y_L_elbow 0.5600 
+skin 466 L_manto_01 0.0400 L_manto_02 0.4100 L_manto_03 0.5500 
+skin 467 Y_L_clavicle 0.8900 L_manto_01 0.0100 Y_L_elbow 0.1000 
+skin 468 Y_L_clavicle 0.8800 Y_neck 0.1000 L_manto_01 0.0200 
+skin 469 Y_L_clavicle 0.6800 L_manto_01 0.0200 Y_L_elbow 0.3000 
+skin 470 Y_L_clavicle 0.3800 Y_L_shoulder 0.5200 L_manto_01 0.0100 Y_L_elbow 0.0900 
+skin 471 Y_L_clavicle 0.6200 Y_L_shoulder 0.2700 L_manto_01 0.0100 Y_L_elbow 0.1000 
+skin 472 R_manto_01 0.0400 R_manto_02 0.4100 R_manto_03 0.5500 
+skin 473 Y_L_clavicle 0.0900 Y_L_shoulder 0.4600 Y_L_elbow 0.4500 
+skin 474 Y_L_shoulder 0.0100 L_manto_01 0.2000 Y_L_elbow 0.7900 
+skin 475 L_manto_01 0.4500 L_manto_02 0.5000 L_manto_03 0.0500 
+skin 476 Y_R_clavicle 0.5100 Y_neck 0.4200 Y_R_shoulder 0.0500 Y_R_elbow 0.0200 
+skin 477 Y_R_clavicle 0.5000 Y_neck 0.1900 Y_R_shoulder 0.2900 Y_R_elbow 0.0200 
+skin 478 Y_R_shoulder 0.5400 R_manto_01 0.4500 R_manto_02 0.0100 
+skin 479 Y_R_clavicle 0.4600 Y_neck 0.1100 Y_R_shoulder 0.4000 Y_R_elbow 0.0300 
+skin 480 R_manto_01 0.0500 R_manto_02 0.1100 R_manto_03 0.8400 
+skin 481 Y_R_clavicle 0.6800 R_manto_01 0.0200 Y_R_elbow 0.3000 
+skin 482 Y_R_clavicle 0.3000 Y_R_shoulder 0.4000 Y_R_elbow 0.3000 
+skin 483 Y_R_clavicle 0.1000 Y_R_shoulder 0.3000 R_manto_01 0.0400 Y_R_elbow 0.5600 
+skin 484 Y_R_clavicle 0.6200 Y_R_shoulder 0.2700 R_manto_01 0.0100 Y_R_elbow 0.1000 
+skin 485 Y_R_clavicle 0.3800 Y_R_shoulder 0.5200 R_manto_01 0.0100 Y_R_elbow 0.0900 
+skin 486 Y_R_clavicle 0.0900 Y_R_shoulder 0.4600 Y_R_elbow 0.4500 
+skin 487 Y_R_shoulder 0.0100 R_manto_01 0.2000 Y_R_elbow 0.7900 
+skin 488 Y_R_clavicle 0.0500 Y_R_shoulder 0.3500 R_manto_01 0.0500 Y_R_elbow 0.5500 
+skin 489 Y_R_clavicle 0.0700 Y_R_shoulder 0.3000 Y_R_elbow 0.6300 
+skin 490 Y_R_clavicle 0.1100 Y_R_shoulder 0.3500 R_manto_01 0.0200 Y_R_elbow 0.5200 
+skin 491 Y_neck 0.0500 Y_R_shoulder 0.1000 R_manto_01 0.8500 
+skin 492 Y_R_clavicle 0.5000 Y_neck 0.4200 Y_R_shoulder 0.0600 Y_R_elbow 0.0200 
+skin 493 L_manto_01 0.1500 R_manto_01 0.1700 L_manto_02 0.3300 R_manto_02 0.3500 
+skin 494 Y_R_clavicle 0.5000 Y_neck 0.1900 Y_R_shoulder 0.2800 Y_R_elbow 0.0300 
+skin 495 Y_R_clavicle 0.4600 Y_neck 0.1100 Y_R_shoulder 0.4000 Y_R_elbow 0.0300 
+skin 496 Y_R_clavicle 0.3000 Y_R_shoulder 0.4000 Y_R_elbow 0.3000 
+skin 497 Y_R_shoulder 0.0100 R_manto_01 0.2000 Y_R_elbow 0.7900 
+skin 498 L_manto_01 0.4500 L_manto_02 0.5000 L_manto_03 0.0500 
+skin 499 Y_L_shoulder 0.0100 L_manto_01 0.2000 Y_L_elbow 0.7900 
+skin 500 Y_R_clavicle 0.6700 R_manto_01 0.0300 Y_R_elbow 0.3000 
+skin 501 Y_R_clavicle 0.6200 Y_R_shoulder 0.2700 R_manto_01 0.0100 Y_R_elbow 0.1000 
+skin 502 Y_L_clavicle 0.6700 L_manto_01 0.0300 Y_L_elbow 0.3000 
+skin 503 Y_L_clavicle 0.5000 Y_neck 0.4200 Y_L_shoulder 0.0600 Y_L_elbow 0.0200 
+skin 504 Y_L_clavicle 0.6200 Y_L_shoulder 0.2700 L_manto_01 0.0100 Y_L_elbow 0.1000 
+skin 505 Y_L_clavicle 0.5000 Y_neck 0.1900 Y_L_shoulder 0.2800 Y_L_elbow 0.0300 
+skin 506 Y_L_clavicle 0.3800 Y_L_shoulder 0.5200 L_manto_01 0.0100 Y_L_elbow 0.0900 
+skin 507 Y_L_clavicle 0.4600 Y_neck 0.1100 Y_L_shoulder 0.4000 Y_L_elbow 0.0300 
+skin 508 Y_R_clavicle 0.0900 Y_R_shoulder 0.4500 R_manto_01 0.0100 Y_R_elbow 0.4500 
+skin 509 Y_R_clavicle 0.0700 Y_R_shoulder 0.3000 Y_R_elbow 0.6300 
+skin 510 Y_L_clavicle 0.0700 Y_L_shoulder 0.3000 Y_L_elbow 0.6300 
+skin 511 Y_L_clavicle 0.0500 Y_L_shoulder 0.3500 L_manto_01 0.0500 Y_L_elbow 0.5500 
+skin 512 Y_L_clavicle 0.0700 Y_L_shoulder 0.3000 Y_L_elbow 0.6300 
+skin 513 Y_L_clavicle 0.0500 Y_L_shoulder 0.3500 L_manto_01 0.0500 Y_L_elbow 0.5500 
+skin 514 Y_L_clavicle 0.0900 Y_L_shoulder 0.4500 L_manto_01 0.0100 Y_L_elbow 0.4500 
+skin 515 L_manto_02 0.1900 R_manto_02 0.1900 L_manto_03 0.3200 R_manto_03 0.3000 
+skin 516 Y_L_clavicle 0.3500 Y_L_shoulder 0.5100 L_manto_01 0.0100 Y_L_elbow 0.1300 
+skin 517 Y_L_clavicle 0.1100 Y_L_shoulder 0.3500 L_manto_01 0.0200 Y_L_elbow 0.5200 
+skin 518 Y_R_clavicle 0.3500 Y_R_shoulder 0.5100 R_manto_01 0.0100 Y_R_elbow 0.1300 
+skin 519 L_manto_02 0.1900 R_manto_02 0.1900 L_manto_03 0.3200 R_manto_03 0.3000 
+skin 520 Y_R_clavicle 0.0500 Y_R_shoulder 0.3500 R_manto_01 0.0500 Y_R_elbow 0.5500 
+skin 521 Y_R_clavicle 0.3500 Y_R_shoulder 0.5100 R_manto_01 0.0100 Y_R_elbow 0.1300 
+skin 522 Y_R_clavicle 0.3800 Y_R_shoulder 0.5200 R_manto_01 0.0100 Y_R_elbow 0.0900 
+skin 523 Y_L_clavicle 0.3500 Y_L_shoulder 0.5100 L_manto_01 0.0100 Y_L_elbow 0.1300 
+skin 524 Y_R_clavicle 0.1100 Y_R_shoulder 0.3500 R_manto_01 0.0200 Y_R_elbow 0.5200 
+skin 525 Y_L_clavicle 0.1100 Y_L_shoulder 0.3500 L_manto_01 0.0200 Y_L_elbow 0.5200 
+skin 526 Y_head 1.0000 
+skin 527 Y_head 1.0000 
+skin 528 Y_head 0.6000 Y_L_up_tuno_01 0.4000 
+skin 529 Y_head 1.0000 
+skin 530 Y_head 1.0000 
+skin 531 Y_head 1.0000 
+skin 532 Y_head 0.8000 Y_L_up_tuno_01 0.2000 
+skin 533 Y_head 1.0000 
+skin 534 Y_head 1.0000 
+skin 535 Y_head 0.6000 Y_L_up_tuno_01 0.4000 
+skin 536 Y_head 1.0000 
+skin 537 Y_head 1.0000 
+skin 538 Y_head 1.0000 
+skin 539 Y_head 1.0000 
+skin 540 Y_head 1.0000 
+skin 541 Y_head 1.0000 
+skin 542 Y_head 1.0000 
+skin 543 Y_head 1.0000 
+skin 544 Y_head 1.0000 
+skin 545 Y_head 1.0000 
+skin 546 Y_head 1.0000 
+skin 547 Y_head 1.0000 
+skin 548 Y_head 1.0000 
+skin 549 Y_head 0.9000 Y_L_up_tuno_01 0.1000 
+skin 550 Y_head 1.0000 
+skin 551 Y_head 0.7700 Y_L_up_tuno_01 0.2100 Y_L_up_tuno_02 0.0200 
+skin 552 Y_head 1.0000 
+skin 553 Y_head 1.0000 
+skin 554 Y_head 1.0000 
+skin 555 Y_head 1.0000 
+skin 556 Y_head 1.0000 
+skin 557 Y_head 1.0000 
+skin 558 Y_head 1.0000 
+skin 559 Y_head 1.0000 
+skin 560 Y_head 1.0000 
+skin 561 Y_head 1.0000 
+skin 562 Y_head 1.0000 
+skin 563 Y_head 0.8800 Y_L_down_tuno_01 0.1200 
+skin 564 Y_head 1.0000 
+skin 565 Y_head 1.0000 
+skin 566 Y_head 0.8800 Y_L_down_tuno_01 0.1200 
+skin 567 Y_head 1.0000 
+skin 568 Y_head 0.9000 Y_R_up_tuno_01 0.1000 
+skin 569 Y_head 1.0000 
+skin 570 Y_head 1.0000 
+skin 571 Y_head 1.0000 
+skin 572 Y_head 1.0000 
+skin 573 Y_head 1.0000 
+skin 574 Y_head 1.0000 
+skin 575 Y_head 1.0000 
+skin 576 Y_head 0.7500 Y_L_down_tuno_01 0.2500 
+skin 577 Y_head 1.0000 
+skin 578 Y_head 1.0000 
+skin 579 Y_head 1.0000 
+skin 580 Y_head 1.0000 
+skin 581 Y_head 1.0000 
+skin 582 Y_head 0.8800 Y_L_down_tuno_01 0.1200 
+skin 583 Y_head 1.0000 
+skin 584 Y_head 1.0000 
+skin 585 Y_head 0.6000 Y_R_up_tuno_01 0.4000 
+skin 586 Y_head 0.9000 Y_R_up_tuno_01 0.1000 
+skin 587 Y_head 1.0000 
+skin 588 Y_head 1.0000 
+skin 589 Y_head 1.0000 
+skin 590 Y_head 1.0000 
+skin 591 Y_head 0.8500 Y_L_down_tuno_01 0.1500 
+skin 592 Y_head 1.0000 
+skin 593 Y_head 1.0000 
+skin 594 Y_head 0.2200 Y_R_up_tuno_01 0.7000 Y_R_up_tuno_02 0.0800 
+skin 595 Y_head 0.7700 Y_R_up_tuno_01 0.2100 Y_R_up_tuno_02 0.0200 
+skin 596 Y_head 1.0000 
+skin 597 Y_head 1.0000 
+skin 598 Y_head 1.0000 
+skin 599 Y_head 1.0000 
+skin 600 Y_head 0.7500 Y_R_down_tuno_01 0.2500 
+skin 601 Y_head 0.8800 Y_R_down_tuno_01 0.1200 
+skin 602 Y_head 1.0000 
+skin 603 Y_head 1.0000 
+skin 604 Y_head 0.6000 Y_R_up_tuno_01 0.4000 
+skin 605 Y_head 0.7900 Y_R_up_tuno_01 0.1900 Y_R_up_tuno_02 0.0200 
+skin 606 Y_head 1.0000 
+skin 607 Y_head 1.0000 
+skin 608 Y_head 1.0000 
+skin 609 Y_head 0.8000 Y_L_down_tuno_01 0.2000 
+skin 610 Y_head 1.0000 
+skin 611 Y_head 0.9500 Y_L_down_tuno_01 0.0500 
+skin 612 Y_head 1.0000 
+skin 613 Y_head 1.0000 
+skin 614 Y_head 1.0000 
+skin 615 Y_head 1.0000 
+skin 616 Y_head 1.0000 
+skin 617 Y_head 0.6000 Y_R_up_tuno_01 0.4000 
+skin 618 Y_head 0.8000 Y_L_down_tuno_01 0.2000 
+skin 619 Y_head 1.0000 
+skin 620 Y_head 0.9500 Y_R_down_tuno_01 0.0500 
+skin 621 Y_head 0.8000 Y_R_down_tuno_01 0.2000 
+skin 622 Y_head 1.0000 
+skin 623 Y_head 0.8000 Y_R_up_tuno_01 0.2000 
+skin 624 Y_head 1.0000 
+skin 625 Y_head 1.0000 
+skin 626 Y_head 1.0000 
+skin 627 Y_head 1.0000 
+skin 628 Y_head 1.0000 
+skin 629 Y_head 1.0000 
+skin 630 Y_head 1.0000 
+skin 631 Y_head 1.0000 
+skin 632 Y_head 1.0000 
+skin 633 Y_head 1.0000 
+skin 634 Y_head 0.8000 Y_R_down_tuno_01 0.2000 
+skin 635 Y_head 1.0000 
+skin 636 Y_head 1.0000 
+skin 637 Y_head 1.0000 
+skin 638 Y_head 1.0000 
+skin 639 Y_head 0.8000 Y_R_down_tuno_01 0.2000 
+skin 640 Y_head 1.0000 
+skin 641 Y_head 0.8500 Y_R_down_tuno_01 0.1500 
+skin 642 Y_head 1.0000 
+skin 643 Y_head 1.0000 
+skin 644 Y_head 1.0000 
+skin 645 Y_head 1.0000 
+skin 646 Y_head 1.0000 
+skin 647 Y_head 1.0000 
+skin 648 Y_head 1.0000 
+skin 649 Y_head 1.0000 
+skin 650 Y_head 1.0000 
+skin 651 Y_head 1.0000 
+skin 652 Y_head 1.0000 
+skin 653 Y_head 1.0000 
+skin 654 Y_head 1.0000 
+skin 655 Y_head 1.0000 
+skin 656 Y_head 1.0000 
+skin 657 Y_head 1.0000 
+skin 658 Y_head 1.0000 
+skin 659 Y_head 1.0000 
+skin 660 Y_head 1.0000 
+skin 661 Y_head 1.0000 
+skin 662 Y_head 1.0000 
+skin 663 Y_head 1.0000 
+skin 664 Y_head 1.0000 
+skin 665 Y_head 1.0000 
+skin 666 Y_head 1.0000 
+skin 667 Y_head 1.0000 
+skin 668 Y_head 1.0000 
+skin 669 Y_head 1.0000 
+skin 670 Y_head 1.0000 
+skin 671 Y_head 1.0000 
+skin 672 Y_head 1.0000 
+skin 673 Y_head 1.0000 
+skin 674 Y_head 1.0000 
+skin 675 Y_head 1.0000 
+skin 676 Y_head 1.0000 
+skin 677 Y_head 1.0000 
+skin 678 Y_head 1.0000 
+skin 679 Y_head 1.0000 
+skin 680 Y_head 1.0000 
+skin 681 Y_L_up_tuno_01 0.4200 Y_L_up_tuno_02 0.5800 
+skin 682 Y_L_up_tuno_01 0.3500 Y_L_up_tuno_02 0.6500 
+skin 683 Y_L_up_tuno_01 0.2800 Y_L_up_tuno_02 0.7200 
+skin 684 Y_head 0.0100 Y_L_up_tuno_01 0.3800 Y_L_up_tuno_02 0.6100 
+skin 685 Y_L_up_tuno_01 0.3800 Y_L_up_tuno_02 0.6200 
+skin 686 Y_head 0.0100 Y_L_up_tuno_01 0.4600 Y_L_up_tuno_02 0.5300 
+skin 687 Y_head 0.0900 Y_L_up_tuno_01 0.7100 Y_L_up_tuno_02 0.2000 
+skin 688 Y_L_up_tuno_01 0.3800 Y_L_up_tuno_02 0.6200 
+skin 689 Y_L_up_tuno_01 0.5200 Y_L_up_tuno_02 0.4800 
+skin 690 Y_head 0.1000 Y_L_up_tuno_01 0.6900 Y_L_up_tuno_02 0.2100 
+skin 691 Y_head 0.1900 Y_L_up_tuno_01 0.6600 Y_L_up_tuno_02 0.1500 
+skin 692 Y_head 0.0100 Y_L_up_tuno_01 0.5900 Y_L_up_tuno_02 0.4000 
+skin 693 Y_head 0.0100 Y_L_up_tuno_01 0.5400 Y_L_up_tuno_02 0.4500 
+skin 694 Y_head 0.2200 Y_L_up_tuno_01 0.7000 Y_L_up_tuno_02 0.0800 
+skin 695 Y_L_down_tuno_01 0.7500 Y_L_down_tuno_02 0.2500 
+skin 696 Y_head 0.0900 Y_L_down_tuno_01 0.6000 Y_L_down_tuno_02 0.3100 
+skin 697 Y_head 0.0200 Y_L_down_tuno_01 0.2600 Y_L_down_tuno_02 0.7200 
+skin 698 Y_head 0.0500 Y_L_down_tuno_01 0.6000 Y_L_down_tuno_02 0.3500 
+skin 699 Y_head 0.0200 Y_L_down_tuno_01 0.4100 Y_L_down_tuno_02 0.5700 
+skin 700 Y_head 0.0200 Y_L_down_tuno_01 0.4100 Y_L_down_tuno_02 0.5700 
+skin 701 Y_head 0.0200 Y_L_down_tuno_01 0.4100 Y_L_down_tuno_02 0.5700 
+skin 702 Y_head 0.8800 Y_L_down_tuno_01 0.1200 
+skin 703 Y_R_up_tuno_01 0.5200 Y_R_up_tuno_02 0.4800 
+skin 704 Y_R_up_tuno_01 0.3800 Y_R_up_tuno_02 0.6200 
+skin 705 Y_head 0.0100 Y_R_up_tuno_01 0.2800 Y_R_up_tuno_02 0.7100 
+skin 706 Y_head 0.1000 Y_R_up_tuno_01 0.6800 Y_R_up_tuno_02 0.2200 
+skin 707 Y_R_up_tuno_01 0.3800 Y_R_up_tuno_02 0.6200 
+skin 708 Y_head 0.0100 Y_R_up_tuno_01 0.4400 Y_R_up_tuno_02 0.5500 
+skin 709 Y_R_up_tuno_01 0.4300 Y_R_up_tuno_02 0.5700 
+skin 710 Y_R_up_tuno_01 0.3600 Y_R_up_tuno_02 0.6400 
+skin 711 Y_head 0.0800 Y_R_up_tuno_01 0.7100 Y_R_up_tuno_02 0.2100 
+skin 712 Y_head 0.1400 Y_R_up_tuno_01 0.7200 Y_R_up_tuno_02 0.1400 
+skin 713 Y_head 0.2300 Y_R_up_tuno_01 0.6900 Y_R_up_tuno_02 0.0800 
+skin 714 Y_head 0.0100 Y_R_up_tuno_01 0.3800 Y_R_up_tuno_02 0.6100 
+skin 715 Y_head 0.0900 Y_R_down_tuno_01 0.6000 Y_R_down_tuno_02 0.3100 
+skin 716 Y_R_down_tuno_01 0.7500 Y_R_down_tuno_02 0.2500 
+skin 717 Y_head 0.0500 Y_R_down_tuno_01 0.6000 Y_R_down_tuno_02 0.3500 
+skin 718 Y_head 0.8800 Y_R_down_tuno_01 0.1200 
+skin 719 Y_head 0.0200 Y_R_down_tuno_01 0.2600 Y_R_down_tuno_02 0.7200 
+skin 720 Y_head 0.7500 Y_R_down_tuno_01 0.2500 
+skin 721 Y_head 0.0200 Y_R_down_tuno_01 0.4100 Y_R_down_tuno_02 0.5700 
+skin 722 Y_head 0.8800 Y_R_down_tuno_01 0.1200 
+skin 723 Y_head 0.0200 Y_R_down_tuno_01 0.4100 Y_R_down_tuno_02 0.5700 
+skin 724 Y_head 0.0200 Y_R_down_tuno_01 0.4100 Y_R_down_tuno_02 0.5700 
+skin 725 Y_head 0.8800 Y_R_down_tuno_01 0.1200 
+skin 726 Y_head 0.6000 Y_L_up_tuno_01 0.4000 
+skin 727 Y_head 0.8500 Y_L_up_tuno_01 0.1500 
+skin 728 Y_head 0.7800 Y_L_up_tuno_01 0.2000 Y_L_up_tuno_02 0.0200 
+skin 729 Y_head 0.9000 Y_L_up_tuno_01 0.1000 
+skin 730 Y_head 0.7500 Y_L_down_tuno_01 0.2500 
+skin 731 Y_head 0.1800 Y_R_up_tuno_01 0.6600 Y_R_up_tuno_02 0.1600 
+skin 732 Y_head 0.8000 Y_L_down_tuno_01 0.2000 
+skin 733 Y_head 0.1700 Y_R_up_tuno_01 0.7100 Y_R_up_tuno_02 0.1200 
+skin 734 Y_head 0.8200 Y_R_up_tuno_01 0.1700 Y_R_up_tuno_02 0.0100 
+skin 735 Y_head 0.1100 Y_R_up_tuno_01 0.7100 Y_R_up_tuno_02 0.1800 
+skin 736 Y_head 0.0700 Y_R_up_tuno_01 0.7100 Y_R_up_tuno_02 0.2200 
+skin 737 Y_head 0.1400 Y_L_up_tuno_01 0.7100 Y_L_up_tuno_02 0.1500 
+skin 738 Y_head 0.1100 Y_L_up_tuno_01 0.7100 Y_L_up_tuno_02 0.1800 
+skin 739 Y_head 0.0800 Y_L_up_tuno_01 0.7100 Y_L_up_tuno_02 0.2100 
+skin 740 Y_head 0.1700 Y_L_up_tuno_01 0.7200 Y_L_up_tuno_02 0.1100 
+skin 741 Y_head 0.0100 Y_L_up_tuno_01 0.6400 Y_L_up_tuno_02 0.3500 
+skin 742 Y_head 0.2200 Y_L_up_tuno_01 0.7100 Y_L_up_tuno_02 0.0700 
+skin 743 Y_head 0.2300 Y_L_up_tuno_01 0.7000 Y_L_up_tuno_02 0.0700 
+skin 744 Y_head 0.0600 Y_L_down_tuno_01 0.3900 Y_L_down_tuno_02 0.5500 
+skin 745 Y_head 0.0200 Y_L_down_tuno_01 0.4100 Y_L_down_tuno_02 0.5700 
+skin 746 Y_head 0.0200 Y_L_down_tuno_01 0.4100 Y_L_down_tuno_02 0.5700 
+skin 747 Y_head 0.0100 Y_R_up_tuno_01 0.6000 Y_R_up_tuno_02 0.3900 
+skin 748 Y_head 0.0100 Y_R_up_tuno_01 0.6400 Y_R_up_tuno_02 0.3500 
+skin 749 Y_head 0.0100 Y_R_up_tuno_01 0.5500 Y_R_up_tuno_02 0.4400 
+skin 750 Y_head 0.2400 Y_R_up_tuno_01 0.6900 Y_R_up_tuno_02 0.0700 
+skin 751 Y_head 0.0600 Y_R_down_tuno_01 0.3900 Y_R_down_tuno_02 0.5500 
+skin 752 Y_head 0.0200 Y_R_down_tuno_01 0.4100 Y_R_down_tuno_02 0.5700 
+skin 753 Y_head 0.0200 Y_R_down_tuno_01 0.4100 Y_R_down_tuno_02 0.5700 
+skin 754 Y_head 1.0000 
+skin 755 Y_head 1.0000 
+skin 756 Y_head 1.0000 
+skin 757 Y_head 1.0000 
+skin 758 Y_head 1.0000 
+skin 759 Y_head 1.0000 
+skin 760 Y_head 1.0000 
+skin 761 Y_head 1.0000 
+skin 762 Y_head 1.0000 
+skin 763 Y_head 1.0000 
+skin 764 Y_head 1.0000 
+skin 765 Y_head 1.0000 
+skin 766 Y_head 1.0000 
+skin 767 Y_head 1.0000 
+skin 768 Y_head 1.0000 
+skin 769 Y_head 1.0000 
+skin 770 Y_head 1.0000 
+skin 771 Y_head 1.0000 
+skin 772 Y_head 1.0000 
+skin 773 Y_head 1.0000 
+skin 774 Y_head 1.0000 
+skin 775 Y_head 1.0000 
+skin 776 Y_head 1.0000 
+skin 777 Y_head 1.0000 
+skin 778 Y_head 1.0000 
+skin 779 Y_head 1.0000 
+skin 780 Y_head 1.0000 
+skin 781 Y_head 1.0000 
+skin 782 Y_head 1.0000 
+skin 783 Y_head 1.0000 
+skin 784 Y_head 1.0000 
+skin 785 Y_head 1.0000 
+skin 786 Y_head 1.0000 
+hier Y1_00_ROOT Y_L_hip
+hier Y1_00_ROOT Y_R_hip
+hier Y1_00_ROOT Y_spine
+hier Y_L_hip Y_L_knee
+hier Y_R_hip Y_R_knee
+hier Y_spine Y_chest
+hier Y_L_knee Y_L_toe
+hier Y_R_knee Y_R_toe
+hier Y_chest Y_L_clavicle
+hier Y_chest Y_R_clavicle
+hier Y_chest Y_neck
+hier Y_L_clavicle Y_L_shoulder
+hier Y_R_clavicle Y_R_shoulder
+hier Y_neck L_manto_01
+hier Y_neck R_manto_01
+hier Y_neck Y_head
+hier Y_neck Zipper_01
+hier Y_L_shoulder Y_L_elbow
+hier Y_R_shoulder Y_R_elbow
+hier L_manto_01 L_manto_02
+hier R_manto_01 R_manto_02
+hier Y_head Y_L_down_tuno_01
+hier Y_head Y_L_up_tuno_01
+hier Y_head Y_R_down_tuno_01
+hier Y_head Y_R_up_tuno_01
+hier Zipper_01 zipper_02
+hier Y_L_elbow Y_L_wrist
+hier Y_R_elbow Y_R_wrist
+hier L_manto_02 L_manto_03
+hier R_manto_02 R_manto_03
+hier Y_L_down_tuno_01 Y_L_down_tuno_02
+hier Y_L_up_tuno_01 Y_L_up_tuno_02
+hier Y_R_down_tuno_01 Y_R_down_tuno_02
+hier Y_R_up_tuno_01 Y_R_up_tuno_02
+hier zipper_02 zipper_03
+hier Y_L_wrist Y_L_hand
+hier Y_R_wrist Y_R_hand
+hier Y_L_hand Y_L_finger
+hier Y_R_hand Y_R_finger

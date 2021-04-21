@@ -1,0 +1,90 @@
+joints Trans 0.00000000 0.21639000 0.26446300
+joints LeftUpLeg 0.03098240 0.11444500 0.26446300
+joints RightUpLeg -0.03098240 0.11444500 0.26446300
+joints LeftUptail 0.03354850 0.26417200 0.19048480
+joints RightUptail -0.03354850 0.26417200 0.19048480
+joints Spine 0.00000000 0.34012200 0.26446300
+joints Lefttail 0.06542110 0.26327300 -0.09036400
+joints Righttail -0.06542110 0.26327300 -0.09036400
+joints Head 0.00000000 0.44255900 0.26446300
+joints LeftArm 0.06285280 0.34959600 0.26446300
+joints RightArm -0.06285280 0.34959600 0.26446300
+joints LeftForeArm 0.15617900 0.34959600 0.26446288
+joints RightForeArm -0.15616500 0.34959600 0.26286561
+root Trans
+skin 0 Head 1.0000 
+skin 1 Head 1.0000 
+skin 2 Head 1.0000 
+skin 3 Head 1.0000 
+skin 4 Head 1.0000 
+skin 5 Head 1.0000 
+skin 6 Head 1.0000 
+skin 7 Head 1.0000 
+skin 8 Head 1.0000 
+skin 9 Head 1.0000 
+skin 10 Head 1.0000 
+skin 11 Head 1.0000 
+skin 12 Head 1.0000 
+skin 13 Head 1.0000 
+skin 14 Head 1.0000 
+skin 15 RightForeArm 1.0000 
+skin 16 RightArm 0.3500 RightForeArm 0.6500 
+skin 17 RightArm 0.3500 RightForeArm 0.6500 
+skin 18 RightArm 0.3500 RightForeArm 0.6500 
+skin 19 LeftForeArm 1.0000 
+skin 20 LeftArm 0.3500 LeftForeArm 0.6500 
+skin 21 LeftArm 0.3500 LeftForeArm 0.6500 
+skin 22 LeftArm 0.3500 LeftForeArm 0.6500 
+skin 23 Spine 0.9000 LeftArm 0.1000 
+skin 24 Spine 0.9000 LeftArm 0.1000 
+skin 25 Spine 0.9000 LeftArm 0.1000 
+skin 26 Head 1.0000 
+skin 27 Head 1.0000 
+skin 28 Spine 0.1000 Head 0.9000 
+skin 29 Spine 0.1000 Head 0.9000 
+skin 30 Trans 1.0000 
+skin 31 Spine 0.1000 Head 0.9000 
+skin 32 Spine 0.1000 Head 0.9000 
+skin 33 Spine 0.9000 RightArm 0.1000 
+skin 34 Spine 0.9000 RightArm 0.1000 
+skin 35 Spine 0.9000 RightArm 0.1000 
+skin 36 Trans 1.0000 
+skin 37 Head 1.0000 
+skin 38 Head 1.0000 
+skin 39 Trans 0.9900 RightUptail 0.0100 
+skin 40 Trans 0.9900 RightUptail 0.0100 
+skin 41 Trans 0.9900 LeftUptail 0.0100 
+skin 42 Trans 0.9900 LeftUptail 0.0100 
+skin 43 Trans 1.0000 
+skin 44 Trans 1.0000 
+skin 45 Trans 1.0000 
+skin 46 Trans 1.0000 
+skin 47 Trans 0.9900 RightUptail 0.0100 
+skin 48 Trans 0.9900 LeftUptail 0.0100 
+skin 49 Trans 1.0000 
+skin 50 Trans 0.9000 LeftUpLeg 0.1000 
+skin 51 Trans 0.9000 RightUpLeg 0.1000 
+skin 52 LeftUpLeg 1.0000 
+skin 53 RightUpLeg 1.0000 
+skin 54 LeftUptail 0.5000 Lefttail 0.5000 
+skin 55 LeftUptail 0.7500 Lefttail 0.2500 
+skin 56 Lefttail 1.0000 
+skin 57 LeftUptail 0.9600 Lefttail 0.0400 
+skin 58 LeftUptail 0.5500 Lefttail 0.4500 
+skin 59 RightUptail 0.5000 Righttail 0.5000 
+skin 60 RightUptail 0.7500 Righttail 0.2500 
+skin 61 Righttail 1.0000 
+skin 62 RightUptail 0.9600 Righttail 0.0400 
+skin 63 RightUptail 0.5500 Righttail 0.4500 
+hier Trans LeftUpLeg
+hier Trans RightUpLeg
+hier Trans LeftUptail
+hier Trans RightUptail
+hier Trans Spine
+hier LeftUptail Lefttail
+hier RightUptail Righttail
+hier Spine Head
+hier Spine LeftArm
+hier Spine RightArm
+hier LeftArm LeftForeArm
+hier RightArm RightForeArm

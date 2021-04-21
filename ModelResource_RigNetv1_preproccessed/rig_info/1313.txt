@@ -1,0 +1,400 @@
+joints enemy_waist -0.00002300 0.21607200 0.00356350
+joints enemy_chest_dummy -0.00002292 0.35320100 0.00356296
+joints enemy_clouchL_dummy 0.05049800 0.21607200 0.00357327
+joints enemy_clouchR_dummy -0.05054400 0.21607200 0.00355373
+joints enemy_shoulderR_dummy -0.00002285 0.46146000 0.00356254
+joints enemy_head_dummy -0.00002284 0.48331200 0.00356245
+joints enemy_shoulderL_dummy -0.00002285 0.46146000 0.00356254
+joints enemy_legTL_dummy 0.05049040 0.12946500 0.00357361
+joints enemy_legTR_dummy -0.05055160 0.12946500 0.00355407
+joints enemy_armTR_dummy -0.05776110 0.46146600 0.00355156
+joints enemy_armTL_dummy 0.05771540 0.46146600 0.00357373
+joints enemy_legBL_dummy 0.05048470 0.06450950 0.00357386
+joints enemy_legBR_dummy -0.05055730 0.06450940 0.00355433
+joints enemy_armBR_dummy -0.27428000 0.46147900 0.00349565
+joints enemy_armBL_dummy 0.27423400 0.46148100 0.00360099
+joints enemy_footL_dummy 0.05047890 -0.00044609 0.00357412
+joints enemy_footR_dummy -0.05056300 -0.00044615 0.00355459
+joints enemy_handR_dummy -0.41862500 0.46148800 0.00345838
+joints enemy_handL_dummy 0.41858000 0.46149100 0.00361916
+joints enemy_handRend_dummy -0.49801500 0.46149300 0.00343788
+root enemy_waist
+skin 0 enemy_legTR_dummy 1.0000 
+skin 1 enemy_clouchR_dummy 1.0000 
+skin 2 enemy_legTR_dummy 1.0000 
+skin 3 enemy_legTR_dummy 1.0000 
+skin 4 enemy_legTR_dummy 1.0000 
+skin 5 enemy_legTR_dummy 1.0000 
+skin 6 enemy_legBR_dummy 1.0000 
+skin 7 enemy_legBR_dummy 1.0000 
+skin 8 enemy_legTR_dummy 1.0000 
+skin 9 enemy_legTR_dummy 1.0000 
+skin 10 enemy_clouchR_dummy 1.0000 
+skin 11 enemy_clouchR_dummy 1.0000 
+skin 12 enemy_clouchR_dummy 1.0000 
+skin 13 enemy_legTR_dummy 1.0000 
+skin 14 enemy_legTR_dummy 1.0000 
+skin 15 enemy_clouchR_dummy 1.0000 
+skin 16 enemy_legTR_dummy 1.0000 
+skin 17 enemy_legTR_dummy 1.0000 
+skin 18 enemy_clouchR_dummy 1.0000 
+skin 19 enemy_clouchR_dummy 1.0000 
+skin 20 enemy_clouchR_dummy 1.0000 
+skin 21 enemy_clouchR_dummy 1.0000 
+skin 22 enemy_clouchR_dummy 1.0000 
+skin 23 enemy_clouchR_dummy 1.0000 
+skin 24 enemy_clouchR_dummy 1.0000 
+skin 25 enemy_legTR_dummy 1.0000 
+skin 26 enemy_clouchR_dummy 1.0000 
+skin 27 enemy_legTR_dummy 1.0000 
+skin 28 enemy_legTR_dummy 0.2300 enemy_legBR_dummy 0.7700 
+skin 29 enemy_clouchR_dummy 1.0000 
+skin 30 enemy_head_dummy 1.0000 
+skin 31 enemy_head_dummy 1.0000 
+skin 32 enemy_head_dummy 1.0000 
+skin 33 enemy_head_dummy 1.0000 
+skin 34 enemy_head_dummy 1.0000 
+skin 35 enemy_head_dummy 1.0000 
+skin 36 enemy_head_dummy 1.0000 
+skin 37 enemy_head_dummy 1.0000 
+skin 38 enemy_head_dummy 1.0000 
+skin 39 enemy_head_dummy 1.0000 
+skin 40 enemy_head_dummy 1.0000 
+skin 41 enemy_head_dummy 1.0000 
+skin 42 enemy_shoulderL_dummy 1.0000 
+skin 43 enemy_chest_dummy 1.0000 
+skin 44 enemy_shoulderL_dummy 1.0000 
+skin 45 enemy_chest_dummy 1.0000 
+skin 46 enemy_chest_dummy 1.0000 
+skin 47 enemy_chest_dummy 1.0000 
+skin 48 enemy_chest_dummy 1.0000 
+skin 49 enemy_armTL_dummy 1.0000 
+skin 50 enemy_armTL_dummy 1.0000 
+skin 51 enemy_shoulderL_dummy 0.0500 enemy_armTL_dummy 0.9500 
+skin 52 enemy_shoulderL_dummy 0.0200 enemy_armTL_dummy 0.9800 
+skin 53 enemy_armTL_dummy 1.0000 
+skin 54 enemy_armTL_dummy 1.0000 
+skin 55 enemy_shoulderL_dummy 1.0000 
+skin 56 enemy_shoulderL_dummy 1.0000 
+skin 57 enemy_chest_dummy 1.0000 
+skin 58 enemy_chest_dummy 1.0000 
+skin 59 enemy_shoulderR_dummy 1.0000 
+skin 60 enemy_chest_dummy 1.0000 
+skin 61 enemy_armTR_dummy 1.0000 
+skin 62 enemy_chest_dummy 1.0000 
+skin 63 enemy_armTR_dummy 1.0000 
+skin 64 enemy_head_dummy 1.0000 
+skin 65 enemy_head_dummy 1.0000 
+skin 66 enemy_head_dummy 1.0000 
+skin 67 enemy_head_dummy 1.0000 
+skin 68 enemy_head_dummy 1.0000 
+skin 69 enemy_head_dummy 1.0000 
+skin 70 enemy_head_dummy 1.0000 
+skin 71 enemy_head_dummy 1.0000 
+skin 72 enemy_head_dummy 1.0000 
+skin 73 enemy_head_dummy 1.0000 
+skin 74 enemy_head_dummy 1.0000 
+skin 75 enemy_head_dummy 1.0000 
+skin 76 enemy_head_dummy 1.0000 
+skin 77 enemy_head_dummy 1.0000 
+skin 78 enemy_head_dummy 1.0000 
+skin 79 enemy_armTR_dummy 1.0000 
+skin 80 enemy_head_dummy 1.0000 
+skin 81 enemy_head_dummy 1.0000 
+skin 82 enemy_head_dummy 1.0000 
+skin 83 enemy_head_dummy 1.0000 
+skin 84 enemy_head_dummy 1.0000 
+skin 85 enemy_armTR_dummy 1.0000 
+skin 86 enemy_head_dummy 1.0000 
+skin 87 enemy_head_dummy 1.0000 
+skin 88 enemy_head_dummy 1.0000 
+skin 89 enemy_head_dummy 1.0000 
+skin 90 enemy_head_dummy 1.0000 
+skin 91 enemy_head_dummy 1.0000 
+skin 92 enemy_head_dummy 1.0000 
+skin 93 enemy_head_dummy 1.0000 
+skin 94 enemy_head_dummy 1.0000 
+skin 95 enemy_head_dummy 1.0000 
+skin 96 enemy_shoulderR_dummy 1.0000 
+skin 97 enemy_head_dummy 1.0000 
+skin 98 enemy_armTR_dummy 1.0000 
+skin 99 enemy_shoulderR_dummy 0.0500 enemy_armTR_dummy 0.9500 
+skin 100 enemy_armTR_dummy 1.0000 
+skin 101 enemy_armTR_dummy 1.0000 
+skin 102 enemy_shoulderR_dummy 1.0000 
+skin 103 enemy_head_dummy 1.0000 
+skin 104 enemy_armTL_dummy 1.0000 
+skin 105 enemy_armTL_dummy 1.0000 
+skin 106 enemy_armTL_dummy 1.0000 
+skin 107 enemy_chest_dummy 1.0000 
+skin 108 enemy_head_dummy 1.0000 
+skin 109 enemy_head_dummy 1.0000 
+skin 110 enemy_head_dummy 1.0000 
+skin 111 enemy_head_dummy 1.0000 
+skin 112 enemy_head_dummy 1.0000 
+skin 113 enemy_head_dummy 1.0000 
+skin 114 enemy_head_dummy 1.0000 
+skin 115 enemy_chest_dummy 1.0000 
+skin 116 enemy_armTL_dummy 1.0000 
+skin 117 enemy_chest_dummy 1.0000 
+skin 118 enemy_head_dummy 1.0000 
+skin 119 enemy_head_dummy 1.0000 
+skin 120 enemy_armTL_dummy 1.0000 
+skin 121 enemy_armTL_dummy 1.0000 
+skin 122 enemy_head_dummy 1.0000 
+skin 123 enemy_armTL_dummy 1.0000 
+skin 124 enemy_armTR_dummy 1.0000 
+skin 125 enemy_shoulderR_dummy 0.0200 enemy_armTR_dummy 0.9800 
+skin 126 enemy_armTR_dummy 1.0000 
+skin 127 enemy_armTR_dummy 1.0000 
+skin 128 enemy_chest_dummy 1.0000 
+skin 129 enemy_shoulderR_dummy 1.0000 
+skin 130 enemy_chest_dummy 1.0000 
+skin 131 enemy_chest_dummy 1.0000 
+skin 132 enemy_head_dummy 1.0000 
+skin 133 enemy_head_dummy 1.0000 
+skin 134 enemy_head_dummy 1.0000 
+skin 135 enemy_armTR_dummy 1.0000 
+skin 136 enemy_chest_dummy 1.0000 
+skin 137 enemy_chest_dummy 1.0000 
+skin 138 enemy_chest_dummy 1.0000 
+skin 139 enemy_armBL_dummy 1.0000 
+skin 140 enemy_armTL_dummy 1.0000 
+skin 141 enemy_armBL_dummy 1.0000 
+skin 142 enemy_armTL_dummy 1.0000 
+skin 143 enemy_armTL_dummy 0.5300 enemy_armBL_dummy 0.4700 
+skin 144 enemy_armTL_dummy 0.9900 enemy_armBL_dummy 0.0100 
+skin 145 enemy_armTL_dummy 1.0000 
+skin 146 enemy_armTL_dummy 1.0000 
+skin 147 enemy_armTL_dummy 1.0000 
+skin 148 enemy_shoulderL_dummy 0.2800 enemy_armTL_dummy 0.7200 
+skin 149 enemy_armTL_dummy 1.0000 
+skin 150 enemy_armTL_dummy 1.0000 
+skin 151 enemy_armTL_dummy 1.0000 
+skin 152 enemy_shoulderL_dummy 1.0000 
+skin 153 enemy_armTL_dummy 1.0000 
+skin 154 enemy_shoulderL_dummy 0.5200 enemy_armTL_dummy 0.4800 
+skin 155 enemy_shoulderL_dummy 0.5100 enemy_armTL_dummy 0.4900 
+skin 156 enemy_armTL_dummy 1.0000 
+skin 157 enemy_armTL_dummy 1.0000 
+skin 158 enemy_armTL_dummy 0.5300 enemy_armBL_dummy 0.4700 
+skin 159 enemy_armTL_dummy 0.5400 enemy_armBL_dummy 0.4600 
+skin 160 enemy_armTL_dummy 0.2100 enemy_armBL_dummy 0.7900 
+skin 161 enemy_armTL_dummy 0.1100 enemy_armBL_dummy 0.8900 
+skin 162 enemy_armBL_dummy 1.0000 
+skin 163 enemy_armTL_dummy 1.0000 
+skin 164 enemy_shoulderL_dummy 1.0000 
+skin 165 enemy_shoulderL_dummy 0.5200 enemy_armTL_dummy 0.4800 
+skin 166 enemy_armTL_dummy 0.2300 enemy_armBL_dummy 0.7700 
+skin 167 enemy_armBL_dummy 1.0000 
+skin 168 enemy_armBL_dummy 1.0000 
+skin 169 enemy_shoulderL_dummy 0.0400 enemy_armTL_dummy 0.9600 
+skin 170 enemy_legTR_dummy 0.4700 enemy_legBR_dummy 0.5300 
+skin 171 enemy_legTR_dummy 0.0100 enemy_legBR_dummy 0.9900 
+skin 172 enemy_legTR_dummy 0.0900 enemy_legBR_dummy 0.9100 
+skin 173 enemy_legBR_dummy 0.9200 enemy_footR_dummy 0.0800 
+skin 174 enemy_legBR_dummy 0.9100 enemy_footR_dummy 0.0900 
+skin 175 enemy_legBR_dummy 0.5700 enemy_footR_dummy 0.4300 
+skin 176 enemy_legBR_dummy 0.5700 enemy_footR_dummy 0.4300 
+skin 177 enemy_legBR_dummy 0.5000 enemy_footR_dummy 0.5000 
+skin 178 enemy_legBR_dummy 0.5400 enemy_footR_dummy 0.4600 
+skin 179 enemy_legBR_dummy 0.5700 enemy_footR_dummy 0.4300 
+skin 180 enemy_legBR_dummy 0.9300 enemy_footR_dummy 0.0700 
+skin 181 enemy_legBR_dummy 0.9600 enemy_footR_dummy 0.0400 
+skin 182 enemy_legTR_dummy 0.0100 enemy_legBR_dummy 0.9900 
+skin 183 enemy_legBR_dummy 1.0000 
+skin 184 enemy_legBL_dummy 1.0000 
+skin 185 enemy_legTL_dummy 0.4700 enemy_legBL_dummy 0.5300 
+skin 186 enemy_legTL_dummy 1.0000 
+skin 187 enemy_legTL_dummy 0.0100 enemy_legBL_dummy 0.9900 
+skin 188 enemy_legBL_dummy 1.0000 
+skin 189 enemy_legBL_dummy 0.9400 enemy_footL_dummy 0.0600 
+skin 190 enemy_legBL_dummy 0.9600 enemy_footL_dummy 0.0400 
+skin 191 enemy_legBL_dummy 0.5700 enemy_footL_dummy 0.4300 
+skin 192 enemy_legBL_dummy 0.9300 enemy_footL_dummy 0.0700 
+skin 193 enemy_legBL_dummy 0.5400 enemy_footL_dummy 0.4600 
+skin 194 enemy_legBL_dummy 0.9100 enemy_footL_dummy 0.0900 
+skin 195 enemy_legBL_dummy 0.5700 enemy_footL_dummy 0.4300 
+skin 196 enemy_legBL_dummy 0.9100 enemy_footL_dummy 0.0900 
+skin 197 enemy_legBL_dummy 0.5700 enemy_footL_dummy 0.4300 
+skin 198 enemy_legBL_dummy 0.9200 enemy_footL_dummy 0.0800 
+skin 199 enemy_legTL_dummy 1.0000 
+skin 200 enemy_legTL_dummy 0.4500 enemy_legBL_dummy 0.5500 
+skin 201 enemy_legTL_dummy 0.0900 enemy_legBL_dummy 0.9100 
+skin 202 enemy_legTL_dummy 0.0700 enemy_legBL_dummy 0.9300 
+skin 203 enemy_legTL_dummy 0.1300 enemy_legBL_dummy 0.8700 
+skin 204 enemy_legTL_dummy 0.0600 enemy_legBL_dummy 0.9400 
+skin 205 enemy_legTL_dummy 0.0100 enemy_legBL_dummy 0.9900 
+skin 206 enemy_legTR_dummy 0.4500 enemy_legBR_dummy 0.5500 
+skin 207 enemy_legTR_dummy 0.0700 enemy_legBR_dummy 0.9300 
+skin 208 enemy_legTR_dummy 0.1300 enemy_legBR_dummy 0.8700 
+skin 209 enemy_legBR_dummy 0.9100 enemy_footR_dummy 0.0900 
+skin 210 enemy_legTR_dummy 0.0600 enemy_legBR_dummy 0.9400 
+skin 211 enemy_legTR_dummy 0.4300 enemy_legBR_dummy 0.5700 
+skin 212 enemy_legTR_dummy 0.4500 enemy_legBR_dummy 0.5500 
+skin 213 enemy_legTR_dummy 1.0000 
+skin 214 enemy_legTL_dummy 0.4300 enemy_legBL_dummy 0.5700 
+skin 215 enemy_legTL_dummy 0.2300 enemy_legBL_dummy 0.7700 
+skin 216 enemy_legBL_dummy 1.0000 
+skin 217 enemy_legBR_dummy 0.9400 enemy_footR_dummy 0.0600 
+skin 218 enemy_legBL_dummy 0.5000 enemy_footL_dummy 0.5000 
+skin 219 enemy_legTL_dummy 0.4500 enemy_legBL_dummy 0.5500 
+skin 220 enemy_clouchL_dummy 1.0000 
+skin 221 enemy_clouchL_dummy 1.0000 
+skin 222 enemy_clouchL_dummy 1.0000 
+skin 223 enemy_clouchL_dummy 1.0000 
+skin 224 enemy_clouchL_dummy 1.0000 
+skin 225 enemy_clouchL_dummy 1.0000 
+skin 226 enemy_legTL_dummy 1.0000 
+skin 227 enemy_clouchL_dummy 1.0000 
+skin 228 enemy_legTL_dummy 1.0000 
+skin 229 enemy_legTL_dummy 1.0000 
+skin 230 enemy_legTL_dummy 1.0000 
+skin 231 enemy_legTL_dummy 1.0000 
+skin 232 enemy_legTL_dummy 1.0000 
+skin 233 enemy_legTL_dummy 1.0000 
+skin 234 enemy_legTL_dummy 1.0000 
+skin 235 enemy_legTL_dummy 1.0000 
+skin 236 enemy_legTL_dummy 1.0000 
+skin 237 enemy_clouchL_dummy 1.0000 
+skin 238 enemy_clouchL_dummy 1.0000 
+skin 239 enemy_clouchL_dummy 1.0000 
+skin 240 enemy_clouchL_dummy 1.0000 
+skin 241 enemy_clouchL_dummy 1.0000 
+skin 242 enemy_legTL_dummy 1.0000 
+skin 243 enemy_clouchL_dummy 1.0000 
+skin 244 enemy_clouchL_dummy 1.0000 
+skin 245 enemy_clouchL_dummy 1.0000 
+skin 246 enemy_clouchL_dummy 1.0000 
+skin 247 enemy_clouchL_dummy 1.0000 
+skin 248 enemy_legTL_dummy 1.0000 
+skin 249 enemy_legTL_dummy 1.0000 
+skin 250 enemy_legTL_dummy 1.0000 
+skin 251 enemy_clouchL_dummy 1.0000 
+skin 252 enemy_clouchL_dummy 1.0000 
+skin 253 enemy_clouchL_dummy 1.0000 
+skin 254 enemy_clouchL_dummy 1.0000 
+skin 255 enemy_legTL_dummy 1.0000 
+skin 256 enemy_clouchL_dummy 1.0000 
+skin 257 enemy_waist 1.0000 
+skin 258 enemy_clouchL_dummy 1.0000 
+skin 259 enemy_clouchL_dummy 1.0000 
+skin 260 enemy_clouchL_dummy 1.0000 
+skin 261 enemy_clouchL_dummy 1.0000 
+skin 262 enemy_waist 1.0000 
+skin 263 enemy_waist 1.0000 
+skin 264 enemy_clouchR_dummy 1.0000 
+skin 265 enemy_clouchR_dummy 1.0000 
+skin 266 enemy_clouchR_dummy 1.0000 
+skin 267 enemy_clouchR_dummy 1.0000 
+skin 268 enemy_clouchR_dummy 1.0000 
+skin 269 enemy_clouchR_dummy 1.0000 
+skin 270 enemy_clouchR_dummy 1.0000 
+skin 271 enemy_waist 1.0000 
+skin 272 enemy_clouchR_dummy 1.0000 
+skin 273 enemy_waist 1.0000 
+skin 274 enemy_clouchR_dummy 1.0000 
+skin 275 enemy_clouchR_dummy 1.0000 
+skin 276 enemy_clouchR_dummy 1.0000 
+skin 277 enemy_legTR_dummy 1.0000 
+skin 278 enemy_legTR_dummy 1.0000 
+skin 279 enemy_legTR_dummy 1.0000 
+skin 280 enemy_legTR_dummy 1.0000 
+skin 281 enemy_legTL_dummy 1.0000 
+skin 282 enemy_clouchR_dummy 1.0000 
+skin 283 enemy_clouchL_dummy 1.0000 
+skin 284 enemy_clouchR_dummy 1.0000 
+skin 285 enemy_clouchR_dummy 1.0000 
+skin 286 enemy_legTR_dummy 1.0000 
+skin 287 enemy_armBL_dummy 0.8100 enemy_handL_dummy 0.1900 
+skin 288 enemy_armBL_dummy 0.8300 enemy_handL_dummy 0.1700 
+skin 289 enemy_armBL_dummy 0.8600 enemy_handL_dummy 0.1400 
+skin 290 enemy_armBL_dummy 0.5000 enemy_handL_dummy 0.5000 
+skin 291 enemy_armBL_dummy 0.8600 enemy_handL_dummy 0.1400 
+skin 292 enemy_armBL_dummy 0.5000 enemy_handL_dummy 0.5000 
+skin 293 enemy_armBL_dummy 0.8300 enemy_handL_dummy 0.1700 
+skin 294 enemy_armBL_dummy 0.5000 enemy_handL_dummy 0.5000 
+skin 295 enemy_armBL_dummy 0.5000 enemy_handL_dummy 0.5000 
+skin 296 enemy_armBL_dummy 0.1900 enemy_handL_dummy 0.8100 
+skin 297 enemy_armBL_dummy 0.5000 enemy_handL_dummy 0.5000 
+skin 298 enemy_armBL_dummy 0.1800 enemy_handL_dummy 0.8200 
+skin 299 enemy_armBL_dummy 0.1500 enemy_handL_dummy 0.8500 
+skin 300 enemy_handL_dummy 1.0000 
+skin 301 enemy_handL_dummy 1.0000 
+skin 302 enemy_handL_dummy 1.0000 
+skin 303 enemy_handL_dummy 1.0000 
+skin 304 enemy_handL_dummy 1.0000 
+skin 305 enemy_armBL_dummy 0.1500 enemy_handL_dummy 0.8500 
+skin 306 enemy_armBL_dummy 0.1700 enemy_handL_dummy 0.8300 
+skin 307 enemy_shoulderR_dummy 0.2800 enemy_armTR_dummy 0.7200 
+skin 308 enemy_shoulderR_dummy 0.5100 enemy_armTR_dummy 0.4900 
+skin 309 enemy_shoulderR_dummy 0.5200 enemy_armTR_dummy 0.4800 
+skin 310 enemy_shoulderR_dummy 0.0400 enemy_armTR_dummy 0.9600 
+skin 311 enemy_armTR_dummy 1.0000 
+skin 312 enemy_armTR_dummy 1.0000 
+skin 313 enemy_armTR_dummy 1.0000 
+skin 314 enemy_armTR_dummy 1.0000 
+skin 315 enemy_armTR_dummy 1.0000 
+skin 316 enemy_armTR_dummy 1.0000 
+skin 317 enemy_armTR_dummy 1.0000 
+skin 318 enemy_shoulderR_dummy 1.0000 
+skin 319 enemy_shoulderR_dummy 1.0000 
+skin 320 enemy_handL_dummy 1.0000 
+skin 321 enemy_armTR_dummy 1.0000 
+skin 322 enemy_shoulderR_dummy 0.5200 enemy_armTR_dummy 0.4800 
+skin 323 enemy_armTR_dummy 1.0000 
+skin 324 enemy_armTR_dummy 1.0000 
+skin 325 enemy_armBR_dummy 1.0000 
+skin 326 enemy_armBR_dummy 1.0000 
+skin 327 enemy_armBR_dummy 0.8600 enemy_handR_dummy 0.1400 
+skin 328 enemy_armBR_dummy 1.0000 
+skin 329 enemy_armBR_dummy 0.8600 enemy_handR_dummy 0.1400 
+skin 330 enemy_armBR_dummy 1.0000 
+skin 331 enemy_armBR_dummy 0.8300 enemy_handR_dummy 0.1700 
+skin 332 enemy_armBR_dummy 0.8100 enemy_handR_dummy 0.1900 
+skin 333 enemy_armBR_dummy 0.5000 enemy_handR_dummy 0.5000 
+skin 334 enemy_armBR_dummy 0.8300 enemy_handR_dummy 0.1700 
+skin 335 enemy_armBR_dummy 0.5000 enemy_handR_dummy 0.5000 
+skin 336 enemy_armBR_dummy 0.5000 enemy_handR_dummy 0.5000 
+skin 337 enemy_armBR_dummy 0.1500 enemy_handR_dummy 0.8500 
+skin 338 enemy_armBR_dummy 0.5000 enemy_handR_dummy 0.5000 
+skin 339 enemy_armBR_dummy 0.1500 enemy_handR_dummy 0.8500 
+skin 340 enemy_armBR_dummy 0.5000 enemy_handR_dummy 0.5000 
+skin 341 enemy_armBR_dummy 0.1800 enemy_handR_dummy 0.8200 
+skin 342 enemy_armBR_dummy 0.1900 enemy_handR_dummy 0.8100 
+skin 343 enemy_handR_dummy 0.6500 enemy_handRend_dummy 0.3500 
+skin 344 enemy_handR_dummy 0.6500 enemy_handRend_dummy 0.3500 
+skin 345 enemy_handR_dummy 0.5000 enemy_handRend_dummy 0.5000 
+skin 346 enemy_handR_dummy 0.6500 enemy_handRend_dummy 0.3500 
+skin 347 enemy_handR_dummy 0.6500 enemy_handRend_dummy 0.3500 
+skin 348 enemy_armBR_dummy 1.0000 
+skin 349 enemy_armBR_dummy 0.1800 enemy_handR_dummy 0.8200 
+skin 350 enemy_armTR_dummy 1.0000 
+skin 351 enemy_armTR_dummy 1.0000 
+skin 352 enemy_armTR_dummy 0.5300 enemy_armBR_dummy 0.4700 
+skin 353 enemy_armTR_dummy 0.5300 enemy_armBR_dummy 0.4700 
+skin 354 enemy_armTR_dummy 0.2100 enemy_armBR_dummy 0.7900 
+skin 355 enemy_armTR_dummy 0.5400 enemy_armBR_dummy 0.4600 
+skin 356 enemy_armTR_dummy 0.1100 enemy_armBR_dummy 0.8900 
+skin 357 enemy_armTR_dummy 0.2400 enemy_armBR_dummy 0.7600 
+skin 358 enemy_armTR_dummy 1.0000 
+skin 359 enemy_handR_dummy 0.6500 enemy_handRend_dummy 0.3500 
+hier enemy_waist enemy_chest_dummy
+hier enemy_waist enemy_clouchL_dummy
+hier enemy_waist enemy_clouchR_dummy
+hier enemy_chest_dummy enemy_shoulderR_dummy
+hier enemy_chest_dummy enemy_head_dummy
+hier enemy_chest_dummy enemy_shoulderL_dummy
+hier enemy_clouchL_dummy enemy_legTL_dummy
+hier enemy_clouchR_dummy enemy_legTR_dummy
+hier enemy_shoulderR_dummy enemy_armTR_dummy
+hier enemy_shoulderL_dummy enemy_armTL_dummy
+hier enemy_legTL_dummy enemy_legBL_dummy
+hier enemy_legTR_dummy enemy_legBR_dummy
+hier enemy_armTR_dummy enemy_armBR_dummy
+hier enemy_armTL_dummy enemy_armBL_dummy
+hier enemy_legBL_dummy enemy_footL_dummy
+hier enemy_legBR_dummy enemy_footR_dummy
+hier enemy_armBR_dummy enemy_handR_dummy
+hier enemy_armBL_dummy enemy_handL_dummy
+hier enemy_handR_dummy enemy_handRend_dummy

@@ -1,0 +1,829 @@
+joints Nw4cRoot 0.00000100 0.49949300 0.05206550
+joints main 0.00000100 0.49949300 0.01346170
+joints neck 0.00000100 0.52746100 0.05226660
+joints wing1A -0.00448549 0.53782930 -0.00735830
+joints wing2A -0.03027930 0.52342840 -0.00735820
+joints wing3A -0.03833530 0.49500650 -0.00735820
+joints wing4A -0.02393440 0.46921270 -0.00735820
+joints wing5A 0.00448749 0.46115660 -0.00735820
+joints wing6A 0.03028130 0.47555760 -0.00735820
+joints wing7A 0.03833730 0.50397948 -0.00735820
+joints wing8A 0.02393640 0.52977330 -0.00735830
+joints collar_L 0.05870550 0.54503090 0.05975002
+joints collar_R -0.05870350 0.54503090 0.05975002
+joints head 0.00000100 0.58483740 0.14911410
+joints wing1B -0.07409980 0.81367800 -0.09865550
+joints wing2B -0.27456200 0.66925900 -0.09865650
+joints wing3B -0.31514700 0.42518550 -0.09901750
+joints wing4B -0.16976700 0.22493100 -0.09865650
+joints wing5B 0.07416860 0.18499900 -0.09877150
+joints wing6B 0.27492500 0.32949300 -0.09881550
+joints wing7B 0.31412300 0.57357920 -0.09863150
+joints wing8B 0.17009400 0.77455700 -0.09887750
+joints eye 0.00000100 0.60179400 0.25544350
+joints hat 0.00000100 0.69092300 0.19206750
+joints joe 0.00000100 0.38125900 0.14911410
+joints hat_top 0.00000100 0.98724400 0.19206750
+root Nw4cRoot
+skin 0 neck 1.0000 
+skin 1 neck 1.0000 
+skin 2 neck 1.0000 
+skin 3 joe 1.0000 
+skin 4 joe 1.0000 
+skin 5 joe 1.0000 
+skin 6 hat 1.0000 
+skin 7 hat 1.0000 
+skin 8 hat 1.0000 
+skin 9 head 1.0000 
+skin 10 head 1.0000 
+skin 11 head 1.0000 
+skin 12 Nw4cRoot 1.0000 
+skin 13 main 0.5000 wing4A 0.5000 
+skin 14 Nw4cRoot 1.0000 
+skin 15 main 0.5000 wing4A 0.5000 
+skin 16 Nw4cRoot 1.0000 
+skin 17 main 0.5000 wing4A 0.5000 
+skin 18 wing2B 1.0000 
+skin 19 wing2B 1.0000 
+skin 20 wing2B 1.0000 
+skin 21 wing1B 1.0000 
+skin 22 wing1B 1.0000 
+skin 23 wing1B 1.0000 
+skin 24 main 0.5000 wing7A 0.5000 
+skin 25 main 0.5000 wing7A 0.5000 
+skin 26 Nw4cRoot 1.0000 
+skin 27 neck 0.4500 collar_L 0.5500 
+skin 28 neck 0.2500 collar_L 0.7500 
+skin 29 neck 0.4500 collar_L 0.5500 
+skin 30 eye 1.0000 
+skin 31 eye 1.0000 
+skin 32 head 1.0000 
+skin 33 head 0.2000 joe 0.8000 
+skin 34 head 0.2000 joe 0.8000 
+skin 35 head 1.0000 
+skin 36 hat_top 1.0000 
+skin 37 hat_top 1.0000 
+skin 38 hat_top 1.0000 
+skin 39 head 1.0000 
+skin 40 head 1.0000 
+skin 41 head 1.0000 
+skin 42 head 1.0000 
+skin 43 head 1.0000 
+skin 44 head 1.0000 
+skin 45 head 1.0000 
+skin 46 head 1.0000 
+skin 47 head 1.0000 
+skin 48 joe 1.0000 
+skin 49 joe 1.0000 
+skin 50 joe 1.0000 
+skin 51 wing2A 0.5000 wing2B 0.5000 
+skin 52 wing2A 0.5000 wing2B 0.5000 
+skin 53 wing2A 0.5000 wing2B 0.5000 
+skin 54 wing4B 1.0000 
+skin 55 wing4B 1.0000 
+skin 56 wing4B 1.0000 
+skin 57 main 0.5000 wing6A 0.5000 
+skin 58 Nw4cRoot 1.0000 
+skin 59 main 0.5000 wing6A 0.5000 
+skin 60 wing7A 0.5000 wing7B 0.5000 
+skin 61 main 0.5000 wing7A 0.5000 
+skin 62 wing7A 0.5000 wing7B 0.5000 
+skin 63 hat 1.0000 
+skin 64 hat 1.0000 
+skin 65 hat 1.0000 
+skin 66 hat 1.0000 
+skin 67 hat 1.0000 
+skin 68 hat 1.0000 
+skin 69 hat 1.0000 
+skin 70 hat 1.0000 
+skin 71 hat 1.0000 
+skin 72 hat 1.0000 
+skin 73 hat 1.0000 
+skin 74 hat 1.0000 
+skin 75 hat 1.0000 
+skin 76 hat 1.0000 
+skin 77 hat 1.0000 
+skin 78 hat 1.0000 
+skin 79 main 1.0000 
+skin 80 main 1.0000 
+skin 81 main 1.0000 
+skin 82 main 1.0000 
+skin 83 main 1.0000 
+skin 84 main 1.0000 
+skin 85 main 1.0000 
+skin 86 main 1.0000 
+skin 87 main 1.0000 
+skin 88 main 1.0000 
+skin 89 main 1.0000 
+skin 90 main 1.0000 
+skin 91 main 1.0000 
+skin 92 main 1.0000 
+skin 93 main 1.0000 
+skin 94 main 1.0000 
+skin 95 main 1.0000 
+skin 96 main 1.0000 
+skin 97 main 1.0000 
+skin 98 main 1.0000 
+skin 99 main 1.0000 
+skin 100 main 1.0000 
+skin 101 hat_top 1.0000 
+skin 102 hat_top 1.0000 
+skin 103 hat_top 1.0000 
+skin 104 hat_top 1.0000 
+skin 105 hat_top 1.0000 
+skin 106 hat_top 1.0000 
+skin 107 hat_top 1.0000 
+skin 108 hat_top 1.0000 
+skin 109 hat_top 1.0000 
+skin 110 hat_top 1.0000 
+skin 111 hat_top 1.0000 
+skin 112 hat_top 1.0000 
+skin 113 hat_top 1.0000 
+skin 114 hat_top 1.0000 
+skin 115 hat_top 1.0000 
+skin 116 hat_top 1.0000 
+skin 117 hat_top 1.0000 
+skin 118 neck 1.0000 
+skin 119 neck 1.0000 
+skin 120 neck 1.0000 
+skin 121 neck 1.0000 
+skin 122 neck 1.0000 
+skin 123 neck 1.0000 
+skin 124 neck 1.0000 
+skin 125 neck 1.0000 
+skin 126 neck 1.0000 
+skin 127 neck 1.0000 
+skin 128 neck 1.0000 
+skin 129 neck 1.0000 
+skin 130 neck 1.0000 
+skin 131 neck 1.0000 
+skin 132 neck 1.0000 
+skin 133 neck 1.0000 
+skin 134 neck 1.0000 
+skin 135 neck 1.0000 
+skin 136 joe 1.0000 
+skin 137 head 0.2000 joe 0.8000 
+skin 138 head 0.2000 joe 0.8000 
+skin 139 head 0.2000 joe 0.8000 
+skin 140 joe 1.0000 
+skin 141 joe 1.0000 
+skin 142 joe 1.0000 
+skin 143 joe 1.0000 
+skin 144 neck 1.0000 
+skin 145 neck 1.0000 
+skin 146 eye 1.0000 
+skin 147 eye 1.0000 
+skin 148 eye 1.0000 
+skin 149 eye 1.0000 
+skin 150 eye 1.0000 
+skin 151 eye 1.0000 
+skin 152 eye 1.0000 
+skin 153 eye 1.0000 
+skin 154 eye 1.0000 
+skin 155 joe 1.0000 
+skin 156 joe 1.0000 
+skin 157 head 0.2000 joe 0.8000 
+skin 158 joe 1.0000 
+skin 159 joe 1.0000 
+skin 160 joe 1.0000 
+skin 161 head 0.2000 joe 0.8000 
+skin 162 joe 1.0000 
+skin 163 joe 1.0000 
+skin 164 joe 1.0000 
+skin 165 neck 0.7000 collar_L 0.3000 
+skin 166 neck 0.7000 collar_L 0.3000 
+skin 167 neck 0.4500 collar_L 0.5500 
+skin 168 neck 1.0000 
+skin 169 neck 0.4500 collar_L 0.5500 
+skin 170 neck 1.0000 
+skin 171 neck 1.0000 
+skin 172 neck 0.2500 collar_L 0.7500 
+skin 173 neck 1.0000 
+skin 174 neck 0.2500 collar_L 0.7500 
+skin 175 collar_L 1.0000 
+skin 176 neck 1.0000 
+skin 177 neck 1.0000 
+skin 178 neck 1.0000 
+skin 179 neck 0.7000 collar_R 0.3000 
+skin 180 neck 0.7000 collar_R 0.3000 
+skin 181 neck 1.0000 
+skin 182 neck 0.4500 collar_R 0.5500 
+skin 183 neck 0.4500 collar_R 0.5500 
+skin 184 neck 0.2500 collar_R 0.7500 
+skin 185 neck 0.2500 collar_R 0.7500 
+skin 186 collar_R 1.0000 
+skin 187 neck 0.2500 collar_L 0.7500 
+skin 188 collar_L 1.0000 
+skin 189 neck 0.7000 collar_L 0.3000 
+skin 190 neck 1.0000 
+skin 191 neck 0.7000 collar_L 0.3000 
+skin 192 neck 1.0000 
+skin 193 neck 1.0000 
+skin 194 neck 1.0000 
+skin 195 neck 1.0000 
+skin 196 neck 0.7000 collar_R 0.3000 
+skin 197 neck 1.0000 
+skin 198 neck 1.0000 
+skin 199 neck 0.4500 collar_R 0.5500 
+skin 200 neck 0.2500 collar_R 0.7500 
+skin 201 neck 0.7000 collar_R 0.3000 
+skin 202 collar_R 1.0000 
+skin 203 neck 0.4500 collar_R 0.5500 
+skin 204 neck 0.2500 collar_R 0.7500 
+skin 205 neck 1.0000 
+skin 206 neck 1.0000 
+skin 207 neck 1.0000 
+skin 208 neck 1.0000 
+skin 209 neck 1.0000 
+skin 210 neck 1.0000 
+skin 211 neck 1.0000 
+skin 212 neck 1.0000 
+skin 213 neck 1.0000 
+skin 214 neck 1.0000 
+skin 215 neck 1.0000 
+skin 216 neck 1.0000 
+skin 217 neck 1.0000 
+skin 218 neck 1.0000 
+skin 219 neck 1.0000 
+skin 220 head 1.0000 
+skin 221 head 1.0000 
+skin 222 head 1.0000 
+skin 223 head 1.0000 
+skin 224 head 1.0000 
+skin 225 head 1.0000 
+skin 226 head 1.0000 
+skin 227 head 1.0000 
+skin 228 head 1.0000 
+skin 229 head 1.0000 
+skin 230 head 1.0000 
+skin 231 head 1.0000 
+skin 232 head 1.0000 
+skin 233 head 1.0000 
+skin 234 head 1.0000 
+skin 235 head 1.0000 
+skin 236 head 1.0000 
+skin 237 head 1.0000 
+skin 238 head 1.0000 
+skin 239 head 1.0000 
+skin 240 head 1.0000 
+skin 241 head 1.0000 
+skin 242 head 1.0000 
+skin 243 head 1.0000 
+skin 244 head 1.0000 
+skin 245 head 1.0000 
+skin 246 head 1.0000 
+skin 247 head 1.0000 
+skin 248 head 1.0000 
+skin 249 head 1.0000 
+skin 250 head 1.0000 
+skin 251 head 1.0000 
+skin 252 head 1.0000 
+skin 253 head 1.0000 
+skin 254 head 1.0000 
+skin 255 head 1.0000 
+skin 256 head 1.0000 
+skin 257 head 1.0000 
+skin 258 head 1.0000 
+skin 259 head 1.0000 
+skin 260 head 1.0000 
+skin 261 head 1.0000 
+skin 262 head 1.0000 
+skin 263 head 1.0000 
+skin 264 head 1.0000 
+skin 265 head 1.0000 
+skin 266 head 1.0000 
+skin 267 head 1.0000 
+skin 268 head 1.0000 
+skin 269 head 1.0000 
+skin 270 head 1.0000 
+skin 271 head 1.0000 
+skin 272 head 1.0000 
+skin 273 head 1.0000 
+skin 274 head 0.2000 joe 0.8000 
+skin 275 joe 1.0000 
+skin 276 joe 1.0000 
+skin 277 joe 1.0000 
+skin 278 joe 1.0000 
+skin 279 joe 1.0000 
+skin 280 joe 1.0000 
+skin 281 joe 1.0000 
+skin 282 joe 1.0000 
+skin 283 joe 1.0000 
+skin 284 joe 1.0000 
+skin 285 joe 1.0000 
+skin 286 joe 1.0000 
+skin 287 joe 1.0000 
+skin 288 joe 1.0000 
+skin 289 joe 1.0000 
+skin 290 joe 1.0000 
+skin 291 joe 1.0000 
+skin 292 joe 1.0000 
+skin 293 hat 1.0000 
+skin 294 hat_top 1.0000 
+skin 295 hat 1.0000 
+skin 296 hat_top 1.0000 
+skin 297 hat_top 1.0000 
+skin 298 hat 1.0000 
+skin 299 hat 1.0000 
+skin 300 hat_top 1.0000 
+skin 301 hat 1.0000 
+skin 302 hat_top 1.0000 
+skin 303 hat 1.0000 
+skin 304 hat 1.0000 
+skin 305 hat_top 1.0000 
+skin 306 hat 1.0000 
+skin 307 hat_top 1.0000 
+skin 308 hat_top 1.0000 
+skin 309 hat_top 1.0000 
+skin 310 hat_top 1.0000 
+skin 311 hat_top 1.0000 
+skin 312 hat_top 1.0000 
+skin 313 hat_top 1.0000 
+skin 314 hat 1.0000 
+skin 315 hat 1.0000 
+skin 316 hat 1.0000 
+skin 317 hat 1.0000 
+skin 318 hat 1.0000 
+skin 319 hat 1.0000 
+skin 320 hat 1.0000 
+skin 321 hat 1.0000 
+skin 322 hat 1.0000 
+skin 323 hat 1.0000 
+skin 324 hat 1.0000 
+skin 325 hat 1.0000 
+skin 326 hat 1.0000 
+skin 327 hat 1.0000 
+skin 328 hat 1.0000 
+skin 329 hat 1.0000 
+skin 330 hat 1.0000 
+skin 331 hat 1.0000 
+skin 332 hat 1.0000 
+skin 333 hat 1.0000 
+skin 334 hat 1.0000 
+skin 335 hat 1.0000 
+skin 336 hat 1.0000 
+skin 337 hat 1.0000 
+skin 338 hat 1.0000 
+skin 339 hat 1.0000 
+skin 340 hat 1.0000 
+skin 341 hat 1.0000 
+skin 342 hat 1.0000 
+skin 343 hat 1.0000 
+skin 344 head 1.0000 
+skin 345 head 1.0000 
+skin 346 head 1.0000 
+skin 347 head 1.0000 
+skin 348 head 1.0000 
+skin 349 head 1.0000 
+skin 350 head 1.0000 
+skin 351 head 1.0000 
+skin 352 head 1.0000 
+skin 353 head 1.0000 
+skin 354 head 1.0000 
+skin 355 head 1.0000 
+skin 356 head 1.0000 
+skin 357 head 1.0000 
+skin 358 head 1.0000 
+skin 359 head 1.0000 
+skin 360 head 1.0000 
+skin 361 head 1.0000 
+skin 362 head 1.0000 
+skin 363 head 1.0000 
+skin 364 head 1.0000 
+skin 365 head 1.0000 
+skin 366 head 1.0000 
+skin 367 head 1.0000 
+skin 368 head 1.0000 
+skin 369 head 1.0000 
+skin 370 head 1.0000 
+skin 371 head 1.0000 
+skin 372 head 1.0000 
+skin 373 head 1.0000 
+skin 374 head 1.0000 
+skin 375 head 1.0000 
+skin 376 head 1.0000 
+skin 377 head 1.0000 
+skin 378 joe 1.0000 
+skin 379 joe 1.0000 
+skin 380 joe 1.0000 
+skin 381 joe 1.0000 
+skin 382 joe 1.0000 
+skin 383 joe 1.0000 
+skin 384 joe 1.0000 
+skin 385 joe 1.0000 
+skin 386 joe 1.0000 
+skin 387 joe 1.0000 
+skin 388 wing5B 1.0000 
+skin 389 wing5B 1.0000 
+skin 390 wing5A 0.5000 wing5B 0.5000 
+skin 391 wing5B 1.0000 
+skin 392 wing5A 0.5000 wing5B 0.5000 
+skin 393 wing5B 1.0000 
+skin 394 wing5A 0.5000 wing5B 0.5000 
+skin 395 wing5B 1.0000 
+skin 396 main 0.5000 wing5A 0.5000 
+skin 397 main 0.5000 wing5A 0.5000 
+skin 398 wing5B 1.0000 
+skin 399 main 0.5000 wing5A 0.5000 
+skin 400 Nw4cRoot 1.0000 
+skin 401 Nw4cRoot 1.0000 
+skin 402 Nw4cRoot 1.0000 
+skin 403 wing2A 0.5000 wing2B 0.5000 
+skin 404 main 0.5000 wing2A 0.5000 
+skin 405 main 0.5000 wing2A 0.5000 
+skin 406 main 0.5000 wing2A 0.5000 
+skin 407 wing2A 0.5000 wing2B 0.5000 
+skin 408 wing2A 0.5000 wing2B 0.5000 
+skin 409 wing2B 1.0000 
+skin 410 Nw4cRoot 1.0000 
+skin 411 Nw4cRoot 1.0000 
+skin 412 wing2B 1.0000 
+skin 413 wing2B 1.0000 
+skin 414 Nw4cRoot 1.0000 
+skin 415 wing2B 1.0000 
+skin 416 wing2B 1.0000 
+skin 417 wing2B 1.0000 
+skin 418 wing2A 0.5000 wing2B 0.5000 
+skin 419 main 0.5000 wing2A 0.5000 
+skin 420 main 0.5000 wing2A 0.5000 
+skin 421 wing2A 0.5000 wing2B 0.5000 
+skin 422 wing2B 1.0000 
+skin 423 Nw4cRoot 1.0000 
+skin 424 wing2B 1.0000 
+skin 425 Nw4cRoot 1.0000 
+skin 426 wing2B 1.0000 
+skin 427 wing2B 1.0000 
+skin 428 wing3A 0.5000 wing3B 0.5000 
+skin 429 main 0.5000 wing3A 0.5000 
+skin 430 main 0.5000 wing3A 0.5000 
+skin 431 main 0.5000 wing3A 0.5000 
+skin 432 wing3A 0.5000 wing3B 0.5000 
+skin 433 wing3A 0.5000 wing3B 0.5000 
+skin 434 wing3B 1.0000 
+skin 435 Nw4cRoot 1.0000 
+skin 436 Nw4cRoot 1.0000 
+skin 437 wing3B 1.0000 
+skin 438 wing3B 1.0000 
+skin 439 Nw4cRoot 1.0000 
+skin 440 wing3B 1.0000 
+skin 441 wing3B 1.0000 
+skin 442 wing3B 1.0000 
+skin 443 wing3A 0.5000 wing3B 0.5000 
+skin 444 main 0.5000 wing3A 0.5000 
+skin 445 main 0.5000 wing3A 0.5000 
+skin 446 wing3A 0.5000 wing3B 0.5000 
+skin 447 wing3B 1.0000 
+skin 448 Nw4cRoot 1.0000 
+skin 449 wing3B 1.0000 
+skin 450 Nw4cRoot 1.0000 
+skin 451 wing3B 1.0000 
+skin 452 wing3B 1.0000 
+skin 453 wing4A 0.5000 wing4B 0.5000 
+skin 454 main 0.5000 wing4A 0.5000 
+skin 455 main 0.5000 wing4A 0.5000 
+skin 456 main 0.5000 wing4A 0.5000 
+skin 457 wing4A 0.5000 wing4B 0.5000 
+skin 458 wing4A 0.5000 wing4B 0.5000 
+skin 459 wing4B 1.0000 
+skin 460 Nw4cRoot 1.0000 
+skin 461 Nw4cRoot 1.0000 
+skin 462 wing4B 1.0000 
+skin 463 wing4B 1.0000 
+skin 464 Nw4cRoot 1.0000 
+skin 465 wing4B 1.0000 
+skin 466 wing4B 1.0000 
+skin 467 wing4B 1.0000 
+skin 468 wing4A 0.5000 wing4B 0.5000 
+skin 469 main 0.5000 wing4A 0.5000 
+skin 470 wing4A 0.5000 wing4B 0.5000 
+skin 471 wing4B 1.0000 
+skin 472 wing4B 1.0000 
+skin 473 wing4B 1.0000 
+skin 474 wing4B 1.0000 
+skin 475 wing5A 0.5000 wing5B 0.5000 
+skin 476 main 0.5000 wing5A 0.5000 
+skin 477 main 0.5000 wing5A 0.5000 
+skin 478 wing5A 0.5000 wing5B 0.5000 
+skin 479 wing5B 1.0000 
+skin 480 Nw4cRoot 1.0000 
+skin 481 wing5B 1.0000 
+skin 482 Nw4cRoot 1.0000 
+skin 483 wing5B 1.0000 
+skin 484 wing5B 1.0000 
+skin 485 wing2A 0.5000 wing2B 0.5000 
+skin 486 main 0.5000 wing2A 0.5000 
+skin 487 wing2A 0.5000 wing2B 0.5000 
+skin 488 main 0.5000 wing2A 0.5000 
+skin 489 wing2A 0.5000 wing2B 0.5000 
+skin 490 wing2A 0.5000 wing2B 0.5000 
+skin 491 Nw4cRoot 1.0000 
+skin 492 wing2B 1.0000 
+skin 493 wing2A 0.5000 wing2B 0.5000 
+skin 494 wing2A 0.5000 wing2B 0.5000 
+skin 495 wing2B 1.0000 
+skin 496 wing2B 1.0000 
+skin 497 wing2A 0.5000 wing2B 0.5000 
+skin 498 main 0.5000 wing2A 0.5000 
+skin 499 wing2A 0.5000 wing2B 0.5000 
+skin 500 wing2A 0.5000 wing2B 0.5000 
+skin 501 wing2B 1.0000 
+skin 502 wing3A 0.5000 wing3B 0.5000 
+skin 503 main 0.5000 wing3A 0.5000 
+skin 504 wing3A 0.5000 wing3B 0.5000 
+skin 505 main 0.5000 wing3A 0.5000 
+skin 506 wing3A 0.5000 wing3B 0.5000 
+skin 507 wing3A 0.5000 wing3B 0.5000 
+skin 508 wing3A 0.5000 wing3B 0.5000 
+skin 509 Nw4cRoot 1.0000 
+skin 510 wing3B 1.0000 
+skin 511 wing3A 0.5000 wing3B 0.5000 
+skin 512 wing3A 0.5000 wing3B 0.5000 
+skin 513 wing3B 1.0000 
+skin 514 wing3B 1.0000 
+skin 515 wing3B 1.0000 
+skin 516 wing3A 0.5000 wing3B 0.5000 
+skin 517 wing3B 1.0000 
+skin 518 wing3A 0.5000 wing3B 0.5000 
+skin 519 main 0.5000 wing3A 0.5000 
+skin 520 wing3A 0.5000 wing3B 0.5000 
+skin 521 wing3A 0.5000 wing3B 0.5000 
+skin 522 wing3A 0.5000 wing3B 0.5000 
+skin 523 wing3B 1.0000 
+skin 524 wing3B 1.0000 
+skin 525 wing4A 0.5000 wing4B 0.5000 
+skin 526 wing4A 0.5000 wing4B 0.5000 
+skin 527 wing4A 0.5000 wing4B 0.5000 
+skin 528 wing4A 0.5000 wing4B 0.5000 
+skin 529 wing4A 0.5000 wing4B 0.5000 
+skin 530 wing4B 1.0000 
+skin 531 wing4A 0.5000 wing4B 0.5000 
+skin 532 wing4A 0.5000 wing4B 0.5000 
+skin 533 wing4B 1.0000 
+skin 534 wing4B 1.0000 
+skin 535 wing4A 0.5000 wing4B 0.5000 
+skin 536 wing4A 0.5000 wing4B 0.5000 
+skin 537 main 0.5000 wing4A 0.5000 
+skin 538 wing4A 0.5000 wing4B 0.5000 
+skin 539 wing4A 0.5000 wing4B 0.5000 
+skin 540 wing4A 0.5000 wing4B 0.5000 
+skin 541 wing4B 1.0000 
+skin 542 wing5A 0.5000 wing5B 0.5000 
+skin 543 main 0.5000 wing5A 0.5000 
+skin 544 wing5A 0.5000 wing5B 0.5000 
+skin 545 main 0.5000 wing5A 0.5000 
+skin 546 wing5A 0.5000 wing5B 0.5000 
+skin 547 wing5A 0.5000 wing5B 0.5000 
+skin 548 wing5A 0.5000 wing5B 0.5000 
+skin 549 Nw4cRoot 1.0000 
+skin 550 wing5B 1.0000 
+skin 551 wing5A 0.5000 wing5B 0.5000 
+skin 552 wing5A 0.5000 wing5B 0.5000 
+skin 553 wing5B 1.0000 
+skin 554 wing5B 1.0000 
+skin 555 wing5B 1.0000 
+skin 556 wing5A 0.5000 wing5B 0.5000 
+skin 557 wing5B 1.0000 
+skin 558 wing5A 0.5000 wing5B 0.5000 
+skin 559 main 0.5000 wing5A 0.5000 
+skin 560 wing5A 0.5000 wing5B 0.5000 
+skin 561 wing5A 0.5000 wing5B 0.5000 
+skin 562 wing5A 0.5000 wing5B 0.5000 
+skin 563 wing5B 1.0000 
+skin 564 wing5B 1.0000 
+skin 565 wing2A 0.5000 wing2B 0.5000 
+skin 566 main 0.5000 wing2A 0.5000 
+skin 567 wing2B 1.0000 
+skin 568 wing2B 1.0000 
+skin 569 wing3A 0.5000 wing3B 0.5000 
+skin 570 main 0.5000 wing3A 0.5000 
+skin 571 wing3B 1.0000 
+skin 572 wing3B 1.0000 
+skin 573 wing4A 0.5000 wing4B 0.5000 
+skin 574 main 0.5000 wing4A 0.5000 
+skin 575 wing4B 1.0000 
+skin 576 wing4B 1.0000 
+skin 577 wing5A 0.5000 wing5B 0.5000 
+skin 578 main 0.5000 wing5A 0.5000 
+skin 579 wing5B 1.0000 
+skin 580 wing5B 1.0000 
+skin 581 wing1B 1.0000 
+skin 582 wing1B 1.0000 
+skin 583 wing1A 0.5000 wing1B 0.5000 
+skin 584 wing1B 1.0000 
+skin 585 wing1A 0.5000 wing1B 0.5000 
+skin 586 wing1B 1.0000 
+skin 587 wing1A 0.5000 wing1B 0.5000 
+skin 588 wing1B 1.0000 
+skin 589 main 0.5000 wing1A 0.5000 
+skin 590 main 0.5000 wing1A 0.5000 
+skin 591 wing1B 1.0000 
+skin 592 main 0.5000 wing1A 0.5000 
+skin 593 Nw4cRoot 1.0000 
+skin 594 Nw4cRoot 1.0000 
+skin 595 Nw4cRoot 1.0000 
+skin 596 wing6A 0.5000 wing6B 0.5000 
+skin 597 main 0.5000 wing6A 0.5000 
+skin 598 wing6A 0.5000 wing6B 0.5000 
+skin 599 wing6A 0.5000 wing6B 0.5000 
+skin 600 wing6B 1.0000 
+skin 601 Nw4cRoot 1.0000 
+skin 602 wing6B 1.0000 
+skin 603 wing6B 1.0000 
+skin 604 Nw4cRoot 1.0000 
+skin 605 wing6B 1.0000 
+skin 606 wing6B 1.0000 
+skin 607 wing6B 1.0000 
+skin 608 wing6A 0.5000 wing6B 0.5000 
+skin 609 main 0.5000 wing6A 0.5000 
+skin 610 main 0.5000 wing6A 0.5000 
+skin 611 wing6A 0.5000 wing6B 0.5000 
+skin 612 wing6B 1.0000 
+skin 613 Nw4cRoot 1.0000 
+skin 614 wing6B 1.0000 
+skin 615 Nw4cRoot 1.0000 
+skin 616 wing6B 1.0000 
+skin 617 wing6B 1.0000 
+skin 618 wing7A 0.5000 wing7B 0.5000 
+skin 619 main 0.5000 wing7A 0.5000 
+skin 620 main 0.5000 wing7A 0.5000 
+skin 621 wing7A 0.5000 wing7B 0.5000 
+skin 622 wing7B 1.0000 
+skin 623 Nw4cRoot 1.0000 
+skin 624 Nw4cRoot 1.0000 
+skin 625 wing7B 1.0000 
+skin 626 wing7B 1.0000 
+skin 627 Nw4cRoot 1.0000 
+skin 628 wing7B 1.0000 
+skin 629 wing7B 1.0000 
+skin 630 wing7B 1.0000 
+skin 631 main 0.5000 wing7A 0.5000 
+skin 632 wing7A 0.5000 wing7B 0.5000 
+skin 633 wing7B 1.0000 
+skin 634 wing7B 1.0000 
+skin 635 Nw4cRoot 1.0000 
+skin 636 wing7B 1.0000 
+skin 637 wing7B 1.0000 
+skin 638 wing8A 0.5000 wing8B 0.5000 
+skin 639 main 0.5000 wing8A 0.5000 
+skin 640 main 0.5000 wing8A 0.5000 
+skin 641 main 0.5000 wing8A 0.5000 
+skin 642 wing8A 0.5000 wing8B 0.5000 
+skin 643 wing8A 0.5000 wing8B 0.5000 
+skin 644 wing8B 1.0000 
+skin 645 Nw4cRoot 1.0000 
+skin 646 Nw4cRoot 1.0000 
+skin 647 wing8B 1.0000 
+skin 648 wing8B 1.0000 
+skin 649 Nw4cRoot 1.0000 
+skin 650 wing8B 1.0000 
+skin 651 wing8B 1.0000 
+skin 652 wing8B 1.0000 
+skin 653 wing8A 0.5000 wing8B 0.5000 
+skin 654 main 0.5000 wing8A 0.5000 
+skin 655 main 0.5000 wing8A 0.5000 
+skin 656 wing8A 0.5000 wing8B 0.5000 
+skin 657 wing8B 1.0000 
+skin 658 Nw4cRoot 1.0000 
+skin 659 wing8B 1.0000 
+skin 660 Nw4cRoot 1.0000 
+skin 661 wing8B 1.0000 
+skin 662 wing8B 1.0000 
+skin 663 wing1A 0.5000 wing1B 0.5000 
+skin 664 main 0.5000 wing1A 0.5000 
+skin 665 main 0.5000 wing1A 0.5000 
+skin 666 wing1A 0.5000 wing1B 0.5000 
+skin 667 wing1B 1.0000 
+skin 668 Nw4cRoot 1.0000 
+skin 669 wing1B 1.0000 
+skin 670 Nw4cRoot 1.0000 
+skin 671 wing1B 1.0000 
+skin 672 wing1B 1.0000 
+skin 673 wing6A 0.5000 wing6B 0.5000 
+skin 674 main 0.5000 wing6A 0.5000 
+skin 675 wing6A 0.5000 wing6B 0.5000 
+skin 676 main 0.5000 wing6A 0.5000 
+skin 677 wing6A 0.5000 wing6B 0.5000 
+skin 678 wing6A 0.5000 wing6B 0.5000 
+skin 679 wing6A 0.5000 wing6B 0.5000 
+skin 680 Nw4cRoot 1.0000 
+skin 681 wing6B 1.0000 
+skin 682 wing6A 0.5000 wing6B 0.5000 
+skin 683 wing6A 0.5000 wing6B 0.5000 
+skin 684 wing6B 1.0000 
+skin 685 wing6B 1.0000 
+skin 686 wing6B 1.0000 
+skin 687 wing6A 0.5000 wing6B 0.5000 
+skin 688 wing6B 1.0000 
+skin 689 wing6A 0.5000 wing6B 0.5000 
+skin 690 main 0.5000 wing6A 0.5000 
+skin 691 wing6A 0.5000 wing6B 0.5000 
+skin 692 wing6A 0.5000 wing6B 0.5000 
+skin 693 wing6A 0.5000 wing6B 0.5000 
+skin 694 wing6B 1.0000 
+skin 695 wing6B 1.0000 
+skin 696 wing7A 0.5000 wing7B 0.5000 
+skin 697 wing7A 0.5000 wing7B 0.5000 
+skin 698 main 0.5000 wing7A 0.5000 
+skin 699 wing7A 0.5000 wing7B 0.5000 
+skin 700 wing7A 0.5000 wing7B 0.5000 
+skin 701 wing7A 0.5000 wing7B 0.5000 
+skin 702 Nw4cRoot 1.0000 
+skin 703 wing7B 1.0000 
+skin 704 wing7A 0.5000 wing7B 0.5000 
+skin 705 wing7A 0.5000 wing7B 0.5000 
+skin 706 wing7B 1.0000 
+skin 707 wing7B 1.0000 
+skin 708 wing7B 1.0000 
+skin 709 wing7A 0.5000 wing7B 0.5000 
+skin 710 wing7B 1.0000 
+skin 711 wing7A 0.5000 wing7B 0.5000 
+skin 712 main 0.5000 wing7A 0.5000 
+skin 713 wing7A 0.5000 wing7B 0.5000 
+skin 714 wing7A 0.5000 wing7B 0.5000 
+skin 715 wing7A 0.5000 wing7B 0.5000 
+skin 716 wing7B 1.0000 
+skin 717 wing7B 1.0000 
+skin 718 wing8A 0.5000 wing8B 0.5000 
+skin 719 main 0.5000 wing8A 0.5000 
+skin 720 wing8A 0.5000 wing8B 0.5000 
+skin 721 main 0.5000 wing8A 0.5000 
+skin 722 wing8A 0.5000 wing8B 0.5000 
+skin 723 wing8A 0.5000 wing8B 0.5000 
+skin 724 wing8A 0.5000 wing8B 0.5000 
+skin 725 Nw4cRoot 1.0000 
+skin 726 wing8B 1.0000 
+skin 727 wing8A 0.5000 wing8B 0.5000 
+skin 728 wing8A 0.5000 wing8B 0.5000 
+skin 729 wing8B 1.0000 
+skin 730 wing8B 1.0000 
+skin 731 wing8B 1.0000 
+skin 732 wing8A 0.5000 wing8B 0.5000 
+skin 733 wing8B 1.0000 
+skin 734 wing8A 0.5000 wing8B 0.5000 
+skin 735 main 0.5000 wing8A 0.5000 
+skin 736 wing8A 0.5000 wing8B 0.5000 
+skin 737 wing8A 0.5000 wing8B 0.5000 
+skin 738 wing8A 0.5000 wing8B 0.5000 
+skin 739 wing8B 1.0000 
+skin 740 wing8B 1.0000 
+skin 741 wing1A 0.5000 wing1B 0.5000 
+skin 742 main 0.5000 wing1A 0.5000 
+skin 743 wing1A 0.5000 wing1B 0.5000 
+skin 744 main 0.5000 wing1A 0.5000 
+skin 745 wing1A 0.5000 wing1B 0.5000 
+skin 746 wing1A 0.5000 wing1B 0.5000 
+skin 747 wing1A 0.5000 wing1B 0.5000 
+skin 748 Nw4cRoot 1.0000 
+skin 749 wing1A 0.5000 wing1B 0.5000 
+skin 750 wing1A 0.5000 wing1B 0.5000 
+skin 751 wing1B 1.0000 
+skin 752 wing1A 0.5000 wing1B 0.5000 
+skin 753 wing1B 1.0000 
+skin 754 wing1A 0.5000 wing1B 0.5000 
+skin 755 main 0.5000 wing1A 0.5000 
+skin 756 wing1A 0.5000 wing1B 0.5000 
+skin 757 wing1A 0.5000 wing1B 0.5000 
+skin 758 wing1A 0.5000 wing1B 0.5000 
+skin 759 wing1B 1.0000 
+skin 760 wing1B 1.0000 
+skin 761 wing6A 0.5000 wing6B 0.5000 
+skin 762 main 0.5000 wing6A 0.5000 
+skin 763 wing6B 1.0000 
+skin 764 wing6B 1.0000 
+skin 765 wing7A 0.5000 wing7B 0.5000 
+skin 766 main 0.5000 wing7A 0.5000 
+skin 767 wing7B 1.0000 
+skin 768 wing7B 1.0000 
+skin 769 wing8A 0.5000 wing8B 0.5000 
+skin 770 main 0.5000 wing8A 0.5000 
+skin 771 wing8B 1.0000 
+skin 772 wing8B 1.0000 
+skin 773 wing1A 0.5000 wing1B 0.5000 
+skin 774 main 0.5000 wing1A 0.5000 
+skin 775 wing1B 1.0000 
+skin 776 wing1B 1.0000 
+hier Nw4cRoot main
+hier main neck
+hier main wing1A
+hier main wing2A
+hier main wing3A
+hier main wing4A
+hier main wing5A
+hier main wing6A
+hier main wing7A
+hier main wing8A
+hier neck collar_L
+hier neck collar_R
+hier neck head
+hier wing1A wing1B
+hier wing2A wing2B
+hier wing3A wing3B
+hier wing4A wing4B
+hier wing5A wing5B
+hier wing6A wing6B
+hier wing7A wing7B
+hier wing8A wing8B
+hier head eye
+hier head hat
+hier head joe
+hier hat hat_top

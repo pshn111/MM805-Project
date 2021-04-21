@@ -1,0 +1,516 @@
+joints Waist 0.00873299 0.30175400 0.07050140
+joints Leg 0.00873379 0.03448580 0.07050140
+joints Spine 0.00873266 0.38719000 0.09704800
+joints Tail_1 0.01520457 0.03051860 0.01164408
+joints Arm_1_L 0.09070720 0.46100000 0.05680330
+joints Arm_1_R -0.07508440 0.46099900 0.05680280
+joints Head 0.00873239 0.53060000 0.04280350
+joints Tail_2 0.01520500 0.03051810 -0.10488900
+joints Arm_2_L 0.22257100 0.46100000 0.05680370
+joints Arm_2_R -0.20694800 0.46099900 0.05680240
+joints Snake_DownC 0.00873161 0.83046500 0.00291847
+joints Snake_DownL 0.15604700 0.78747400 0.02810610
+joints Snake_DownR -0.14042600 0.78747300 0.02810520
+joints Snake_UpL 0.08635120 0.86757400 -0.08416900
+joints Snake_UpR -0.07072960 0.86757300 -0.08416950
+joints Hand_L 0.33892600 0.46100000 0.05680400
+joints Hand_R -0.32330300 0.46099900 0.05680200
+joints EyeParts_DownL 0.15604600 0.80500100 0.17084700
+joints EyeParts_DownR -0.14042600 0.80500000 0.17084600
+joints EyeParts_UpL 0.09078160 0.95402900 0.12981300
+joints EyeParts_UpR -0.07516170 0.95402900 0.12981200
+root Waist
+skin 0 Snake_DownC 1.0000 
+skin 1 Head 0.5000 Snake_DownC 0.5000 
+skin 2 Head 0.5000 Snake_DownC 0.5000 
+skin 3 Head 0.5000 Snake_DownC 0.5000 
+skin 4 Snake_DownC 1.0000 
+skin 5 Snake_DownC 1.0000 
+skin 6 Snake_DownC 1.0000 
+skin 7 Snake_DownC 1.0000 
+skin 8 Snake_DownC 1.0000 
+skin 9 Snake_DownC 1.0000 
+skin 10 Head 0.6000 Snake_DownC 0.4000 
+skin 11 Snake_DownC 1.0000 
+skin 12 Head 0.4000 Snake_DownC 0.6000 
+skin 13 Snake_DownC 1.0000 
+skin 14 Snake_DownC 1.0000 
+skin 15 Snake_DownC 1.0000 
+skin 16 Snake_DownC 1.0000 
+skin 17 Snake_DownC 1.0000 
+skin 18 Snake_DownC 1.0000 
+skin 19 Head 1.0000 
+skin 20 Head 1.0000 
+skin 21 Head 0.8000 Snake_DownC 0.2000 
+skin 22 Head 1.0000 
+skin 23 Head 0.8000 Snake_DownC 0.2000 
+skin 24 Snake_DownC 1.0000 
+skin 25 Snake_DownC 1.0000 
+skin 26 Snake_DownC 1.0000 
+skin 27 Snake_DownC 1.0000 
+skin 28 Snake_DownC 1.0000 
+skin 29 Snake_DownC 1.0000 
+skin 30 Snake_DownC 1.0000 
+skin 31 Head 1.0000 
+skin 32 Head 1.0000 
+skin 33 Head 1.0000 
+skin 34 Head 1.0000 
+skin 35 Head 1.0000 
+skin 36 Head 1.0000 
+skin 37 Head 1.0000 
+skin 38 Head 1.0000 
+skin 39 Head 1.0000 
+skin 40 Head 1.0000 
+skin 41 Head 1.0000 
+skin 42 Head 1.0000 
+skin 43 Head 1.0000 
+skin 44 Head 1.0000 
+skin 45 Head 1.0000 
+skin 46 Head 1.0000 
+skin 47 Head 1.0000 
+skin 48 Head 1.0000 
+skin 49 Head 1.0000 
+skin 50 Head 1.0000 
+skin 51 Head 1.0000 
+skin 52 Head 1.0000 
+skin 53 Head 1.0000 
+skin 54 Head 1.0000 
+skin 55 Head 1.0000 
+skin 56 Head 1.0000 
+skin 57 Head 1.0000 
+skin 58 Head 1.0000 
+skin 59 Head 1.0000 
+skin 60 Head 1.0000 
+skin 61 Head 1.0000 
+skin 62 Head 1.0000 
+skin 63 Head 1.0000 
+skin 64 Head 1.0000 
+skin 65 Head 1.0000 
+skin 66 Head 1.0000 
+skin 67 Head 1.0000 
+skin 68 Head 1.0000 
+skin 69 Snake_DownR 1.0000 
+skin 70 Head 0.5000 Snake_DownR 0.5000 
+skin 71 Head 0.5000 Snake_DownR 0.5000 
+skin 72 Head 0.5000 Snake_DownR 0.5000 
+skin 73 Snake_DownR 1.0000 
+skin 74 Snake_DownR 1.0000 
+skin 75 Snake_DownR 1.0000 
+skin 76 Snake_DownR 1.0000 
+skin 77 Snake_DownR 1.0000 
+skin 78 Snake_DownR 1.0000 
+skin 79 Head 0.5000 Snake_DownR 0.5000 
+skin 80 Snake_DownR 1.0000 
+skin 81 Head 0.5000 Snake_DownR 0.5000 
+skin 82 Snake_DownR 1.0000 
+skin 83 Snake_DownR 1.0000 
+skin 84 Snake_DownR 1.0000 
+skin 85 Snake_DownR 1.0000 
+skin 86 Snake_DownR 1.0000 
+skin 87 Snake_DownR 1.0000 
+skin 88 Snake_DownR 1.0000 
+skin 89 Snake_DownR 1.0000 
+skin 90 Snake_DownR 1.0000 
+skin 91 Snake_DownR 1.0000 
+skin 92 Snake_DownR 1.0000 
+skin 93 Snake_DownR 1.0000 
+skin 94 Snake_DownR 1.0000 
+skin 95 Head 1.0000 
+skin 96 Head 0.9000 Snake_DownR 0.1000 
+skin 97 Head 0.9000 Snake_DownR 0.1000 
+skin 98 Head 1.0000 
+skin 99 Snake_DownL 1.0000 
+skin 100 Head 0.5000 Snake_DownL 0.5000 
+skin 101 Head 0.5000 Snake_DownL 0.5000 
+skin 102 Snake_DownL 1.0000 
+skin 103 Head 0.5000 Snake_DownL 0.5000 
+skin 104 Snake_DownL 1.0000 
+skin 105 Snake_DownL 1.0000 
+skin 106 Snake_DownL 1.0000 
+skin 107 Snake_DownL 1.0000 
+skin 108 Snake_DownL 1.0000 
+skin 109 Snake_DownL 1.0000 
+skin 110 Head 0.5000 Snake_DownL 0.5000 
+skin 111 Snake_DownL 1.0000 
+skin 112 Snake_DownL 1.0000 
+skin 113 Head 0.5000 Snake_DownL 0.5000 
+skin 114 Snake_DownL 1.0000 
+skin 115 Snake_DownL 1.0000 
+skin 116 Snake_DownL 1.0000 
+skin 117 Snake_DownL 1.0000 
+skin 118 Snake_DownL 1.0000 
+skin 119 Snake_DownL 1.0000 
+skin 120 Snake_DownL 1.0000 
+skin 121 Snake_DownL 1.0000 
+skin 122 Snake_DownL 1.0000 
+skin 123 Snake_DownL 1.0000 
+skin 124 Head 0.9000 Snake_DownL 0.1000 
+skin 125 Head 1.0000 
+skin 126 Head 1.0000 
+skin 127 Head 0.9000 Snake_DownL 0.1000 
+skin 128 Head 1.0000 
+skin 129 Snake_DownL 1.0000 
+skin 130 Snake_DownC 1.0000 
+skin 131 Snake_DownC 1.0000 
+skin 132 Head 1.0000 
+skin 133 Head 1.0000 
+skin 134 Head 1.0000 
+skin 135 Head 1.0000 
+skin 136 Head 1.0000 
+skin 137 Head 1.0000 
+skin 138 Head 1.0000 
+skin 139 Head 1.0000 
+skin 140 Head 1.0000 
+skin 141 Head 1.0000 
+skin 142 Head 1.0000 
+skin 143 Head 1.0000 
+skin 144 Head 1.0000 
+skin 145 Head 1.0000 
+skin 146 Head 1.0000 
+skin 147 Head 1.0000 
+skin 148 Head 1.0000 
+skin 149 Head 1.0000 
+skin 150 Head 1.0000 
+skin 151 Head 1.0000 
+skin 152 Head 1.0000 
+skin 153 Head 1.0000 
+skin 154 Head 1.0000 
+skin 155 Head 1.0000 
+skin 156 Head 1.0000 
+skin 157 Head 1.0000 
+skin 158 Head 1.0000 
+skin 159 Head 1.0000 
+skin 160 Head 1.0000 
+skin 161 Head 1.0000 
+skin 162 Head 1.0000 
+skin 163 Head 1.0000 
+skin 164 Head 1.0000 
+skin 165 Head 1.0000 
+skin 166 Head 1.0000 
+skin 167 Head 1.0000 
+skin 168 Head 1.0000 
+skin 169 Head 1.0000 
+skin 170 Head 1.0000 
+skin 171 Head 1.0000 
+skin 172 Head 1.0000 
+skin 173 Head 1.0000 
+skin 174 Head 1.0000 
+skin 175 Head 1.0000 
+skin 176 Head 1.0000 
+skin 177 Snake_DownR 1.0000 
+skin 178 Snake_DownR 1.0000 
+skin 179 Snake_DownL 1.0000 
+skin 180 Snake_DownL 1.0000 
+skin 181 Snake_UpR 1.0000 
+skin 182 Snake_UpR 1.0000 
+skin 183 Snake_UpR 1.0000 
+skin 184 Snake_UpR 1.0000 
+skin 185 Head 0.2000 Snake_UpR 0.8000 
+skin 186 Snake_UpR 1.0000 
+skin 187 Snake_UpR 1.0000 
+skin 188 Snake_UpR 1.0000 
+skin 189 Snake_UpR 1.0000 
+skin 190 Snake_UpR 1.0000 
+skin 191 Snake_UpR 1.0000 
+skin 192 Head 0.2000 Snake_UpR 0.8000 
+skin 193 Head 0.2000 Snake_UpR 0.8000 
+skin 194 Snake_UpR 1.0000 
+skin 195 Snake_UpR 1.0000 
+skin 196 Snake_UpR 1.0000 
+skin 197 Snake_UpR 1.0000 
+skin 198 Snake_UpR 1.0000 
+skin 199 Snake_UpR 1.0000 
+skin 200 Snake_UpR 1.0000 
+skin 201 Head 0.9000 Snake_UpR 0.1000 
+skin 202 Head 0.9000 Snake_UpR 0.1000 
+skin 203 Head 0.9000 Snake_UpR 0.1000 
+skin 204 Snake_UpR 1.0000 
+skin 205 Snake_UpR 1.0000 
+skin 206 Snake_UpR 1.0000 
+skin 207 Snake_UpR 1.0000 
+skin 208 Snake_UpR 1.0000 
+skin 209 Snake_UpR 1.0000 
+skin 210 Head 0.2000 Snake_UpR 0.8000 
+skin 211 Head 0.9000 Snake_UpL 0.1000 
+skin 212 Head 0.9000 Snake_UpL 0.1000 
+skin 213 Head 0.9000 Snake_UpL 0.1000 
+skin 214 Snake_UpL 1.0000 
+skin 215 Snake_UpL 1.0000 
+skin 216 Head 0.2000 Snake_UpL 0.8000 
+skin 217 Snake_UpL 1.0000 
+skin 218 Snake_UpL 1.0000 
+skin 219 Snake_UpL 1.0000 
+skin 220 Snake_UpL 1.0000 
+skin 221 Snake_UpL 1.0000 
+skin 222 Snake_UpL 1.0000 
+skin 223 Snake_UpL 1.0000 
+skin 224 Snake_UpL 1.0000 
+skin 225 Snake_UpL 1.0000 
+skin 226 Snake_UpL 1.0000 
+skin 227 Snake_UpL 1.0000 
+skin 228 Snake_UpL 1.0000 
+skin 229 Snake_UpL 1.0000 
+skin 230 Snake_UpL 1.0000 
+skin 231 Snake_UpL 1.0000 
+skin 232 Snake_UpL 1.0000 
+skin 233 Snake_UpL 1.0000 
+skin 234 Snake_UpL 1.0000 
+skin 235 Snake_UpL 1.0000 
+skin 236 Snake_UpL 1.0000 
+skin 237 Snake_UpL 1.0000 
+skin 238 Head 0.2000 Snake_UpL 0.8000 
+skin 239 Head 0.8000 Snake_DownC 0.2000 
+skin 240 Head 0.8000 Snake_DownC 0.2000 
+skin 241 Head 0.9000 Snake_DownC 0.1000 
+skin 242 Head 0.7000 Snake_DownR 0.3000 
+skin 243 Head 0.7000 Snake_DownR 0.3000 
+skin 244 Head 0.9000 Snake_DownR 0.1000 
+skin 245 Head 0.7000 Snake_DownR 0.3000 
+skin 246 Head 0.9000 Snake_DownR 0.1000 
+skin 247 Head 0.7000 Snake_DownR 0.3000 
+skin 248 Head 0.7000 Snake_DownR 0.3000 
+skin 249 Head 0.9000 Snake_DownR 0.1000 
+skin 250 Head 0.7000 Snake_DownL 0.3000 
+skin 251 Head 0.7000 Snake_DownL 0.3000 
+skin 252 Head 0.7000 Snake_DownL 0.3000 
+skin 253 Head 0.7000 Snake_DownL 0.3000 
+skin 254 Head 0.7000 Snake_DownL 0.3000 
+skin 255 Head 0.9000 Snake_DownL 0.1000 
+skin 256 Head 0.9000 Snake_DownL 0.1000 
+skin 257 Head 0.9000 Snake_DownL 0.1000 
+skin 258 Head 0.2000 Snake_UpR 0.8000 
+skin 259 Head 0.7000 Snake_UpR 0.3000 
+skin 260 Head 0.7000 Snake_UpR 0.3000 
+skin 261 Head 0.7000 Snake_UpR 0.3000 
+skin 262 Head 0.8000 Snake_UpR 0.2000 
+skin 263 Head 0.7000 Snake_UpR 0.3000 
+skin 264 Head 0.8000 Snake_UpR 0.2000 
+skin 265 Head 0.8000 Snake_UpR 0.2000 
+skin 266 Head 0.8000 Snake_UpR 0.2000 
+skin 267 Head 0.9000 Snake_UpR 0.1000 
+skin 268 Head 0.8000 Snake_UpR 0.2000 
+skin 269 Head 0.7000 Snake_UpR 0.3000 
+skin 270 Head 0.9000 Snake_UpL 0.1000 
+skin 271 Head 0.8000 Snake_UpL 0.2000 
+skin 272 Head 0.8000 Snake_UpL 0.2000 
+skin 273 Head 0.7000 Snake_UpL 0.3000 
+skin 274 Head 0.8000 Snake_UpL 0.2000 
+skin 275 Head 0.7000 Snake_UpL 0.3000 
+skin 276 Head 0.8000 Snake_UpL 0.2000 
+skin 277 Head 0.7000 Snake_UpL 0.3000 
+skin 278 Head 0.7000 Snake_UpL 0.3000 
+skin 279 Head 0.2000 Snake_UpL 0.8000 
+skin 280 Head 0.2000 Snake_UpL 0.8000 
+skin 281 Head 0.2000 Snake_UpL 0.8000 
+skin 282 Head 0.8000 Snake_UpL 0.2000 
+skin 283 Head 0.7000 Snake_UpL 0.3000 
+skin 284 Spine 1.0000 
+skin 285 Spine 1.0000 
+skin 286 Spine 1.0000 
+skin 287 Spine 1.0000 
+skin 288 Spine 1.0000 
+skin 289 Spine 1.0000 
+skin 290 Waist 0.2000 Spine 0.8000 
+skin 291 Waist 0.3000 Spine 0.7000 
+skin 292 Spine 1.0000 
+skin 293 Spine 1.0000 
+skin 294 Spine 1.0000 
+skin 295 Spine 1.0000 
+skin 296 Spine 1.0000 
+skin 297 Spine 1.0000 
+skin 298 Spine 0.8000 Arm_1_L 0.2000 
+skin 299 Spine 0.7000 Arm_1_L 0.3000 
+skin 300 Spine 1.0000 
+skin 301 Spine 1.0000 
+skin 302 Spine 1.0000 
+skin 303 Spine 1.0000 
+skin 304 Spine 1.0000 
+skin 305 Waist 0.9000 Spine 0.1000 
+skin 306 Waist 1.0000 
+skin 307 Spine 1.0000 
+skin 308 Spine 1.0000 
+skin 309 Waist 0.6000 Spine 0.4000 
+skin 310 Spine 1.0000 
+skin 311 Spine 0.8000 Arm_1_R 0.2000 
+skin 312 Spine 0.7000 Arm_1_R 0.3000 
+skin 313 Leg 1.0000 
+skin 314 Leg 1.0000 
+skin 315 Leg 0.5000 Tail_1 0.5000 
+skin 316 Tail_2 1.0000 
+skin 317 Tail_1 0.2000 Tail_2 0.8000 
+skin 318 Tail_1 0.2000 Tail_2 0.8000 
+skin 319 Spine 1.0000 
+skin 320 Spine 0.9000 Arm_1_R 0.1000 
+skin 321 Spine 1.0000 
+skin 322 Spine 1.0000 
+skin 323 Spine 0.9000 Arm_1_L 0.1000 
+skin 324 Waist 0.6000 Spine 0.4000 
+skin 325 Waist 1.0000 
+skin 326 Waist 0.9000 Leg 0.1000 
+skin 327 Waist 0.9000 Spine 0.1000 
+skin 328 Waist 0.9000 Leg 0.1000 
+skin 329 Waist 1.0000 
+skin 330 Waist 0.9000 Leg 0.1000 
+skin 331 Waist 1.0000 
+skin 332 Waist 1.0000 
+skin 333 Waist 1.0000 
+skin 334 Waist 1.0000 
+skin 335 Waist 1.0000 
+skin 336 Leg 1.0000 
+skin 337 Waist 0.5000 Leg 0.5000 
+skin 338 Leg 1.0000 
+skin 339 Leg 1.0000 
+skin 340 Leg 1.0000 
+skin 341 Waist 1.0000 
+skin 342 Waist 0.8000 Spine 0.2000 
+skin 343 Waist 1.0000 
+skin 344 Waist 1.0000 
+skin 345 Waist 1.0000 
+skin 346 Waist 1.0000 
+skin 347 Waist 0.9000 Leg 0.1000 
+skin 348 Waist 1.0000 
+skin 349 Waist 1.0000 
+skin 350 Leg 1.0000 
+skin 351 Waist 1.0000 
+skin 352 Waist 0.5000 Leg 0.5000 
+skin 353 Waist 1.0000 
+skin 354 Waist 0.9000 Spine 0.1000 
+skin 355 Leg 1.0000 
+skin 356 Leg 1.0000 
+skin 357 Waist 1.0000 
+skin 358 Waist 0.6000 Leg 0.4000 
+skin 359 Spine 0.2000 Arm_1_R 0.8000 
+skin 360 Spine 0.2000 Arm_1_R 0.8000 
+skin 361 Arm_1_R 1.0000 
+skin 362 Arm_1_R 0.9000 Arm_2_R 0.1000 
+skin 363 Arm_1_R 1.0000 
+skin 364 Arm_1_R 1.0000 
+skin 365 Arm_1_R 0.9000 Arm_2_R 0.1000 
+skin 366 Arm_1_R 1.0000 
+skin 367 Spine 0.2000 Arm_1_R 0.8000 
+skin 368 Arm_2_R 1.0000 
+skin 369 Arm_2_R 1.0000 
+skin 370 Arm_2_R 1.0000 
+skin 371 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 372 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 373 Arm_1_R 0.9000 Arm_2_R 0.1000 
+skin 374 Arm_2_R 1.0000 
+skin 375 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 376 Hand_R 1.0000 
+skin 377 Hand_R 1.0000 
+skin 378 Hand_R 1.0000 
+skin 379 Hand_R 1.0000 
+skin 380 Hand_R 1.0000 
+skin 381 Arm_1_L 1.0000 
+skin 382 Arm_1_L 1.0000 
+skin 383 Spine 0.2000 Arm_1_L 0.8000 
+skin 384 Arm_1_L 0.9000 Arm_2_L 0.1000 
+skin 385 Arm_1_L 1.0000 
+skin 386 Arm_1_L 0.9000 Arm_2_L 0.1000 
+skin 387 Arm_2_L 1.0000 
+skin 388 Arm_2_L 1.0000 
+skin 389 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 390 Arm_2_L 1.0000 
+skin 391 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 392 Arm_1_L 0.9000 Arm_2_L 0.1000 
+skin 393 Arm_1_L 1.0000 
+skin 394 Spine 0.2000 Arm_1_L 0.8000 
+skin 395 Spine 0.2000 Arm_1_L 0.8000 
+skin 396 Arm_2_L 1.0000 
+skin 397 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 398 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 399 Hand_L 1.0000 
+skin 400 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 401 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 402 Hand_L 1.0000 
+skin 403 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 404 Hand_L 1.0000 
+skin 405 Hand_L 1.0000 
+skin 406 Hand_L 1.0000 
+skin 407 Arm_2_L 0.9000 Hand_L 0.1000 
+skin 408 Waist 0.2000 Spine 0.8000 
+skin 409 Waist 0.6000 Spine 0.4000 
+skin 410 Waist 0.6000 Spine 0.4000 
+skin 411 Waist 0.9000 Spine 0.1000 
+skin 412 Waist 0.6000 Spine 0.4000 
+skin 413 Leg 0.5000 Tail_1 0.5000 
+skin 414 Leg 0.2000 Tail_1 0.7000 Tail_2 0.1000 
+skin 415 Leg 0.2000 Tail_1 0.7000 Tail_2 0.1000 
+skin 416 Leg 0.2000 Tail_1 0.7000 Tail_2 0.1000 
+skin 417 Leg 0.5000 Tail_1 0.5000 
+skin 418 Leg 0.5000 Tail_1 0.5000 
+skin 419 Leg 0.2000 Tail_1 0.7000 Tail_2 0.1000 
+skin 420 Tail_1 0.5000 Tail_2 0.5000 
+skin 421 Tail_1 0.5000 Tail_2 0.5000 
+skin 422 Tail_1 0.4000 Tail_2 0.6000 
+skin 423 Tail_1 0.5000 Tail_2 0.5000 
+skin 424 Tail_1 0.5000 Tail_2 0.5000 
+skin 425 Tail_1 0.4000 Tail_2 0.6000 
+skin 426 Tail_1 0.4000 Tail_2 0.6000 
+skin 427 Tail_1 0.4000 Tail_2 0.6000 
+skin 428 Tail_1 0.3000 Tail_2 0.7000 
+skin 429 Tail_1 0.3000 Tail_2 0.7000 
+skin 430 Tail_1 0.3000 Tail_2 0.7000 
+skin 431 Tail_1 0.3000 Tail_2 0.7000 
+skin 432 Tail_1 0.2000 Tail_2 0.8000 
+skin 433 Tail_1 0.2000 Tail_2 0.8000 
+skin 434 Waist 0.6000 Spine 0.4000 
+skin 435 Waist 0.8000 Leg 0.2000 
+skin 436 Waist 0.9000 Leg 0.1000 
+skin 437 Waist 0.6000 Leg 0.4000 
+skin 438 Waist 0.6000 Leg 0.4000 
+skin 439 Spine 0.2000 Arm_1_R 0.8000 
+skin 440 Spine 0.2000 Arm_1_R 0.8000 
+skin 441 Arm_1_R 0.9000 Arm_2_R 0.1000 
+skin 442 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 443 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 444 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 445 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 446 Arm_2_R 0.9000 Hand_R 0.1000 
+skin 447 Spine 0.2000 Arm_1_L 0.8000 
+skin 448 Spine 0.2000 Arm_1_L 0.8000 
+skin 449 Arm_1_L 0.9000 Arm_2_L 0.1000 
+skin 450 EyeParts_UpL 1.0000 
+skin 451 EyeParts_UpL 1.0000 
+skin 452 EyeParts_UpL 1.0000 
+skin 453 EyeParts_UpL 1.0000 
+skin 454 EyeParts_DownL 1.0000 
+skin 455 EyeParts_DownL 1.0000 
+skin 456 EyeParts_DownL 1.0000 
+skin 457 EyeParts_DownL 1.0000 
+skin 458 EyeParts_UpR 1.0000 
+skin 459 EyeParts_UpR 1.0000 
+skin 460 EyeParts_UpR 1.0000 
+skin 461 EyeParts_UpR 1.0000 
+skin 462 Snake_DownC 1.0000 
+skin 463 Snake_DownC 1.0000 
+skin 464 Snake_DownC 1.0000 
+skin 465 Snake_DownC 1.0000 
+skin 466 EyeParts_DownR 1.0000 
+skin 467 EyeParts_DownR 1.0000 
+skin 468 EyeParts_DownR 1.0000 
+skin 469 EyeParts_DownR 1.0000 
+skin 470 Head 1.0000 
+skin 471 Head 1.0000 
+skin 472 Head 1.0000 
+skin 473 Head 1.0000 
+hier Waist Leg
+hier Waist Spine
+hier Leg Tail_1
+hier Spine Arm_1_L
+hier Spine Arm_1_R
+hier Spine Head
+hier Tail_1 Tail_2
+hier Arm_1_L Arm_2_L
+hier Arm_1_R Arm_2_R
+hier Head Snake_DownC
+hier Head Snake_DownL
+hier Head Snake_DownR
+hier Head Snake_UpL
+hier Head Snake_UpR
+hier Arm_2_L Hand_L
+hier Arm_2_R Hand_R
+hier Snake_DownL EyeParts_DownL
+hier Snake_DownR EyeParts_DownR
+hier Snake_UpL EyeParts_UpL
+hier Snake_UpR EyeParts_UpR

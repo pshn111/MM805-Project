@@ -1,0 +1,4581 @@
+joints koshi 0.00000000 0.42048700 0.03071293
+joints cloth0 0.00000000 0.51731200 0.06876570
+joints hara0 0.00000000 0.47529200 0.03071292
+joints kosi_cloth 0.00023558 0.48765000 -0.05815870
+joints kosi_nuno 0.00000000 0.45042600 0.11069600
+joints momo_l 0.03883520 0.47178000 0.01615320
+joints momo_r -0.03883520 0.47178000 0.01615320
+joints cloth1 0.00000000 0.40735600 0.11270250
+joints hara1 0.00000000 0.53009200 0.03071291
+joints sune_l 0.04951200 0.26281500 0.02138572
+joints sune_r -0.04951200 0.26281500 0.02138572
+joints hara2 0.00000000 0.58489300 0.03071290
+joints kosi_cloth_l 0.06185710 0.55747400 0.02114959
+joints kosi_cloth_r -0.06185710 0.55747400 0.02114959
+joints ashi_l 0.06104370 0.04121500 0.00503170
+joints ashi_r -0.06104370 0.04121500 0.00503170
+joints mune 0.00000000 0.63969800 0.03071290
+joints alv_sheath 0.15604000 0.46830800 0.04678060
+joints kata_l 0.03392960 0.73039200 0.01008180
+joints kata_r -0.03392960 0.73039200 0.01008180
+joints kubi 0.00000000 0.76710400 0.01433350
+joints jowan0_l 0.06661180 0.70810200 0.01008190
+joints jowan0_r -0.06661180 0.70810200 0.01008190
+joints crest 0.00000000 0.88906100 -0.01759070
+joints hair0 0.00000000 0.79368300 -0.02207490
+joints veil0 0.00020156 0.82382700 -0.02859140
+joints jowan1_l 0.10353900 0.70810200 0.01008050
+joints jowan2_l 0.14559700 0.70810200 0.01007890
+joints jowan1_r -0.10353900 0.70810200 0.01008190
+joints jowan2_r -0.14559700 0.70810200 0.01008190
+joints hair1 0.00000000 0.69843800 -0.03404370
+joints veil1 0.00172165 0.77792400 -0.04477530
+joints kawan0_l 0.19115000 0.70810000 0.01007730
+joints kawan0_r -0.19115500 0.70811600 0.01008180
+joints te_l 0.36710000 0.70810000 0.01008190
+joints te_r -0.36666700 0.70811700 0.01008190
+joints arms_l 0.39015000 0.68821300 0.01008190
+joints arms_r -0.38971700 0.69420100 0.01238590
+root koshi
+skin 0 kubi 0.1000 veil0 0.9000 
+skin 1 veil0 0.4000 veil1 0.6000 
+skin 2 veil0 0.3800 veil1 0.6200 
+skin 3 kubi 0.2000 veil0 0.8000 
+skin 4 kubi 0.9800 veil0 0.0200 
+skin 5 kubi 0.3000 veil0 0.7000 
+skin 6 kubi 0.2000 veil0 0.8000 
+skin 7 veil0 0.4000 veil1 0.6000 
+skin 8 veil0 0.4000 veil1 0.6000 
+skin 9 veil0 1.0000 
+skin 10 kubi 0.9700 veil0 0.0300 
+skin 11 kubi 0.1000 veil0 0.9000 
+skin 12 kubi 0.2500 veil0 0.5000 veil1 0.2500 
+skin 13 veil0 0.3800 veil1 0.6200 
+skin 14 veil0 1.0000 
+skin 15 kubi 0.2500 veil0 0.5000 veil1 0.2500 
+skin 16 kubi 0.9700 veil0 0.0300 
+skin 17 veil0 0.4000 veil1 0.6000 
+skin 18 veil0 0.4000 veil1 0.6000 
+skin 19 veil0 0.2000 veil1 0.8000 
+skin 20 veil0 0.2000 veil1 0.8000 
+skin 21 veil0 0.2000 veil1 0.8000 
+skin 22 veil0 0.2000 veil1 0.8000 
+skin 23 veil0 0.2000 veil1 0.8000 
+skin 24 veil0 0.2000 veil1 0.8000 
+skin 25 veil0 0.2000 veil1 0.8000 
+skin 26 veil0 0.4000 veil1 0.6000 
+skin 27 veil1 1.0000 
+skin 28 veil1 1.0000 
+skin 29 veil1 1.0000 
+skin 30 veil1 1.0000 
+skin 31 veil1 1.0000 
+skin 32 veil1 1.0000 
+skin 33 veil1 1.0000 
+skin 34 veil1 1.0000 
+skin 35 veil0 0.2000 veil1 0.8000 
+skin 36 veil1 1.0000 
+skin 37 veil1 1.0000 
+skin 38 veil0 0.4000 veil1 0.6000 
+skin 39 kubi 0.2000 veil0 0.4700 veil1 0.3300 
+skin 40 veil0 0.2000 veil1 0.8000 
+skin 41 kubi 0.2000 veil0 0.4700 veil1 0.3300 
+skin 42 veil1 1.0000 
+skin 43 veil0 0.2000 veil1 0.8000 
+skin 44 veil1 1.0000 
+skin 45 veil1 1.0000 
+skin 46 veil0 0.2000 veil1 0.8000 
+skin 47 kubi 0.2400 veil0 0.5700 veil1 0.1900 
+skin 48 kubi 0.5000 veil0 0.5000 
+skin 49 kubi 0.3000 veil0 0.7000 
+skin 50 kubi 0.9700 veil0 0.0300 
+skin 51 kubi 0.9700 veil0 0.0300 
+skin 52 kubi 0.2400 veil0 0.5700 veil1 0.1900 
+skin 53 kubi 0.3000 veil0 0.7000 
+skin 54 kubi 0.5000 veil0 0.5000 
+skin 55 kubi 0.9700 veil0 0.0300 
+skin 56 kubi 0.9700 veil0 0.0300 
+skin 57 kubi 1.0000 
+skin 58 kubi 1.0000 
+skin 59 kubi 1.0000 
+skin 60 kubi 0.9000 crest 0.1000 
+skin 61 kubi 0.4000 crest 0.6000 
+skin 62 kubi 0.2000 crest 0.8000 
+skin 63 kubi 0.2000 crest 0.8000 
+skin 64 kubi 0.2000 crest 0.8000 
+skin 65 crest 1.0000 
+skin 66 kubi 0.2000 crest 0.8000 
+skin 67 kubi 0.2000 crest 0.8000 
+skin 68 kubi 0.3000 crest 0.7000 
+skin 69 kubi 0.8000 crest 0.2000 
+skin 70 kubi 1.0000 
+skin 71 kubi 1.0000 
+skin 72 kubi 0.8000 crest 0.2000 
+skin 73 kubi 0.3000 crest 0.7000 
+skin 74 kubi 0.3000 crest 0.7000 
+skin 75 kubi 0.2000 crest 0.8000 
+skin 76 kubi 0.2000 crest 0.8000 
+skin 77 crest 1.0000 
+skin 78 kubi 0.2000 crest 0.8000 
+skin 79 kubi 0.2000 crest 0.8000 
+skin 80 kubi 0.3000 crest 0.7000 
+skin 81 kubi 0.8000 crest 0.2000 
+skin 82 kubi 1.0000 
+skin 83 kubi 1.0000 
+skin 84 kubi 0.8000 crest 0.2000 
+skin 85 kubi 0.5000 crest 0.5000 
+skin 86 kubi 0.5000 crest 0.5000 
+skin 87 kubi 0.4000 crest 0.6000 
+skin 88 kubi 0.4000 crest 0.6000 
+skin 89 kubi 0.1000 crest 0.9000 
+skin 90 kubi 0.4000 crest 0.6000 
+skin 91 kubi 0.4000 crest 0.6000 
+skin 92 kubi 0.5000 crest 0.5000 
+skin 93 kubi 0.8000 crest 0.2000 
+skin 94 kubi 1.0000 
+skin 95 kubi 1.0000 
+skin 96 kubi 0.8000 crest 0.2000 
+skin 97 kubi 0.3000 crest 0.7000 
+skin 98 kubi 0.3000 crest 0.7000 
+skin 99 kubi 0.1000 crest 0.9000 
+skin 100 kubi 0.1000 crest 0.9000 
+skin 101 crest 1.0000 
+skin 102 kubi 0.1000 crest 0.9000 
+skin 103 kubi 0.1000 crest 0.9000 
+skin 104 kubi 0.3000 crest 0.7000 
+skin 105 kubi 0.8000 crest 0.2000 
+skin 106 kubi 1.0000 
+skin 107 kubi 1.0000 
+skin 108 kubi 0.8000 crest 0.2000 
+skin 109 kubi 0.5000 crest 0.5000 
+skin 110 kubi 0.5000 crest 0.5000 
+skin 111 kubi 0.3000 crest 0.7000 
+skin 112 kubi 0.3000 crest 0.7000 
+skin 113 crest 1.0000 
+skin 114 kubi 0.3000 crest 0.7000 
+skin 115 kubi 0.3000 crest 0.7000 
+skin 116 kubi 0.5000 crest 0.5000 
+skin 117 kubi 0.8000 crest 0.2000 
+skin 118 kubi 1.0000 
+skin 119 kubi 1.0000 
+skin 120 kubi 0.8000 crest 0.2000 
+skin 121 kubi 0.4000 crest 0.6000 
+skin 122 kubi 0.4000 crest 0.6000 
+skin 123 kubi 0.2000 crest 0.8000 
+skin 124 kubi 0.2000 crest 0.8000 
+skin 125 crest 1.0000 
+skin 126 kubi 0.2000 crest 0.8000 
+skin 127 kubi 0.2000 crest 0.8000 
+skin 128 kubi 0.4000 crest 0.6000 
+skin 129 kubi 0.8000 crest 0.2000 
+skin 130 kubi 1.0000 
+skin 131 kubi 1.0000 
+skin 132 kubi 0.8000 crest 0.2000 
+skin 133 kubi 0.5000 crest 0.5000 
+skin 134 kubi 0.5000 crest 0.5000 
+skin 135 kubi 0.3000 crest 0.7000 
+skin 136 kubi 0.3000 crest 0.7000 
+skin 137 crest 1.0000 
+skin 138 kubi 0.3000 crest 0.7000 
+skin 139 kubi 0.3000 crest 0.7000 
+skin 140 kubi 0.5000 crest 0.5000 
+skin 141 kubi 0.4000 crest 0.6000 
+skin 142 kubi 1.0000 
+skin 143 kubi 1.0000 
+skin 144 kubi 0.5000 crest 0.5000 
+skin 145 kubi 0.3000 crest 0.7000 
+skin 146 kubi 0.3000 crest 0.7000 
+skin 147 kubi 0.1000 crest 0.9000 
+skin 148 kubi 0.3000 crest 0.7000 
+skin 149 kubi 0.3000 crest 0.7000 
+skin 150 kubi 0.8000 crest 0.2000 
+skin 151 kubi 0.4000 crest 0.6000 
+skin 152 kubi 1.0000 
+skin 153 kubi 1.0000 
+skin 154 kubi 0.4000 crest 0.6000 
+skin 155 kubi 0.2000 crest 0.8000 
+skin 156 kubi 0.2000 crest 0.8000 
+skin 157 crest 1.0000 
+skin 158 kubi 0.2000 crest 0.8000 
+skin 159 kubi 0.2000 crest 0.8000 
+skin 160 kubi 0.4000 crest 0.6000 
+skin 161 kubi 1.0000 
+skin 162 kubi 0.9000 crest 0.1000 
+skin 163 kubi 0.3000 crest 0.7000 
+skin 164 kubi 1.0000 
+skin 165 kubi 1.0000 
+skin 166 kubi 0.2000 crest 0.8000 
+skin 167 kubi 1.0000 
+skin 168 kubi 0.9000 crest 0.1000 
+skin 169 kubi 0.5000 crest 0.5000 
+skin 170 kubi 1.0000 
+skin 171 kubi 0.8000 crest 0.2000 
+skin 172 kubi 0.3000 crest 0.7000 
+skin 173 kubi 1.0000 
+skin 174 kubi 0.8000 crest 0.2000 
+skin 175 kubi 0.5000 crest 0.5000 
+skin 176 kubi 1.0000 
+skin 177 kubi 0.8000 crest 0.2000 
+skin 178 kubi 0.5000 crest 0.5000 
+skin 179 kubi 1.0000 
+skin 180 kubi 1.0000 
+skin 181 kubi 0.4000 crest 0.6000 
+skin 182 kubi 1.0000 
+skin 183 kubi 0.4000 crest 0.6000 
+skin 184 kubi 1.0000 
+skin 185 kubi 1.0000 
+skin 186 kubi 0.9000 crest 0.1000 
+skin 187 kubi 1.0000 
+skin 188 kubi 0.9000 crest 0.1000 
+skin 189 kubi 1.0000 
+skin 190 kubi 0.7000 crest 0.3000 
+skin 191 kubi 0.9000 crest 0.1000 
+skin 192 kubi 0.8000 crest 0.2000 
+skin 193 kubi 0.8000 crest 0.2000 
+skin 194 kubi 0.8000 crest 0.2000 
+skin 195 kubi 1.0000 
+skin 196 kubi 1.0000 
+skin 197 kubi 1.0000 
+skin 198 kubi 1.0000 
+skin 199 kubi 1.0000 
+skin 200 kubi 1.0000 
+skin 201 kubi 1.0000 
+skin 202 mune 0.2900 kubi 0.7100 
+skin 203 mune 0.1900 kubi 0.8100 
+skin 204 mune 0.3800 kubi 0.6200 
+skin 205 mune 0.4500 kubi 0.5500 
+skin 206 mune 1.0000 
+skin 207 mune 0.9200 kubi 0.0800 
+skin 208 mune 0.5600 kubi 0.4400 
+skin 209 mune 0.2800 kubi 0.7200 
+skin 210 kubi 1.0000 
+skin 211 kubi 1.0000 
+skin 212 kubi 1.0000 
+skin 213 mune 0.1300 kubi 0.8700 
+skin 214 mune 0.2800 kubi 0.7200 
+skin 215 kubi 1.0000 
+skin 216 kubi 1.0000 
+skin 217 kubi 1.0000 
+skin 218 mune 0.1900 kubi 0.8100 
+skin 219 mune 0.2900 kubi 0.7100 
+skin 220 mune 0.3800 kubi 0.6200 
+skin 221 mune 0.4500 kubi 0.5500 
+skin 222 mune 1.0000 
+skin 223 mune 0.9200 kubi 0.0800 
+skin 224 mune 0.5600 kubi 0.4400 
+skin 225 kubi 1.0000 
+skin 226 mune 0.1300 kubi 0.8700 
+skin 227 kubi 1.0000 
+skin 228 kubi 1.0000 
+skin 229 mune 0.2900 kubi 0.7100 
+skin 230 kubi 1.0000 
+skin 231 mune 0.1900 kubi 0.8100 
+skin 232 mune 0.2900 kubi 0.7100 
+skin 233 mune 0.1900 kubi 0.8100 
+skin 234 kubi 1.0000 
+skin 235 kubi 1.0000 
+skin 236 kubi 1.0000 
+skin 237 mune 0.0900 kata_l 0.0100 kubi 0.9000 
+skin 238 kubi 1.0000 
+skin 239 mune 0.0900 kata_r 0.0100 kubi 0.9000 
+skin 240 kubi 1.0000 
+skin 241 mune 0.1900 kubi 0.8100 
+skin 242 kubi 1.0000 
+skin 243 mune 0.7500 kubi 0.2500 
+skin 244 mune 0.8600 kubi 0.1400 
+skin 245 mune 0.7000 kubi 0.3000 
+skin 246 mune 0.7500 kubi 0.2500 
+skin 247 mune 0.8600 kubi 0.1400 
+skin 248 kubi 1.0000 
+skin 249 kubi 1.0000 
+skin 250 mune 0.1900 kubi 0.8100 
+skin 251 kubi 1.0000 
+skin 252 kubi 1.0000 
+skin 253 mune 0.8400 kubi 0.1600 
+skin 254 kubi 1.0000 
+skin 255 mune 0.8400 kubi 0.1600 
+skin 256 kubi 1.0000 
+skin 257 kubi 1.0000 
+skin 258 kubi 1.0000 
+skin 259 kubi 1.0000 
+skin 260 kubi 1.0000 
+skin 261 kubi 1.0000 
+skin 262 kubi 1.0000 
+skin 263 kubi 1.0000 
+skin 264 kubi 1.0000 
+skin 265 kubi 1.0000 
+skin 266 kubi 1.0000 
+skin 267 kubi 1.0000 
+skin 268 kubi 1.0000 
+skin 269 kubi 1.0000 
+skin 270 kubi 1.0000 
+skin 271 kubi 1.0000 
+skin 272 kubi 1.0000 
+skin 273 kubi 1.0000 
+skin 274 kubi 1.0000 
+skin 275 kubi 1.0000 
+skin 276 kubi 1.0000 
+skin 277 kubi 1.0000 
+skin 278 kubi 1.0000 
+skin 279 kubi 1.0000 
+skin 280 kubi 1.0000 
+skin 281 kubi 1.0000 
+skin 282 kubi 1.0000 
+skin 283 kubi 1.0000 
+skin 284 kubi 1.0000 
+skin 285 kubi 1.0000 
+skin 286 kubi 1.0000 
+skin 287 kubi 1.0000 
+skin 288 kubi 1.0000 
+skin 289 kubi 1.0000 
+skin 290 kubi 1.0000 
+skin 291 kubi 1.0000 
+skin 292 kubi 1.0000 
+skin 293 kubi 1.0000 
+skin 294 kubi 1.0000 
+skin 295 kubi 1.0000 
+skin 296 kubi 1.0000 
+skin 297 kubi 1.0000 
+skin 298 kubi 1.0000 
+skin 299 kubi 1.0000 
+skin 300 kubi 1.0000 
+skin 301 kubi 1.0000 
+skin 302 kubi 1.0000 
+skin 303 kubi 1.0000 
+skin 304 kubi 1.0000 
+skin 305 kubi 1.0000 
+skin 306 kubi 1.0000 
+skin 307 kubi 1.0000 
+skin 308 kubi 1.0000 
+skin 309 kubi 1.0000 
+skin 310 kubi 1.0000 
+skin 311 kubi 1.0000 
+skin 312 kubi 1.0000 
+skin 313 kubi 1.0000 
+skin 314 kubi 1.0000 
+skin 315 kubi 1.0000 
+skin 316 kubi 1.0000 
+skin 317 kubi 1.0000 
+skin 318 kubi 1.0000 
+skin 319 kubi 1.0000 
+skin 320 kubi 1.0000 
+skin 321 kubi 1.0000 
+skin 322 kubi 1.0000 
+skin 323 kubi 1.0000 
+skin 324 kubi 1.0000 
+skin 325 kubi 1.0000 
+skin 326 kubi 1.0000 
+skin 327 kubi 1.0000 
+skin 328 kubi 1.0000 
+skin 329 kubi 1.0000 
+skin 330 kubi 1.0000 
+skin 331 kubi 1.0000 
+skin 332 kubi 1.0000 
+skin 333 kubi 1.0000 
+skin 334 kubi 1.0000 
+skin 335 kubi 1.0000 
+skin 336 kubi 1.0000 
+skin 337 kubi 1.0000 
+skin 338 kubi 1.0000 
+skin 339 kubi 1.0000 
+skin 340 kubi 1.0000 
+skin 341 kubi 1.0000 
+skin 342 kubi 1.0000 
+skin 343 kubi 1.0000 
+skin 344 kubi 1.0000 
+skin 345 kubi 1.0000 
+skin 346 kubi 1.0000 
+skin 347 kubi 1.0000 
+skin 348 kubi 1.0000 
+skin 349 kubi 1.0000 
+skin 350 kubi 1.0000 
+skin 351 kubi 1.0000 
+skin 352 kubi 1.0000 
+skin 353 kubi 1.0000 
+skin 354 kubi 1.0000 
+skin 355 kubi 1.0000 
+skin 356 kubi 1.0000 
+skin 357 kubi 1.0000 
+skin 358 kubi 1.0000 
+skin 359 kubi 1.0000 
+skin 360 kubi 1.0000 
+skin 361 kubi 1.0000 
+skin 362 kubi 1.0000 
+skin 363 kubi 1.0000 
+skin 364 kubi 1.0000 
+skin 365 kubi 1.0000 
+skin 366 kubi 1.0000 
+skin 367 kubi 1.0000 
+skin 368 kubi 1.0000 
+skin 369 kubi 1.0000 
+skin 370 kubi 1.0000 
+skin 371 kubi 1.0000 
+skin 372 kubi 1.0000 
+skin 373 kubi 1.0000 
+skin 374 kubi 1.0000 
+skin 375 kubi 1.0000 
+skin 376 kubi 1.0000 
+skin 377 kubi 1.0000 
+skin 378 kubi 1.0000 
+skin 379 kubi 1.0000 
+skin 380 kubi 1.0000 
+skin 381 kubi 1.0000 
+skin 382 kubi 1.0000 
+skin 383 kubi 1.0000 
+skin 384 kubi 1.0000 
+skin 385 kubi 1.0000 
+skin 386 kubi 1.0000 
+skin 387 kubi 1.0000 
+skin 388 kubi 1.0000 
+skin 389 kubi 1.0000 
+skin 390 kubi 1.0000 
+skin 391 kubi 1.0000 
+skin 392 kubi 1.0000 
+skin 393 kubi 1.0000 
+skin 394 kubi 1.0000 
+skin 395 kubi 1.0000 
+skin 396 kubi 1.0000 
+skin 397 kubi 1.0000 
+skin 398 kubi 1.0000 
+skin 399 kubi 1.0000 
+skin 400 kubi 1.0000 
+skin 401 kubi 1.0000 
+skin 402 kubi 1.0000 
+skin 403 kubi 1.0000 
+skin 404 kubi 1.0000 
+skin 405 kubi 1.0000 
+skin 406 kubi 1.0000 
+skin 407 kubi 1.0000 
+skin 408 kubi 1.0000 
+skin 409 kubi 1.0000 
+skin 410 kubi 1.0000 
+skin 411 kubi 1.0000 
+skin 412 kubi 1.0000 
+skin 413 kubi 1.0000 
+skin 414 kubi 1.0000 
+skin 415 kubi 1.0000 
+skin 416 kubi 1.0000 
+skin 417 kubi 1.0000 
+skin 418 kubi 1.0000 
+skin 419 kubi 1.0000 
+skin 420 kubi 1.0000 
+skin 421 kubi 1.0000 
+skin 422 kubi 1.0000 
+skin 423 kubi 1.0000 
+skin 424 kubi 1.0000 
+skin 425 kubi 1.0000 
+skin 426 kubi 1.0000 
+skin 427 kubi 1.0000 
+skin 428 kubi 1.0000 
+skin 429 kubi 1.0000 
+skin 430 kubi 1.0000 
+skin 431 kubi 1.0000 
+skin 432 kubi 1.0000 
+skin 433 kubi 1.0000 
+skin 434 kubi 1.0000 
+skin 435 kubi 1.0000 
+skin 436 kubi 1.0000 
+skin 437 kubi 1.0000 
+skin 438 kubi 1.0000 
+skin 439 kubi 1.0000 
+skin 440 kubi 1.0000 
+skin 441 kubi 1.0000 
+skin 442 kubi 1.0000 
+skin 443 kubi 1.0000 
+skin 444 kubi 1.0000 
+skin 445 kubi 1.0000 
+skin 446 kubi 1.0000 
+skin 447 kubi 1.0000 
+skin 448 kubi 1.0000 
+skin 449 kubi 1.0000 
+skin 450 kubi 1.0000 
+skin 451 kubi 1.0000 
+skin 452 kubi 1.0000 
+skin 453 kubi 1.0000 
+skin 454 kubi 1.0000 
+skin 455 kubi 1.0000 
+skin 456 kubi 1.0000 
+skin 457 kubi 1.0000 
+skin 458 kubi 1.0000 
+skin 459 kubi 1.0000 
+skin 460 kubi 1.0000 
+skin 461 kubi 1.0000 
+skin 462 kubi 1.0000 
+skin 463 kubi 1.0000 
+skin 464 kubi 1.0000 
+skin 465 kubi 1.0000 
+skin 466 kubi 1.0000 
+skin 467 kubi 1.0000 
+skin 468 kubi 1.0000 
+skin 469 kubi 1.0000 
+skin 470 kubi 1.0000 
+skin 471 kubi 1.0000 
+skin 472 kubi 1.0000 
+skin 473 kubi 1.0000 
+skin 474 kubi 1.0000 
+skin 475 kubi 1.0000 
+skin 476 kubi 1.0000 
+skin 477 kubi 1.0000 
+skin 478 kubi 1.0000 
+skin 479 kubi 1.0000 
+skin 480 kubi 1.0000 
+skin 481 kubi 1.0000 
+skin 482 kubi 1.0000 
+skin 483 kubi 1.0000 
+skin 484 kubi 1.0000 
+skin 485 kubi 1.0000 
+skin 486 kubi 1.0000 
+skin 487 kubi 1.0000 
+skin 488 kubi 1.0000 
+skin 489 kubi 1.0000 
+skin 490 kubi 1.0000 
+skin 491 kubi 1.0000 
+skin 492 kubi 1.0000 
+skin 493 kubi 1.0000 
+skin 494 kubi 1.0000 
+skin 495 kubi 1.0000 
+skin 496 kubi 1.0000 
+skin 497 kubi 1.0000 
+skin 498 kubi 1.0000 
+skin 499 kubi 1.0000 
+skin 500 kubi 1.0000 
+skin 501 kubi 1.0000 
+skin 502 kubi 1.0000 
+skin 503 kubi 1.0000 
+skin 504 kubi 1.0000 
+skin 505 kubi 1.0000 
+skin 506 kubi 1.0000 
+skin 507 kubi 1.0000 
+skin 508 kubi 1.0000 
+skin 509 kubi 1.0000 
+skin 510 kubi 1.0000 
+skin 511 kubi 1.0000 
+skin 512 kubi 1.0000 
+skin 513 kubi 1.0000 
+skin 514 kubi 1.0000 
+skin 515 kubi 1.0000 
+skin 516 kubi 1.0000 
+skin 517 kubi 1.0000 
+skin 518 kubi 1.0000 
+skin 519 kubi 1.0000 
+skin 520 kubi 1.0000 
+skin 521 kubi 1.0000 
+skin 522 kubi 1.0000 
+skin 523 kubi 1.0000 
+skin 524 kubi 1.0000 
+skin 525 kubi 1.0000 
+skin 526 kubi 1.0000 
+skin 527 kubi 1.0000 
+skin 528 kubi 1.0000 
+skin 529 kubi 1.0000 
+skin 530 kubi 1.0000 
+skin 531 kubi 1.0000 
+skin 532 kubi 1.0000 
+skin 533 kubi 1.0000 
+skin 534 kubi 1.0000 
+skin 535 kubi 1.0000 
+skin 536 kubi 1.0000 
+skin 537 kubi 1.0000 
+skin 538 kubi 1.0000 
+skin 539 kubi 1.0000 
+skin 540 kubi 1.0000 
+skin 541 kubi 1.0000 
+skin 542 kubi 1.0000 
+skin 543 kubi 1.0000 
+skin 544 kubi 1.0000 
+skin 545 kubi 1.0000 
+skin 546 kubi 1.0000 
+skin 547 kubi 1.0000 
+skin 548 kubi 1.0000 
+skin 549 kubi 1.0000 
+skin 550 kubi 1.0000 
+skin 551 kubi 1.0000 
+skin 552 kubi 1.0000 
+skin 553 kubi 1.0000 
+skin 554 kubi 1.0000 
+skin 555 kubi 1.0000 
+skin 556 kubi 1.0000 
+skin 557 kubi 1.0000 
+skin 558 kubi 1.0000 
+skin 559 kubi 1.0000 
+skin 560 kubi 1.0000 
+skin 561 kubi 1.0000 
+skin 562 kubi 1.0000 
+skin 563 kubi 1.0000 
+skin 564 kubi 1.0000 
+skin 565 kubi 1.0000 
+skin 566 kubi 1.0000 
+skin 567 kubi 1.0000 
+skin 568 kubi 1.0000 
+skin 569 kubi 1.0000 
+skin 570 kubi 1.0000 
+skin 571 kubi 1.0000 
+skin 572 kubi 1.0000 
+skin 573 kubi 1.0000 
+skin 574 kubi 1.0000 
+skin 575 kubi 1.0000 
+skin 576 kubi 1.0000 
+skin 577 kubi 1.0000 
+skin 578 kubi 1.0000 
+skin 579 kubi 1.0000 
+skin 580 kubi 1.0000 
+skin 581 kubi 1.0000 
+skin 582 kubi 1.0000 
+skin 583 kubi 1.0000 
+skin 584 kubi 1.0000 
+skin 585 kubi 1.0000 
+skin 586 kubi 1.0000 
+skin 587 kubi 1.0000 
+skin 588 kubi 1.0000 
+skin 589 kubi 1.0000 
+skin 590 kubi 1.0000 
+skin 591 kubi 1.0000 
+skin 592 kubi 1.0000 
+skin 593 kubi 1.0000 
+skin 594 kubi 1.0000 
+skin 595 kubi 1.0000 
+skin 596 kubi 1.0000 
+skin 597 kubi 1.0000 
+skin 598 kubi 1.0000 
+skin 599 kubi 1.0000 
+skin 600 kubi 1.0000 
+skin 601 kubi 1.0000 
+skin 602 kubi 1.0000 
+skin 603 kubi 1.0000 
+skin 604 kubi 1.0000 
+skin 605 kubi 1.0000 
+skin 606 kubi 1.0000 
+skin 607 kubi 1.0000 
+skin 608 kubi 1.0000 
+skin 609 kubi 1.0000 
+skin 610 kubi 1.0000 
+skin 611 kubi 1.0000 
+skin 612 kubi 1.0000 
+skin 613 kubi 1.0000 
+skin 614 kubi 1.0000 
+skin 615 kubi 1.0000 
+skin 616 kubi 1.0000 
+skin 617 kubi 1.0000 
+skin 618 kubi 1.0000 
+skin 619 kubi 1.0000 
+skin 620 kubi 1.0000 
+skin 621 kubi 1.0000 
+skin 622 kubi 1.0000 
+skin 623 kubi 1.0000 
+skin 624 kubi 1.0000 
+skin 625 kubi 1.0000 
+skin 626 kubi 1.0000 
+skin 627 kubi 1.0000 
+skin 628 kubi 1.0000 
+skin 629 kubi 1.0000 
+skin 630 kubi 1.0000 
+skin 631 kubi 1.0000 
+skin 632 kubi 1.0000 
+skin 633 kubi 1.0000 
+skin 634 kubi 1.0000 
+skin 635 kubi 1.0000 
+skin 636 kubi 1.0000 
+skin 637 kubi 1.0000 
+skin 638 kubi 1.0000 
+skin 639 kubi 1.0000 
+skin 640 kubi 1.0000 
+skin 641 kubi 1.0000 
+skin 642 kubi 1.0000 
+skin 643 kubi 1.0000 
+skin 644 kubi 1.0000 
+skin 645 kubi 1.0000 
+skin 646 kubi 1.0000 
+skin 647 kubi 1.0000 
+skin 648 kubi 1.0000 
+skin 649 kubi 1.0000 
+skin 650 kubi 1.0000 
+skin 651 kubi 1.0000 
+skin 652 kubi 1.0000 
+skin 653 kubi 1.0000 
+skin 654 kubi 1.0000 
+skin 655 kubi 1.0000 
+skin 656 kubi 1.0000 
+skin 657 kubi 1.0000 
+skin 658 kubi 1.0000 
+skin 659 kubi 1.0000 
+skin 660 kubi 1.0000 
+skin 661 kubi 1.0000 
+skin 662 kubi 1.0000 
+skin 663 mune 0.1500 kubi 0.8500 
+skin 664 kubi 1.0000 
+skin 665 kubi 1.0000 
+skin 666 kubi 1.0000 
+skin 667 kubi 1.0000 
+skin 668 mune 0.7100 kubi 0.2900 
+skin 669 mune 0.6400 kubi 0.3600 
+skin 670 kubi 1.0000 
+skin 671 kubi 1.0000 
+skin 672 kubi 1.0000 
+skin 673 kubi 1.0000 
+skin 674 kubi 1.0000 
+skin 675 kubi 1.0000 
+skin 676 kubi 1.0000 
+skin 677 kubi 1.0000 
+skin 678 kubi 1.0000 
+skin 679 kubi 1.0000 
+skin 680 kubi 1.0000 
+skin 681 kubi 1.0000 
+skin 682 kubi 1.0000 
+skin 683 kubi 1.0000 
+skin 684 kubi 1.0000 
+skin 685 kubi 1.0000 
+skin 686 kubi 1.0000 
+skin 687 kubi 1.0000 
+skin 688 kubi 1.0000 
+skin 689 kubi 1.0000 
+skin 690 kubi 1.0000 
+skin 691 kubi 1.0000 
+skin 692 kubi 1.0000 
+skin 693 kubi 1.0000 
+skin 694 kubi 1.0000 
+skin 695 kubi 1.0000 
+skin 696 mune 0.7100 kubi 0.2900 
+skin 697 kubi 1.0000 
+skin 698 kubi 1.0000 
+skin 699 kubi 1.0000 
+skin 700 kubi 1.0000 
+skin 701 hair0 0.9000 hair1 0.1000 
+skin 702 hair0 0.8500 hair1 0.1500 
+skin 703 hair0 0.9000 hair1 0.1000 
+skin 704 hair0 0.8500 hair1 0.1500 
+skin 705 hair0 0.8500 hair1 0.1500 
+skin 706 hair0 0.7500 hair1 0.2500 
+skin 707 hair0 0.7600 hair1 0.2400 
+skin 708 hair0 0.6500 hair1 0.3500 
+skin 709 hair0 0.7500 hair1 0.2500 
+skin 710 hair0 0.6300 hair1 0.3700 
+skin 711 hair0 0.6200 hair1 0.3800 
+skin 712 hair0 0.7500 hair1 0.2500 
+skin 713 hair0 0.6200 hair1 0.3800 
+skin 714 hair0 0.6200 hair1 0.3800 
+skin 715 hair0 0.7500 hair1 0.2500 
+skin 716 hair0 0.8500 hair1 0.1500 
+skin 717 hair0 0.7500 hair1 0.2500 
+skin 718 hair0 0.8500 hair1 0.1500 
+skin 719 hair0 0.9000 hair1 0.1000 
+skin 720 hair0 0.8500 hair1 0.1500 
+skin 721 hair0 0.9000 hair1 0.1000 
+skin 722 hair0 0.8500 hair1 0.1500 
+skin 723 hair0 0.9000 hair1 0.1000 
+skin 724 hair0 0.9000 hair1 0.1000 
+skin 725 hair0 0.7600 hair1 0.2400 
+skin 726 hair0 0.6600 hair1 0.3400 
+skin 727 hair0 0.6500 hair1 0.3500 
+skin 728 hair0 0.7500 hair1 0.2500 
+skin 729 hair0 0.7500 hair1 0.2500 
+skin 730 hair0 0.6200 hair1 0.3800 
+skin 731 hair0 0.9000 hair1 0.1000 
+skin 732 hair0 0.9000 hair1 0.1000 
+skin 733 hair0 0.9000 hair1 0.1000 
+skin 734 hair0 0.8500 hair1 0.1500 
+skin 735 hair0 0.8500 hair1 0.1500 
+skin 736 hair0 0.6700 hair1 0.3300 
+skin 737 hair0 0.6600 hair1 0.3400 
+skin 738 hair0 0.4200 hair1 0.5800 
+skin 739 hair0 0.5000 hair1 0.5000 
+skin 740 hair0 0.3700 hair1 0.6300 
+skin 741 hair0 0.5300 hair1 0.4700 
+skin 742 hair0 0.5900 hair1 0.4100 
+skin 743 hair0 0.5300 hair1 0.4700 
+skin 744 hair0 0.4600 hair1 0.5400 
+skin 745 hair0 0.4200 hair1 0.5800 
+skin 746 hair0 0.5900 hair1 0.4100 
+skin 747 hair0 0.4600 hair1 0.5400 
+skin 748 hair0 0.4800 hair1 0.5200 
+skin 749 hair0 0.4700 hair1 0.5300 
+skin 750 hair0 0.3200 hair1 0.6800 
+skin 751 hair0 0.3200 hair1 0.6800 
+skin 752 hair0 0.4700 hair1 0.5300 
+skin 753 hair0 0.4800 hair1 0.5200 
+skin 754 hair0 0.3200 hair1 0.6800 
+skin 755 hair0 0.3200 hair1 0.6800 
+skin 756 hair0 0.1900 hair1 0.8100 
+skin 757 hair0 0.3700 hair1 0.6300 
+skin 758 hair0 0.0700 hair1 0.9300 
+skin 759 hair0 0.2100 hair1 0.7900 
+skin 760 hair1 1.0000 
+skin 761 hair0 0.0200 hair1 0.9800 
+skin 762 hair0 0.2000 hair1 0.8000 
+skin 763 hair0 0.1900 hair1 0.8100 
+skin 764 hair0 0.2100 hair1 0.7900 
+skin 765 hair0 0.3000 hair1 0.7000 
+skin 766 hair0 0.3000 hair1 0.7000 
+skin 767 hair0 0.1300 hair1 0.8700 
+skin 768 hair0 0.0400 hair1 0.9600 
+skin 769 hair0 0.0400 hair1 0.9600 
+skin 770 hair0 0.1000 hair1 0.9000 
+skin 771 hair0 0.1000 hair1 0.9000 
+skin 772 hair0 0.1300 hair1 0.8700 
+skin 773 hair0 0.0400 hair1 0.9600 
+skin 774 hair0 0.0700 hair1 0.9300 
+skin 775 hair0 0.0200 hair1 0.9800 
+skin 776 hair0 0.0400 hair1 0.9600 
+skin 777 hair0 0.0500 hair1 0.9500 
+skin 778 hair0 0.1600 hair1 0.8400 
+skin 779 hair0 0.1600 hair1 0.8400 
+skin 780 hair0 0.0500 hair1 0.9500 
+skin 781 hair1 1.0000 
+skin 782 hair0 0.0100 hair1 0.9900 
+skin 783 hair0 0.0200 hair1 0.9800 
+skin 784 hair1 1.0000 
+skin 785 hair1 1.0000 
+skin 786 hair0 0.0100 hair1 0.9900 
+skin 787 hair0 0.0200 hair1 0.9800 
+skin 788 hair0 0.0100 hair1 0.9900 
+skin 789 hair1 1.0000 
+skin 790 hair1 1.0000 
+skin 791 hair1 1.0000 
+skin 792 hair1 1.0000 
+skin 793 hair1 1.0000 
+skin 794 hair0 0.0200 hair1 0.9800 
+skin 795 hair0 0.1600 hair1 0.8400 
+skin 796 hair0 0.0200 hair1 0.9800 
+skin 797 hair1 1.0000 
+skin 798 hair1 1.0000 
+skin 799 hair1 1.0000 
+skin 800 hair1 1.0000 
+skin 801 hair1 1.0000 
+skin 802 hair1 1.0000 
+skin 803 kubi 0.0700 hair0 0.9300 
+skin 804 kubi 0.0900 hair0 0.9100 
+skin 805 kubi 0.2000 hair0 0.8000 
+skin 806 kubi 0.0700 hair0 0.9300 
+skin 807 kubi 0.0900 hair0 0.9100 
+skin 808 kubi 0.0900 hair0 0.9100 
+skin 809 kubi 0.0900 hair0 0.9100 
+skin 810 kubi 0.0800 hair0 0.9200 
+skin 811 kubi 0.2000 hair0 0.8000 
+skin 812 kubi 0.0800 hair0 0.9200 
+skin 813 kubi 0.2000 hair0 0.8000 
+skin 814 kubi 0.2000 hair0 0.8000 
+skin 815 kubi 0.2000 hair0 0.8000 
+skin 816 kubi 0.1000 hair0 0.9000 
+skin 817 kubi 1.0000 
+skin 818 kubi 1.0000 
+skin 819 kubi 1.0000 
+skin 820 kubi 1.0000 
+skin 821 kubi 1.0000 
+skin 822 kubi 1.0000 
+skin 823 kubi 1.0000 
+skin 824 kubi 1.0000 
+skin 825 kubi 1.0000 
+skin 826 kubi 1.0000 
+skin 827 kubi 1.0000 
+skin 828 kubi 1.0000 
+skin 829 kubi 1.0000 
+skin 830 kubi 1.0000 
+skin 831 kubi 1.0000 
+skin 832 kubi 1.0000 
+skin 833 kubi 1.0000 
+skin 834 kubi 1.0000 
+skin 835 kubi 1.0000 
+skin 836 kubi 1.0000 
+skin 837 kubi 1.0000 
+skin 838 kubi 1.0000 
+skin 839 kubi 1.0000 
+skin 840 kubi 1.0000 
+skin 841 kubi 1.0000 
+skin 842 kubi 1.0000 
+skin 843 kubi 1.0000 
+skin 844 kubi 1.0000 
+skin 845 kubi 1.0000 
+skin 846 kubi 1.0000 
+skin 847 kubi 1.0000 
+skin 848 kubi 1.0000 
+skin 849 kubi 1.0000 
+skin 850 kubi 1.0000 
+skin 851 kubi 1.0000 
+skin 852 kubi 1.0000 
+skin 853 kubi 1.0000 
+skin 854 kubi 1.0000 
+skin 855 kubi 1.0000 
+skin 856 kubi 1.0000 
+skin 857 kubi 1.0000 
+skin 858 kubi 1.0000 
+skin 859 kubi 1.0000 
+skin 860 kubi 1.0000 
+skin 861 kubi 1.0000 
+skin 862 kubi 1.0000 
+skin 863 kubi 1.0000 
+skin 864 kubi 1.0000 
+skin 865 kubi 1.0000 
+skin 866 kubi 1.0000 
+skin 867 kubi 0.3500 hair0 0.6500 
+skin 868 kubi 0.3500 hair0 0.6500 
+skin 869 kubi 0.3500 hair0 0.6500 
+skin 870 kubi 0.5000 hair0 0.5000 
+skin 871 kubi 0.5000 hair0 0.5000 
+skin 872 kubi 0.7000 hair0 0.3000 
+skin 873 kubi 0.5000 hair0 0.5000 
+skin 874 kubi 0.7000 hair0 0.3000 
+skin 875 kubi 0.7000 hair0 0.3000 
+skin 876 kubi 1.0000 
+skin 877 kubi 1.0000 
+skin 878 kubi 1.0000 
+skin 879 kubi 1.0000 
+skin 880 kubi 1.0000 
+skin 881 kubi 1.0000 
+skin 882 kubi 1.0000 
+skin 883 kubi 1.0000 
+skin 884 kubi 1.0000 
+skin 885 kubi 1.0000 
+skin 886 kubi 1.0000 
+skin 887 kubi 1.0000 
+skin 888 kubi 1.0000 
+skin 889 kubi 1.0000 
+skin 890 kubi 1.0000 
+skin 891 kubi 1.0000 
+skin 892 kubi 1.0000 
+skin 893 kubi 1.0000 
+skin 894 kubi 1.0000 
+skin 895 kubi 1.0000 
+skin 896 kubi 1.0000 
+skin 897 kubi 1.0000 
+skin 898 kubi 1.0000 
+skin 899 kubi 1.0000 
+skin 900 kubi 1.0000 
+skin 901 kubi 1.0000 
+skin 902 kubi 1.0000 
+skin 903 kubi 1.0000 
+skin 904 kubi 1.0000 
+skin 905 kubi 1.0000 
+skin 906 kubi 1.0000 
+skin 907 kubi 1.0000 
+skin 908 kubi 1.0000 
+skin 909 kubi 1.0000 
+skin 910 kubi 1.0000 
+skin 911 kubi 1.0000 
+skin 912 kubi 1.0000 
+skin 913 kubi 1.0000 
+skin 914 kubi 1.0000 
+skin 915 kubi 1.0000 
+skin 916 kubi 1.0000 
+skin 917 kubi 1.0000 
+skin 918 kubi 1.0000 
+skin 919 kubi 1.0000 
+skin 920 kubi 1.0000 
+skin 921 kubi 1.0000 
+skin 922 kubi 1.0000 
+skin 923 kubi 1.0000 
+skin 924 kubi 1.0000 
+skin 925 kubi 1.0000 
+skin 926 kubi 1.0000 
+skin 927 kubi 1.0000 
+skin 928 kubi 1.0000 
+skin 929 kubi 1.0000 
+skin 930 kubi 1.0000 
+skin 931 kubi 1.0000 
+skin 932 kubi 0.3500 hair0 0.6500 
+skin 933 kubi 0.3500 hair0 0.6500 
+skin 934 kubi 0.3500 hair0 0.6500 
+skin 935 kubi 0.3500 hair0 0.6500 
+skin 936 kubi 0.5000 hair0 0.5000 
+skin 937 kubi 0.3500 hair0 0.6500 
+skin 938 kubi 1.0000 
+skin 939 kubi 1.0000 
+skin 940 kubi 1.0000 
+skin 941 kubi 1.0000 
+skin 942 kubi 1.0000 
+skin 943 kubi 1.0000 
+skin 944 kubi 1.0000 
+skin 945 kubi 1.0000 
+skin 946 kubi 1.0000 
+skin 947 kubi 1.0000 
+skin 948 kubi 1.0000 
+skin 949 kubi 1.0000 
+skin 950 kubi 1.0000 
+skin 951 kubi 1.0000 
+skin 952 kubi 1.0000 
+skin 953 kubi 1.0000 
+skin 954 kubi 1.0000 
+skin 955 kubi 1.0000 
+skin 956 kubi 1.0000 
+skin 957 kubi 1.0000 
+skin 958 kubi 1.0000 
+skin 959 kubi 1.0000 
+skin 960 kubi 1.0000 
+skin 961 kubi 1.0000 
+skin 962 kubi 1.0000 
+skin 963 kubi 1.0000 
+skin 964 kubi 1.0000 
+skin 965 kubi 1.0000 
+skin 966 kubi 1.0000 
+skin 967 kubi 1.0000 
+skin 968 kubi 1.0000 
+skin 969 kubi 1.0000 
+skin 970 kubi 1.0000 
+skin 971 kubi 1.0000 
+skin 972 kubi 1.0000 
+skin 973 kubi 1.0000 
+skin 974 kubi 1.0000 
+skin 975 kubi 1.0000 
+skin 976 kubi 1.0000 
+skin 977 kubi 1.0000 
+skin 978 kubi 1.0000 
+skin 979 kubi 1.0000 
+skin 980 kubi 1.0000 
+skin 981 kubi 1.0000 
+skin 982 kubi 1.0000 
+skin 983 kubi 1.0000 
+skin 984 kubi 1.0000 
+skin 985 kubi 1.0000 
+skin 986 kubi 1.0000 
+skin 987 kubi 0.5000 hair0 0.5000 
+skin 988 kubi 1.0000 
+skin 989 kubi 1.0000 
+skin 990 kubi 1.0000 
+skin 991 kubi 1.0000 
+skin 992 kubi 1.0000 
+skin 993 kubi 1.0000 
+skin 994 kubi 1.0000 
+skin 995 kubi 1.0000 
+skin 996 kubi 1.0000 
+skin 997 kubi 1.0000 
+skin 998 kubi 1.0000 
+skin 999 kubi 1.0000 
+skin 1000 kubi 1.0000 
+skin 1001 kubi 1.0000 
+skin 1002 kubi 1.0000 
+skin 1003 kubi 1.0000 
+skin 1004 kubi 0.7000 hair0 0.3000 
+skin 1005 kubi 1.0000 
+skin 1006 mune 0.4200 kubi 0.5800 
+skin 1007 kubi 1.0000 
+skin 1008 mune 0.3400 kubi 0.6600 
+skin 1009 kubi 1.0000 
+skin 1010 mune 0.4200 kubi 0.5800 
+skin 1011 kubi 1.0000 
+skin 1012 kubi 1.0000 
+skin 1013 mune 0.3400 kubi 0.6600 
+skin 1014 kubi 1.0000 
+skin 1015 kubi 1.0000 
+skin 1016 kubi 0.3500 hair0 0.6500 
+skin 1017 kubi 1.0000 
+skin 1018 kubi 1.0000 
+skin 1019 kubi 0.7000 hair0 0.3000 
+skin 1020 kubi 1.0000 
+skin 1021 kubi 1.0000 
+skin 1022 mune 0.5000 kubi 0.5000 
+skin 1023 mune 0.5100 kubi 0.4900 
+skin 1024 mune 0.5500 kubi 0.4500 
+skin 1025 mune 1.0000 
+skin 1026 mune 0.8100 kubi 0.1900 
+skin 1027 mune 0.7800 kubi 0.2200 
+skin 1028 mune 1.0000 
+skin 1029 mune 1.0000 
+skin 1030 mune 0.8100 kubi 0.1900 
+skin 1031 mune 1.0000 
+skin 1032 mune 0.7800 kubi 0.2200 
+skin 1033 mune 1.0000 
+skin 1034 mune 0.5500 kubi 0.4500 
+skin 1035 mune 0.5000 kubi 0.5000 
+skin 1036 mune 0.5100 kubi 0.4900 
+skin 1037 mune 1.0000 
+skin 1038 mune 1.0000 
+skin 1039 mune 1.0000 
+skin 1040 hair0 0.5700 hair1 0.4300 
+skin 1041 hair0 0.3300 hair1 0.6700 
+skin 1042 hair0 0.3300 hair1 0.6700 
+skin 1043 hair0 0.4500 hair1 0.5500 
+skin 1044 hair0 0.3300 hair1 0.6700 
+skin 1045 kubi 1.0000 
+skin 1046 kubi 1.0000 
+skin 1047 kubi 1.0000 
+skin 1048 kubi 1.0000 
+skin 1049 kubi 1.0000 
+skin 1050 kubi 1.0000 
+skin 1051 kubi 1.0000 
+skin 1052 kubi 1.0000 
+skin 1053 kubi 1.0000 
+skin 1054 kubi 1.0000 
+skin 1055 kubi 1.0000 
+skin 1056 kubi 1.0000 
+skin 1057 kubi 1.0000 
+skin 1058 kubi 1.0000 
+skin 1059 kubi 1.0000 
+skin 1060 kubi 1.0000 
+skin 1061 kubi 1.0000 
+skin 1062 kubi 1.0000 
+skin 1063 kubi 1.0000 
+skin 1064 kubi 1.0000 
+skin 1065 kubi 1.0000 
+skin 1066 kubi 1.0000 
+skin 1067 kubi 1.0000 
+skin 1068 kubi 1.0000 
+skin 1069 kubi 1.0000 
+skin 1070 kubi 1.0000 
+skin 1071 kubi 1.0000 
+skin 1072 kubi 1.0000 
+skin 1073 kubi 1.0000 
+skin 1074 kubi 1.0000 
+skin 1075 kubi 1.0000 
+skin 1076 kubi 1.0000 
+skin 1077 kubi 1.0000 
+skin 1078 kubi 1.0000 
+skin 1079 kubi 1.0000 
+skin 1080 kubi 1.0000 
+skin 1081 kubi 1.0000 
+skin 1082 kubi 1.0000 
+skin 1083 kubi 1.0000 
+skin 1084 kubi 1.0000 
+skin 1085 kubi 1.0000 
+skin 1086 kubi 1.0000 
+skin 1087 kubi 0.8000 crest 0.2000 
+skin 1088 kubi 1.0000 
+skin 1089 kubi 1.0000 
+skin 1090 kubi 1.0000 
+skin 1091 kubi 1.0000 
+skin 1092 kubi 1.0000 
+skin 1093 kubi 1.0000 
+skin 1094 kubi 1.0000 
+skin 1095 kubi 1.0000 
+skin 1096 kubi 1.0000 
+skin 1097 kubi 1.0000 
+skin 1098 kubi 1.0000 
+skin 1099 kubi 1.0000 
+skin 1100 kubi 1.0000 
+skin 1101 kubi 1.0000 
+skin 1102 kubi 1.0000 
+skin 1103 kubi 1.0000 
+skin 1104 kubi 1.0000 
+skin 1105 kubi 1.0000 
+skin 1106 kubi 1.0000 
+skin 1107 kubi 1.0000 
+skin 1108 kubi 1.0000 
+skin 1109 kubi 1.0000 
+skin 1110 kubi 1.0000 
+skin 1111 kubi 1.0000 
+skin 1112 kubi 1.0000 
+skin 1113 kubi 1.0000 
+skin 1114 kubi 1.0000 
+skin 1115 kubi 1.0000 
+skin 1116 kubi 1.0000 
+skin 1117 kubi 1.0000 
+skin 1118 kubi 1.0000 
+skin 1119 kubi 1.0000 
+skin 1120 kubi 1.0000 
+skin 1121 kubi 1.0000 
+skin 1122 kubi 1.0000 
+skin 1123 kubi 1.0000 
+skin 1124 kubi 1.0000 
+skin 1125 kubi 1.0000 
+skin 1126 kubi 1.0000 
+skin 1127 kubi 1.0000 
+skin 1128 kubi 1.0000 
+skin 1129 kubi 1.0000 
+skin 1130 kubi 1.0000 
+skin 1131 kubi 1.0000 
+skin 1132 kubi 1.0000 
+skin 1133 kubi 1.0000 
+skin 1134 kubi 1.0000 
+skin 1135 kubi 1.0000 
+skin 1136 kubi 1.0000 
+skin 1137 kubi 1.0000 
+skin 1138 kubi 1.0000 
+skin 1139 kubi 1.0000 
+skin 1140 kubi 1.0000 
+skin 1141 kubi 1.0000 
+skin 1142 kubi 1.0000 
+skin 1143 kubi 1.0000 
+skin 1144 kubi 1.0000 
+skin 1145 kubi 1.0000 
+skin 1146 kubi 1.0000 
+skin 1147 kubi 1.0000 
+skin 1148 kubi 1.0000 
+skin 1149 kubi 1.0000 
+skin 1150 kubi 1.0000 
+skin 1151 kubi 1.0000 
+skin 1152 kubi 1.0000 
+skin 1153 kubi 1.0000 
+skin 1154 kubi 1.0000 
+skin 1155 kubi 1.0000 
+skin 1156 kubi 1.0000 
+skin 1157 kubi 1.0000 
+skin 1158 kubi 1.0000 
+skin 1159 kubi 1.0000 
+skin 1160 kubi 1.0000 
+skin 1161 kubi 1.0000 
+skin 1162 kubi 1.0000 
+skin 1163 kubi 1.0000 
+skin 1164 kubi 1.0000 
+skin 1165 kubi 1.0000 
+skin 1166 kubi 1.0000 
+skin 1167 kubi 1.0000 
+skin 1168 kubi 1.0000 
+skin 1169 kubi 1.0000 
+skin 1170 kubi 1.0000 
+skin 1171 kubi 1.0000 
+skin 1172 kubi 1.0000 
+skin 1173 kubi 1.0000 
+skin 1174 kubi 1.0000 
+skin 1175 kubi 1.0000 
+skin 1176 kubi 1.0000 
+skin 1177 kubi 1.0000 
+skin 1178 kubi 1.0000 
+skin 1179 kubi 1.0000 
+skin 1180 kubi 1.0000 
+skin 1181 kubi 1.0000 
+skin 1182 kubi 1.0000 
+skin 1183 kubi 1.0000 
+skin 1184 kubi 1.0000 
+skin 1185 kubi 1.0000 
+skin 1186 kubi 1.0000 
+skin 1187 kubi 1.0000 
+skin 1188 kubi 1.0000 
+skin 1189 kubi 1.0000 
+skin 1190 kubi 1.0000 
+skin 1191 kubi 1.0000 
+skin 1192 kubi 1.0000 
+skin 1193 kubi 1.0000 
+skin 1194 kubi 1.0000 
+skin 1195 kubi 1.0000 
+skin 1196 kubi 1.0000 
+skin 1197 kubi 1.0000 
+skin 1198 kubi 1.0000 
+skin 1199 kubi 1.0000 
+skin 1200 kubi 1.0000 
+skin 1201 kubi 1.0000 
+skin 1202 kubi 1.0000 
+skin 1203 kubi 1.0000 
+skin 1204 kubi 1.0000 
+skin 1205 kubi 1.0000 
+skin 1206 kubi 1.0000 
+skin 1207 kubi 1.0000 
+skin 1208 kubi 1.0000 
+skin 1209 kubi 1.0000 
+skin 1210 kubi 1.0000 
+skin 1211 kubi 1.0000 
+skin 1212 kubi 1.0000 
+skin 1213 kubi 1.0000 
+skin 1214 kubi 1.0000 
+skin 1215 kubi 1.0000 
+skin 1216 kubi 1.0000 
+skin 1217 kubi 1.0000 
+skin 1218 kubi 1.0000 
+skin 1219 kubi 1.0000 
+skin 1220 kubi 1.0000 
+skin 1221 kubi 1.0000 
+skin 1222 kubi 1.0000 
+skin 1223 kubi 1.0000 
+skin 1224 kubi 1.0000 
+skin 1225 kubi 1.0000 
+skin 1226 kubi 1.0000 
+skin 1227 kubi 1.0000 
+skin 1228 kubi 1.0000 
+skin 1229 kubi 1.0000 
+skin 1230 kubi 1.0000 
+skin 1231 kubi 1.0000 
+skin 1232 kubi 1.0000 
+skin 1233 kubi 1.0000 
+skin 1234 kubi 1.0000 
+skin 1235 kubi 1.0000 
+skin 1236 kubi 1.0000 
+skin 1237 kubi 1.0000 
+skin 1238 kubi 1.0000 
+skin 1239 kubi 1.0000 
+skin 1240 kubi 1.0000 
+skin 1241 kubi 1.0000 
+skin 1242 mune 0.9400 kubi 0.0600 
+skin 1243 mune 1.0000 
+skin 1244 mune 1.0000 
+skin 1245 mune 1.0000 
+skin 1246 mune 0.9400 kubi 0.0600 
+skin 1247 mune 1.0000 
+skin 1248 mune 0.9400 kubi 0.0600 
+skin 1249 mune 1.0000 
+skin 1250 mune 1.0000 
+skin 1251 mune 0.8000 kubi 0.2000 
+skin 1252 mune 0.9200 kubi 0.0800 
+skin 1253 mune 1.0000 
+skin 1254 mune 0.8800 kubi 0.1200 
+skin 1255 mune 0.9800 kubi 0.0200 
+skin 1256 mune 0.8000 kubi 0.2000 
+skin 1257 mune 0.9200 kubi 0.0800 
+skin 1258 mune 0.9800 kubi 0.0200 
+skin 1259 mune 0.8800 kubi 0.1200 
+skin 1260 mune 0.7600 kubi 0.2400 
+skin 1261 mune 0.9300 kubi 0.0700 
+skin 1262 mune 1.0000 
+skin 1263 mune 1.0000 
+skin 1264 mune 0.6900 kubi 0.3100 
+skin 1265 mune 0.8900 kubi 0.1100 
+skin 1266 mune 0.9300 kubi 0.0700 
+skin 1267 mune 1.0000 
+skin 1268 mune 1.0000 
+skin 1269 mune 0.7600 kubi 0.2400 
+skin 1270 mune 1.0000 
+skin 1271 mune 1.0000 
+skin 1272 mune 1.0000 
+skin 1273 koshi 0.2000 momo_l 0.4000 momo_r 0.4000 
+skin 1274 koshi 0.4800 momo_l 0.5200 
+skin 1275 momo_l 1.0000 
+skin 1276 koshi 0.5000 momo_l 0.5000 
+skin 1277 koshi 1.0000 
+skin 1278 koshi 1.0000 
+skin 1279 koshi 1.0000 
+skin 1280 momo_l 1.0000 
+skin 1281 momo_l 1.0000 
+skin 1282 koshi 0.4500 momo_l 0.5500 
+skin 1283 momo_l 1.0000 
+skin 1284 koshi 0.2300 momo_l 0.7700 
+skin 1285 momo_l 1.0000 
+skin 1286 momo_l 1.0000 
+skin 1287 momo_l 1.0000 
+skin 1288 koshi 0.6500 momo_l 0.3500 
+skin 1289 jowan1_l 1.0000 
+skin 1290 mune 0.2000 jowan0_l 0.8000 
+skin 1291 jowan1_l 1.0000 
+skin 1292 mune 0.2000 jowan0_l 0.8000 
+skin 1293 mune 0.2500 jowan0_l 0.7500 
+skin 1294 mune 0.4200 kata_l 0.1600 jowan0_l 0.4200 
+skin 1295 mune 0.4500 kata_l 0.2500 jowan0_l 0.3000 
+skin 1296 jowan1_l 1.0000 
+skin 1297 mune 0.3000 kata_l 0.2100 jowan0_l 0.4900 
+skin 1298 jowan1_l 1.0000 
+skin 1299 mune 0.3000 kata_l 0.2000 jowan0_l 0.5000 
+skin 1300 jowan1_l 1.0000 
+skin 1301 jowan1_l 1.0000 
+skin 1302 mune 0.2000 jowan0_l 0.8000 
+skin 1303 mune 0.1400 kata_l 0.1600 jowan0_l 0.7000 
+skin 1304 jowan1_l 1.0000 
+skin 1305 mune 0.4300 kata_l 0.0900 jowan0_l 0.4800 
+skin 1306 mune 0.6000 kata_l 0.3000 jowan0_l 0.1000 
+skin 1307 mune 0.9800 kata_l 0.0200 
+skin 1308 mune 0.9400 kata_l 0.0500 jowan0_l 0.0100 
+skin 1309 mune 0.7000 kata_l 0.1500 jowan0_l 0.1500 
+skin 1310 mune 0.5000 kata_l 0.1500 jowan0_l 0.3500 
+skin 1311 mune 0.4000 kata_l 0.2500 jowan0_l 0.3500 
+skin 1312 mune 0.4500 kata_r 0.2500 jowan0_r 0.3000 
+skin 1313 mune 0.3000 kata_r 0.2000 jowan0_r 0.5000 
+skin 1314 mune 0.3000 kata_r 0.2100 jowan0_r 0.4900 
+skin 1315 mune 0.3000 kata_r 0.5500 jowan0_r 0.1500 
+skin 1316 mune 0.2800 kata_r 0.2300 jowan0_r 0.4900 
+skin 1317 mune 0.3400 kata_r 0.3200 jowan0_r 0.3400 
+skin 1318 jowan1_r 1.0000 
+skin 1319 jowan1_r 1.0000 
+skin 1320 jowan1_r 1.0000 
+skin 1321 jowan1_r 1.0000 
+skin 1322 mune 0.2500 jowan0_r 0.7500 
+skin 1323 mune 0.4000 kata_r 0.1400 jowan0_r 0.4600 
+skin 1324 mune 0.2000 jowan0_r 0.8000 
+skin 1325 mune 0.3700 kata_r 0.0700 jowan0_r 0.5600 
+skin 1326 mune 0.2000 jowan0_r 0.8000 
+skin 1327 jowan1_r 1.0000 
+skin 1328 mune 0.1400 kata_r 0.1600 jowan0_r 0.7000 
+skin 1329 jowan1_r 1.0000 
+skin 1330 jowan1_r 1.0000 
+skin 1331 mune 0.2000 jowan0_r 0.8000 
+skin 1332 jowan1_r 1.0000 
+skin 1333 mune 0.4000 kata_r 0.2500 jowan0_r 0.3500 
+skin 1334 mune 0.5000 kata_r 0.1500 jowan0_r 0.3500 
+skin 1335 mune 0.7000 kata_r 0.1500 jowan0_r 0.1500 
+skin 1336 mune 0.6000 kata_r 0.3000 jowan0_r 0.1000 
+skin 1337 mune 0.3500 kata_r 0.4000 jowan0_r 0.2500 
+skin 1338 mune 0.6000 kata_r 0.3000 jowan0_r 0.1000 
+skin 1339 mune 1.0000 
+skin 1340 mune 1.0000 
+skin 1341 mune 1.0000 
+skin 1342 mune 0.6000 kata_r 0.3200 jowan0_r 0.0800 
+skin 1343 mune 0.4000 kata_r 0.5000 jowan0_r 0.1000 
+skin 1344 mune 1.0000 
+skin 1345 mune 1.0000 
+skin 1346 mune 1.0000 
+skin 1347 hara2 0.2800 mune 0.7200 
+skin 1348 hara2 0.0600 mune 0.9400 
+skin 1349 hara2 0.2700 mune 0.7300 
+skin 1350 hara2 0.1100 mune 0.8900 
+skin 1351 hara2 0.3100 mune 0.6900 
+skin 1352 hara2 0.2000 mune 0.8000 
+skin 1353 hara2 0.2800 mune 0.7200 
+skin 1354 hara2 0.1100 mune 0.8900 
+skin 1355 hara2 0.0600 mune 0.9400 
+skin 1356 hara2 0.2700 mune 0.7300 
+skin 1357 hara2 0.0300 mune 0.9500 jowan0_r 0.0200 
+skin 1358 mune 0.9900 jowan0_r 0.0100 
+skin 1359 mune 1.0000 
+skin 1360 hara2 0.2000 mune 0.8000 
+skin 1361 mune 1.0000 
+skin 1362 hara2 0.1100 mune 0.8900 
+skin 1363 hara2 0.2000 mune 0.8000 
+skin 1364 hara2 0.1100 mune 0.8900 
+skin 1365 mune 1.0000 
+skin 1366 hara2 1.0000 
+skin 1367 hara2 1.0000 
+skin 1368 hara2 1.0000 
+skin 1369 hara2 1.0000 
+skin 1370 hara2 1.0000 
+skin 1371 hara2 1.0000 
+skin 1372 hara2 0.2700 mune 0.7300 
+skin 1373 hara2 0.1400 mune 0.8600 
+skin 1374 hara2 0.2600 mune 0.7400 
+skin 1375 hara2 0.1400 mune 0.8600 
+skin 1376 hara2 0.1400 mune 0.8600 
+skin 1377 hara2 0.3200 mune 0.6800 
+skin 1378 hara2 1.0000 
+skin 1379 hara2 1.0000 
+skin 1380 hara2 0.2700 mune 0.7300 
+skin 1381 hara2 1.0000 
+skin 1382 hara2 0.3200 mune 0.6800 
+skin 1383 hara2 1.0000 
+skin 1384 hara2 0.0400 mune 0.9600 
+skin 1385 hara2 0.1400 mune 0.8600 
+skin 1386 hara2 0.0400 mune 0.9600 
+skin 1387 mune 1.0000 
+skin 1388 hara2 0.0200 mune 0.9800 
+skin 1389 hara2 0.1200 mune 0.8800 
+skin 1390 mune 1.0000 
+skin 1391 hara2 0.0200 mune 0.9800 
+skin 1392 mune 1.0000 
+skin 1393 mune 1.0000 
+skin 1394 mune 0.9800 kata_r 0.0200 
+skin 1395 mune 0.9400 kata_r 0.0500 jowan0_r 0.0100 
+skin 1396 mune 1.0000 
+skin 1397 mune 1.0000 
+skin 1398 mune 1.0000 
+skin 1399 mune 1.0000 
+skin 1400 mune 1.0000 
+skin 1401 mune 1.0000 
+skin 1402 mune 1.0000 
+skin 1403 mune 1.0000 
+skin 1404 mune 1.0000 
+skin 1405 mune 1.0000 
+skin 1406 mune 1.0000 
+skin 1407 mune 1.0000 
+skin 1408 mune 1.0000 
+skin 1409 mune 1.0000 
+skin 1410 mune 1.0000 
+skin 1411 mune 1.0000 
+skin 1412 mune 1.0000 
+skin 1413 mune 1.0000 
+skin 1414 mune 1.0000 
+skin 1415 mune 1.0000 
+skin 1416 mune 0.9500 jowan0_l 0.0500 
+skin 1417 mune 1.0000 
+skin 1418 mune 1.0000 
+skin 1419 mune 1.0000 
+skin 1420 mune 1.0000 
+skin 1421 mune 1.0000 
+skin 1422 mune 1.0000 
+skin 1423 mune 1.0000 
+skin 1424 mune 1.0000 
+skin 1425 mune 1.0000 
+skin 1426 mune 1.0000 
+skin 1427 mune 1.0000 
+skin 1428 mune 1.0000 
+skin 1429 mune 1.0000 
+skin 1430 mune 1.0000 
+skin 1431 mune 1.0000 
+skin 1432 mune 1.0000 
+skin 1433 mune 1.0000 
+skin 1434 mune 1.0000 
+skin 1435 mune 1.0000 
+skin 1436 mune 1.0000 
+skin 1437 mune 1.0000 
+skin 1438 mune 1.0000 
+skin 1439 mune 1.0000 
+skin 1440 mune 1.0000 
+skin 1441 mune 1.0000 
+skin 1442 mune 1.0000 
+skin 1443 mune 1.0000 
+skin 1444 mune 1.0000 
+skin 1445 mune 1.0000 
+skin 1446 mune 1.0000 
+skin 1447 mune 1.0000 
+skin 1448 mune 1.0000 
+skin 1449 mune 1.0000 
+skin 1450 mune 1.0000 
+skin 1451 mune 1.0000 
+skin 1452 mune 1.0000 
+skin 1453 mune 1.0000 
+skin 1454 mune 1.0000 
+skin 1455 mune 1.0000 
+skin 1456 mune 1.0000 
+skin 1457 mune 1.0000 
+skin 1458 mune 1.0000 
+skin 1459 mune 1.0000 
+skin 1460 mune 1.0000 
+skin 1461 mune 1.0000 
+skin 1462 mune 1.0000 
+skin 1463 mune 1.0000 
+skin 1464 mune 1.0000 
+skin 1465 mune 0.9500 jowan0_r 0.0500 
+skin 1466 mune 1.0000 
+skin 1467 mune 1.0000 
+skin 1468 mune 1.0000 
+skin 1469 mune 1.0000 
+skin 1470 mune 1.0000 
+skin 1471 mune 1.0000 
+skin 1472 mune 1.0000 
+skin 1473 mune 1.0000 
+skin 1474 mune 1.0000 
+skin 1475 mune 1.0000 
+skin 1476 mune 1.0000 
+skin 1477 mune 1.0000 
+skin 1478 mune 1.0000 
+skin 1479 mune 1.0000 
+skin 1480 mune 1.0000 
+skin 1481 mune 1.0000 
+skin 1482 mune 1.0000 
+skin 1483 mune 1.0000 
+skin 1484 mune 1.0000 
+skin 1485 mune 1.0000 
+skin 1486 mune 1.0000 
+skin 1487 mune 1.0000 
+skin 1488 mune 1.0000 
+skin 1489 mune 1.0000 
+skin 1490 mune 1.0000 
+skin 1491 mune 1.0000 
+skin 1492 mune 1.0000 
+skin 1493 mune 1.0000 
+skin 1494 mune 1.0000 
+skin 1495 mune 1.0000 
+skin 1496 mune 1.0000 
+skin 1497 mune 1.0000 
+skin 1498 mune 1.0000 
+skin 1499 mune 1.0000 
+skin 1500 mune 1.0000 
+skin 1501 mune 1.0000 
+skin 1502 mune 1.0000 
+skin 1503 mune 1.0000 
+skin 1504 mune 1.0000 
+skin 1505 mune 1.0000 
+skin 1506 mune 1.0000 
+skin 1507 mune 1.0000 
+skin 1508 mune 1.0000 
+skin 1509 mune 1.0000 
+skin 1510 mune 1.0000 
+skin 1511 mune 1.0000 
+skin 1512 mune 1.0000 
+skin 1513 mune 1.0000 
+skin 1514 mune 1.0000 
+skin 1515 mune 1.0000 
+skin 1516 mune 1.0000 
+skin 1517 mune 1.0000 
+skin 1518 mune 1.0000 
+skin 1519 mune 1.0000 
+skin 1520 mune 1.0000 
+skin 1521 mune 1.0000 
+skin 1522 mune 1.0000 
+skin 1523 mune 1.0000 
+skin 1524 mune 1.0000 
+skin 1525 mune 1.0000 
+skin 1526 mune 1.0000 
+skin 1527 mune 1.0000 
+skin 1528 mune 1.0000 
+skin 1529 mune 1.0000 
+skin 1530 mune 1.0000 
+skin 1531 mune 1.0000 
+skin 1532 mune 1.0000 
+skin 1533 mune 1.0000 
+skin 1534 mune 1.0000 
+skin 1535 mune 1.0000 
+skin 1536 mune 1.0000 
+skin 1537 mune 1.0000 
+skin 1538 mune 1.0000 
+skin 1539 mune 1.0000 
+skin 1540 mune 1.0000 
+skin 1541 mune 1.0000 
+skin 1542 mune 1.0000 
+skin 1543 mune 1.0000 
+skin 1544 mune 1.0000 
+skin 1545 mune 1.0000 
+skin 1546 mune 1.0000 
+skin 1547 mune 1.0000 
+skin 1548 mune 1.0000 
+skin 1549 mune 1.0000 
+skin 1550 mune 1.0000 
+skin 1551 mune 1.0000 
+skin 1552 mune 1.0000 
+skin 1553 mune 1.0000 
+skin 1554 mune 1.0000 
+skin 1555 mune 1.0000 
+skin 1556 mune 1.0000 
+skin 1557 mune 1.0000 
+skin 1558 mune 1.0000 
+skin 1559 mune 1.0000 
+skin 1560 mune 1.0000 
+skin 1561 mune 1.0000 
+skin 1562 mune 1.0000 
+skin 1563 mune 1.0000 
+skin 1564 mune 1.0000 
+skin 1565 mune 1.0000 
+skin 1566 mune 1.0000 
+skin 1567 mune 1.0000 
+skin 1568 mune 1.0000 
+skin 1569 mune 1.0000 
+skin 1570 mune 1.0000 
+skin 1571 mune 1.0000 
+skin 1572 mune 1.0000 
+skin 1573 mune 1.0000 
+skin 1574 mune 1.0000 
+skin 1575 mune 1.0000 
+skin 1576 mune 1.0000 
+skin 1577 mune 1.0000 
+skin 1578 mune 1.0000 
+skin 1579 mune 1.0000 
+skin 1580 mune 1.0000 
+skin 1581 mune 1.0000 
+skin 1582 mune 1.0000 
+skin 1583 mune 1.0000 
+skin 1584 mune 1.0000 
+skin 1585 mune 1.0000 
+skin 1586 mune 1.0000 
+skin 1587 mune 1.0000 
+skin 1588 mune 1.0000 
+skin 1589 mune 1.0000 
+skin 1590 mune 1.0000 
+skin 1591 mune 1.0000 
+skin 1592 mune 1.0000 
+skin 1593 mune 1.0000 
+skin 1594 mune 1.0000 
+skin 1595 mune 1.0000 
+skin 1596 mune 1.0000 
+skin 1597 mune 1.0000 
+skin 1598 mune 1.0000 
+skin 1599 mune 1.0000 
+skin 1600 mune 1.0000 
+skin 1601 mune 1.0000 
+skin 1602 mune 1.0000 
+skin 1603 mune 1.0000 
+skin 1604 mune 1.0000 
+skin 1605 mune 1.0000 
+skin 1606 mune 1.0000 
+skin 1607 mune 1.0000 
+skin 1608 mune 1.0000 
+skin 1609 mune 1.0000 
+skin 1610 mune 1.0000 
+skin 1611 mune 1.0000 
+skin 1612 mune 1.0000 
+skin 1613 mune 1.0000 
+skin 1614 mune 1.0000 
+skin 1615 mune 1.0000 
+skin 1616 mune 1.0000 
+skin 1617 mune 1.0000 
+skin 1618 mune 1.0000 
+skin 1619 mune 1.0000 
+skin 1620 mune 1.0000 
+skin 1621 mune 1.0000 
+skin 1622 mune 1.0000 
+skin 1623 mune 1.0000 
+skin 1624 mune 1.0000 
+skin 1625 mune 1.0000 
+skin 1626 mune 1.0000 
+skin 1627 mune 1.0000 
+skin 1628 mune 1.0000 
+skin 1629 mune 1.0000 
+skin 1630 mune 1.0000 
+skin 1631 mune 1.0000 
+skin 1632 mune 1.0000 
+skin 1633 mune 1.0000 
+skin 1634 mune 1.0000 
+skin 1635 mune 1.0000 
+skin 1636 mune 1.0000 
+skin 1637 mune 1.0000 
+skin 1638 mune 1.0000 
+skin 1639 mune 1.0000 
+skin 1640 mune 1.0000 
+skin 1641 mune 1.0000 
+skin 1642 mune 1.0000 
+skin 1643 mune 1.0000 
+skin 1644 mune 1.0000 
+skin 1645 mune 1.0000 
+skin 1646 mune 1.0000 
+skin 1647 mune 1.0000 
+skin 1648 mune 1.0000 
+skin 1649 mune 1.0000 
+skin 1650 mune 1.0000 
+skin 1651 mune 1.0000 
+skin 1652 mune 1.0000 
+skin 1653 mune 1.0000 
+skin 1654 mune 1.0000 
+skin 1655 mune 1.0000 
+skin 1656 mune 1.0000 
+skin 1657 mune 1.0000 
+skin 1658 mune 1.0000 
+skin 1659 mune 1.0000 
+skin 1660 mune 1.0000 
+skin 1661 mune 1.0000 
+skin 1662 mune 1.0000 
+skin 1663 mune 1.0000 
+skin 1664 mune 1.0000 
+skin 1665 mune 1.0000 
+skin 1666 mune 1.0000 
+skin 1667 mune 1.0000 
+skin 1668 mune 1.0000 
+skin 1669 mune 1.0000 
+skin 1670 mune 1.0000 
+skin 1671 mune 1.0000 
+skin 1672 mune 1.0000 
+skin 1673 mune 1.0000 
+skin 1674 mune 1.0000 
+skin 1675 mune 1.0000 
+skin 1676 mune 1.0000 
+skin 1677 mune 1.0000 
+skin 1678 mune 1.0000 
+skin 1679 mune 1.0000 
+skin 1680 mune 1.0000 
+skin 1681 mune 1.0000 
+skin 1682 mune 1.0000 
+skin 1683 mune 1.0000 
+skin 1684 mune 1.0000 
+skin 1685 mune 1.0000 
+skin 1686 mune 1.0000 
+skin 1687 mune 1.0000 
+skin 1688 mune 1.0000 
+skin 1689 mune 1.0000 
+skin 1690 mune 1.0000 
+skin 1691 mune 1.0000 
+skin 1692 mune 1.0000 
+skin 1693 mune 1.0000 
+skin 1694 mune 1.0000 
+skin 1695 mune 1.0000 
+skin 1696 mune 1.0000 
+skin 1697 mune 1.0000 
+skin 1698 mune 1.0000 
+skin 1699 mune 1.0000 
+skin 1700 mune 1.0000 
+skin 1701 mune 1.0000 
+skin 1702 mune 1.0000 
+skin 1703 mune 1.0000 
+skin 1704 mune 1.0000 
+skin 1705 mune 1.0000 
+skin 1706 mune 1.0000 
+skin 1707 mune 1.0000 
+skin 1708 mune 1.0000 
+skin 1709 mune 1.0000 
+skin 1710 mune 1.0000 
+skin 1711 mune 1.0000 
+skin 1712 mune 1.0000 
+skin 1713 mune 1.0000 
+skin 1714 mune 1.0000 
+skin 1715 mune 1.0000 
+skin 1716 mune 1.0000 
+skin 1717 mune 1.0000 
+skin 1718 mune 1.0000 
+skin 1719 mune 1.0000 
+skin 1720 mune 1.0000 
+skin 1721 mune 1.0000 
+skin 1722 mune 1.0000 
+skin 1723 mune 1.0000 
+skin 1724 mune 1.0000 
+skin 1725 mune 1.0000 
+skin 1726 mune 1.0000 
+skin 1727 mune 1.0000 
+skin 1728 mune 1.0000 
+skin 1729 mune 1.0000 
+skin 1730 mune 1.0000 
+skin 1731 mune 1.0000 
+skin 1732 mune 1.0000 
+skin 1733 mune 1.0000 
+skin 1734 mune 1.0000 
+skin 1735 mune 1.0000 
+skin 1736 mune 1.0000 
+skin 1737 mune 1.0000 
+skin 1738 mune 1.0000 
+skin 1739 mune 1.0000 
+skin 1740 mune 1.0000 
+skin 1741 mune 1.0000 
+skin 1742 mune 1.0000 
+skin 1743 mune 0.7000 jowan0_r 0.3000 
+skin 1744 mune 0.4000 jowan0_r 0.6000 
+skin 1745 mune 0.5000 kata_r 0.3500 jowan0_r 0.1500 
+skin 1746 mune 1.0000 
+skin 1747 mune 1.0000 
+skin 1748 mune 0.5000 kata_r 0.4000 jowan0_r 0.1000 
+skin 1749 mune 0.8000 kata_r 0.0500 jowan0_r 0.1500 
+skin 1750 mune 0.4500 kata_r 0.0500 jowan0_r 0.5000 
+skin 1751 mune 0.9900 jowan0_r 0.0100 
+skin 1752 mune 0.9900 jowan0_r 0.0100 
+skin 1753 mune 0.9800 jowan0_r 0.0200 
+skin 1754 mune 1.0000 
+skin 1755 mune 0.9800 jowan0_r 0.0200 
+skin 1756 mune 0.9900 jowan0_r 0.0100 
+skin 1757 mune 0.9800 jowan0_r 0.0200 
+skin 1758 mune 0.9800 jowan0_r 0.0200 
+skin 1759 mune 0.9800 jowan0_r 0.0200 
+skin 1760 mune 0.9700 jowan0_r 0.0300 
+skin 1761 mune 0.9700 jowan0_r 0.0300 
+skin 1762 mune 0.9700 jowan0_r 0.0300 
+skin 1763 mune 0.9600 jowan0_r 0.0400 
+skin 1764 mune 0.9800 kata_r 0.0200 
+skin 1765 mune 0.9900 jowan0_r 0.0100 
+skin 1766 hara2 0.0100 mune 0.9900 
+skin 1767 hara2 0.0600 mune 0.9400 
+skin 1768 hara2 0.0300 mune 0.9700 
+skin 1769 hara2 0.0300 mune 0.9700 
+skin 1770 hara2 0.0600 mune 0.9400 
+skin 1771 hara2 0.0500 mune 0.9500 
+skin 1772 hara2 0.0100 mune 0.9900 
+skin 1773 kawan0_r 1.0000 
+skin 1774 kawan0_r 1.0000 
+skin 1775 kawan0_r 1.0000 
+skin 1776 kawan0_r 1.0000 
+skin 1777 kawan0_r 1.0000 
+skin 1778 kawan0_r 1.0000 
+skin 1779 kawan0_r 1.0000 
+skin 1780 kawan0_r 1.0000 
+skin 1781 kawan0_r 1.0000 
+skin 1782 kawan0_r 1.0000 
+skin 1783 kawan0_r 1.0000 
+skin 1784 kawan0_r 1.0000 
+skin 1785 kawan0_r 1.0000 
+skin 1786 kawan0_r 1.0000 
+skin 1787 kawan0_r 1.0000 
+skin 1788 kawan0_r 1.0000 
+skin 1789 kawan0_r 1.0000 
+skin 1790 kawan0_r 1.0000 
+skin 1791 kawan0_r 1.0000 
+skin 1792 kawan0_r 1.0000 
+skin 1793 kawan0_r 1.0000 
+skin 1794 kawan0_r 1.0000 
+skin 1795 kawan0_r 1.0000 
+skin 1796 kawan0_r 1.0000 
+skin 1797 te_r 1.0000 
+skin 1798 te_r 1.0000 
+skin 1799 te_r 1.0000 
+skin 1800 te_r 1.0000 
+skin 1801 te_r 1.0000 
+skin 1802 te_r 1.0000 
+skin 1803 te_r 1.0000 
+skin 1804 te_r 1.0000 
+skin 1805 te_r 1.0000 
+skin 1806 te_r 1.0000 
+skin 1807 te_r 1.0000 
+skin 1808 te_r 1.0000 
+skin 1809 te_r 1.0000 
+skin 1810 te_r 1.0000 
+skin 1811 te_r 1.0000 
+skin 1812 te_r 1.0000 
+skin 1813 te_r 1.0000 
+skin 1814 te_r 1.0000 
+skin 1815 te_r 1.0000 
+skin 1816 kawan0_r 0.1400 te_r 0.8600 
+skin 1817 kawan0_r 1.0000 
+skin 1818 kawan0_r 1.0000 
+skin 1819 jowan2_r 1.0000 
+skin 1820 jowan2_r 1.0000 
+skin 1821 jowan2_r 1.0000 
+skin 1822 jowan2_r 1.0000 
+skin 1823 jowan2_r 1.0000 
+skin 1824 jowan2_r 1.0000 
+skin 1825 jowan2_r 1.0000 
+skin 1826 jowan2_r 1.0000 
+skin 1827 jowan2_r 1.0000 
+skin 1828 jowan2_r 1.0000 
+skin 1829 jowan2_r 1.0000 
+skin 1830 jowan2_r 1.0000 
+skin 1831 jowan2_r 1.0000 
+skin 1832 jowan2_r 1.0000 
+skin 1833 jowan2_r 1.0000 
+skin 1834 jowan2_r 1.0000 
+skin 1835 jowan2_r 1.0000 
+skin 1836 jowan2_r 1.0000 
+skin 1837 jowan2_r 1.0000 
+skin 1838 jowan2_r 1.0000 
+skin 1839 jowan2_r 1.0000 
+skin 1840 kawan0_r 1.0000 
+skin 1841 kawan0_r 1.0000 
+skin 1842 kawan0_r 1.0000 
+skin 1843 kawan0_r 1.0000 
+skin 1844 kawan0_r 1.0000 
+skin 1845 kawan0_r 1.0000 
+skin 1846 kawan0_r 1.0000 
+skin 1847 kawan0_r 1.0000 
+skin 1848 kawan0_r 1.0000 
+skin 1849 kawan0_r 1.0000 
+skin 1850 kawan0_r 1.0000 
+skin 1851 kawan0_r 1.0000 
+skin 1852 kawan0_r 1.0000 
+skin 1853 kawan0_r 1.0000 
+skin 1854 kawan0_r 1.0000 
+skin 1855 kawan0_r 1.0000 
+skin 1856 kawan0_r 1.0000 
+skin 1857 kawan0_r 1.0000 
+skin 1858 kawan0_r 1.0000 
+skin 1859 kawan0_r 1.0000 
+skin 1860 kawan0_r 1.0000 
+skin 1861 kawan0_r 1.0000 
+skin 1862 kawan0_r 1.0000 
+skin 1863 kawan0_r 1.0000 
+skin 1864 kawan0_r 1.0000 
+skin 1865 kawan0_r 1.0000 
+skin 1866 kawan0_r 1.0000 
+skin 1867 kawan0_r 1.0000 
+skin 1868 kawan0_r 1.0000 
+skin 1869 kawan0_r 1.0000 
+skin 1870 kawan0_r 1.0000 
+skin 1871 kawan0_r 1.0000 
+skin 1872 kawan0_r 1.0000 
+skin 1873 kawan0_r 1.0000 
+skin 1874 jowan2_r 1.0000 
+skin 1875 jowan2_r 1.0000 
+skin 1876 jowan2_r 1.0000 
+skin 1877 jowan2_r 1.0000 
+skin 1878 jowan2_r 1.0000 
+skin 1879 jowan2_r 1.0000 
+skin 1880 jowan2_r 1.0000 
+skin 1881 jowan2_r 1.0000 
+skin 1882 kawan0_r 1.0000 
+skin 1883 kawan0_r 1.0000 
+skin 1884 jowan2_r 0.2500 kawan0_r 0.7500 
+skin 1885 kawan0_r 1.0000 
+skin 1886 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1887 kawan0_r 1.0000 
+skin 1888 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1889 kawan0_r 1.0000 
+skin 1890 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1891 kawan0_r 1.0000 
+skin 1892 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1893 kawan0_r 1.0000 
+skin 1894 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1895 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1896 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1897 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1898 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1899 jowan2_r 0.7500 kawan0_r 0.2500 
+skin 1900 jowan2_r 1.0000 
+skin 1901 jowan2_r 1.0000 
+skin 1902 te_r 1.0000 
+skin 1903 te_r 1.0000 
+skin 1904 te_r 1.0000 
+skin 1905 te_r 1.0000 
+skin 1906 te_r 1.0000 
+skin 1907 te_r 1.0000 
+skin 1908 te_r 1.0000 
+skin 1909 jowan2_r 0.7500 kawan0_r 0.2500 
+skin 1910 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1911 te_r 1.0000 
+skin 1912 te_r 1.0000 
+skin 1913 te_r 1.0000 
+skin 1914 te_r 1.0000 
+skin 1915 te_r 1.0000 
+skin 1916 te_r 1.0000 
+skin 1917 te_r 1.0000 
+skin 1918 te_r 1.0000 
+skin 1919 te_r 1.0000 
+skin 1920 te_r 1.0000 
+skin 1921 te_r 1.0000 
+skin 1922 te_r 1.0000 
+skin 1923 kawan0_r 1.0000 
+skin 1924 kawan0_r 1.0000 
+skin 1925 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1926 kawan0_r 1.0000 
+skin 1927 jowan2_r 0.5000 kawan0_r 0.5000 
+skin 1928 jowan2_r 0.2500 kawan0_r 0.7500 
+skin 1929 kawan0_r 1.0000 
+skin 1930 kawan0_r 1.0000 
+skin 1931 kawan0_r 1.0000 
+skin 1932 kawan0_r 1.0000 
+skin 1933 kawan0_r 1.0000 
+skin 1934 kawan0_r 1.0000 
+skin 1935 kawan0_r 1.0000 
+skin 1936 te_r 1.0000 
+skin 1937 te_r 1.0000 
+skin 1938 te_r 1.0000 
+skin 1939 te_r 1.0000 
+skin 1940 te_r 1.0000 
+skin 1941 te_r 1.0000 
+skin 1942 te_r 1.0000 
+skin 1943 te_r 1.0000 
+skin 1944 te_r 1.0000 
+skin 1945 te_r 1.0000 
+skin 1946 te_r 1.0000 
+skin 1947 te_r 1.0000 
+skin 1948 te_r 1.0000 
+skin 1949 te_r 1.0000 
+skin 1950 te_r 1.0000 
+skin 1951 te_r 1.0000 
+skin 1952 te_r 1.0000 
+skin 1953 te_r 1.0000 
+skin 1954 kawan0_r 1.0000 
+skin 1955 te_r 1.0000 
+skin 1956 te_r 1.0000 
+skin 1957 te_r 1.0000 
+skin 1958 te_r 1.0000 
+skin 1959 te_r 1.0000 
+skin 1960 te_r 1.0000 
+skin 1961 te_r 1.0000 
+skin 1962 te_r 1.0000 
+skin 1963 te_r 1.0000 
+skin 1964 te_r 1.0000 
+skin 1965 te_r 1.0000 
+skin 1966 te_r 1.0000 
+skin 1967 te_r 1.0000 
+skin 1968 te_r 1.0000 
+skin 1969 te_r 1.0000 
+skin 1970 te_r 1.0000 
+skin 1971 te_r 1.0000 
+skin 1972 te_r 1.0000 
+skin 1973 te_r 1.0000 
+skin 1974 te_r 1.0000 
+skin 1975 te_r 1.0000 
+skin 1976 te_r 1.0000 
+skin 1977 te_r 1.0000 
+skin 1978 te_r 1.0000 
+skin 1979 te_r 1.0000 
+skin 1980 te_r 1.0000 
+skin 1981 te_r 1.0000 
+skin 1982 te_r 1.0000 
+skin 1983 te_r 1.0000 
+skin 1984 te_r 1.0000 
+skin 1985 te_r 1.0000 
+skin 1986 te_r 1.0000 
+skin 1987 te_r 1.0000 
+skin 1988 te_r 1.0000 
+skin 1989 te_r 1.0000 
+skin 1990 te_r 1.0000 
+skin 1991 te_r 1.0000 
+skin 1992 te_r 1.0000 
+skin 1993 te_r 1.0000 
+skin 1994 te_r 1.0000 
+skin 1995 te_r 1.0000 
+skin 1996 te_r 1.0000 
+skin 1997 te_r 1.0000 
+skin 1998 te_r 1.0000 
+skin 1999 te_r 1.0000 
+skin 2000 te_r 1.0000 
+skin 2001 te_r 1.0000 
+skin 2002 te_r 1.0000 
+skin 2003 te_r 1.0000 
+skin 2004 te_r 1.0000 
+skin 2005 te_r 1.0000 
+skin 2006 te_r 1.0000 
+skin 2007 te_r 1.0000 
+skin 2008 te_r 1.0000 
+skin 2009 te_r 1.0000 
+skin 2010 te_r 1.0000 
+skin 2011 te_r 1.0000 
+skin 2012 te_r 1.0000 
+skin 2013 te_r 1.0000 
+skin 2014 te_r 1.0000 
+skin 2015 te_r 1.0000 
+skin 2016 te_r 1.0000 
+skin 2017 te_r 1.0000 
+skin 2018 te_r 1.0000 
+skin 2019 te_r 1.0000 
+skin 2020 te_r 1.0000 
+skin 2021 te_r 1.0000 
+skin 2022 te_r 1.0000 
+skin 2023 kawan0_r 1.0000 
+skin 2024 te_r 1.0000 
+skin 2025 te_r 1.0000 
+skin 2026 jowan2_r 1.0000 
+skin 2027 te_r 1.0000 
+skin 2028 jowan2_r 1.0000 
+skin 2029 kawan0_r 1.0000 
+skin 2030 kawan0_l 1.0000 
+skin 2031 kawan0_l 1.0000 
+skin 2032 kawan0_l 1.0000 
+skin 2033 kawan0_l 1.0000 
+skin 2034 kawan0_l 1.0000 
+skin 2035 kawan0_l 1.0000 
+skin 2036 kawan0_l 1.0000 
+skin 2037 kawan0_l 1.0000 
+skin 2038 kawan0_l 1.0000 
+skin 2039 kawan0_l 1.0000 
+skin 2040 kawan0_l 1.0000 
+skin 2041 kawan0_l 1.0000 
+skin 2042 kawan0_l 1.0000 
+skin 2043 kawan0_l 1.0000 
+skin 2044 kawan0_l 1.0000 
+skin 2045 kawan0_l 1.0000 
+skin 2046 kawan0_l 1.0000 
+skin 2047 kawan0_l 1.0000 
+skin 2048 kawan0_l 1.0000 
+skin 2049 kawan0_l 1.0000 
+skin 2050 kawan0_l 1.0000 
+skin 2051 kawan0_l 1.0000 
+skin 2052 kawan0_l 1.0000 
+skin 2053 kawan0_l 1.0000 
+skin 2054 kawan0_l 1.0000 
+skin 2055 kawan0_l 1.0000 
+skin 2056 jowan2_l 0.2500 kawan0_l 0.7500 
+skin 2057 kawan0_l 1.0000 
+skin 2058 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2059 kawan0_l 1.0000 
+skin 2060 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2061 kawan0_l 1.0000 
+skin 2062 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2063 kawan0_l 1.0000 
+skin 2064 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2065 kawan0_l 1.0000 
+skin 2066 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2067 kawan0_l 1.0000 
+skin 2068 jowan2_l 0.2500 kawan0_l 0.7500 
+skin 2069 kawan0_l 1.0000 
+skin 2070 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2071 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2072 kawan0_l 1.0000 
+skin 2073 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2074 kawan0_l 1.0000 
+skin 2075 kawan0_l 1.0000 
+skin 2076 kawan0_l 1.0000 
+skin 2077 kawan0_l 1.0000 
+skin 2078 kawan0_l 1.0000 
+skin 2079 kawan0_l 1.0000 
+skin 2080 kawan0_l 1.0000 
+skin 2081 kawan0_l 1.0000 
+skin 2082 kawan0_l 1.0000 
+skin 2083 kawan0_l 1.0000 
+skin 2084 kawan0_l 1.0000 
+skin 2085 kawan0_l 1.0000 
+skin 2086 kawan0_l 1.0000 
+skin 2087 kawan0_l 1.0000 
+skin 2088 kawan0_l 1.0000 
+skin 2089 kawan0_l 1.0000 
+skin 2090 kawan0_l 1.0000 
+skin 2091 te_l 1.0000 
+skin 2092 te_l 1.0000 
+skin 2093 te_l 1.0000 
+skin 2094 te_l 1.0000 
+skin 2095 te_l 1.0000 
+skin 2096 te_l 1.0000 
+skin 2097 te_l 1.0000 
+skin 2098 te_l 1.0000 
+skin 2099 te_l 1.0000 
+skin 2100 te_l 1.0000 
+skin 2101 te_l 1.0000 
+skin 2102 te_l 1.0000 
+skin 2103 te_l 1.0000 
+skin 2104 te_l 1.0000 
+skin 2105 te_l 1.0000 
+skin 2106 kawan0_l 1.0000 
+skin 2107 kawan0_l 1.0000 
+skin 2108 kawan0_l 1.0000 
+skin 2109 kawan0_l 1.0000 
+skin 2110 kawan0_l 1.0000 
+skin 2111 kawan0_l 1.0000 
+skin 2112 kawan0_l 1.0000 
+skin 2113 kawan0_l 1.0000 
+skin 2114 kawan0_l 1.0000 
+skin 2115 kawan0_l 1.0000 
+skin 2116 kawan0_l 1.0000 
+skin 2117 kawan0_l 1.0000 
+skin 2118 kawan0_l 1.0000 
+skin 2119 kawan0_l 1.0000 
+skin 2120 kawan0_l 1.0000 
+skin 2121 jowan2_l 1.0000 
+skin 2122 jowan2_l 1.0000 
+skin 2123 jowan2_l 1.0000 
+skin 2124 jowan2_l 1.0000 
+skin 2125 jowan2_l 0.7500 kawan0_l 0.2500 
+skin 2126 jowan2_l 1.0000 
+skin 2127 jowan2_l 1.0000 
+skin 2128 jowan2_l 1.0000 
+skin 2129 jowan2_l 1.0000 
+skin 2130 jowan2_l 1.0000 
+skin 2131 jowan2_l 1.0000 
+skin 2132 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2133 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2134 jowan2_l 1.0000 
+skin 2135 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2136 jowan2_l 1.0000 
+skin 2137 jowan2_l 0.5000 kawan0_l 0.5000 
+skin 2138 jowan2_l 0.7500 kawan0_l 0.2500 
+skin 2139 jowan2_l 1.0000 
+skin 2140 jowan2_l 1.0000 
+skin 2141 jowan2_l 1.0000 
+skin 2142 te_l 1.0000 
+skin 2143 kawan0_l 0.1400 te_l 0.8600 
+skin 2144 te_l 1.0000 
+skin 2145 te_l 1.0000 
+skin 2146 te_l 1.0000 
+skin 2147 te_l 1.0000 
+skin 2148 te_l 1.0000 
+skin 2149 te_l 1.0000 
+skin 2150 te_l 1.0000 
+skin 2151 te_l 1.0000 
+skin 2152 te_l 1.0000 
+skin 2153 te_l 1.0000 
+skin 2154 jowan1_l 1.0000 
+skin 2155 jowan2_l 1.0000 
+skin 2156 jowan2_l 1.0000 
+skin 2157 jowan2_l 1.0000 
+skin 2158 jowan2_l 1.0000 
+skin 2159 jowan2_l 1.0000 
+skin 2160 jowan2_l 1.0000 
+skin 2161 te_l 1.0000 
+skin 2162 te_l 1.0000 
+skin 2163 te_l 1.0000 
+skin 2164 te_l 1.0000 
+skin 2165 te_l 1.0000 
+skin 2166 te_l 1.0000 
+skin 2167 te_l 1.0000 
+skin 2168 te_l 1.0000 
+skin 2169 te_l 1.0000 
+skin 2170 te_l 1.0000 
+skin 2171 te_l 1.0000 
+skin 2172 kawan0_l 1.0000 
+skin 2173 kawan0_l 1.0000 
+skin 2174 te_l 1.0000 
+skin 2175 te_l 1.0000 
+skin 2176 jowan2_l 1.0000 
+skin 2177 jowan2_l 1.0000 
+skin 2178 jowan2_l 1.0000 
+skin 2179 jowan2_l 1.0000 
+skin 2180 jowan2_l 1.0000 
+skin 2181 jowan2_l 1.0000 
+skin 2182 te_l 1.0000 
+skin 2183 te_l 1.0000 
+skin 2184 te_l 1.0000 
+skin 2185 te_l 1.0000 
+skin 2186 te_l 1.0000 
+skin 2187 te_l 1.0000 
+skin 2188 te_l 1.0000 
+skin 2189 te_l 1.0000 
+skin 2190 te_l 1.0000 
+skin 2191 jowan2_l 1.0000 
+skin 2192 jowan2_l 1.0000 
+skin 2193 jowan2_l 1.0000 
+skin 2194 jowan2_l 1.0000 
+skin 2195 jowan2_l 1.0000 
+skin 2196 jowan2_l 1.0000 
+skin 2197 te_l 1.0000 
+skin 2198 te_l 1.0000 
+skin 2199 te_l 1.0000 
+skin 2200 te_l 1.0000 
+skin 2201 te_l 1.0000 
+skin 2202 te_l 1.0000 
+skin 2203 te_l 1.0000 
+skin 2204 te_l 1.0000 
+skin 2205 te_l 1.0000 
+skin 2206 te_l 1.0000 
+skin 2207 te_l 1.0000 
+skin 2208 te_l 1.0000 
+skin 2209 te_l 1.0000 
+skin 2210 te_l 1.0000 
+skin 2211 te_l 1.0000 
+skin 2212 te_l 1.0000 
+skin 2213 te_l 1.0000 
+skin 2214 te_l 1.0000 
+skin 2215 te_l 1.0000 
+skin 2216 te_l 1.0000 
+skin 2217 te_l 1.0000 
+skin 2218 te_l 1.0000 
+skin 2219 kawan0_l 1.0000 
+skin 2220 kawan0_l 1.0000 
+skin 2221 te_l 1.0000 
+skin 2222 te_l 1.0000 
+skin 2223 te_l 1.0000 
+skin 2224 te_l 1.0000 
+skin 2225 te_l 1.0000 
+skin 2226 te_l 1.0000 
+skin 2227 te_l 1.0000 
+skin 2228 te_l 1.0000 
+skin 2229 te_l 1.0000 
+skin 2230 te_l 1.0000 
+skin 2231 te_l 1.0000 
+skin 2232 te_l 1.0000 
+skin 2233 te_l 1.0000 
+skin 2234 te_l 1.0000 
+skin 2235 te_l 1.0000 
+skin 2236 te_l 1.0000 
+skin 2237 te_l 1.0000 
+skin 2238 te_l 1.0000 
+skin 2239 te_l 1.0000 
+skin 2240 te_l 1.0000 
+skin 2241 te_l 1.0000 
+skin 2242 te_l 1.0000 
+skin 2243 te_l 1.0000 
+skin 2244 te_l 1.0000 
+skin 2245 kawan0_l 1.0000 
+skin 2246 te_l 1.0000 
+skin 2247 te_l 1.0000 
+skin 2248 te_l 1.0000 
+skin 2249 te_l 1.0000 
+skin 2250 te_l 1.0000 
+skin 2251 te_l 1.0000 
+skin 2252 te_l 1.0000 
+skin 2253 te_l 1.0000 
+skin 2254 te_l 1.0000 
+skin 2255 te_l 1.0000 
+skin 2256 te_l 1.0000 
+skin 2257 te_l 1.0000 
+skin 2258 te_l 1.0000 
+skin 2259 te_l 1.0000 
+skin 2260 te_l 1.0000 
+skin 2261 te_l 1.0000 
+skin 2262 te_l 1.0000 
+skin 2263 te_l 1.0000 
+skin 2264 te_l 1.0000 
+skin 2265 te_l 1.0000 
+skin 2266 te_l 1.0000 
+skin 2267 te_l 1.0000 
+skin 2268 te_l 1.0000 
+skin 2269 te_l 1.0000 
+skin 2270 te_l 1.0000 
+skin 2271 te_l 1.0000 
+skin 2272 te_l 1.0000 
+skin 2273 te_l 1.0000 
+skin 2274 te_l 1.0000 
+skin 2275 kawan0_l 1.0000 
+skin 2276 te_l 1.0000 
+skin 2277 kawan0_l 1.0000 
+skin 2278 kawan0_l 1.0000 
+skin 2279 te_l 1.0000 
+skin 2280 kawan0_l 1.0000 
+skin 2281 kawan0_l 1.0000 
+skin 2282 kawan0_l 1.0000 
+skin 2283 te_l 1.0000 
+skin 2284 kawan0_l 1.0000 
+skin 2285 te_l 1.0000 
+skin 2286 kawan0_l 1.0000 
+skin 2287 kawan0_l 1.0000 
+skin 2288 hara1 1.0000 
+skin 2289 hara1 1.0000 
+skin 2290 hara1 1.0000 
+skin 2291 hara1 1.0000 
+skin 2292 hara1 1.0000 
+skin 2293 hara1 1.0000 
+skin 2294 hara1 1.0000 
+skin 2295 hara1 1.0000 
+skin 2296 hara1 1.0000 
+skin 2297 hara1 1.0000 
+skin 2298 hara1 1.0000 
+skin 2299 hara1 1.0000 
+skin 2300 hara1 1.0000 
+skin 2301 hara1 1.0000 
+skin 2302 hara1 0.9100 hara2 0.0900 
+skin 2303 hara1 0.8500 hara2 0.1500 
+skin 2304 hara1 1.0000 
+skin 2305 hara1 1.0000 
+skin 2306 hara1 1.0000 
+skin 2307 hara1 1.0000 
+skin 2308 hara1 1.0000 
+skin 2309 hara1 1.0000 
+skin 2310 hara1 1.0000 
+skin 2311 hara1 1.0000 
+skin 2312 hara1 1.0000 
+skin 2313 hara1 1.0000 
+skin 2314 hara1 1.0000 
+skin 2315 hara1 1.0000 
+skin 2316 hara1 1.0000 
+skin 2317 hara1 1.0000 
+skin 2318 hara1 1.0000 
+skin 2319 hara1 1.0000 
+skin 2320 hara1 1.0000 
+skin 2321 hara1 1.0000 
+skin 2322 hara1 1.0000 
+skin 2323 hara1 1.0000 
+skin 2324 hara1 1.0000 
+skin 2325 hara1 1.0000 
+skin 2326 hara1 1.0000 
+skin 2327 hara1 1.0000 
+skin 2328 hara1 0.9900 hara2 0.0100 
+skin 2329 hara1 1.0000 
+skin 2330 hara1 1.0000 
+skin 2331 hara1 1.0000 
+skin 2332 hara1 1.0000 
+skin 2333 hara1 1.0000 
+skin 2334 hara1 1.0000 
+skin 2335 hara1 1.0000 
+skin 2336 hara1 1.0000 
+skin 2337 hara1 1.0000 
+skin 2338 hara1 1.0000 
+skin 2339 hara1 1.0000 
+skin 2340 hara1 1.0000 
+skin 2341 hara1 1.0000 
+skin 2342 hara1 1.0000 
+skin 2343 hara1 1.0000 
+skin 2344 hara1 1.0000 
+skin 2345 hara1 1.0000 
+skin 2346 hara1 1.0000 
+skin 2347 hara1 0.9100 hara2 0.0900 
+skin 2348 hara1 1.0000 
+skin 2349 hara1 1.0000 
+skin 2350 hara1 1.0000 
+skin 2351 hara1 1.0000 
+skin 2352 hara1 1.0000 
+skin 2353 hara1 1.0000 
+skin 2354 hara1 1.0000 
+skin 2355 hara1 0.9900 hara2 0.0100 
+skin 2356 hara1 1.0000 
+skin 2357 hara1 1.0000 
+skin 2358 hara1 1.0000 
+skin 2359 hara1 1.0000 
+skin 2360 hara1 1.0000 
+skin 2361 hara1 1.0000 
+skin 2362 hara1 1.0000 
+skin 2363 hara1 1.0000 
+skin 2364 hara1 1.0000 
+skin 2365 hara1 1.0000 
+skin 2366 hara1 1.0000 
+skin 2367 hara1 1.0000 
+skin 2368 hara1 1.0000 
+skin 2369 hara1 1.0000 
+skin 2370 hara1 1.0000 
+skin 2371 hara1 1.0000 
+skin 2372 hara1 1.0000 
+skin 2373 hara1 1.0000 
+skin 2374 hara1 1.0000 
+skin 2375 hara1 1.0000 
+skin 2376 hara1 1.0000 
+skin 2377 hara1 1.0000 
+skin 2378 hara1 1.0000 
+skin 2379 hara1 1.0000 
+skin 2380 hara1 1.0000 
+skin 2381 hara1 1.0000 
+skin 2382 hara1 1.0000 
+skin 2383 hara1 1.0000 
+skin 2384 hara1 1.0000 
+skin 2385 hara1 1.0000 
+skin 2386 hara1 1.0000 
+skin 2387 hara1 0.7000 hara2 0.3000 
+skin 2388 hara1 1.0000 
+skin 2389 hara1 1.0000 
+skin 2390 hara1 1.0000 
+skin 2391 hara1 1.0000 
+skin 2392 hara1 1.0000 
+skin 2393 hara1 1.0000 
+skin 2394 hara1 1.0000 
+skin 2395 hara1 1.0000 
+skin 2396 hara1 1.0000 
+skin 2397 hara1 1.0000 
+skin 2398 hara1 1.0000 
+skin 2399 hara1 1.0000 
+skin 2400 hara1 1.0000 
+skin 2401 hara1 1.0000 
+skin 2402 hara1 1.0000 
+skin 2403 hara1 1.0000 
+skin 2404 hara1 1.0000 
+skin 2405 hara1 1.0000 
+skin 2406 hara1 1.0000 
+skin 2407 hara1 1.0000 
+skin 2408 hara1 1.0000 
+skin 2409 hara1 1.0000 
+skin 2410 hara1 1.0000 
+skin 2411 hara0 1.0000 
+skin 2412 hara0 1.0000 
+skin 2413 hara0 1.0000 
+skin 2414 hara0 1.0000 
+skin 2415 hara0 1.0000 
+skin 2416 hara0 1.0000 
+skin 2417 hara0 1.0000 
+skin 2418 hara0 1.0000 
+skin 2419 hara0 1.0000 
+skin 2420 hara0 1.0000 
+skin 2421 hara0 1.0000 
+skin 2422 hara0 1.0000 
+skin 2423 hara1 1.0000 
+skin 2424 hara1 1.0000 
+skin 2425 hara1 0.9400 kosi_cloth_r 0.0600 
+skin 2426 hara0 1.0000 
+skin 2427 hara0 1.0000 
+skin 2428 hara0 1.0000 
+skin 2429 hara0 1.0000 
+skin 2430 cloth0 0.0400 hara0 0.9600 
+skin 2431 hara0 1.0000 
+skin 2432 cloth0 0.2000 hara0 0.8000 
+skin 2433 hara0 1.0000 
+skin 2434 hara0 1.0000 
+skin 2435 hara0 1.0000 
+skin 2436 hara0 1.0000 
+skin 2437 hara0 1.0000 
+skin 2438 hara0 1.0000 
+skin 2439 hara0 1.0000 
+skin 2440 hara0 1.0000 
+skin 2441 hara0 1.0000 
+skin 2442 hara1 0.9400 kosi_cloth_l 0.0600 
+skin 2443 hara0 1.0000 
+skin 2444 cloth0 0.2000 hara0 0.8000 
+skin 2445 cloth0 0.0500 hara0 0.9500 
+skin 2446 cloth0 0.0900 hara0 0.9100 
+skin 2447 cloth0 0.0400 hara0 0.9600 
+skin 2448 hara0 1.0000 
+skin 2449 hara1 1.0000 
+skin 2450 hara0 1.0000 
+skin 2451 hara0 1.0000 
+skin 2452 hara0 1.0000 
+skin 2453 hara0 1.0000 
+skin 2454 hara0 1.0000 
+skin 2455 hara0 1.0000 
+skin 2456 hara1 1.0000 
+skin 2457 hara0 1.0000 
+skin 2458 hara0 1.0000 
+skin 2459 hara0 1.0000 
+skin 2460 hara0 1.0000 
+skin 2461 hara0 1.0000 
+skin 2462 hara0 1.0000 
+skin 2463 hara1 0.8500 hara2 0.1500 
+skin 2464 cloth0 0.0600 hara0 0.9400 
+skin 2465 hara0 1.0000 
+skin 2466 hara0 1.0000 
+skin 2467 hara0 1.0000 
+skin 2468 hara0 1.0000 
+skin 2469 hara0 1.0000 
+skin 2470 hara0 1.0000 
+skin 2471 hara2 0.0600 mune 0.9300 kata_l 0.0100 
+skin 2472 hara2 0.0600 mune 0.9300 kata_r 0.0100 
+skin 2473 hara2 0.0300 mune 0.9500 jowan0_l 0.0200 
+skin 2474 mune 0.9900 jowan0_l 0.0100 
+skin 2475 mune 0.9800 jowan0_l 0.0200 
+skin 2476 mune 0.9600 jowan0_l 0.0400 
+skin 2477 mune 0.9700 jowan0_l 0.0300 
+skin 2478 mune 0.9700 jowan0_l 0.0300 
+skin 2479 mune 0.9800 jowan0_l 0.0200 
+skin 2480 mune 0.9900 jowan0_l 0.0100 
+skin 2481 mune 0.9800 jowan0_l 0.0200 
+skin 2482 mune 0.9900 jowan0_l 0.0100 
+skin 2483 mune 1.0000 
+skin 2484 mune 0.9900 jowan0_l 0.0100 
+skin 2485 mune 0.9800 jowan0_l 0.0200 
+skin 2486 mune 0.9700 jowan0_l 0.0300 
+skin 2487 mune 0.9800 jowan0_l 0.0200 
+skin 2488 mune 0.9900 jowan0_l 0.0100 
+skin 2489 sune_r 1.0000 
+skin 2490 sune_r 1.0000 
+skin 2491 sune_r 1.0000 
+skin 2492 sune_r 1.0000 
+skin 2493 sune_r 1.0000 
+skin 2494 sune_r 1.0000 
+skin 2495 sune_r 1.0000 
+skin 2496 sune_r 1.0000 
+skin 2497 sune_r 1.0000 
+skin 2498 sune_r 1.0000 
+skin 2499 sune_r 1.0000 
+skin 2500 sune_r 1.0000 
+skin 2501 sune_r 1.0000 
+skin 2502 sune_r 1.0000 
+skin 2503 sune_r 1.0000 
+skin 2504 sune_r 1.0000 
+skin 2505 sune_r 1.0000 
+skin 2506 sune_r 1.0000 
+skin 2507 sune_r 1.0000 
+skin 2508 sune_r 1.0000 
+skin 2509 ashi_r 1.0000 
+skin 2510 ashi_r 1.0000 
+skin 2511 ashi_r 1.0000 
+skin 2512 ashi_r 1.0000 
+skin 2513 ashi_r 1.0000 
+skin 2514 ashi_r 1.0000 
+skin 2515 sune_r 0.9600 ashi_r 0.0400 
+skin 2516 sune_r 0.8400 ashi_r 0.1600 
+skin 2517 sune_r 1.0000 
+skin 2518 sune_r 1.0000 
+skin 2519 sune_r 1.0000 
+skin 2520 sune_r 1.0000 
+skin 2521 ashi_r 1.0000 
+skin 2522 ashi_r 1.0000 
+skin 2523 ashi_r 1.0000 
+skin 2524 sune_r 0.5900 ashi_r 0.4100 
+skin 2525 sune_r 0.7800 ashi_r 0.2200 
+skin 2526 sune_r 1.0000 
+skin 2527 sune_r 1.0000 
+skin 2528 sune_r 1.0000 
+skin 2529 sune_r 1.0000 
+skin 2530 ashi_r 1.0000 
+skin 2531 ashi_r 1.0000 
+skin 2532 ashi_r 1.0000 
+skin 2533 ashi_r 1.0000 
+skin 2534 ashi_r 1.0000 
+skin 2535 sune_r 1.0000 
+skin 2536 sune_r 1.0000 
+skin 2537 sune_r 1.0000 
+skin 2538 sune_r 1.0000 
+skin 2539 sune_r 1.0000 
+skin 2540 sune_r 0.9400 ashi_r 0.0600 
+skin 2541 ashi_r 1.0000 
+skin 2542 ashi_r 1.0000 
+skin 2543 ashi_r 1.0000 
+skin 2544 ashi_r 1.0000 
+skin 2545 ashi_r 1.0000 
+skin 2546 ashi_r 1.0000 
+skin 2547 ashi_r 1.0000 
+skin 2548 ashi_r 1.0000 
+skin 2549 ashi_r 1.0000 
+skin 2550 ashi_r 1.0000 
+skin 2551 sune_r 0.6100 ashi_r 0.3900 
+skin 2552 ashi_r 1.0000 
+skin 2553 ashi_r 1.0000 
+skin 2554 ashi_r 1.0000 
+skin 2555 ashi_r 1.0000 
+skin 2556 ashi_r 1.0000 
+skin 2557 ashi_r 1.0000 
+skin 2558 ashi_r 1.0000 
+skin 2559 ashi_r 1.0000 
+skin 2560 ashi_r 1.0000 
+skin 2561 ashi_r 1.0000 
+skin 2562 ashi_r 1.0000 
+skin 2563 ashi_r 1.0000 
+skin 2564 sune_r 1.0000 
+skin 2565 sune_r 1.0000 
+skin 2566 sune_r 1.0000 
+skin 2567 sune_r 1.0000 
+skin 2568 sune_r 1.0000 
+skin 2569 sune_r 1.0000 
+skin 2570 sune_r 1.0000 
+skin 2571 sune_r 1.0000 
+skin 2572 sune_r 1.0000 
+skin 2573 sune_r 1.0000 
+skin 2574 sune_r 1.0000 
+skin 2575 sune_r 1.0000 
+skin 2576 sune_r 1.0000 
+skin 2577 sune_r 1.0000 
+skin 2578 momo_l 1.0000 
+skin 2579 momo_l 1.0000 
+skin 2580 momo_l 1.0000 
+skin 2581 momo_l 1.0000 
+skin 2582 momo_l 1.0000 
+skin 2583 momo_l 1.0000 
+skin 2584 momo_l 1.0000 
+skin 2585 momo_l 1.0000 
+skin 2586 momo_l 1.0000 
+skin 2587 momo_l 1.0000 
+skin 2588 momo_l 1.0000 
+skin 2589 momo_l 1.0000 
+skin 2590 cloth0 1.0000 
+skin 2591 cloth0 1.0000 
+skin 2592 cloth0 1.0000 
+skin 2593 cloth0 1.0000 
+skin 2594 cloth0 1.0000 
+skin 2595 cloth0 1.0000 
+skin 2596 cloth0 1.0000 
+skin 2597 cloth0 1.0000 
+skin 2598 cloth0 1.0000 
+skin 2599 cloth0 1.0000 
+skin 2600 cloth0 1.0000 
+skin 2601 cloth0 1.0000 
+skin 2602 cloth0 1.0000 
+skin 2603 momo_r 0.5000 sune_r 0.5000 
+skin 2604 momo_r 1.0000 
+skin 2605 momo_r 1.0000 
+skin 2606 momo_r 1.0000 
+skin 2607 momo_r 1.0000 
+skin 2608 momo_r 1.0000 
+skin 2609 cloth0 1.0000 
+skin 2610 cloth0 1.0000 
+skin 2611 cloth0 1.0000 
+skin 2612 cloth0 1.0000 
+skin 2613 cloth0 1.0000 
+skin 2614 cloth0 1.0000 
+skin 2615 cloth0 1.0000 
+skin 2616 cloth0 1.0000 
+skin 2617 cloth0 1.0000 
+skin 2618 cloth0 1.0000 
+skin 2619 cloth0 1.0000 
+skin 2620 momo_l 0.5000 sune_l 0.5000 
+skin 2621 sune_l 1.0000 
+skin 2622 sune_l 1.0000 
+skin 2623 sune_l 1.0000 
+skin 2624 momo_l 0.5000 sune_l 0.5000 
+skin 2625 momo_l 0.5000 sune_l 0.5000 
+skin 2626 cloth0 1.0000 
+skin 2627 cloth0 1.0000 
+skin 2628 cloth0 1.0000 
+skin 2629 cloth0 1.0000 
+skin 2630 cloth0 1.0000 
+skin 2631 cloth0 1.0000 
+skin 2632 cloth0 1.0000 
+skin 2633 cloth0 1.0000 
+skin 2634 cloth0 1.0000 
+skin 2635 sune_l 1.0000 
+skin 2636 sune_l 1.0000 
+skin 2637 sune_l 1.0000 
+skin 2638 cloth0 1.0000 
+skin 2639 cloth0 1.0000 
+skin 2640 cloth0 1.0000 
+skin 2641 cloth0 1.0000 
+skin 2642 cloth0 1.0000 
+skin 2643 cloth0 1.0000 
+skin 2644 cloth0 1.0000 
+skin 2645 cloth0 1.0000 
+skin 2646 cloth0 1.0000 
+skin 2647 cloth0 1.0000 
+skin 2648 cloth0 1.0000 
+skin 2649 cloth0 1.0000 
+skin 2650 cloth0 1.0000 
+skin 2651 cloth0 1.0000 
+skin 2652 cloth0 1.0000 
+skin 2653 cloth0 1.0000 
+skin 2654 cloth0 1.0000 
+skin 2655 cloth0 1.0000 
+skin 2656 momo_r 0.5000 sune_r 0.5000 
+skin 2657 momo_r 1.0000 
+skin 2658 momo_r 0.5000 sune_r 0.5000 
+skin 2659 momo_r 1.0000 
+skin 2660 cloth0 1.0000 
+skin 2661 cloth0 1.0000 
+skin 2662 cloth0 1.0000 
+skin 2663 cloth0 1.0000 
+skin 2664 cloth0 1.0000 
+skin 2665 cloth0 1.0000 
+skin 2666 cloth0 1.0000 
+skin 2667 cloth0 1.0000 
+skin 2668 cloth0 1.0000 
+skin 2669 cloth0 1.0000 
+skin 2670 cloth0 1.0000 
+skin 2671 cloth0 1.0000 
+skin 2672 sune_l 1.0000 
+skin 2673 cloth0 1.0000 
+skin 2674 cloth0 1.0000 
+skin 2675 cloth0 1.0000 
+skin 2676 cloth0 1.0000 
+skin 2677 cloth0 1.0000 
+skin 2678 cloth0 1.0000 
+skin 2679 cloth0 1.0000 
+skin 2680 cloth0 1.0000 
+skin 2681 cloth0 1.0000 
+skin 2682 cloth0 1.0000 
+skin 2683 cloth0 1.0000 
+skin 2684 cloth0 1.0000 
+skin 2685 cloth0 1.0000 
+skin 2686 cloth0 1.0000 
+skin 2687 cloth0 1.0000 
+skin 2688 momo_r 1.0000 
+skin 2689 sune_l 1.0000 
+skin 2690 cloth0 1.0000 
+skin 2691 cloth0 1.0000 
+skin 2692 sune_l 1.0000 
+skin 2693 sune_l 1.0000 
+skin 2694 sune_l 1.0000 
+skin 2695 sune_l 1.0000 
+skin 2696 sune_l 1.0000 
+skin 2697 sune_l 1.0000 
+skin 2698 sune_l 1.0000 
+skin 2699 sune_l 1.0000 
+skin 2700 sune_l 1.0000 
+skin 2701 sune_l 1.0000 
+skin 2702 sune_l 1.0000 
+skin 2703 sune_l 1.0000 
+skin 2704 sune_l 1.0000 
+skin 2705 sune_l 1.0000 
+skin 2706 sune_l 1.0000 
+skin 2707 sune_l 1.0000 
+skin 2708 sune_l 1.0000 
+skin 2709 sune_l 1.0000 
+skin 2710 sune_l 1.0000 
+skin 2711 sune_l 1.0000 
+skin 2712 sune_l 1.0000 
+skin 2713 sune_l 1.0000 
+skin 2714 sune_l 1.0000 
+skin 2715 sune_l 1.0000 
+skin 2716 ashi_l 1.0000 
+skin 2717 ashi_l 1.0000 
+skin 2718 ashi_l 1.0000 
+skin 2719 ashi_l 1.0000 
+skin 2720 ashi_l 1.0000 
+skin 2721 ashi_l 1.0000 
+skin 2722 ashi_l 1.0000 
+skin 2723 ashi_l 1.0000 
+skin 2724 ashi_l 1.0000 
+skin 2725 sune_l 1.0000 
+skin 2726 sune_l 0.5900 ashi_l 0.4100 
+skin 2727 sune_l 1.0000 
+skin 2728 sune_l 0.7800 ashi_l 0.2200 
+skin 2729 sune_l 1.0000 
+skin 2730 sune_l 0.9600 ashi_l 0.0400 
+skin 2731 sune_l 0.8400 ashi_l 0.1600 
+skin 2732 ashi_l 1.0000 
+skin 2733 ashi_l 1.0000 
+skin 2734 ashi_l 1.0000 
+skin 2735 ashi_l 1.0000 
+skin 2736 ashi_l 1.0000 
+skin 2737 ashi_l 1.0000 
+skin 2738 sune_l 0.6100 ashi_l 0.3900 
+skin 2739 sune_l 1.0000 
+skin 2740 sune_l 1.0000 
+skin 2741 sune_l 1.0000 
+skin 2742 sune_l 1.0000 
+skin 2743 sune_l 1.0000 
+skin 2744 ashi_l 1.0000 
+skin 2745 ashi_l 1.0000 
+skin 2746 ashi_l 1.0000 
+skin 2747 ashi_l 1.0000 
+skin 2748 ashi_l 1.0000 
+skin 2749 sune_l 1.0000 
+skin 2750 sune_l 0.9400 ashi_l 0.0600 
+skin 2751 ashi_l 1.0000 
+skin 2752 ashi_l 1.0000 
+skin 2753 ashi_l 1.0000 
+skin 2754 sune_l 1.0000 
+skin 2755 sune_l 1.0000 
+skin 2756 sune_l 1.0000 
+skin 2757 sune_l 1.0000 
+skin 2758 ashi_l 1.0000 
+skin 2759 ashi_l 1.0000 
+skin 2760 ashi_l 1.0000 
+skin 2761 ashi_l 1.0000 
+skin 2762 ashi_l 1.0000 
+skin 2763 ashi_l 1.0000 
+skin 2764 ashi_l 1.0000 
+skin 2765 ashi_l 1.0000 
+skin 2766 ashi_l 1.0000 
+skin 2767 ashi_l 1.0000 
+skin 2768 ashi_l 1.0000 
+skin 2769 ashi_l 1.0000 
+skin 2770 ashi_l 1.0000 
+skin 2771 sune_l 1.0000 
+skin 2772 sune_l 1.0000 
+skin 2773 koshi 0.4800 momo_r 0.5200 
+skin 2774 momo_r 1.0000 
+skin 2775 koshi 0.5000 momo_r 0.5000 
+skin 2776 koshi 1.0000 
+skin 2777 koshi 0.2300 momo_r 0.7700 
+skin 2778 koshi 0.6500 momo_r 0.3500 
+skin 2779 koshi 0.4500 momo_r 0.5500 
+skin 2780 momo_r 1.0000 
+skin 2781 momo_r 1.0000 
+skin 2782 momo_r 1.0000 
+skin 2783 momo_r 1.0000 
+skin 2784 momo_r 1.0000 
+skin 2785 momo_r 1.0000 
+skin 2786 koshi 0.0200 momo_r 0.9800 
+skin 2787 momo_r 1.0000 
+skin 2788 koshi 0.2200 momo_r 0.7800 
+skin 2789 momo_r 1.0000 
+skin 2790 momo_r 1.0000 
+skin 2791 koshi 0.2000 momo_r 0.8000 
+skin 2792 momo_r 1.0000 
+skin 2793 koshi 0.2000 momo_r 0.8000 
+skin 2794 koshi 0.2000 momo_l 0.4000 momo_r 0.4000 
+skin 2795 koshi 0.2000 momo_l 0.4000 momo_r 0.4000 
+skin 2796 koshi 0.7200 momo_r 0.2800 
+skin 2797 koshi 0.7200 momo_r 0.2800 
+skin 2798 koshi 0.7200 momo_l 0.2800 
+skin 2799 hara1 1.0000 
+skin 2800 koshi 0.7200 momo_l 0.2800 
+skin 2801 hara1 1.0000 
+skin 2802 hara1 1.0000 
+skin 2803 hara1 1.0000 
+skin 2804 hara1 1.0000 
+skin 2805 koshi 0.7800 momo_l 0.2200 
+skin 2806 hara1 1.0000 
+skin 2807 hara1 1.0000 
+skin 2808 hara1 1.0000 
+skin 2809 hara1 1.0000 
+skin 2810 hara1 1.0000 
+skin 2811 koshi 0.2200 momo_l 0.7800 
+skin 2812 koshi 0.4000 momo_l 0.3000 momo_r 0.3000 
+skin 2813 koshi 0.0200 momo_l 0.9800 
+skin 2814 koshi 0.2000 momo_l 0.8000 
+skin 2815 koshi 0.2000 momo_l 0.8000 
+skin 2816 mune 0.4000 jowan0_l 0.6000 
+skin 2817 mune 0.4500 kata_l 0.0500 jowan0_l 0.5000 
+skin 2818 mune 0.8000 kata_l 0.0500 jowan0_l 0.1500 
+skin 2819 mune 0.7000 jowan0_l 0.3000 
+skin 2820 mune 0.5000 kata_l 0.3500 jowan0_l 0.1500 
+skin 2821 mune 0.5000 kata_l 0.4000 jowan0_l 0.1000 
+skin 2822 mune 0.6000 kata_l 0.3200 jowan0_l 0.0800 
+skin 2823 mune 0.3500 kata_l 0.4000 jowan0_l 0.2500 
+skin 2824 mune 0.3300 kata_l 0.3300 jowan0_l 0.3400 
+skin 2825 mune 0.3000 kata_l 0.5500 jowan0_l 0.1500 
+skin 2826 mune 0.6000 kata_l 0.3000 jowan0_l 0.1000 
+skin 2827 mune 0.4000 kata_l 0.5000 jowan0_l 0.1000 
+skin 2828 mune 0.2800 kata_l 0.2300 jowan0_l 0.4900 
+skin 2829 kosi_cloth_l 1.0000 
+skin 2830 kosi_cloth_l 1.0000 
+skin 2831 kosi_cloth_l 1.0000 
+skin 2832 kosi_cloth_l 1.0000 
+skin 2833 kosi_cloth_l 1.0000 
+skin 2834 kosi_cloth_l 1.0000 
+skin 2835 kosi_cloth_l 1.0000 
+skin 2836 kosi_cloth_l 1.0000 
+skin 2837 kosi_cloth_l 1.0000 
+skin 2838 kosi_cloth_l 1.0000 
+skin 2839 kosi_cloth_l 1.0000 
+skin 2840 kosi_cloth_l 1.0000 
+skin 2841 kosi_cloth_l 1.0000 
+skin 2842 kosi_cloth_l 1.0000 
+skin 2843 kosi_cloth_l 1.0000 
+skin 2844 kosi_cloth_l 1.0000 
+skin 2845 kosi_cloth_l 1.0000 
+skin 2846 kosi_cloth_r 1.0000 
+skin 2847 kosi_cloth_r 1.0000 
+skin 2848 kosi_cloth_r 1.0000 
+skin 2849 kosi_cloth_r 1.0000 
+skin 2850 kosi_cloth_r 1.0000 
+skin 2851 kosi_cloth_r 1.0000 
+skin 2852 kosi_cloth_r 1.0000 
+skin 2853 kosi_cloth_r 1.0000 
+skin 2854 kosi_cloth_r 1.0000 
+skin 2855 kosi_cloth_r 1.0000 
+skin 2856 kosi_cloth_r 1.0000 
+skin 2857 kosi_cloth_r 1.0000 
+skin 2858 kosi_cloth_r 1.0000 
+skin 2859 kosi_cloth_r 1.0000 
+skin 2860 kosi_cloth_r 1.0000 
+skin 2861 kosi_cloth_r 1.0000 
+skin 2862 kosi_cloth_l 1.0000 
+skin 2863 kosi_cloth_l 1.0000 
+skin 2864 kosi_cloth_l 1.0000 
+skin 2865 kosi_cloth_l 1.0000 
+skin 2866 kosi_cloth_l 1.0000 
+skin 2867 kosi_cloth_l 1.0000 
+skin 2868 kosi_cloth_l 1.0000 
+skin 2869 kosi_cloth_l 1.0000 
+skin 2870 kosi_cloth_l 1.0000 
+skin 2871 kosi_cloth_l 1.0000 
+skin 2872 kosi_cloth_l 1.0000 
+skin 2873 kosi_cloth_l 1.0000 
+skin 2874 kosi_cloth_l 1.0000 
+skin 2875 kosi_cloth_l 1.0000 
+skin 2876 kosi_cloth_l 1.0000 
+skin 2877 kosi_cloth_l 1.0000 
+skin 2878 hara1 0.5000 kosi_cloth_l 0.5000 
+skin 2879 hara1 0.5000 kosi_cloth_l 0.5000 
+skin 2880 kosi_cloth_l 1.0000 
+skin 2881 kosi_cloth_l 1.0000 
+skin 2882 kosi_cloth_l 1.0000 
+skin 2883 kosi_cloth_l 1.0000 
+skin 2884 kosi_cloth_l 1.0000 
+skin 2885 kosi_cloth_l 1.0000 
+skin 2886 kosi_cloth_l 1.0000 
+skin 2887 kosi_cloth_l 1.0000 
+skin 2888 kosi_cloth_l 1.0000 
+skin 2889 kosi_cloth_r 1.0000 
+skin 2890 kosi_cloth_r 1.0000 
+skin 2891 kosi_cloth_r 1.0000 
+skin 2892 kosi_cloth_r 1.0000 
+skin 2893 kosi_cloth_r 1.0000 
+skin 2894 kosi_cloth_r 1.0000 
+skin 2895 kosi_cloth_l 1.0000 
+skin 2896 kosi_cloth_l 1.0000 
+skin 2897 kosi_cloth_l 1.0000 
+skin 2898 kosi_cloth_l 1.0000 
+skin 2899 kosi_cloth_l 1.0000 
+skin 2900 kosi_cloth_l 1.0000 
+skin 2901 kosi_cloth_r 1.0000 
+skin 2902 kosi_cloth_r 1.0000 
+skin 2903 kosi_cloth_r 1.0000 
+skin 2904 kosi_cloth_r 1.0000 
+skin 2905 kosi_cloth_r 1.0000 
+skin 2906 kosi_cloth_r 1.0000 
+skin 2907 kosi_cloth_r 1.0000 
+skin 2908 kosi_cloth_r 1.0000 
+skin 2909 kosi_cloth_r 1.0000 
+skin 2910 kosi_cloth_r 1.0000 
+skin 2911 kosi_cloth_r 1.0000 
+skin 2912 kosi_cloth_r 1.0000 
+skin 2913 kosi_cloth_r 1.0000 
+skin 2914 kosi_cloth_r 1.0000 
+skin 2915 kosi_cloth_r 1.0000 
+skin 2916 kosi_cloth_r 1.0000 
+skin 2917 kosi_cloth_r 1.0000 
+skin 2918 kosi_cloth_r 1.0000 
+skin 2919 kosi_cloth_r 1.0000 
+skin 2920 kosi_cloth_r 1.0000 
+skin 2921 kosi_cloth_r 1.0000 
+skin 2922 kosi_cloth_r 1.0000 
+skin 2923 kosi_cloth_r 1.0000 
+skin 2924 kosi_cloth_r 1.0000 
+skin 2925 kosi_cloth_r 1.0000 
+skin 2926 kosi_cloth_r 1.0000 
+skin 2927 kosi_cloth_r 1.0000 
+skin 2928 kosi_cloth_r 1.0000 
+skin 2929 kosi_cloth_r 1.0000 
+skin 2930 kosi_cloth_r 1.0000 
+skin 2931 kosi_cloth_r 1.0000 
+skin 2932 kosi_cloth_l 1.0000 
+skin 2933 kosi_cloth_l 1.0000 
+skin 2934 kosi_cloth_l 1.0000 
+skin 2935 kosi_cloth_l 1.0000 
+skin 2936 kosi_cloth_l 1.0000 
+skin 2937 kosi_cloth_l 1.0000 
+skin 2938 kosi_cloth_l 1.0000 
+skin 2939 kosi_cloth_l 1.0000 
+skin 2940 kosi_cloth_l 1.0000 
+skin 2941 kosi_cloth_l 1.0000 
+skin 2942 kosi_cloth_l 1.0000 
+skin 2943 kosi_cloth_l 1.0000 
+skin 2944 kosi_cloth_l 1.0000 
+skin 2945 kosi_cloth_l 1.0000 
+skin 2946 kosi_cloth_l 1.0000 
+skin 2947 kosi_cloth_l 1.0000 
+skin 2948 kosi_cloth_r 1.0000 
+skin 2949 kosi_cloth_r 1.0000 
+skin 2950 kosi_cloth_l 1.0000 
+skin 2951 hara1 0.5000 kosi_cloth_l 0.5000 
+skin 2952 kosi_cloth_l 1.0000 
+skin 2953 kosi_cloth_r 1.0000 
+skin 2954 kosi_cloth_r 1.0000 
+skin 2955 hara1 0.5000 kosi_cloth_l 0.5000 
+skin 2956 koshi 0.1000 hara1 0.9000 
+skin 2957 koshi 0.1000 hara1 0.9000 
+skin 2958 hara1 0.9700 hara2 0.0300 
+skin 2959 hara1 0.9700 hara2 0.0300 
+skin 2960 cloth0 0.5000 hara1 0.5000 
+skin 2961 cloth0 0.5000 hara1 0.5000 
+skin 2962 cloth0 0.5000 hara1 0.2500 kosi_cloth_l 0.2500 
+skin 2963 cloth0 0.8000 hara1 0.1000 kosi_cloth_l 0.1000 
+skin 2964 cloth0 0.8000 kosi_cloth_l 0.2000 
+skin 2965 cloth0 0.8000 kosi_cloth_l 0.2000 
+skin 2966 cloth0 0.5000 kosi_cloth_l 0.5000 
+skin 2967 cloth0 0.3000 kosi_cloth_l 0.7000 
+skin 2968 cloth0 0.4000 kosi_cloth_l 0.6000 
+skin 2969 cloth0 0.4000 kosi_cloth_l 0.6000 
+skin 2970 cloth0 0.5000 kosi_cloth_l 0.5000 
+skin 2971 cloth0 0.3000 kosi_cloth_l 0.7000 
+skin 2972 cloth0 0.5000 kosi_cloth_l 0.5000 
+skin 2973 cloth0 0.5000 kosi_cloth_l 0.5000 
+skin 2974 cloth0 0.5000 hara1 0.2500 kosi_cloth_l 0.2500 
+skin 2975 cloth0 0.8000 hara1 0.1000 kosi_cloth_l 0.1000 
+skin 2976 cloth0 0.8000 hara1 0.2000 
+skin 2977 cloth0 0.8000 hara1 0.2000 
+skin 2978 mune 0.7600 kubi 0.2400 
+skin 2979 koshi 1.0000 
+skin 2980 koshi 1.0000 
+skin 2981 koshi 1.0000 
+skin 2982 koshi 0.6700 momo_r 0.2800 hara1 0.0500 
+skin 2983 koshi 1.0000 
+skin 2984 koshi 0.5800 momo_r 0.2300 hara1 0.1900 
+skin 2985 koshi 1.0000 
+skin 2986 koshi 1.0000 
+skin 2987 koshi 1.0000 
+skin 2988 koshi 0.4200 momo_r 0.2400 hara1 0.3400 
+skin 2989 koshi 1.0000 
+skin 2990 koshi 1.0000 
+skin 2991 koshi 0.5800 momo_r 0.2200 hara1 0.2000 
+skin 2992 koshi 0.5600 momo_r 0.2100 hara1 0.2300 
+skin 2993 koshi 1.0000 
+skin 2994 koshi 1.0000 
+skin 2995 koshi 1.0000 
+skin 2996 koshi 0.8300 momo_r 0.1700 
+skin 2997 momo_r 0.1900 cloth1 0.8100 
+skin 2998 momo_r 0.0500 cloth1 0.9500 
+skin 2999 momo_r 0.0800 cloth1 0.9200 
+skin 3000 momo_r 0.1700 cloth1 0.8300 
+skin 3001 cloth0 0.0400 momo_r 0.2900 cloth1 0.6700 
+skin 3002 momo_r 0.1400 cloth1 0.8600 
+skin 3003 kosi_cloth 0.0200 momo_r 0.2500 cloth1 0.7300 
+skin 3004 kosi_cloth 0.3000 momo_r 0.1100 cloth1 0.5900 
+skin 3005 momo_r 0.0500 cloth1 0.9500 
+skin 3006 kosi_cloth 0.3000 momo_r 0.1500 cloth1 0.5500 
+skin 3007 kosi_cloth 0.3000 momo_r 0.1500 cloth1 0.5500 
+skin 3008 cloth0 0.0500 momo_r 0.3000 cloth1 0.6500 
+skin 3009 cloth0 0.3000 momo_r 0.4000 cloth1 0.3000 
+skin 3010 cloth0 0.1700 momo_r 0.3700 cloth1 0.4600 
+skin 3011 cloth0 0.3000 momo_r 0.4000 cloth1 0.3000 
+skin 3012 cloth0 0.1300 momo_r 0.3800 cloth1 0.4900 
+skin 3013 momo_r 0.4100 cloth1 0.5900 
+skin 3014 kosi_cloth 0.3000 momo_r 0.1800 cloth1 0.5200 
+skin 3015 kosi_cloth 0.4000 momo_r 0.3000 cloth1 0.3000 
+skin 3016 cloth0 0.3000 momo_r 0.4000 cloth1 0.3000 
+skin 3017 kosi_cloth 0.4600 momo_r 0.1400 cloth1 0.4000 
+skin 3018 kosi_cloth 0.4600 momo_r 0.1400 cloth1 0.4000 
+skin 3019 kosi_cloth 0.4500 momo_r 0.1500 cloth1 0.4000 
+skin 3020 kosi_cloth 0.4500 momo_r 0.1500 cloth1 0.4000 
+skin 3021 koshi 0.3700 kosi_cloth 0.4200 cloth1 0.2100 
+skin 3022 koshi 0.6000 kosi_cloth 0.1300 momo_r 0.2700 
+skin 3023 kosi_cloth 0.6500 momo_r 0.1200 cloth1 0.2300 
+skin 3024 koshi 0.8600 kosi_cloth 0.1400 
+skin 3025 koshi 1.0000 
+skin 3026 koshi 1.0000 
+skin 3027 koshi 0.9800 kosi_cloth 0.0200 
+skin 3028 koshi 0.9700 kosi_cloth 0.0300 
+skin 3029 koshi 1.0000 
+skin 3030 koshi 1.0000 
+skin 3031 koshi 0.9400 kosi_cloth 0.0600 
+skin 3032 koshi 0.8400 kosi_cloth 0.1600 
+skin 3033 koshi 0.8700 kosi_cloth 0.1300 
+skin 3034 koshi 0.9600 kosi_cloth 0.0400 
+skin 3035 koshi 0.8400 kosi_cloth 0.1600 
+skin 3036 koshi 0.9800 kosi_cloth 0.0200 
+skin 3037 koshi 0.9700 kosi_cloth 0.0300 
+skin 3038 koshi 0.9800 kosi_cloth 0.0200 
+skin 3039 koshi 1.0000 
+skin 3040 koshi 1.0000 
+skin 3041 koshi 1.0000 
+skin 3042 koshi 0.9700 kosi_cloth 0.0300 
+skin 3043 koshi 0.9700 kosi_cloth 0.0300 
+skin 3044 koshi 0.9700 kosi_cloth 0.0300 
+skin 3045 koshi 0.9500 kosi_cloth 0.0500 
+skin 3046 koshi 0.8800 kosi_cloth 0.1200 
+skin 3047 koshi 0.8700 kosi_cloth 0.1300 
+skin 3048 koshi 0.9500 kosi_cloth 0.0500 
+skin 3049 koshi 0.8800 kosi_cloth 0.1200 
+skin 3050 koshi 0.9400 kosi_cloth 0.0600 
+skin 3051 koshi 0.8400 kosi_cloth 0.1600 
+skin 3052 koshi 0.9800 kosi_cloth 0.0200 
+skin 3053 koshi 0.8400 kosi_cloth 0.1600 
+skin 3054 koshi 1.0000 
+skin 3055 koshi 1.0000 
+skin 3056 koshi 1.0000 
+skin 3057 koshi 0.9700 kosi_cloth 0.0300 
+skin 3058 koshi 0.9700 kosi_cloth 0.0300 
+skin 3059 koshi 0.9700 kosi_cloth 0.0300 
+skin 3060 koshi 1.0000 
+skin 3061 koshi 1.0000 
+skin 3062 koshi 1.0000 
+skin 3063 koshi 1.0000 
+skin 3064 koshi 1.0000 
+skin 3065 koshi 1.0000 
+skin 3066 koshi 0.9600 kosi_cloth 0.0400 
+skin 3067 koshi 0.8600 kosi_cloth 0.1400 
+skin 3068 koshi 0.8900 kosi_cloth 0.1100 
+skin 3069 koshi 0.9300 kosi_cloth 0.0700 
+skin 3070 koshi 0.8600 kosi_cloth 0.1400 
+skin 3071 koshi 0.9600 kosi_cloth 0.0400 
+skin 3072 koshi 0.8800 kosi_cloth 0.1200 
+skin 3073 koshi 0.7700 kosi_cloth 0.2300 
+skin 3074 koshi 0.8100 kosi_cloth 0.1900 
+skin 3075 koshi 1.0000 
+skin 3076 koshi 0.9300 kosi_cloth 0.0700 
+skin 3077 koshi 0.8800 kosi_cloth 0.1200 
+skin 3078 koshi 0.9600 kosi_cloth 0.0400 
+skin 3079 koshi 0.8100 kosi_cloth 0.1900 
+skin 3080 koshi 0.7700 kosi_cloth 0.2300 
+skin 3081 koshi 1.0000 
+skin 3082 koshi 0.8300 kosi_cloth 0.1700 
+skin 3083 koshi 1.0000 
+skin 3084 koshi 0.8300 kosi_cloth 0.1700 
+skin 3085 koshi 1.0000 
+skin 3086 koshi 0.9300 kosi_cloth 0.0700 
+skin 3087 koshi 0.8900 kosi_cloth 0.1100 
+skin 3088 koshi 0.8600 kosi_cloth 0.1400 
+skin 3089 koshi 0.9300 kosi_cloth 0.0700 
+skin 3090 koshi 1.0000 
+skin 3091 koshi 1.0000 
+skin 3092 cloth0 0.7000 momo_l 0.1500 cloth1 0.1500 
+skin 3093 cloth0 1.0000 
+skin 3094 cloth0 0.7000 momo_l 0.1500 cloth1 0.1500 
+skin 3095 cloth0 1.0000 
+skin 3096 koshi 0.2800 cloth0 0.2800 momo_l 0.4400 
+skin 3097 koshi 0.1000 cloth0 0.8500 momo_l 0.0500 
+skin 3098 koshi 0.8000 momo_l 0.2000 
+skin 3099 koshi 0.5000 cloth0 0.5000 
+skin 3100 cloth0 1.0000 
+skin 3101 koshi 0.1300 cloth0 0.8700 
+skin 3102 cloth0 0.6700 hara1 0.3300 
+skin 3103 cloth0 1.0000 
+skin 3104 koshi 0.1000 cloth0 0.8500 momo_r 0.0500 
+skin 3105 koshi 0.5000 cloth0 0.5000 
+skin 3106 koshi 0.4600 cloth0 0.0400 momo_l 0.5000 
+skin 3107 koshi 0.3600 cloth0 0.0100 momo_l 0.6300 
+skin 3108 koshi 0.5400 momo_l 0.4600 
+skin 3109 koshi 0.3400 cloth0 0.0500 momo_l 0.6100 
+skin 3110 koshi 0.2800 cloth0 0.1800 momo_l 0.5400 
+skin 3111 koshi 0.3500 cloth0 0.1600 momo_l 0.4900 
+skin 3112 koshi 0.1600 cloth0 0.5500 momo_l 0.2900 
+skin 3113 koshi 0.0600 cloth0 0.9400 
+skin 3114 koshi 0.1500 cloth0 0.6100 momo_l 0.2400 
+skin 3115 koshi 0.1100 cloth0 0.6400 momo_l 0.2500 
+skin 3116 koshi 0.5800 cloth0 0.0300 momo_l 0.3900 
+skin 3117 koshi 0.6800 momo_l 0.3200 
+skin 3118 koshi 0.7300 momo_l 0.2700 
+skin 3119 koshi 1.0000 
+skin 3120 koshi 1.0000 
+skin 3121 koshi 0.5500 momo_l 0.4500 
+skin 3122 koshi 0.7300 momo_l 0.2700 
+skin 3123 koshi 0.4000 cloth0 0.2200 momo_l 0.3800 
+skin 3124 koshi 1.0000 
+skin 3125 kosi_cloth 0.3000 momo_l 0.1500 cloth1 0.5500 
+skin 3126 momo_l 0.0500 cloth1 0.9500 
+skin 3127 kosi_cloth 0.3000 momo_l 0.1500 cloth1 0.5500 
+skin 3128 momo_l 0.1400 cloth1 0.8600 
+skin 3129 kosi_cloth 0.0200 momo_l 0.2500 cloth1 0.7300 
+skin 3130 momo_l 0.1700 cloth1 0.8300 
+skin 3131 cloth0 0.0400 momo_l 0.2900 cloth1 0.6700 
+skin 3132 cloth0 0.0500 momo_l 0.3000 cloth1 0.6500 
+skin 3133 momo_l 0.1900 cloth1 0.8100 
+skin 3134 momo_l 0.0800 cloth1 0.9200 
+skin 3135 momo_l 0.0500 cloth1 0.9500 
+skin 3136 kosi_cloth 0.3000 momo_l 0.1100 cloth1 0.5900 
+skin 3137 kosi_cloth 0.3000 momo_l 0.1800 cloth1 0.5200 
+skin 3138 momo_l 0.4100 cloth1 0.5900 
+skin 3139 cloth0 0.3000 momo_l 0.4000 cloth1 0.3000 
+skin 3140 cloth0 0.1300 momo_l 0.3800 cloth1 0.4900 
+skin 3141 cloth0 0.3000 momo_l 0.4000 cloth1 0.3000 
+skin 3142 cloth0 0.3000 momo_l 0.4000 cloth1 0.3000 
+skin 3143 cloth0 0.1700 momo_l 0.3700 cloth1 0.4600 
+skin 3144 kosi_cloth 0.4000 momo_l 0.3000 cloth1 0.3000 
+skin 3145 cloth0 0.2100 momo_l 0.3600 cloth1 0.4300 
+skin 3146 cloth0 0.0700 momo_l 0.2900 cloth1 0.6400 
+skin 3147 cloth0 0.1000 momo_l 0.2800 cloth1 0.6200 
+skin 3148 cloth0 0.2600 momo_l 0.3400 cloth1 0.4000 
+skin 3149 cloth0 0.3500 momo_l 0.3000 cloth1 0.3500 
+skin 3150 cloth0 0.2000 momo_l 0.2300 cloth1 0.5700 
+skin 3151 cloth0 0.4800 momo_l 0.2300 cloth1 0.2900 
+skin 3152 cloth0 0.1400 momo_l 0.2600 cloth1 0.6000 
+skin 3153 mune 1.0000 
+skin 3154 mune 1.0000 
+skin 3155 mune 1.0000 
+skin 3156 mune 1.0000 
+skin 3157 mune 1.0000 
+skin 3158 mune 1.0000 
+skin 3159 mune 1.0000 
+skin 3160 sune_r 1.0000 
+skin 3161 sune_r 1.0000 
+skin 3162 sune_r 1.0000 
+skin 3163 sune_r 1.0000 
+skin 3164 sune_r 1.0000 
+skin 3165 sune_r 1.0000 
+skin 3166 sune_r 1.0000 
+skin 3167 sune_r 1.0000 
+skin 3168 sune_r 1.0000 
+skin 3169 sune_r 1.0000 
+skin 3170 sune_r 1.0000 
+skin 3171 sune_r 1.0000 
+skin 3172 sune_r 1.0000 
+skin 3173 sune_r 1.0000 
+skin 3174 sune_r 1.0000 
+skin 3175 sune_r 1.0000 
+skin 3176 mune 1.0000 
+skin 3177 mune 1.0000 
+skin 3178 mune 1.0000 
+skin 3179 mune 1.0000 
+skin 3180 mune 1.0000 
+skin 3181 mune 1.0000 
+skin 3182 mune 1.0000 
+skin 3183 mune 1.0000 
+skin 3184 mune 1.0000 
+skin 3185 mune 1.0000 
+skin 3186 mune 1.0000 
+skin 3187 sune_r 1.0000 
+skin 3188 sune_r 1.0000 
+skin 3189 sune_r 1.0000 
+skin 3190 sune_r 1.0000 
+skin 3191 sune_r 1.0000 
+skin 3192 mune 1.0000 
+skin 3193 mune 1.0000 
+skin 3194 mune 1.0000 
+skin 3195 mune 0.9500 jowan0_r 0.0500 
+skin 3196 mune 1.0000 
+skin 3197 mune 1.0000 
+skin 3198 hara2 0.0700 mune 0.9300 
+skin 3199 mune 0.9500 jowan0_l 0.0500 
+skin 3200 mune 1.0000 
+skin 3201 mune 1.0000 
+skin 3202 mune 1.0000 
+skin 3203 mune 1.0000 
+skin 3204 mune 1.0000 
+skin 3205 mune 1.0000 
+skin 3206 mune 1.0000 
+skin 3207 hara2 0.0700 mune 0.9300 
+skin 3208 cloth0 0.6100 momo_r 0.1500 cloth1 0.2400 
+skin 3209 cloth0 0.2500 momo_r 0.2500 cloth1 0.5000 
+skin 3210 kosi_cloth 0.1100 momo_r 0.2600 cloth1 0.6300 
+skin 3211 cloth0 0.6000 momo_r 0.2000 cloth1 0.2000 
+skin 3212 cloth0 0.6000 momo_r 0.2000 cloth1 0.2000 
+skin 3213 cloth0 1.0000 
+skin 3214 cloth0 1.0000 
+skin 3215 cloth0 1.0000 
+skin 3216 koshi 0.1500 cloth0 0.6500 momo_r 0.2000 
+skin 3217 cloth0 0.2500 momo_r 0.2500 cloth1 0.5000 
+skin 3218 cloth0 0.2500 momo_l 0.2500 cloth1 0.5000 
+skin 3219 cloth0 0.6100 momo_l 0.1500 cloth1 0.2400 
+skin 3220 kosi_cloth 0.1100 momo_l 0.2600 cloth1 0.6300 
+skin 3221 cloth0 0.6000 momo_l 0.2000 cloth1 0.2000 
+skin 3222 cloth0 0.2500 momo_l 0.2500 cloth1 0.5000 
+skin 3223 koshi 0.1500 cloth0 0.6500 momo_l 0.2000 
+skin 3224 cloth0 0.6000 momo_l 0.2000 cloth1 0.2000 
+skin 3225 cloth0 1.0000 
+skin 3226 cloth0 1.0000 
+skin 3227 cloth0 1.0000 
+skin 3228 koshi 0.5800 momo_l 0.2200 hara1 0.2000 
+skin 3229 koshi 1.0000 
+skin 3230 koshi 0.5600 momo_l 0.2100 hara1 0.2300 
+skin 3231 koshi 0.4200 momo_l 0.2400 hara1 0.3400 
+skin 3232 koshi 1.0000 
+skin 3233 koshi 1.0000 
+skin 3234 koshi 1.0000 
+skin 3235 koshi 1.0000 
+skin 3236 koshi 1.0000 
+skin 3237 koshi 1.0000 
+skin 3238 koshi 1.0000 
+skin 3239 koshi 1.0000 
+skin 3240 koshi 0.6700 momo_l 0.2800 hara1 0.0500 
+skin 3241 koshi 0.8300 momo_l 0.1700 
+skin 3242 koshi 0.5800 momo_l 0.2300 hara1 0.1900 
+skin 3243 koshi 1.0000 
+skin 3244 koshi 1.0000 
+skin 3245 koshi 1.0000 
+skin 3246 koshi 1.0000 
+skin 3247 koshi 1.0000 
+skin 3248 koshi 1.0000 
+skin 3249 koshi 1.0000 
+skin 3250 koshi 1.0000 
+skin 3251 koshi 1.0000 
+skin 3252 koshi 1.0000 
+skin 3253 hara1 1.0000 
+skin 3254 hara1 1.0000 
+skin 3255 hara1 1.0000 
+skin 3256 hara1 1.0000 
+skin 3257 hara1 1.0000 
+skin 3258 hara1 1.0000 
+skin 3259 hara1 1.0000 
+skin 3260 hara1 1.0000 
+skin 3261 hara1 1.0000 
+skin 3262 hara1 1.0000 
+skin 3263 hara1 1.0000 
+skin 3264 hara1 1.0000 
+skin 3265 hara1 1.0000 
+skin 3266 hara1 1.0000 
+skin 3267 hara1 1.0000 
+skin 3268 hara1 1.0000 
+skin 3269 hara1 1.0000 
+skin 3270 hara1 1.0000 
+skin 3271 hara1 1.0000 
+skin 3272 hara1 1.0000 
+skin 3273 hara1 1.0000 
+skin 3274 hara1 1.0000 
+skin 3275 hara1 1.0000 
+skin 3276 hara1 1.0000 
+skin 3277 hara1 1.0000 
+skin 3278 hara1 1.0000 
+skin 3279 hara1 1.0000 
+skin 3280 hara1 1.0000 
+skin 3281 hara1 1.0000 
+skin 3282 hara1 1.0000 
+skin 3283 hara1 1.0000 
+skin 3284 hara1 1.0000 
+skin 3285 hara1 1.0000 
+skin 3286 hara1 1.0000 
+skin 3287 hara1 1.0000 
+skin 3288 hara1 1.0000 
+skin 3289 hara1 1.0000 
+skin 3290 hara1 1.0000 
+skin 3291 hara1 1.0000 
+skin 3292 hara1 1.0000 
+skin 3293 hara1 1.0000 
+skin 3294 hara1 1.0000 
+skin 3295 hara1 1.0000 
+skin 3296 hara1 1.0000 
+skin 3297 hara1 1.0000 
+skin 3298 hara1 1.0000 
+skin 3299 hara1 1.0000 
+skin 3300 hara1 1.0000 
+skin 3301 hara1 1.0000 
+skin 3302 hara1 1.0000 
+skin 3303 hara1 1.0000 
+skin 3304 hara1 1.0000 
+skin 3305 hara1 1.0000 
+skin 3306 hara1 1.0000 
+skin 3307 hara1 1.0000 
+skin 3308 hara1 1.0000 
+skin 3309 hara1 1.0000 
+skin 3310 hara1 1.0000 
+skin 3311 hara1 1.0000 
+skin 3312 hara1 1.0000 
+skin 3313 hara1 1.0000 
+skin 3314 hara1 1.0000 
+skin 3315 hara1 1.0000 
+skin 3316 hara1 1.0000 
+skin 3317 hara1 1.0000 
+skin 3318 hara1 1.0000 
+skin 3319 hara1 1.0000 
+skin 3320 hara1 1.0000 
+skin 3321 hara1 1.0000 
+skin 3322 hara1 1.0000 
+skin 3323 hara1 1.0000 
+skin 3324 hara1 1.0000 
+skin 3325 hara1 1.0000 
+skin 3326 hara1 1.0000 
+skin 3327 hara1 1.0000 
+skin 3328 hara1 1.0000 
+skin 3329 koshi 1.0000 
+skin 3330 koshi 0.5800 momo_l 0.1700 hara1 0.2500 
+skin 3331 koshi 0.5700 momo_r 0.1800 hara1 0.2500 
+skin 3332 hara1 1.0000 
+skin 3333 hara1 1.0000 
+skin 3334 hara1 1.0000 
+skin 3335 hara1 1.0000 
+skin 3336 hara1 1.0000 
+skin 3337 hara1 1.0000 
+skin 3338 hara1 1.0000 
+skin 3339 hara1 1.0000 
+skin 3340 hara1 1.0000 
+skin 3341 hara1 1.0000 
+skin 3342 hara1 1.0000 
+skin 3343 hara1 1.0000 
+skin 3344 hara1 1.0000 
+skin 3345 hara1 1.0000 
+skin 3346 hara1 1.0000 
+skin 3347 hara1 1.0000 
+skin 3348 hara1 1.0000 
+skin 3349 hara1 1.0000 
+skin 3350 hara1 1.0000 
+skin 3351 hara1 1.0000 
+skin 3352 hara1 1.0000 
+skin 3353 hara1 1.0000 
+skin 3354 koshi 1.0000 
+skin 3355 koshi 1.0000 
+skin 3356 koshi 1.0000 
+skin 3357 koshi 0.5600 momo_r 0.2000 hara1 0.2400 
+skin 3358 hara1 1.0000 
+skin 3359 hara1 1.0000 
+skin 3360 hara1 1.0000 
+skin 3361 hara1 1.0000 
+skin 3362 hara1 1.0000 
+skin 3363 hara1 1.0000 
+skin 3364 hara1 1.0000 
+skin 3365 hara1 1.0000 
+skin 3366 hara1 1.0000 
+skin 3367 hara1 1.0000 
+skin 3368 hara1 1.0000 
+skin 3369 hara1 1.0000 
+skin 3370 hara1 1.0000 
+skin 3371 hara1 1.0000 
+skin 3372 hara1 1.0000 
+skin 3373 hara1 1.0000 
+skin 3374 hara1 1.0000 
+skin 3375 hara1 1.0000 
+skin 3376 hara1 1.0000 
+skin 3377 hara1 1.0000 
+skin 3378 hara1 1.0000 
+skin 3379 hara1 1.0000 
+skin 3380 hara1 1.0000 
+skin 3381 hara1 1.0000 
+skin 3382 hara1 1.0000 
+skin 3383 hara1 1.0000 
+skin 3384 hara1 1.0000 
+skin 3385 hara1 1.0000 
+skin 3386 hara1 1.0000 
+skin 3387 hara1 1.0000 
+skin 3388 hara1 1.0000 
+skin 3389 hara1 1.0000 
+skin 3390 hara1 1.0000 
+skin 3391 hara1 1.0000 
+skin 3392 hara1 1.0000 
+skin 3393 hara1 1.0000 
+skin 3394 hara1 1.0000 
+skin 3395 hara1 1.0000 
+skin 3396 hara1 1.0000 
+skin 3397 hara1 1.0000 
+skin 3398 koshi 0.9600 hara1 0.0400 
+skin 3399 hara1 1.0000 
+skin 3400 hara1 1.0000 
+skin 3401 hara1 1.0000 
+skin 3402 hara1 1.0000 
+skin 3403 hara1 1.0000 
+skin 3404 hara1 1.0000 
+skin 3405 hara1 1.0000 
+skin 3406 hara1 1.0000 
+skin 3407 hara1 1.0000 
+skin 3408 hara1 1.0000 
+skin 3409 hara1 1.0000 
+skin 3410 hara1 1.0000 
+skin 3411 hara1 1.0000 
+skin 3412 hara1 1.0000 
+skin 3413 hara1 1.0000 
+skin 3414 hara1 1.0000 
+skin 3415 hara1 1.0000 
+skin 3416 hara1 1.0000 
+skin 3417 hara1 1.0000 
+skin 3418 hara1 1.0000 
+skin 3419 koshi 0.5600 momo_l 0.2000 hara1 0.2400 
+skin 3420 koshi 1.0000 
+skin 3421 koshi 1.0000 
+skin 3422 koshi 0.5700 momo_l 0.1800 hara1 0.2500 
+skin 3423 hara1 1.0000 
+skin 3424 hara1 1.0000 
+skin 3425 hara1 1.0000 
+skin 3426 hara1 1.0000 
+skin 3427 hara1 1.0000 
+skin 3428 hara1 1.0000 
+skin 3429 hara1 1.0000 
+skin 3430 hara1 1.0000 
+skin 3431 hara1 1.0000 
+skin 3432 hara1 1.0000 
+skin 3433 hara1 1.0000 
+skin 3434 hara1 1.0000 
+skin 3435 hara1 1.0000 
+skin 3436 hara1 1.0000 
+skin 3437 hara1 1.0000 
+skin 3438 hara1 1.0000 
+skin 3439 hara1 1.0000 
+skin 3440 hara1 1.0000 
+skin 3441 hara1 1.0000 
+skin 3442 hara1 1.0000 
+skin 3443 hara1 1.0000 
+skin 3444 hara1 1.0000 
+skin 3445 hara1 1.0000 
+skin 3446 hara1 1.0000 
+skin 3447 hara1 1.0000 
+skin 3448 hara1 1.0000 
+skin 3449 hara1 1.0000 
+skin 3450 hara1 1.0000 
+skin 3451 hara1 1.0000 
+skin 3452 hara1 1.0000 
+skin 3453 hara1 1.0000 
+skin 3454 hara1 1.0000 
+skin 3455 hara1 1.0000 
+skin 3456 hara1 1.0000 
+skin 3457 hara1 1.0000 
+skin 3458 hara1 1.0000 
+skin 3459 koshi 1.0000 
+skin 3460 koshi 1.0000 
+skin 3461 koshi 1.0000 
+skin 3462 hara1 1.0000 
+skin 3463 hara1 1.0000 
+skin 3464 koshi 0.2500 cloth0 0.6000 momo_r 0.1500 
+skin 3465 koshi 0.2700 cloth0 0.4400 momo_r 0.2900 
+skin 3466 koshi 0.4000 cloth0 0.2200 momo_r 0.3800 
+skin 3467 koshi 0.1500 cloth0 0.6100 momo_r 0.2400 
+skin 3468 koshi 0.1600 cloth0 0.5500 momo_r 0.2900 
+skin 3469 koshi 0.5800 cloth0 0.0300 momo_r 0.3900 
+skin 3470 koshi 0.1500 cloth0 0.6900 momo_r 0.1600 
+skin 3471 koshi 0.5400 momo_r 0.4600 
+skin 3472 koshi 0.7300 momo_r 0.2700 
+skin 3473 koshi 0.5500 momo_r 0.4500 
+skin 3474 koshi 0.7300 momo_r 0.2700 
+skin 3475 koshi 0.6800 momo_r 0.3200 
+skin 3476 koshi 0.3500 cloth0 0.1600 momo_r 0.4900 
+skin 3477 koshi 0.4600 cloth0 0.0400 momo_r 0.5000 
+skin 3478 koshi 0.9000 kosi_cloth 0.1000 
+skin 3479 koshi 0.8500 kosi_cloth 0.1500 
+skin 3480 koshi 0.9000 kosi_cloth 0.1000 
+skin 3481 koshi 0.8400 kosi_cloth 0.1600 
+skin 3482 koshi 0.9100 kosi_cloth 0.0900 
+skin 3483 koshi 0.9000 kosi_cloth 0.1000 
+skin 3484 koshi 0.8300 kosi_cloth 0.1700 
+skin 3485 koshi 0.9100 kosi_cloth 0.0900 
+skin 3486 koshi 0.9000 kosi_cloth 0.1000 
+skin 3487 koshi 0.8400 kosi_cloth 0.1600 
+skin 3488 koshi 0.8600 kosi_cloth 0.1400 
+skin 3489 koshi 0.8600 kosi_cloth 0.1400 
+skin 3490 koshi 0.8400 kosi_cloth 0.1600 
+skin 3491 koshi 0.8300 kosi_cloth 0.1700 
+skin 3492 koshi 0.8900 hara1 0.1100 
+skin 3493 koshi 0.8000 momo_r 0.2000 
+skin 3494 koshi 0.8900 momo_r 0.1100 
+skin 3495 koshi 0.5700 momo_r 0.4300 
+skin 3496 koshi 0.7500 momo_r 0.2500 
+skin 3497 koshi 0.8900 hara1 0.1100 
+skin 3498 koshi 0.8900 momo_l 0.1100 
+skin 3499 koshi 0.7400 momo_r 0.2600 
+skin 3500 koshi 0.9000 kosi_cloth 0.1000 
+skin 3501 koshi 0.3400 momo_r 0.6600 
+skin 3502 koshi 0.4400 momo_r 0.5600 
+skin 3503 koshi 0.9000 kosi_cloth 0.1000 
+skin 3504 koshi 0.3900 momo_r 0.6100 
+skin 3505 koshi 0.2900 cloth0 0.0300 momo_r 0.6800 
+skin 3506 koshi 0.2600 cloth0 0.0700 momo_r 0.6700 
+skin 3507 koshi 0.3600 cloth0 0.0100 momo_r 0.6300 
+skin 3508 koshi 0.5000 kosi_cloth 0.5000 
+skin 3509 koshi 0.3400 kosi_cloth 0.6600 
+skin 3510 koshi 0.4600 kosi_cloth 0.5400 
+skin 3511 koshi 0.4200 kosi_cloth 0.5800 
+skin 3512 koshi 0.3400 kosi_cloth 0.6600 
+skin 3513 koshi 0.3100 kosi_cloth 0.6900 
+skin 3514 koshi 0.2600 kosi_cloth 0.7400 
+skin 3515 koshi 0.1300 kosi_cloth 0.8700 
+skin 3516 koshi 0.1300 kosi_cloth 0.8700 
+skin 3517 koshi 0.4600 kosi_cloth 0.5400 
+skin 3518 koshi 0.3100 kosi_cloth 0.6900 
+skin 3519 koshi 0.2600 kosi_cloth 0.7400 
+skin 3520 koshi 0.8400 kosi_cloth 0.1600 
+skin 3521 koshi 0.7600 kosi_cloth 0.2400 
+skin 3522 koshi 0.8700 kosi_cloth 0.1300 
+skin 3523 koshi 0.5000 hara0 0.5000 
+skin 3524 koshi 0.9000 kosi_cloth 0.1000 
+skin 3525 hara0 1.0000 
+skin 3526 koshi 0.7600 kosi_cloth 0.2400 
+skin 3527 koshi 0.5000 hara0 0.5000 
+skin 3528 koshi 0.8400 kosi_cloth 0.1600 
+skin 3529 koshi 0.8700 kosi_cloth 0.1300 
+skin 3530 hara0 1.0000 
+skin 3531 hara0 1.0000 
+skin 3532 hara0 1.0000 
+skin 3533 koshi 0.8700 kosi_cloth 0.0500 hara1 0.0800 
+skin 3534 hara0 1.0000 
+skin 3535 koshi 0.9500 momo_r 0.0500 
+skin 3536 hara0 1.0000 
+skin 3537 hara0 1.0000 
+skin 3538 koshi 0.8700 kosi_cloth 0.0500 hara1 0.0800 
+skin 3539 hara0 1.0000 
+skin 3540 koshi 0.9500 momo_l 0.0500 
+skin 3541 hara0 1.0000 
+skin 3542 koshi 0.8100 kosi_cloth 0.1900 
+skin 3543 koshi 0.8100 kosi_cloth 0.1900 
+skin 3544 koshi 0.6700 kosi_cloth 0.0600 cloth1 0.2700 
+skin 3545 koshi 0.6700 kosi_cloth 0.0600 cloth1 0.2700 
+skin 3546 cloth0 0.9400 cloth1 0.0600 
+skin 3547 cloth0 0.7800 momo_l 0.0500 cloth1 0.1700 
+skin 3548 cloth0 0.9600 cloth1 0.0400 
+skin 3549 cloth0 0.7600 cloth1 0.2400 
+skin 3550 cloth0 0.9600 cloth1 0.0400 
+skin 3551 cloth0 0.7800 momo_r 0.0500 cloth1 0.1700 
+skin 3552 cloth0 0.8000 momo_r 0.0600 cloth1 0.1400 
+skin 3553 cloth0 1.0000 
+skin 3554 cloth0 1.0000 
+skin 3555 cloth0 0.9500 momo_r 0.0200 cloth1 0.0300 
+skin 3556 cloth0 0.9400 momo_r 0.0300 cloth1 0.0300 
+skin 3557 cloth0 1.0000 
+skin 3558 cloth0 0.7800 momo_r 0.0500 cloth1 0.1700 
+skin 3559 cloth0 0.8900 momo_r 0.0700 cloth1 0.0400 
+skin 3560 cloth0 0.7900 momo_r 0.0800 cloth1 0.1300 
+skin 3561 cloth0 0.5300 momo_r 0.1200 cloth1 0.3500 
+skin 3562 cloth0 0.5500 momo_r 0.0900 cloth1 0.3600 
+skin 3563 cloth0 0.4100 momo_r 0.1700 cloth1 0.4200 
+skin 3564 cloth0 0.8000 momo_r 0.1200 cloth1 0.0800 
+skin 3565 cloth0 0.9600 momo_r 0.0300 cloth1 0.0100 
+skin 3566 cloth0 1.0000 
+skin 3567 cloth0 0.3000 momo_r 0.2000 cloth1 0.5000 
+skin 3568 cloth0 0.6400 momo_r 0.1600 cloth1 0.2000 
+skin 3569 koshi 0.5700 kosi_cloth 0.4300 
+skin 3570 koshi 0.5900 kosi_cloth 0.4000 momo_r 0.0100 
+skin 3571 koshi 0.6000 kosi_cloth 0.4000 
+skin 3572 koshi 0.5700 kosi_cloth 0.4300 
+skin 3573 koshi 0.3700 kosi_cloth 0.4200 cloth1 0.2100 
+skin 3574 koshi 0.6000 kosi_cloth 0.1300 momo_l 0.2700 
+skin 3575 koshi 0.3400 momo_l 0.6600 
+skin 3576 koshi 0.4400 momo_l 0.5600 
+skin 3577 koshi 0.2900 cloth0 0.0300 momo_l 0.6800 
+skin 3578 koshi 0.3900 momo_l 0.6100 
+skin 3579 koshi 0.7400 momo_l 0.2600 
+skin 3580 koshi 0.2600 cloth0 0.0700 momo_l 0.6700 
+skin 3581 koshi 0.7500 momo_l 0.2500 
+skin 3582 koshi 0.5700 momo_l 0.4300 
+skin 3583 momo_l 0.1100 cloth1 0.8900 
+skin 3584 cloth0 0.0200 momo_l 0.0600 cloth1 0.9200 
+skin 3585 momo_l 0.1300 cloth1 0.8700 
+skin 3586 cloth0 0.0200 momo_l 0.0600 cloth1 0.9200 
+skin 3587 cloth0 0.0200 momo_l 0.0600 cloth1 0.9200 
+skin 3588 cloth0 0.5500 momo_l 0.0900 cloth1 0.3600 
+skin 3589 cloth0 0.5300 momo_l 0.1200 cloth1 0.3500 
+skin 3590 cloth0 0.4100 momo_l 0.1700 cloth1 0.4200 
+skin 3591 cloth0 0.1000 momo_l 0.1500 cloth1 0.7500 
+skin 3592 momo_l 0.0900 cloth1 0.9100 
+skin 3593 momo_l 0.1000 cloth1 0.9000 
+skin 3594 cloth0 0.5000 momo_l 0.0700 cloth1 0.4300 
+skin 3595 cloth0 0.8000 momo_l 0.0600 cloth1 0.1400 
+skin 3596 cloth0 0.7900 momo_l 0.0800 cloth1 0.1300 
+skin 3597 cloth0 0.7800 momo_l 0.0500 cloth1 0.1700 
+skin 3598 cloth0 0.4700 cloth1 0.5300 
+skin 3599 cloth0 0.9500 momo_l 0.0200 cloth1 0.0300 
+skin 3600 cloth0 1.0000 
+skin 3601 cloth0 1.0000 
+skin 3602 cloth0 1.0000 
+skin 3603 cloth0 0.9400 momo_l 0.0300 cloth1 0.0300 
+skin 3604 cloth0 1.0000 
+skin 3605 cloth0 0.8900 momo_l 0.0700 cloth1 0.0400 
+skin 3606 cloth0 0.6400 momo_l 0.1600 cloth1 0.2000 
+skin 3607 cloth0 0.8000 momo_l 0.1000 cloth1 0.1000 
+skin 3608 cloth0 0.3000 momo_l 0.2000 cloth1 0.5000 
+skin 3609 cloth0 0.8000 momo_l 0.1200 cloth1 0.0800 
+skin 3610 cloth0 1.0000 
+skin 3611 cloth0 0.9600 momo_l 0.0300 cloth1 0.0100 
+skin 3612 koshi 0.0600 cloth0 0.9400 
+skin 3613 koshi 0.1100 cloth0 0.6400 momo_r 0.2500 
+skin 3614 koshi 0.2800 cloth0 0.1800 momo_r 0.5400 
+skin 3615 kosi_cloth 0.3200 momo_r 0.1800 cloth1 0.5000 
+skin 3616 kosi_cloth 0.3100 momo_r 0.1900 cloth1 0.5000 
+skin 3617 kosi_cloth 0.3500 momo_r 0.1500 cloth1 0.5000 
+skin 3618 kosi_cloth 1.0000 
+skin 3619 kosi_cloth 1.0000 
+skin 3620 koshi 0.4000 kosi_cloth 0.6000 
+skin 3621 cloth0 0.2500 momo_r 0.2500 cloth1 0.5000 
+skin 3622 kosi_cloth 0.3500 momo_r 0.1500 cloth1 0.5000 
+skin 3623 cloth0 0.2500 momo_r 0.2500 cloth1 0.5000 
+skin 3624 kosi_cloth 0.3500 momo_r 0.1500 cloth1 0.5000 
+skin 3625 kosi_cloth 1.0000 
+skin 3626 kosi_cloth 0.7600 cloth1 0.2400 
+skin 3627 kosi_cloth 1.0000 
+skin 3628 kosi_cloth 0.7200 cloth1 0.2800 
+skin 3629 kosi_cloth 0.6800 cloth1 0.3200 
+skin 3630 kosi_cloth 0.6500 cloth1 0.3500 
+skin 3631 kosi_cloth 0.6300 cloth1 0.3700 
+skin 3632 kosi_cloth 1.0000 
+skin 3633 kosi_cloth 0.6400 cloth1 0.3600 
+skin 3634 kosi_cloth 1.0000 
+skin 3635 kosi_cloth 0.6800 cloth1 0.3200 
+skin 3636 kosi_cloth 0.7200 cloth1 0.2800 
+skin 3637 kosi_cloth 0.6300 cloth1 0.3700 
+skin 3638 kosi_cloth 0.6500 cloth1 0.3500 
+skin 3639 kosi_cloth 1.0000 
+skin 3640 kosi_cloth 0.6400 cloth1 0.3600 
+skin 3641 kosi_cloth 1.0000 
+skin 3642 koshi 0.2100 kosi_cloth 0.7900 
+skin 3643 koshi 0.1500 kosi_cloth 0.7000 cloth1 0.1500 
+skin 3644 koshi 0.1500 kosi_cloth 0.7000 cloth1 0.1500 
+skin 3645 kosi_cloth 1.0000 
+skin 3646 koshi 0.2100 kosi_cloth 0.7900 
+skin 3647 kosi_cloth 0.7600 cloth1 0.2400 
+skin 3648 kosi_cloth 1.0000 
+skin 3649 kosi_cloth 0.6800 cloth1 0.3200 
+skin 3650 kosi_cloth 0.6800 cloth1 0.3200 
+skin 3651 kosi_cloth 0.6000 cloth1 0.4000 
+skin 3652 kosi_cloth 0.4600 momo_l 0.1400 cloth1 0.4000 
+skin 3653 kosi_cloth 0.4500 momo_l 0.1500 cloth1 0.4000 
+skin 3654 kosi_cloth 0.6000 cloth1 0.4000 
+skin 3655 kosi_cloth 0.4500 momo_l 0.1500 cloth1 0.4000 
+skin 3656 kosi_cloth 0.4600 momo_l 0.1400 cloth1 0.4000 
+skin 3657 sune_l 1.0000 
+skin 3658 sune_l 1.0000 
+skin 3659 sune_l 1.0000 
+skin 3660 sune_l 1.0000 
+skin 3661 sune_l 1.0000 
+skin 3662 sune_l 1.0000 
+skin 3663 sune_l 1.0000 
+skin 3664 sune_l 1.0000 
+skin 3665 sune_l 1.0000 
+skin 3666 sune_l 1.0000 
+skin 3667 sune_l 1.0000 
+skin 3668 sune_l 1.0000 
+skin 3669 sune_l 1.0000 
+skin 3670 sune_l 1.0000 
+skin 3671 sune_l 1.0000 
+skin 3672 sune_l 1.0000 
+skin 3673 cloth0 1.0000 
+skin 3674 cloth0 1.0000 
+skin 3675 cloth0 1.0000 
+skin 3676 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3677 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3678 cloth0 0.8000 kosi_nuno 0.2000 
+skin 3679 cloth0 0.8000 kosi_nuno 0.2000 
+skin 3680 cloth0 0.5000 kosi_nuno 0.5000 
+skin 3681 cloth0 0.5000 kosi_nuno 0.5000 
+skin 3682 cloth0 0.8000 kosi_nuno 0.2000 
+skin 3683 cloth0 0.5000 kosi_nuno 0.5000 
+skin 3684 cloth0 0.5000 kosi_nuno 0.5000 
+skin 3685 cloth0 0.8000 kosi_nuno 0.2000 
+skin 3686 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3687 cloth0 1.0000 
+skin 3688 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3689 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3690 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3691 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3692 sune_l 1.0000 
+skin 3693 sune_l 1.0000 
+skin 3694 sune_l 1.0000 
+skin 3695 sune_l 1.0000 
+skin 3696 cloth0 1.0000 
+skin 3697 cloth0 1.0000 
+skin 3698 cloth0 0.8400 cloth1 0.1600 
+skin 3699 cloth0 1.0000 
+skin 3700 cloth0 1.0000 
+skin 3701 cloth0 1.0000 
+skin 3702 cloth0 1.0000 
+skin 3703 cloth0 1.0000 
+skin 3704 koshi 0.1200 cloth0 0.8800 
+skin 3705 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3706 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3707 cloth0 1.0000 
+skin 3708 cloth0 0.5000 kosi_nuno 0.5000 
+skin 3709 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3710 cloth0 0.8000 kosi_nuno 0.2000 
+skin 3711 jowan2_r 1.0000 
+skin 3712 jowan2_r 1.0000 
+skin 3713 jowan2_r 1.0000 
+skin 3714 jowan2_r 1.0000 
+skin 3715 jowan2_r 1.0000 
+skin 3716 jowan2_r 1.0000 
+skin 3717 jowan2_r 1.0000 
+skin 3718 jowan2_r 1.0000 
+skin 3719 jowan2_r 1.0000 
+skin 3720 jowan2_r 1.0000 
+skin 3721 jowan2_r 1.0000 
+skin 3722 jowan2_r 1.0000 
+skin 3723 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3724 cloth0 0.7000 kosi_nuno 0.3000 
+skin 3725 cloth0 0.9000 kosi_nuno 0.1000 
+skin 3726 sune_l 1.0000 
+skin 3727 koshi 0.2800 cloth0 0.2800 momo_r 0.4400 
+skin 3728 koshi 0.8000 momo_r 0.2000 
+skin 3729 cloth0 0.7000 momo_r 0.1500 cloth1 0.1500 
+skin 3730 cloth0 0.7000 momo_r 0.1500 cloth1 0.1500 
+skin 3731 koshi 0.4100 momo_r 0.4200 cloth1 0.1700 
+skin 3732 hara0 1.0000 
+skin 3733 hara0 1.0000 
+skin 3734 koshi 0.7700 momo_r 0.2300 
+skin 3735 hara0 1.0000 
+skin 3736 momo_r 0.0600 cloth1 0.9400 
+skin 3737 cloth0 0.0300 momo_r 0.1900 cloth1 0.7800 
+skin 3738 momo_r 0.0800 cloth1 0.9200 
+skin 3739 cloth0 0.0400 momo_r 0.1800 cloth1 0.7800 
+skin 3740 cloth0 0.0600 momo_r 0.1800 cloth1 0.7600 
+skin 3741 cloth0 0.1400 momo_r 0.2600 cloth1 0.6000 
+skin 3742 cloth0 0.2000 momo_r 0.2300 cloth1 0.5700 
+skin 3743 cloth0 0.1000 momo_r 0.2800 cloth1 0.6200 
+skin 3744 momo_r 0.0800 cloth1 0.9200 
+skin 3745 momo_r 0.0900 cloth1 0.9100 
+skin 3746 cloth0 0.0200 momo_r 0.2000 cloth1 0.7800 
+skin 3747 cloth0 0.0700 momo_r 0.2900 cloth1 0.6400 
+skin 3748 cloth0 0.0900 momo_l 0.1700 cloth1 0.7400 
+skin 3749 momo_l 0.0800 cloth1 0.9200 
+skin 3750 momo_l 0.0800 cloth1 0.9200 
+skin 3751 cloth0 0.0600 momo_l 0.1800 cloth1 0.7600 
+skin 3752 koshi 0.1500 cloth0 0.5500 momo_l 0.3000 
+skin 3753 koshi 0.1500 cloth0 0.5500 momo_l 0.3000 
+skin 3754 cloth0 0.2600 momo_l 0.4200 cloth1 0.3200 
+skin 3755 koshi 0.1500 cloth0 0.5500 momo_l 0.3000 
+skin 3756 cloth0 0.8000 momo_l 0.1000 cloth1 0.1000 
+skin 3757 cloth0 0.4000 momo_l 0.3000 cloth1 0.3000 
+skin 3758 mune 0.4400 kubi 0.5600 
+skin 3759 mune 0.3500 kata_r 0.0100 kubi 0.6400 
+skin 3760 mune 0.3500 kata_l 0.0100 kubi 0.6400 
+skin 3761 mune 0.4400 kubi 0.5600 
+skin 3762 mune 0.1200 kubi 0.8800 
+skin 3763 mune 0.5200 kubi 0.4800 
+skin 3764 mune 0.5200 kubi 0.4800 
+skin 3765 mune 0.3000 kubi 0.7000 
+skin 3766 mune 0.3000 kubi 0.7000 
+skin 3767 mune 0.0800 kubi 0.9200 
+skin 3768 cloth0 0.0200 momo_r 0.0600 cloth1 0.9200 
+skin 3769 momo_r 0.1000 cloth1 0.9000 
+skin 3770 cloth0 0.0200 momo_r 0.0600 cloth1 0.9200 
+skin 3771 cloth0 0.1000 momo_r 0.1500 cloth1 0.7500 
+skin 3772 momo_r 0.1300 cloth1 0.8700 
+skin 3773 cloth0 0.0200 momo_r 0.0600 cloth1 0.9200 
+skin 3774 momo_r 0.1100 cloth1 0.8900 
+skin 3775 momo_r 0.0900 cloth1 0.9100 
+skin 3776 koshi 0.1500 cloth0 0.5500 momo_r 0.3000 
+skin 3777 koshi 0.1500 cloth0 0.5500 momo_r 0.3000 
+skin 3778 koshi 0.3400 cloth0 0.0500 momo_r 0.6100 
+skin 3779 koshi 0.1500 cloth0 0.5500 momo_r 0.3000 
+skin 3780 koshi 0.2100 kosi_cloth 0.7900 
+skin 3781 koshi 0.3200 kosi_cloth 0.6800 
+skin 3782 koshi 0.2200 kosi_cloth 0.7800 
+skin 3783 koshi 0.3100 kosi_cloth 0.6900 
+skin 3784 koshi 0.3200 kosi_cloth 0.6800 
+skin 3785 koshi 0.5800 kosi_cloth 0.4200 
+skin 3786 koshi 0.6100 kosi_cloth 0.3900 
+skin 3787 koshi 0.3100 kosi_cloth 0.6900 
+skin 3788 koshi 0.2200 kosi_cloth 0.7800 
+skin 3789 koshi 0.3200 kosi_cloth 0.6800 
+skin 3790 koshi 0.2100 kosi_cloth 0.7900 
+skin 3791 koshi 0.2200 kosi_cloth 0.7800 
+skin 3792 koshi 0.3200 kosi_cloth 0.6800 
+skin 3793 koshi 0.6100 kosi_cloth 0.3900 
+skin 3794 koshi 0.5800 kosi_cloth 0.4200 
+skin 3795 koshi 0.6000 kosi_cloth 0.4000 
+skin 3796 koshi 0.6000 kosi_cloth 0.4000 
+skin 3797 koshi 0.2200 kosi_cloth 0.7800 
+skin 3798 koshi 0.5600 kosi_cloth 0.4400 
+skin 3799 koshi 0.3400 kosi_cloth 0.6600 
+skin 3800 koshi 0.3400 kosi_cloth 0.6600 
+skin 3801 koshi 0.5600 kosi_cloth 0.4400 
+skin 3802 koshi 0.1800 kosi_cloth 0.8200 
+skin 3803 koshi 0.1100 kosi_cloth 0.8900 
+skin 3804 koshi 0.0800 kosi_cloth 0.9200 
+skin 3805 koshi 0.3200 kosi_cloth 0.6800 
+skin 3806 koshi 0.6800 kosi_cloth 0.3200 
+skin 3807 koshi 0.6200 kosi_cloth 0.3800 
+skin 3808 koshi 0.1900 kosi_cloth 0.8100 
+skin 3809 koshi 0.1100 kosi_cloth 0.8900 
+skin 3810 koshi 0.1800 kosi_cloth 0.8200 
+skin 3811 koshi 0.0800 kosi_cloth 0.9200 
+skin 3812 koshi 0.6800 kosi_cloth 0.3200 
+skin 3813 koshi 0.2700 cloth0 0.4400 momo_l 0.2900 
+skin 3814 koshi 0.1800 cloth0 0.8200 
+skin 3815 koshi 0.2500 cloth0 0.6000 momo_l 0.1500 
+skin 3816 koshi 0.3200 cloth0 0.6800 
+skin 3817 koshi 0.1700 cloth0 0.8300 
+skin 3818 koshi 0.0700 cloth0 0.9300 
+skin 3819 koshi 0.0700 cloth0 0.9300 
+skin 3820 koshi 0.0700 cloth0 0.9300 
+skin 3821 cloth0 0.0200 momo_l 0.2000 cloth1 0.7800 
+skin 3822 momo_l 0.0900 cloth1 0.9100 
+skin 3823 momo_l 0.0800 cloth1 0.9200 
+skin 3824 cloth0 0.0300 momo_l 0.1900 cloth1 0.7800 
+skin 3825 cloth0 0.0400 momo_l 0.1800 cloth1 0.7800 
+skin 3826 momo_l 0.0600 cloth1 0.9400 
+skin 3827 koshi 0.8000 momo_l 0.2000 
+skin 3828 hara0 1.0000 
+skin 3829 hara0 1.0000 
+skin 3830 hara0 1.0000 
+skin 3831 hara0 1.0000 
+skin 3832 cloth0 0.2500 hara0 0.7500 
+skin 3833 hara0 1.0000 
+skin 3834 koshi 0.8000 momo_r 0.2000 
+skin 3835 hara0 1.0000 
+skin 3836 hara0 1.0000 
+skin 3837 hara0 1.0000 
+skin 3838 hara0 1.0000 
+skin 3839 hara0 1.0000 
+skin 3840 hara0 1.0000 
+skin 3841 koshi 0.1000 cloth0 0.9000 
+skin 3842 cloth0 0.5100 hara0 0.3300 kosi_cloth_r 0.1600 
+skin 3843 koshi 0.1000 cloth0 0.8000 kosi_cloth_r 0.1000 
+skin 3844 cloth0 1.0000 
+skin 3845 cloth0 1.0000 
+skin 3846 cloth0 1.0000 
+skin 3847 koshi 0.2000 cloth0 0.8000 
+skin 3848 cloth0 1.0000 
+skin 3849 koshi 0.2000 cloth0 0.8000 
+skin 3850 koshi 0.2000 cloth0 0.8000 
+skin 3851 cloth0 1.0000 
+skin 3852 koshi 0.2000 cloth0 0.8000 
+skin 3853 cloth0 1.0000 
+skin 3854 cloth0 1.0000 
+skin 3855 cloth0 0.0500 hara0 0.9500 
+skin 3856 hara0 1.0000 
+skin 3857 hara0 1.0000 
+skin 3858 kosi_cloth_l 1.0000 
+skin 3859 cloth0 0.0900 hara0 0.9100 
+skin 3860 cloth0 0.2500 hara0 0.7500 
+skin 3861 hara0 1.0000 
+skin 3862 cloth0 0.5100 hara0 0.3300 kosi_cloth_l 0.1600 
+skin 3863 koshi 0.1000 cloth0 0.8000 kosi_cloth_l 0.1000 
+skin 3864 hara0 1.0000 
+skin 3865 hara0 1.0000 
+skin 3866 hara0 1.0000 
+skin 3867 hara0 1.0000 
+skin 3868 hara0 1.0000 
+skin 3869 kosi_cloth_l 1.0000 
+skin 3870 kosi_cloth_l 1.0000 
+skin 3871 kosi_cloth_l 1.0000 
+skin 3872 kosi_cloth_l 1.0000 
+skin 3873 kosi_cloth_l 1.0000 
+skin 3874 kosi_cloth_l 1.0000 
+skin 3875 kosi_cloth_l 1.0000 
+skin 3876 kosi_cloth_l 1.0000 
+skin 3877 kosi_cloth_l 1.0000 
+skin 3878 kosi_cloth_l 1.0000 
+skin 3879 kosi_cloth_l 1.0000 
+skin 3880 kosi_cloth_l 1.0000 
+skin 3881 kosi_cloth_l 1.0000 
+skin 3882 kosi_cloth_l 1.0000 
+skin 3883 kosi_cloth_l 1.0000 
+skin 3884 kosi_cloth_l 1.0000 
+skin 3885 kosi_cloth_l 1.0000 
+skin 3886 kosi_cloth_l 1.0000 
+skin 3887 kosi_cloth_l 1.0000 
+skin 3888 kosi_cloth_l 1.0000 
+skin 3889 cloth0 0.5000 kosi_cloth_l 0.5000 
+skin 3890 cloth0 0.3000 kosi_cloth_l 0.7000 
+skin 3891 cloth0 0.2500 momo_l 0.2500 cloth1 0.5000 
+skin 3892 cloth0 0.2500 momo_l 0.2500 cloth1 0.5000 
+skin 3893 koshi 0.4100 momo_l 0.4200 cloth1 0.1700 
+skin 3894 koshi 0.7700 momo_l 0.2300 
+skin 3895 cloth0 0.0600 hara0 0.9400 
+skin 3896 hara0 1.0000 
+skin 3897 kosi_cloth 0.3500 momo_l 0.1500 cloth1 0.5000 
+skin 3898 kosi_cloth 0.6500 momo_l 0.1200 cloth1 0.2300 
+skin 3899 koshi 0.3300 kosi_cloth 0.5200 cloth1 0.1500 
+skin 3900 koshi 0.3300 kosi_cloth 0.5200 cloth1 0.1500 
+skin 3901 momo_r 0.0800 cloth1 0.9200 
+skin 3902 cloth0 0.0900 momo_r 0.1700 cloth1 0.7400 
+skin 3903 cloth0 0.4800 momo_r 0.2300 cloth1 0.2900 
+skin 3904 cloth0 0.8000 momo_r 0.1000 cloth1 0.1000 
+skin 3905 cloth0 0.8000 momo_r 0.1000 cloth1 0.1000 
+skin 3906 cloth0 0.3500 momo_r 0.3000 cloth1 0.3500 
+skin 3907 koshi 0.2000 cloth0 0.6500 momo_r 0.1500 
+skin 3908 koshi 0.2000 cloth0 0.6500 momo_l 0.1500 
+skin 3909 kawan0_l 1.0000 
+skin 3910 kawan0_l 1.0000 
+skin 3911 kawan0_l 1.0000 
+skin 3912 kawan0_l 1.0000 
+skin 3913 kawan0_l 1.0000 
+skin 3914 kawan0_l 1.0000 
+skin 3915 kawan0_l 1.0000 
+skin 3916 kawan0_l 1.0000 
+skin 3917 kawan0_l 1.0000 
+skin 3918 kawan0_l 1.0000 
+skin 3919 kawan0_l 1.0000 
+skin 3920 kawan0_l 1.0000 
+skin 3921 kawan0_r 1.0000 
+skin 3922 kawan0_r 1.0000 
+skin 3923 kawan0_r 1.0000 
+skin 3924 kawan0_r 1.0000 
+skin 3925 kawan0_r 1.0000 
+skin 3926 kawan0_r 1.0000 
+skin 3927 kawan0_r 1.0000 
+skin 3928 kawan0_r 1.0000 
+skin 3929 kawan0_r 1.0000 
+skin 3930 kawan0_r 1.0000 
+skin 3931 kawan0_r 1.0000 
+skin 3932 kawan0_r 1.0000 
+skin 3933 kawan0_r 1.0000 
+skin 3934 kawan0_r 1.0000 
+skin 3935 kawan0_r 1.0000 
+skin 3936 kawan0_r 1.0000 
+skin 3937 kawan0_r 1.0000 
+skin 3938 kawan0_r 1.0000 
+skin 3939 kawan0_r 1.0000 
+skin 3940 kawan0_r 1.0000 
+skin 3941 kawan0_r 1.0000 
+skin 3942 kawan0_r 1.0000 
+skin 3943 kawan0_r 1.0000 
+skin 3944 kawan0_r 1.0000 
+skin 3945 kawan0_r 1.0000 
+skin 3946 kawan0_r 1.0000 
+skin 3947 kawan0_r 1.0000 
+skin 3948 kawan0_r 1.0000 
+skin 3949 kawan0_r 1.0000 
+skin 3950 kawan0_r 1.0000 
+skin 3951 kawan0_r 1.0000 
+skin 3952 kawan0_r 1.0000 
+skin 3953 kawan0_r 1.0000 
+skin 3954 kawan0_r 1.0000 
+skin 3955 kawan0_r 1.0000 
+skin 3956 kawan0_r 1.0000 
+skin 3957 kawan0_l 1.0000 
+skin 3958 kawan0_l 1.0000 
+skin 3959 kawan0_l 1.0000 
+skin 3960 kawan0_l 1.0000 
+skin 3961 kawan0_l 1.0000 
+skin 3962 kawan0_l 1.0000 
+skin 3963 kawan0_l 1.0000 
+skin 3964 kawan0_l 1.0000 
+skin 3965 kawan0_l 1.0000 
+skin 3966 kawan0_l 1.0000 
+skin 3967 kawan0_l 1.0000 
+skin 3968 kawan0_l 1.0000 
+skin 3969 kawan0_l 1.0000 
+skin 3970 kawan0_l 1.0000 
+skin 3971 kawan0_l 1.0000 
+skin 3972 kawan0_l 1.0000 
+skin 3973 kawan0_l 1.0000 
+skin 3974 kawan0_l 1.0000 
+skin 3975 kawan0_l 1.0000 
+skin 3976 kawan0_l 1.0000 
+skin 3977 kawan0_l 1.0000 
+skin 3978 kawan0_l 1.0000 
+skin 3979 kawan0_l 1.0000 
+skin 3980 kawan0_l 1.0000 
+skin 3981 kawan0_r 1.0000 
+skin 3982 kawan0_r 1.0000 
+skin 3983 kawan0_r 1.0000 
+skin 3984 kawan0_r 1.0000 
+skin 3985 kawan0_r 1.0000 
+skin 3986 kawan0_r 1.0000 
+skin 3987 kawan0_r 1.0000 
+skin 3988 kawan0_r 1.0000 
+skin 3989 kawan0_r 1.0000 
+skin 3990 kawan0_r 1.0000 
+skin 3991 kawan0_r 1.0000 
+skin 3992 kawan0_r 1.0000 
+skin 3993 kawan0_r 1.0000 
+skin 3994 kawan0_r 1.0000 
+skin 3995 kawan0_r 1.0000 
+skin 3996 kawan0_r 1.0000 
+skin 3997 kawan0_r 1.0000 
+skin 3998 kawan0_r 1.0000 
+skin 3999 kawan0_r 1.0000 
+skin 4000 kawan0_r 1.0000 
+skin 4001 kawan0_r 1.0000 
+skin 4002 kawan0_r 1.0000 
+skin 4003 kawan0_r 1.0000 
+skin 4004 kawan0_l 1.0000 
+skin 4005 kawan0_l 1.0000 
+skin 4006 kawan0_l 1.0000 
+skin 4007 kawan0_l 1.0000 
+skin 4008 kawan0_l 1.0000 
+skin 4009 kawan0_l 1.0000 
+skin 4010 kawan0_l 1.0000 
+skin 4011 kawan0_l 1.0000 
+skin 4012 kawan0_l 1.0000 
+skin 4013 kawan0_l 1.0000 
+skin 4014 kawan0_l 1.0000 
+skin 4015 kawan0_l 1.0000 
+skin 4016 kawan0_r 1.0000 
+skin 4017 kawan0_r 1.0000 
+skin 4018 kawan0_r 1.0000 
+skin 4019 kawan0_r 1.0000 
+skin 4020 kawan0_r 1.0000 
+skin 4021 kawan0_r 1.0000 
+skin 4022 kawan0_r 1.0000 
+skin 4023 kawan0_r 1.0000 
+skin 4024 kawan0_r 1.0000 
+skin 4025 kawan0_r 1.0000 
+skin 4026 kawan0_r 1.0000 
+skin 4027 kawan0_r 1.0000 
+skin 4028 kawan0_l 1.0000 
+skin 4029 kawan0_l 1.0000 
+skin 4030 kawan0_l 1.0000 
+skin 4031 kawan0_l 1.0000 
+skin 4032 kawan0_l 1.0000 
+skin 4033 kawan0_l 1.0000 
+skin 4034 kawan0_l 1.0000 
+skin 4035 kawan0_l 1.0000 
+skin 4036 kawan0_l 1.0000 
+skin 4037 kawan0_l 1.0000 
+skin 4038 kawan0_l 1.0000 
+skin 4039 kawan0_l 1.0000 
+skin 4040 kawan0_l 1.0000 
+skin 4041 kawan0_l 1.0000 
+skin 4042 kawan0_l 1.0000 
+skin 4043 kawan0_l 1.0000 
+skin 4044 kawan0_l 1.0000 
+skin 4045 kawan0_l 1.0000 
+skin 4046 kawan0_l 1.0000 
+skin 4047 kawan0_l 1.0000 
+skin 4048 kawan0_l 1.0000 
+skin 4049 kawan0_l 1.0000 
+skin 4050 kawan0_l 1.0000 
+skin 4051 kawan0_r 1.0000 
+skin 4052 kawan0_r 1.0000 
+skin 4053 kawan0_r 1.0000 
+skin 4054 kawan0_r 1.0000 
+skin 4055 kawan0_r 1.0000 
+skin 4056 kawan0_r 1.0000 
+skin 4057 kawan0_r 1.0000 
+skin 4058 kawan0_r 1.0000 
+skin 4059 kawan0_r 1.0000 
+skin 4060 kawan0_r 1.0000 
+skin 4061 kawan0_r 1.0000 
+skin 4062 kawan0_l 1.0000 
+skin 4063 kawan0_l 1.0000 
+skin 4064 kawan0_l 1.0000 
+skin 4065 kawan0_l 1.0000 
+skin 4066 kawan0_l 1.0000 
+skin 4067 kawan0_l 1.0000 
+skin 4068 kawan0_l 1.0000 
+skin 4069 kawan0_l 1.0000 
+skin 4070 kawan0_l 1.0000 
+skin 4071 kawan0_l 1.0000 
+skin 4072 kawan0_l 1.0000 
+skin 4073 kawan0_l 1.0000 
+skin 4074 kawan0_l 1.0000 
+skin 4075 kawan0_l 1.0000 
+skin 4076 kawan0_l 1.0000 
+skin 4077 kawan0_l 1.0000 
+skin 4078 kawan0_l 1.0000 
+skin 4079 kawan0_l 1.0000 
+skin 4080 kawan0_l 1.0000 
+skin 4081 kawan0_l 1.0000 
+skin 4082 kawan0_l 1.0000 
+skin 4083 kawan0_l 1.0000 
+skin 4084 kawan0_l 1.0000 
+skin 4085 kawan0_l 1.0000 
+skin 4086 kawan0_r 1.0000 
+skin 4087 kawan0_r 1.0000 
+skin 4088 kawan0_r 1.0000 
+skin 4089 kawan0_r 1.0000 
+skin 4090 kawan0_r 1.0000 
+skin 4091 kawan0_r 1.0000 
+skin 4092 kawan0_r 1.0000 
+skin 4093 kawan0_r 1.0000 
+skin 4094 kawan0_r 1.0000 
+skin 4095 kawan0_r 1.0000 
+skin 4096 kawan0_l 1.0000 
+skin 4097 kawan0_l 1.0000 
+skin 4098 kawan0_l 1.0000 
+skin 4099 kawan0_l 1.0000 
+skin 4100 kawan0_l 1.0000 
+skin 4101 kawan0_l 1.0000 
+skin 4102 kawan0_l 1.0000 
+skin 4103 kawan0_l 1.0000 
+skin 4104 kawan0_l 1.0000 
+skin 4105 kawan0_l 1.0000 
+skin 4106 kawan0_r 1.0000 
+skin 4107 kawan0_r 1.0000 
+skin 4108 kawan0_r 1.0000 
+skin 4109 kawan0_l 1.0000 
+skin 4110 kawan0_l 1.0000 
+skin 4111 kawan0_l 1.0000 
+skin 4112 kawan0_l 1.0000 
+skin 4113 kawan0_l 1.0000 
+skin 4114 kawan0_l 1.0000 
+skin 4115 kawan0_l 1.0000 
+skin 4116 kawan0_l 1.0000 
+skin 4117 kawan0_l 1.0000 
+skin 4118 kawan0_l 1.0000 
+skin 4119 kawan0_l 1.0000 
+skin 4120 kawan0_l 1.0000 
+skin 4121 kawan0_l 1.0000 
+skin 4122 kawan0_l 1.0000 
+skin 4123 kawan0_r 1.0000 
+skin 4124 kawan0_r 1.0000 
+skin 4125 kawan0_r 1.0000 
+skin 4126 kawan0_r 1.0000 
+skin 4127 kawan0_r 1.0000 
+skin 4128 kawan0_r 1.0000 
+skin 4129 kawan0_r 1.0000 
+skin 4130 kawan0_r 1.0000 
+skin 4131 kawan0_r 1.0000 
+skin 4132 kawan0_r 1.0000 
+skin 4133 kawan0_l 1.0000 
+skin 4134 kawan0_l 1.0000 
+skin 4135 kawan0_l 1.0000 
+skin 4136 kawan0_r 1.0000 
+skin 4137 kawan0_r 1.0000 
+skin 4138 kawan0_r 1.0000 
+skin 4139 kawan0_r 1.0000 
+skin 4140 kawan0_r 1.0000 
+skin 4141 kawan0_r 1.0000 
+skin 4142 kawan0_r 1.0000 
+skin 4143 kawan0_r 1.0000 
+skin 4144 kawan0_r 1.0000 
+skin 4145 kawan0_r 1.0000 
+skin 4146 kawan0_r 1.0000 
+skin 4147 kawan0_r 1.0000 
+skin 4148 kawan0_r 1.0000 
+skin 4149 kawan0_r 1.0000 
+skin 4150 kawan0_r 1.0000 
+skin 4151 kawan0_r 1.0000 
+skin 4152 kawan0_r 1.0000 
+skin 4153 kawan0_r 1.0000 
+skin 4154 kawan0_r 1.0000 
+skin 4155 kawan0_r 1.0000 
+skin 4156 kawan0_r 1.0000 
+skin 4157 kawan0_r 1.0000 
+skin 4158 kawan0_l 1.0000 
+skin 4159 kawan0_l 1.0000 
+skin 4160 kawan0_l 1.0000 
+skin 4161 kawan0_l 1.0000 
+skin 4162 kawan0_l 1.0000 
+skin 4163 kawan0_l 1.0000 
+skin 4164 kawan0_l 1.0000 
+skin 4165 kawan0_l 1.0000 
+skin 4166 kawan0_l 1.0000 
+skin 4167 kawan0_l 1.0000 
+skin 4168 kawan0_l 1.0000 
+skin 4169 kawan0_l 1.0000 
+skin 4170 kawan0_l 1.0000 
+skin 4171 kawan0_l 1.0000 
+skin 4172 kawan0_l 1.0000 
+skin 4173 kawan0_r 1.0000 
+skin 4174 kawan0_r 1.0000 
+skin 4175 kawan0_r 1.0000 
+skin 4176 kawan0_r 1.0000 
+skin 4177 kawan0_r 1.0000 
+skin 4178 kawan0_r 1.0000 
+skin 4179 kawan0_l 1.0000 
+skin 4180 kawan0_l 1.0000 
+skin 4181 kawan0_l 1.0000 
+skin 4182 kawan0_l 1.0000 
+skin 4183 kawan0_l 1.0000 
+skin 4184 kawan0_l 1.0000 
+skin 4185 kawan0_l 1.0000 
+skin 4186 kawan0_l 1.0000 
+skin 4187 kawan0_l 1.0000 
+skin 4188 kawan0_l 1.0000 
+skin 4189 kawan0_r 1.0000 
+skin 4190 kawan0_r 1.0000 
+skin 4191 kawan0_r 1.0000 
+skin 4192 kawan0_r 1.0000 
+skin 4193 kawan0_r 1.0000 
+skin 4194 kawan0_l 1.0000 
+skin 4195 kawan0_l 1.0000 
+skin 4196 kawan0_l 1.0000 
+skin 4197 kawan0_l 1.0000 
+skin 4198 kawan0_r 1.0000 
+skin 4199 kawan0_r 1.0000 
+skin 4200 kawan0_r 1.0000 
+skin 4201 kawan0_r 1.0000 
+skin 4202 kawan0_r 1.0000 
+skin 4203 kawan0_r 1.0000 
+skin 4204 kawan0_r 1.0000 
+skin 4205 kawan0_r 1.0000 
+skin 4206 kawan0_l 1.0000 
+skin 4207 kawan0_l 1.0000 
+skin 4208 kawan0_l 1.0000 
+skin 4209 kawan0_l 1.0000 
+skin 4210 kawan0_l 1.0000 
+skin 4211 kawan0_l 1.0000 
+skin 4212 kawan0_l 1.0000 
+skin 4213 kawan0_l 1.0000 
+skin 4214 kawan0_l 1.0000 
+skin 4215 kawan0_l 1.0000 
+skin 4216 kawan0_l 1.0000 
+skin 4217 kawan0_l 1.0000 
+skin 4218 kawan0_l 1.0000 
+skin 4219 kawan0_r 1.0000 
+skin 4220 kawan0_r 1.0000 
+skin 4221 kawan0_r 1.0000 
+skin 4222 kawan0_r 1.0000 
+skin 4223 kawan0_l 1.0000 
+skin 4224 kawan0_l 1.0000 
+skin 4225 kawan0_l 1.0000 
+skin 4226 kawan0_l 1.0000 
+skin 4227 kawan0_r 1.0000 
+skin 4228 kawan0_l 1.0000 
+skin 4229 kawan0_l 1.0000 
+skin 4230 kawan0_l 1.0000 
+skin 4231 kawan0_l 1.0000 
+skin 4232 kawan0_r 1.0000 
+skin 4233 kawan0_r 1.0000 
+skin 4234 kawan0_l 1.0000 
+skin 4235 kawan0_l 1.0000 
+skin 4236 kawan0_l 1.0000 
+skin 4237 koshi 0.6200 kosi_cloth 0.3800 
+skin 4238 koshi 0.4300 kosi_cloth 0.5700 
+skin 4239 koshi 0.6500 kosi_cloth 0.3500 
+skin 4240 koshi 0.4700 kosi_cloth 0.5300 
+skin 4241 koshi 0.6500 kosi_cloth 0.3500 
+skin 4242 koshi 0.4300 kosi_cloth 0.5700 
+skin 4243 kawan0_r 1.0000 
+skin 4244 kawan0_r 1.0000 
+skin 4245 kawan0_r 1.0000 
+skin 4246 kawan0_l 1.0000 
+skin 4247 kawan0_r 1.0000 
+skin 4248 kawan0_r 1.0000 
+skin 4249 kawan0_r 1.0000 
+skin 4250 kawan0_l 1.0000 
+skin 4251 kawan0_l 1.0000 
+skin 4252 kawan0_l 1.0000 
+skin 4253 kawan0_l 1.0000 
+skin 4254 kawan0_r 1.0000 
+skin 4255 kawan0_r 1.0000 
+skin 4256 kawan0_r 1.0000 
+skin 4257 kawan0_l 1.0000 
+skin 4258 kawan0_r 1.0000 
+skin 4259 kawan0_r 1.0000 
+skin 4260 kawan0_r 1.0000 
+skin 4261 kawan0_r 1.0000 
+skin 4262 kawan0_r 1.0000 
+skin 4263 kawan0_r 1.0000 
+skin 4264 kawan0_r 1.0000 
+skin 4265 kawan0_r 1.0000 
+skin 4266 kawan0_l 1.0000 
+skin 4267 kawan0_l 1.0000 
+skin 4268 kawan0_l 1.0000 
+skin 4269 kawan0_r 1.0000 
+skin 4270 kawan0_r 1.0000 
+skin 4271 kawan0_r 1.0000 
+skin 4272 kawan0_r 1.0000 
+skin 4273 kawan0_r 1.0000 
+skin 4274 kawan0_r 1.0000 
+skin 4275 kawan0_r 1.0000 
+skin 4276 kawan0_r 1.0000 
+skin 4277 kawan0_r 1.0000 
+skin 4278 kawan0_r 1.0000 
+skin 4279 kawan0_l 1.0000 
+skin 4280 kawan0_l 1.0000 
+skin 4281 kawan0_l 1.0000 
+skin 4282 kawan0_l 1.0000 
+skin 4283 kawan0_l 1.0000 
+skin 4284 kawan0_l 1.0000 
+skin 4285 kawan0_l 1.0000 
+skin 4286 kawan0_l 1.0000 
+skin 4287 kawan0_l 1.0000 
+skin 4288 kawan0_l 1.0000 
+skin 4289 kawan0_l 1.0000 
+skin 4290 kawan0_l 1.0000 
+skin 4291 kawan0_l 1.0000 
+skin 4292 kawan0_l 1.0000 
+skin 4293 kawan0_l 1.0000 
+skin 4294 kawan0_l 1.0000 
+skin 4295 kawan0_l 1.0000 
+skin 4296 kawan0_r 1.0000 
+skin 4297 kawan0_r 1.0000 
+skin 4298 kawan0_r 1.0000 
+skin 4299 kawan0_l 1.0000 
+skin 4300 kawan0_l 1.0000 
+skin 4301 kawan0_l 1.0000 
+skin 4302 kawan0_l 1.0000 
+skin 4303 kawan0_l 1.0000 
+skin 4304 kawan0_r 1.0000 
+skin 4305 kawan0_r 1.0000 
+skin 4306 kawan0_r 1.0000 
+skin 4307 kawan0_r 1.0000 
+skin 4308 kawan0_r 1.0000 
+skin 4309 kawan0_r 1.0000 
+skin 4310 kawan0_r 1.0000 
+skin 4311 kawan0_r 1.0000 
+skin 4312 kawan0_r 1.0000 
+skin 4313 kawan0_r 1.0000 
+skin 4314 kawan0_r 1.0000 
+skin 4315 kawan0_r 1.0000 
+skin 4316 jowan2_l 1.0000 
+skin 4317 jowan2_l 1.0000 
+skin 4318 jowan2_l 1.0000 
+skin 4319 jowan2_l 1.0000 
+skin 4320 kawan0_l 1.0000 
+skin 4321 kawan0_r 1.0000 
+skin 4322 kawan0_r 1.0000 
+skin 4323 kawan0_r 1.0000 
+skin 4324 kawan0_r 1.0000 
+skin 4325 kawan0_r 1.0000 
+skin 4326 kawan0_r 1.0000 
+skin 4327 kawan0_r 1.0000 
+skin 4328 kawan0_r 1.0000 
+skin 4329 kawan0_r 1.0000 
+skin 4330 kawan0_r 1.0000 
+skin 4331 kawan0_r 1.0000 
+skin 4332 kawan0_r 1.0000 
+skin 4333 kawan0_r 1.0000 
+skin 4334 kawan0_l 1.0000 
+skin 4335 kawan0_l 1.0000 
+skin 4336 kawan0_r 1.0000 
+skin 4337 kawan0_l 1.0000 
+skin 4338 kawan0_l 1.0000 
+skin 4339 kawan0_r 1.0000 
+skin 4340 kawan0_l 1.0000 
+skin 4341 kawan0_r 1.0000 
+skin 4342 kawan0_r 1.0000 
+skin 4343 kawan0_r 1.0000 
+skin 4344 kosi_cloth_r 1.0000 
+skin 4345 kosi_cloth_r 1.0000 
+skin 4346 kawan0_r 1.0000 
+skin 4347 kawan0_l 1.0000 
+skin 4348 kawan0_l 1.0000 
+skin 4349 kawan0_r 1.0000 
+skin 4350 koshi 0.3400 kosi_cloth 0.6600 
+skin 4351 koshi 0.3800 kosi_cloth 0.6200 
+skin 4352 koshi 0.3400 kosi_cloth 0.6600 
+skin 4353 kosi_cloth_r 1.0000 
+skin 4354 kosi_cloth_r 1.0000 
+skin 4355 kosi_cloth_r 1.0000 
+skin 4356 kawan0_l 1.0000 
+skin 4357 kawan0_l 1.0000 
+skin 4358 kosi_cloth_r 1.0000 
+skin 4359 kosi_cloth_r 1.0000 
+skin 4360 kosi_cloth_r 1.0000 
+skin 4361 kosi_cloth_r 1.0000 
+skin 4362 kawan0_r 1.0000 
+skin 4363 kosi_cloth_r 1.0000 
+skin 4364 kawan0_l 1.0000 
+skin 4365 kawan0_r 1.0000 
+skin 4366 kosi_cloth_r 1.0000 
+skin 4367 kosi_cloth_r 1.0000 
+skin 4368 kosi_cloth_r 1.0000 
+skin 4369 kosi_cloth_r 1.0000 
+skin 4370 jowan2_l 1.0000 
+skin 4371 jowan2_l 1.0000 
+skin 4372 jowan2_l 1.0000 
+skin 4373 jowan2_l 1.0000 
+skin 4374 jowan2_l 1.0000 
+skin 4375 jowan2_l 1.0000 
+skin 4376 jowan2_l 1.0000 
+skin 4377 jowan2_l 1.0000 
+skin 4378 koshi 0.2600 kosi_cloth 0.7400 
+skin 4379 koshi 0.3700 kosi_cloth 0.6300 
+skin 4380 koshi 0.3700 kosi_cloth 0.6300 
+skin 4381 koshi 0.2600 kosi_cloth 0.7400 
+skin 4382 koshi 0.3400 kosi_cloth 0.6600 
+skin 4383 koshi 0.2300 kosi_cloth 0.7700 
+skin 4384 koshi 0.2200 kosi_cloth 0.7800 
+skin 4385 koshi 0.2200 kosi_cloth 0.7800 
+skin 4386 koshi 0.3400 kosi_cloth 0.6600 
+skin 4387 koshi 0.2300 kosi_cloth 0.7700 
+skin 4388 koshi 0.0300 kosi_cloth 0.9700 
+skin 4389 kosi_cloth 1.0000 
+skin 4390 kosi_cloth 1.0000 
+skin 4391 kosi_cloth 1.0000 
+skin 4392 koshi 0.1000 kosi_cloth 0.9000 
+skin 4393 koshi 0.0500 kosi_cloth 0.9500 
+skin 4394 kosi_cloth 1.0000 
+skin 4395 koshi 0.0300 kosi_cloth 0.9700 
+skin 4396 kosi_cloth 1.0000 
+skin 4397 kosi_cloth 1.0000 
+skin 4398 koshi 0.1000 kosi_cloth 0.9000 
+skin 4399 koshi 0.0500 kosi_cloth 0.9500 
+skin 4400 kosi_cloth 1.0000 
+skin 4401 koshi 0.0500 kosi_cloth 0.9500 
+skin 4402 koshi 0.1000 kosi_cloth 0.9000 
+skin 4403 kosi_cloth 1.0000 
+skin 4404 kosi_cloth 1.0000 
+skin 4405 kosi_cloth 1.0000 
+skin 4406 koshi 0.0300 kosi_cloth 0.9700 
+skin 4407 koshi 0.0100 kosi_cloth 0.9900 
+skin 4408 koshi 0.0100 kosi_cloth 0.9900 
+skin 4409 koshi 0.0100 kosi_cloth 0.9900 
+skin 4410 koshi 0.1000 kosi_cloth 0.9000 
+skin 4411 koshi 0.0500 kosi_cloth 0.9500 
+skin 4412 koshi 0.0300 kosi_cloth 0.9700 
+skin 4413 kosi_cloth 1.0000 
+skin 4414 kosi_cloth 1.0000 
+skin 4415 kosi_cloth 1.0000 
+skin 4416 koshi 0.0100 kosi_cloth 0.9900 
+skin 4417 kosi_cloth 1.0000 
+skin 4418 kosi_cloth 1.0000 
+skin 4419 kosi_cloth 1.0000 
+skin 4420 kosi_cloth 1.0000 
+skin 4421 kosi_cloth 1.0000 
+skin 4422 kosi_cloth 1.0000 
+skin 4423 kosi_cloth 1.0000 
+skin 4424 kosi_cloth 1.0000 
+skin 4425 kosi_cloth 1.0000 
+skin 4426 kosi_cloth 1.0000 
+skin 4427 koshi 0.2700 kosi_cloth 0.7300 
+skin 4428 koshi 0.2700 kosi_cloth 0.7300 
+skin 4429 koshi 0.5800 kosi_cloth 0.4200 
+skin 4430 koshi 0.5700 kosi_cloth 0.4300 
+skin 4431 koshi 0.5800 kosi_cloth 0.4200 
+skin 4432 koshi 0.5600 kosi_cloth 0.4400 
+skin 4433 koshi 0.5600 kosi_cloth 0.4400 
+skin 4434 koshi 0.5700 kosi_cloth 0.4300 
+skin 4435 kosi_nuno 1.0000 
+skin 4436 cloth0 0.1500 kosi_nuno 0.8500 
+skin 4437 kosi_nuno 1.0000 
+skin 4438 cloth0 0.1500 kosi_nuno 0.8500 
+skin 4439 cloth0 0.1500 kosi_nuno 0.8500 
+skin 4440 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4441 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4442 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4443 cloth0 0.4000 kosi_nuno 0.6000 
+skin 4444 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4445 cloth0 0.4000 kosi_nuno 0.6000 
+skin 4446 cloth0 0.4000 kosi_nuno 0.6000 
+skin 4447 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4448 cloth0 0.4000 kosi_nuno 0.6000 
+skin 4449 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4450 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4451 kosi_nuno 1.0000 
+skin 4452 cloth0 0.1500 kosi_nuno 0.8500 
+skin 4453 kosi_nuno 1.0000 
+skin 4454 kosi_nuno 1.0000 
+skin 4455 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4456 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4457 cloth0 0.3000 kosi_nuno 0.7000 
+skin 4458 cloth0 0.4000 kosi_nuno 0.6000 
+skin 4459 cloth0 0.1500 kosi_nuno 0.8500 
+skin 4460 cloth0 0.4000 momo_r 0.3000 cloth1 0.3000 
+skin 4461 cloth0 0.2600 momo_r 0.4200 cloth1 0.3200 
+skin 4462 cloth0 0.2600 momo_r 0.3400 cloth1 0.4000 
+skin 4463 cloth0 0.2100 momo_r 0.3600 cloth1 0.4300 
+skin 4464 koshi 0.6500 kosi_cloth 0.3500 
+skin 4465 koshi 0.6500 kosi_cloth 0.3500 
+skin 4466 koshi 0.8000 kosi_cloth 0.2000 
+skin 4467 koshi 0.7200 kosi_cloth 0.2800 
+skin 4468 koshi 0.8000 kosi_cloth 0.2000 
+skin 4469 momo_l 0.0500 momo_r 0.0400 cloth1 0.9100 
+skin 4470 cloth0 0.5000 momo_r 0.0700 cloth1 0.4300 
+skin 4471 momo_l 0.0600 momo_r 0.0600 cloth1 0.8800 
+skin 4472 kosi_cloth 1.0000 
+skin 4473 kosi_cloth 1.0000 
+skin 4474 kosi_cloth 1.0000 
+skin 4475 kosi_cloth 1.0000 
+skin 4476 kosi_cloth 1.0000 
+skin 4477 kosi_cloth 1.0000 
+skin 4478 kosi_cloth 1.0000 
+skin 4479 kosi_cloth 1.0000 
+skin 4480 kosi_cloth 1.0000 
+skin 4481 kosi_cloth 1.0000 
+skin 4482 kosi_cloth 1.0000 
+skin 4483 kosi_cloth 1.0000 
+skin 4484 kosi_cloth 1.0000 
+skin 4485 kosi_cloth 0.3500 momo_l 0.1500 cloth1 0.5000 
+skin 4486 kosi_cloth 0.3100 momo_l 0.1900 cloth1 0.5000 
+skin 4487 kosi_cloth 0.3200 momo_l 0.1800 cloth1 0.5000 
+skin 4488 koshi 0.4000 kosi_cloth 0.6000 
+skin 4489 kosi_cloth 1.0000 
+skin 4490 kosi_cloth 1.0000 
+skin 4491 kosi_cloth 1.0000 
+skin 4492 kosi_cloth 1.0000 
+skin 4493 kosi_cloth 1.0000 
+skin 4494 kosi_cloth 1.0000 
+skin 4495 kosi_cloth 1.0000 
+skin 4496 kosi_cloth 1.0000 
+skin 4497 kosi_cloth 0.3500 momo_l 0.1500 cloth1 0.5000 
+skin 4498 kosi_cloth 1.0000 
+skin 4499 koshi 0.5100 kosi_cloth 0.4900 
+skin 4500 koshi 0.5100 kosi_cloth 0.4900 
+skin 4501 kosi_cloth 1.0000 
+skin 4502 koshi 0.1800 kosi_cloth 0.8200 
+skin 4503 koshi 0.1800 kosi_cloth 0.8200 
+skin 4504 kosi_cloth 1.0000 
+hier koshi cloth0
+hier koshi hara0
+hier koshi kosi_cloth
+hier koshi kosi_nuno
+hier koshi momo_l
+hier koshi momo_r
+hier cloth0 cloth1
+hier hara0 hara1
+hier momo_l sune_l
+hier momo_r sune_r
+hier hara1 hara2
+hier hara1 kosi_cloth_l
+hier hara1 kosi_cloth_r
+hier sune_l ashi_l
+hier sune_r ashi_r
+hier hara2 mune
+hier kosi_cloth_l alv_sheath
+hier mune kata_l
+hier mune kata_r
+hier mune kubi
+hier kata_l jowan0_l
+hier kata_r jowan0_r
+hier kubi crest
+hier kubi hair0
+hier kubi veil0
+hier jowan0_l jowan1_l
+hier jowan0_l jowan2_l
+hier jowan0_r jowan1_r
+hier jowan0_r jowan2_r
+hier hair0 hair1
+hier veil0 veil1
+hier jowan1_l kawan0_l
+hier jowan1_r kawan0_r
+hier kawan0_l te_l
+hier kawan0_r te_r
+hier te_l arms_l
+hier te_r arms_r

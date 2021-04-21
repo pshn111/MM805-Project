@@ -1,0 +1,815 @@
+joints skl_root 0.00000100 0.27363100 0.02446900
+joints chest_jnt 0.00000100 0.34507000 0.02446921
+joints Lclotch_jnt 0.07429180 0.24170900 0.02446887
+joints Rclotch_jnt -0.07430200 0.24170900 0.02446932
+joints Lshoulder_jnt 0.00000100 0.46454900 0.02446957
+joints Rshoulder_jnt 0.00000100 0.46454900 0.02446957
+joints neck_jnt 0.00000100 0.48041900 0.02446962
+joints LlegA_jnt 0.07429180 0.19154600 0.02446902
+joints RlegA_jnt -0.07430200 0.19154600 0.02446947
+joints LarmA_jnt 0.09120620 0.46454900 0.02446930
+joints RarmA_jnt -0.09120420 0.46467000 0.02447392
+joints head_jnt 0.00000100 0.50480100 0.02446969
+joints LlegB_jnt 0.07429180 0.10643300 0.02302535
+joints RlegB_jnt -0.07430200 0.10643500 0.02601125
+joints LarmB_jnt 0.24321500 0.46455000 0.02446889
+joints RarmB_jnt -0.24321300 0.46459400 0.02447146
+joints hair_jntA 0.00000113 0.83976300 0.06714590
+joints sideburnsL_jntA -0.13818900 0.69204400 0.02447951
+joints sideburnsR_jntA 0.13819100 0.69205400 0.02446313
+joints cl_LhandA 0.33442000 0.46455000 0.02446872
+joints cl_RhandA -0.33441800 0.46454700 0.02447025
+joints hair_jntB 0.00000148 0.83976000 0.18342800
+joints sideburnsL_jntB -0.13566100 0.58041200 0.02447995
+joints sideburnsR_jntB 0.13566900 0.58041200 0.02446358
+root skl_root
+skin 0 LlegB_jnt 1.0000 
+skin 1 LlegB_jnt 1.0000 
+skin 2 LlegA_jnt 1.0000 
+skin 3 LlegB_jnt 1.0000 
+skin 4 LlegA_jnt 1.0000 
+skin 5 LlegB_jnt 1.0000 
+skin 6 LlegA_jnt 0.5000 LlegB_jnt 0.5000 
+skin 7 LlegB_jnt 1.0000 
+skin 8 LlegB_jnt 1.0000 
+skin 9 LlegA_jnt 1.0000 
+skin 10 LlegB_jnt 1.0000 
+skin 11 LlegB_jnt 1.0000 
+skin 12 LlegA_jnt 1.0000 
+skin 13 LlegA_jnt 1.0000 
+skin 14 LlegA_jnt 1.0000 
+skin 15 LlegB_jnt 1.0000 
+skin 16 LlegA_jnt 0.5000 LlegB_jnt 0.5000 
+skin 17 LlegB_jnt 1.0000 
+skin 18 LlegB_jnt 1.0000 
+skin 19 RarmB_jnt 1.0000 
+skin 20 RarmB_jnt 1.0000 
+skin 21 RarmB_jnt 1.0000 
+skin 22 LlegA_jnt 1.0000 
+skin 23 LlegA_jnt 1.0000 
+skin 24 LlegA_jnt 1.0000 
+skin 25 LlegA_jnt 1.0000 
+skin 26 LlegB_jnt 1.0000 
+skin 27 LlegA_jnt 1.0000 
+skin 28 LlegB_jnt 1.0000 
+skin 29 LlegA_jnt 1.0000 
+skin 30 LlegA_jnt 1.0000 
+skin 31 RlegB_jnt 1.0000 
+skin 32 RlegA_jnt 1.0000 
+skin 33 RlegB_jnt 1.0000 
+skin 34 RlegA_jnt 1.0000 
+skin 35 RlegB_jnt 1.0000 
+skin 36 RlegA_jnt 0.5000 RlegB_jnt 0.5000 
+skin 37 RlegB_jnt 1.0000 
+skin 38 RlegB_jnt 1.0000 
+skin 39 RlegB_jnt 1.0000 
+skin 40 RlegA_jnt 1.0000 
+skin 41 RlegA_jnt 1.0000 
+skin 42 RlegA_jnt 1.0000 
+skin 43 RlegB_jnt 1.0000 
+skin 44 skl_root 1.0000 
+skin 45 skl_root 1.0000 
+skin 46 skl_root 1.0000 
+skin 47 skl_root 1.0000 
+skin 48 skl_root 1.0000 
+skin 49 skl_root 1.0000 
+skin 50 skl_root 1.0000 
+skin 51 RlegB_jnt 1.0000 
+skin 52 RlegA_jnt 1.0000 
+skin 53 RlegB_jnt 1.0000 
+skin 54 RlegA_jnt 1.0000 
+skin 55 RlegA_jnt 1.0000 
+skin 56 RlegA_jnt 1.0000 
+skin 57 RlegA_jnt 1.0000 
+skin 58 skl_root 1.0000 
+skin 59 RlegB_jnt 1.0000 
+skin 60 RlegB_jnt 1.0000 
+skin 61 RlegB_jnt 1.0000 
+skin 62 RlegA_jnt 1.0000 
+skin 63 RlegB_jnt 1.0000 
+skin 64 RlegA_jnt 1.0000 
+skin 65 RlegA_jnt 1.0000 
+skin 66 RlegB_jnt 1.0000 
+skin 67 cl_RhandA 1.0000 
+skin 68 cl_RhandA 1.0000 
+skin 69 cl_RhandA 1.0000 
+skin 70 cl_RhandA 1.0000 
+skin 71 cl_RhandA 1.0000 
+skin 72 cl_RhandA 1.0000 
+skin 73 cl_RhandA 1.0000 
+skin 74 cl_RhandA 1.0000 
+skin 75 LlegB_jnt 1.0000 
+skin 76 LarmB_jnt 1.0000 
+skin 77 LarmB_jnt 1.0000 
+skin 78 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 79 cl_RhandA 1.0000 
+skin 80 cl_RhandA 1.0000 
+skin 81 cl_RhandA 1.0000 
+skin 82 cl_RhandA 1.0000 
+skin 83 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 84 cl_RhandA 1.0000 
+skin 85 cl_RhandA 1.0000 
+skin 86 cl_RhandA 1.0000 
+skin 87 cl_RhandA 1.0000 
+skin 88 cl_RhandA 1.0000 
+skin 89 cl_RhandA 1.0000 
+skin 90 cl_RhandA 1.0000 
+skin 91 LarmB_jnt 1.0000 
+skin 92 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 93 LarmB_jnt 1.0000 
+skin 94 cl_RhandA 1.0000 
+skin 95 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 96 cl_RhandA 1.0000 
+skin 97 cl_LhandA 1.0000 
+skin 98 cl_LhandA 1.0000 
+skin 99 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 100 cl_LhandA 1.0000 
+skin 101 cl_LhandA 1.0000 
+skin 102 cl_LhandA 1.0000 
+skin 103 cl_LhandA 1.0000 
+skin 104 cl_LhandA 1.0000 
+skin 105 cl_LhandA 1.0000 
+skin 106 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 107 cl_LhandA 1.0000 
+skin 108 cl_LhandA 1.0000 
+skin 109 cl_LhandA 1.0000 
+skin 110 cl_LhandA 1.0000 
+skin 111 cl_LhandA 1.0000 
+skin 112 cl_LhandA 1.0000 
+skin 113 cl_LhandA 1.0000 
+skin 114 cl_LhandA 1.0000 
+skin 115 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 116 cl_LhandA 1.0000 
+skin 117 cl_LhandA 1.0000 
+skin 118 cl_LhandA 1.0000 
+skin 119 cl_LhandA 1.0000 
+skin 120 cl_LhandA 1.0000 
+skin 121 chest_jnt 1.0000 
+skin 122 chest_jnt 1.0000 
+skin 123 chest_jnt 1.0000 
+skin 124 chest_jnt 1.0000 
+skin 125 chest_jnt 1.0000 
+skin 126 chest_jnt 1.0000 
+skin 127 chest_jnt 1.0000 
+skin 128 chest_jnt 1.0000 
+skin 129 chest_jnt 1.0000 
+skin 130 chest_jnt 1.0000 
+skin 131 chest_jnt 1.0000 
+skin 132 chest_jnt 1.0000 
+skin 133 chest_jnt 1.0000 
+skin 134 chest_jnt 1.0000 
+skin 135 chest_jnt 1.0000 
+skin 136 RarmB_jnt 1.0000 
+skin 137 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 138 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 139 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 140 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 141 RarmA_jnt 1.0000 
+skin 142 RarmA_jnt 1.0000 
+skin 143 RarmA_jnt 1.0000 
+skin 144 RarmA_jnt 0.5000 RarmB_jnt 0.5000 
+skin 145 RarmA_jnt 1.0000 
+skin 146 RarmA_jnt 1.0000 
+skin 147 RlegB_jnt 1.0000 
+skin 148 RlegB_jnt 1.0000 
+skin 149 RarmB_jnt 1.0000 
+skin 150 RarmB_jnt 1.0000 
+skin 151 RarmA_jnt 1.0000 
+skin 152 RarmA_jnt 1.0000 
+skin 153 RarmA_jnt 1.0000 
+skin 154 RarmA_jnt 1.0000 
+skin 155 RarmA_jnt 1.0000 
+skin 156 RarmA_jnt 1.0000 
+skin 157 RarmB_jnt 1.0000 
+skin 158 RarmB_jnt 1.0000 
+skin 159 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 160 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 161 RarmB_jnt 1.0000 
+skin 162 RarmA_jnt 1.0000 
+skin 163 RarmA_jnt 1.0000 
+skin 164 RarmA_jnt 1.0000 
+skin 165 RarmA_jnt 1.0000 
+skin 166 RarmA_jnt 1.0000 
+skin 167 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 168 RlegB_jnt 1.0000 
+skin 169 RlegB_jnt 1.0000 
+skin 170 RlegB_jnt 1.0000 
+skin 171 RlegB_jnt 1.0000 
+skin 172 RlegB_jnt 1.0000 
+skin 173 RlegB_jnt 1.0000 
+skin 174 RlegB_jnt 1.0000 
+skin 175 RlegB_jnt 1.0000 
+skin 176 LarmA_jnt 1.0000 
+skin 177 LarmA_jnt 1.0000 
+skin 178 LarmA_jnt 1.0000 
+skin 179 LarmA_jnt 0.5000 LarmB_jnt 0.5000 
+skin 180 LarmA_jnt 1.0000 
+skin 181 LarmA_jnt 1.0000 
+skin 182 RlegB_jnt 1.0000 
+skin 183 LlegB_jnt 1.0000 
+skin 184 LlegB_jnt 1.0000 
+skin 185 LarmB_jnt 1.0000 
+skin 186 LarmB_jnt 1.0000 
+skin 187 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 188 LarmB_jnt 1.0000 
+skin 189 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 190 LarmA_jnt 1.0000 
+skin 191 LarmA_jnt 1.0000 
+skin 192 LarmA_jnt 1.0000 
+skin 193 LarmA_jnt 1.0000 
+skin 194 LarmB_jnt 1.0000 
+skin 195 LarmB_jnt 1.0000 
+skin 196 LarmA_jnt 1.0000 
+skin 197 LarmA_jnt 1.0000 
+skin 198 LarmA_jnt 1.0000 
+skin 199 LarmA_jnt 1.0000 
+skin 200 LarmA_jnt 1.0000 
+skin 201 LarmA_jnt 1.0000 
+skin 202 LarmA_jnt 1.0000 
+skin 203 chest_jnt 1.0000 
+skin 204 chest_jnt 1.0000 
+skin 205 chest_jnt 1.0000 
+skin 206 chest_jnt 1.0000 
+skin 207 chest_jnt 1.0000 
+skin 208 chest_jnt 1.0000 
+skin 209 chest_jnt 1.0000 
+skin 210 chest_jnt 1.0000 
+skin 211 chest_jnt 1.0000 
+skin 212 chest_jnt 1.0000 
+skin 213 chest_jnt 1.0000 
+skin 214 chest_jnt 1.0000 
+skin 215 chest_jnt 1.0000 
+skin 216 chest_jnt 1.0000 
+skin 217 chest_jnt 1.0000 
+skin 218 chest_jnt 1.0000 
+skin 219 LlegB_jnt 1.0000 
+skin 220 LlegB_jnt 1.0000 
+skin 221 LlegB_jnt 1.0000 
+skin 222 LlegB_jnt 1.0000 
+skin 223 LlegB_jnt 1.0000 
+skin 224 LlegB_jnt 1.0000 
+skin 225 LlegB_jnt 1.0000 
+skin 226 LlegB_jnt 1.0000 
+skin 227 LlegB_jnt 1.0000 
+skin 228 LlegB_jnt 1.0000 
+skin 229 LlegB_jnt 1.0000 
+skin 230 LlegB_jnt 1.0000 
+skin 231 LlegB_jnt 1.0000 
+skin 232 RlegB_jnt 1.0000 
+skin 233 RlegB_jnt 1.0000 
+skin 234 RlegB_jnt 1.0000 
+skin 235 RlegB_jnt 1.0000 
+skin 236 skl_root 1.0000 
+skin 237 skl_root 1.0000 
+skin 238 skl_root 1.0000 
+skin 239 skl_root 1.0000 
+skin 240 skl_root 1.0000 
+skin 241 skl_root 1.0000 
+skin 242 skl_root 1.0000 
+skin 243 skl_root 1.0000 
+skin 244 skl_root 1.0000 
+skin 245 skl_root 1.0000 
+skin 246 skl_root 1.0000 
+skin 247 skl_root 1.0000 
+skin 248 skl_root 1.0000 
+skin 249 skl_root 1.0000 
+skin 250 skl_root 1.0000 
+skin 251 skl_root 1.0000 
+skin 252 skl_root 1.0000 
+skin 253 skl_root 1.0000 
+skin 254 skl_root 1.0000 
+skin 255 skl_root 1.0000 
+skin 256 skl_root 1.0000 
+skin 257 skl_root 1.0000 
+skin 258 skl_root 1.0000 
+skin 259 skl_root 1.0000 
+skin 260 skl_root 1.0000 
+skin 261 skl_root 1.0000 
+skin 262 skl_root 1.0000 
+skin 263 skl_root 1.0000 
+skin 264 skl_root 1.0000 
+skin 265 skl_root 1.0000 
+skin 266 skl_root 1.0000 
+skin 267 skl_root 1.0000 
+skin 268 skl_root 1.0000 
+skin 269 skl_root 1.0000 
+skin 270 skl_root 1.0000 
+skin 271 skl_root 1.0000 
+skin 272 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 273 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 274 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 275 LarmB_jnt 0.9000 cl_LhandA 0.1000 
+skin 276 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 277 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 278 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 279 RarmB_jnt 0.9000 cl_RhandA 0.1000 
+skin 280 LarmA_jnt 0.5000 LarmB_jnt 0.5000 
+skin 281 LarmA_jnt 0.5000 LarmB_jnt 0.5000 
+skin 282 RarmA_jnt 0.5000 RarmB_jnt 0.5000 
+skin 283 RarmA_jnt 0.5000 RarmB_jnt 0.5000 
+skin 284 RlegA_jnt 0.5000 RlegB_jnt 0.5000 
+skin 285 hair_jntB 1.0000 
+skin 286 hair_jntB 1.0000 
+skin 287 hair_jntB 1.0000 
+skin 288 hair_jntB 1.0000 
+skin 289 hair_jntB 1.0000 
+skin 290 hair_jntB 1.0000 
+skin 291 hair_jntB 1.0000 
+skin 292 hair_jntB 1.0000 
+skin 293 hair_jntB 1.0000 
+skin 294 hair_jntA 1.0000 
+skin 295 hair_jntA 1.0000 
+skin 296 hair_jntB 1.0000 
+skin 297 hair_jntA 1.0000 
+skin 298 hair_jntA 1.0000 
+skin 299 hair_jntA 1.0000 
+skin 300 hair_jntA 1.0000 
+skin 301 hair_jntA 1.0000 
+skin 302 hair_jntA 1.0000 
+skin 303 head_jnt 0.3000 hair_jntA 0.7000 
+skin 304 head_jnt 0.5000 hair_jntA 0.5000 
+skin 305 hair_jntA 1.0000 
+skin 306 hair_jntA 1.0000 
+skin 307 hair_jntA 1.0000 
+skin 308 hair_jntA 1.0000 
+skin 309 hair_jntA 1.0000 
+skin 310 head_jnt 1.0000 
+skin 311 neck_jnt 1.0000 
+skin 312 head_jnt 1.0000 
+skin 313 head_jnt 1.0000 
+skin 314 neck_jnt 1.0000 
+skin 315 neck_jnt 1.0000 
+skin 316 head_jnt 1.0000 
+skin 317 head_jnt 0.2000 hair_jntA 0.8000 
+skin 318 hair_jntA 1.0000 
+skin 319 head_jnt 0.2000 hair_jntA 0.8000 
+skin 320 head_jnt 0.3000 hair_jntA 0.7000 
+skin 321 hair_jntA 1.0000 
+skin 322 hair_jntA 1.0000 
+skin 323 head_jnt 1.0000 
+skin 324 head_jnt 1.0000 
+skin 325 head_jnt 1.0000 
+skin 326 head_jnt 1.0000 
+skin 327 neck_jnt 1.0000 
+skin 328 head_jnt 1.0000 
+skin 329 neck_jnt 1.0000 
+skin 330 head_jnt 1.0000 
+skin 331 head_jnt 1.0000 
+skin 332 head_jnt 1.0000 
+skin 333 head_jnt 1.0000 
+skin 334 head_jnt 1.0000 
+skin 335 head_jnt 1.0000 
+skin 336 head_jnt 1.0000 
+skin 337 hair_jntA 1.0000 
+skin 338 head_jnt 1.0000 
+skin 339 head_jnt 1.0000 
+skin 340 head_jnt 1.0000 
+skin 341 head_jnt 1.0000 
+skin 342 head_jnt 1.0000 
+skin 343 head_jnt 1.0000 
+skin 344 head_jnt 1.0000 
+skin 345 head_jnt 1.0000 
+skin 346 head_jnt 1.0000 
+skin 347 head_jnt 1.0000 
+skin 348 head_jnt 0.1000 hair_jntA 0.9000 
+skin 349 head_jnt 1.0000 
+skin 350 head_jnt 1.0000 
+skin 351 head_jnt 1.0000 
+skin 352 head_jnt 1.0000 
+skin 353 head_jnt 1.0000 
+skin 354 head_jnt 1.0000 
+skin 355 head_jnt 0.5000 hair_jntA 0.5000 
+skin 356 head_jnt 1.0000 
+skin 357 head_jnt 1.0000 
+skin 358 head_jnt 1.0000 
+skin 359 head_jnt 1.0000 
+skin 360 head_jnt 1.0000 
+skin 361 head_jnt 1.0000 
+skin 362 head_jnt 1.0000 
+skin 363 head_jnt 1.0000 
+skin 364 head_jnt 1.0000 
+skin 365 head_jnt 1.0000 
+skin 366 head_jnt 1.0000 
+skin 367 head_jnt 1.0000 
+skin 368 head_jnt 1.0000 
+skin 369 head_jnt 1.0000 
+skin 370 head_jnt 1.0000 
+skin 371 head_jnt 1.0000 
+skin 372 head_jnt 1.0000 
+skin 373 head_jnt 1.0000 
+skin 374 head_jnt 1.0000 
+skin 375 head_jnt 1.0000 
+skin 376 head_jnt 1.0000 
+skin 377 head_jnt 1.0000 
+skin 378 head_jnt 1.0000 
+skin 379 head_jnt 1.0000 
+skin 380 head_jnt 1.0000 
+skin 381 head_jnt 1.0000 
+skin 382 head_jnt 1.0000 
+skin 383 head_jnt 1.0000 
+skin 384 head_jnt 1.0000 
+skin 385 head_jnt 1.0000 
+skin 386 head_jnt 1.0000 
+skin 387 head_jnt 1.0000 
+skin 388 head_jnt 1.0000 
+skin 389 head_jnt 1.0000 
+skin 390 head_jnt 1.0000 
+skin 391 head_jnt 1.0000 
+skin 392 head_jnt 1.0000 
+skin 393 head_jnt 1.0000 
+skin 394 head_jnt 1.0000 
+skin 395 head_jnt 1.0000 
+skin 396 head_jnt 1.0000 
+skin 397 head_jnt 1.0000 
+skin 398 head_jnt 1.0000 
+skin 399 head_jnt 1.0000 
+skin 400 head_jnt 1.0000 
+skin 401 head_jnt 1.0000 
+skin 402 head_jnt 1.0000 
+skin 403 head_jnt 1.0000 
+skin 404 head_jnt 1.0000 
+skin 405 head_jnt 1.0000 
+skin 406 head_jnt 1.0000 
+skin 407 head_jnt 1.0000 
+skin 408 head_jnt 0.7000 hair_jntA 0.3000 
+skin 409 head_jnt 1.0000 
+skin 410 head_jnt 1.0000 
+skin 411 head_jnt 1.0000 
+skin 412 head_jnt 1.0000 
+skin 413 head_jnt 1.0000 
+skin 414 head_jnt 1.0000 
+skin 415 head_jnt 1.0000 
+skin 416 head_jnt 1.0000 
+skin 417 head_jnt 1.0000 
+skin 418 head_jnt 1.0000 
+skin 419 head_jnt 1.0000 
+skin 420 head_jnt 1.0000 
+skin 421 head_jnt 1.0000 
+skin 422 head_jnt 1.0000 
+skin 423 head_jnt 1.0000 
+skin 424 head_jnt 1.0000 
+skin 425 head_jnt 1.0000 
+skin 426 head_jnt 1.0000 
+skin 427 head_jnt 1.0000 
+skin 428 head_jnt 1.0000 
+skin 429 head_jnt 1.0000 
+skin 430 head_jnt 1.0000 
+skin 431 head_jnt 1.0000 
+skin 432 head_jnt 1.0000 
+skin 433 head_jnt 1.0000 
+skin 434 head_jnt 1.0000 
+skin 435 head_jnt 1.0000 
+skin 436 head_jnt 1.0000 
+skin 437 head_jnt 1.0000 
+skin 438 head_jnt 1.0000 
+skin 439 head_jnt 1.0000 
+skin 440 head_jnt 1.0000 
+skin 441 head_jnt 1.0000 
+skin 442 head_jnt 1.0000 
+skin 443 head_jnt 1.0000 
+skin 444 head_jnt 1.0000 
+skin 445 head_jnt 1.0000 
+skin 446 head_jnt 1.0000 
+skin 447 head_jnt 1.0000 
+skin 448 head_jnt 1.0000 
+skin 449 head_jnt 1.0000 
+skin 450 head_jnt 1.0000 
+skin 451 sideburnsL_jntB 1.0000 
+skin 452 sideburnsL_jntA 1.0000 
+skin 453 sideburnsL_jntB 1.0000 
+skin 454 sideburnsL_jntB 1.0000 
+skin 455 sideburnsL_jntB 1.0000 
+skin 456 sideburnsL_jntB 1.0000 
+skin 457 sideburnsL_jntA 1.0000 
+skin 458 sideburnsL_jntB 1.0000 
+skin 459 sideburnsL_jntB 1.0000 
+skin 460 sideburnsL_jntB 1.0000 
+skin 461 sideburnsL_jntB 1.0000 
+skin 462 sideburnsL_jntA 1.0000 
+skin 463 sideburnsL_jntB 1.0000 
+skin 464 sideburnsL_jntA 1.0000 
+skin 465 sideburnsL_jntB 1.0000 
+skin 466 head_jnt 1.0000 
+skin 467 head_jnt 1.0000 
+skin 468 head_jnt 1.0000 
+skin 469 head_jnt 1.0000 
+skin 470 head_jnt 1.0000 
+skin 471 head_jnt 1.0000 
+skin 472 head_jnt 1.0000 
+skin 473 head_jnt 1.0000 
+skin 474 head_jnt 1.0000 
+skin 475 sideburnsR_jntB 1.0000 
+skin 476 sideburnsR_jntA 1.0000 
+skin 477 sideburnsR_jntB 1.0000 
+skin 478 sideburnsR_jntB 1.0000 
+skin 479 sideburnsR_jntB 1.0000 
+skin 480 sideburnsR_jntB 1.0000 
+skin 481 sideburnsR_jntB 1.0000 
+skin 482 sideburnsR_jntA 1.0000 
+skin 483 sideburnsR_jntB 1.0000 
+skin 484 sideburnsR_jntB 1.0000 
+skin 485 sideburnsR_jntB 1.0000 
+skin 486 sideburnsR_jntB 1.0000 
+skin 487 sideburnsR_jntA 1.0000 
+skin 488 sideburnsR_jntB 1.0000 
+skin 489 sideburnsR_jntA 1.0000 
+skin 490 head_jnt 0.5000 hair_jntA 0.5000 
+skin 491 head_jnt 0.5000 hair_jntA 0.5000 
+skin 492 head_jnt 0.3000 hair_jntA 0.7000 
+skin 493 head_jnt 0.1000 hair_jntA 0.9000 
+skin 494 head_jnt 0.5000 hair_jntA 0.5000 
+skin 495 head_jnt 1.0000 
+skin 496 head_jnt 1.0000 
+skin 497 head_jnt 1.0000 
+skin 498 head_jnt 1.0000 
+skin 499 head_jnt 1.0000 
+skin 500 head_jnt 1.0000 
+skin 501 head_jnt 1.0000 
+skin 502 head_jnt 1.0000 
+skin 503 head_jnt 1.0000 
+skin 504 head_jnt 1.0000 
+skin 505 head_jnt 1.0000 
+skin 506 head_jnt 1.0000 
+skin 507 head_jnt 1.0000 
+skin 508 head_jnt 1.0000 
+skin 509 head_jnt 1.0000 
+skin 510 head_jnt 1.0000 
+skin 511 head_jnt 1.0000 
+skin 512 head_jnt 1.0000 
+skin 513 head_jnt 1.0000 
+skin 514 head_jnt 1.0000 
+skin 515 head_jnt 1.0000 
+skin 516 head_jnt 1.0000 
+skin 517 head_jnt 1.0000 
+skin 518 head_jnt 1.0000 
+skin 519 head_jnt 1.0000 
+skin 520 head_jnt 1.0000 
+skin 521 head_jnt 1.0000 
+skin 522 head_jnt 1.0000 
+skin 523 head_jnt 1.0000 
+skin 524 head_jnt 1.0000 
+skin 525 head_jnt 1.0000 
+skin 526 head_jnt 1.0000 
+skin 527 head_jnt 1.0000 
+skin 528 head_jnt 1.0000 
+skin 529 head_jnt 1.0000 
+skin 530 head_jnt 1.0000 
+skin 531 head_jnt 1.0000 
+skin 532 head_jnt 1.0000 
+skin 533 head_jnt 1.0000 
+skin 534 head_jnt 1.0000 
+skin 535 head_jnt 1.0000 
+skin 536 head_jnt 1.0000 
+skin 537 head_jnt 1.0000 
+skin 538 head_jnt 1.0000 
+skin 539 head_jnt 1.0000 
+skin 540 head_jnt 1.0000 
+skin 541 head_jnt 1.0000 
+skin 542 head_jnt 1.0000 
+skin 543 head_jnt 1.0000 
+skin 544 head_jnt 1.0000 
+skin 545 head_jnt 1.0000 
+skin 546 head_jnt 1.0000 
+skin 547 head_jnt 1.0000 
+skin 548 head_jnt 1.0000 
+skin 549 head_jnt 1.0000 
+skin 550 head_jnt 1.0000 
+skin 551 head_jnt 1.0000 
+skin 552 head_jnt 1.0000 
+skin 553 head_jnt 1.0000 
+skin 554 head_jnt 1.0000 
+skin 555 head_jnt 1.0000 
+skin 556 head_jnt 1.0000 
+skin 557 head_jnt 1.0000 
+skin 558 head_jnt 1.0000 
+skin 559 head_jnt 1.0000 
+skin 560 head_jnt 1.0000 
+skin 561 head_jnt 1.0000 
+skin 562 head_jnt 1.0000 
+skin 563 head_jnt 1.0000 
+skin 564 head_jnt 1.0000 
+skin 565 head_jnt 1.0000 
+skin 566 head_jnt 1.0000 
+skin 567 head_jnt 1.0000 
+skin 568 head_jnt 1.0000 
+skin 569 head_jnt 1.0000 
+skin 570 head_jnt 1.0000 
+skin 571 head_jnt 1.0000 
+skin 572 head_jnt 1.0000 
+skin 573 head_jnt 1.0000 
+skin 574 head_jnt 1.0000 
+skin 575 head_jnt 1.0000 
+skin 576 head_jnt 1.0000 
+skin 577 head_jnt 1.0000 
+skin 578 head_jnt 1.0000 
+skin 579 head_jnt 1.0000 
+skin 580 head_jnt 1.0000 
+skin 581 head_jnt 1.0000 
+skin 582 head_jnt 1.0000 
+skin 583 head_jnt 1.0000 
+skin 584 head_jnt 1.0000 
+skin 585 head_jnt 1.0000 
+skin 586 head_jnt 1.0000 
+skin 587 head_jnt 1.0000 
+skin 588 head_jnt 1.0000 
+skin 589 head_jnt 1.0000 
+skin 590 head_jnt 1.0000 
+skin 591 skl_root 1.0000 
+skin 592 Lclotch_jnt 1.0000 
+skin 593 Lclotch_jnt 1.0000 
+skin 594 skl_root 1.0000 
+skin 595 Rclotch_jnt 1.0000 
+skin 596 Rclotch_jnt 1.0000 
+skin 597 Rclotch_jnt 1.0000 
+skin 598 Rclotch_jnt 1.0000 
+skin 599 Rclotch_jnt 1.0000 
+skin 600 Rclotch_jnt 1.0000 
+skin 601 skl_root 1.0000 
+skin 602 Lclotch_jnt 1.0000 
+skin 603 skl_root 1.0000 
+skin 604 skl_root 0.6000 Rclotch_jnt 0.4000 
+skin 605 Rclotch_jnt 1.0000 
+skin 606 skl_root 0.4000 Lclotch_jnt 0.6000 
+skin 607 skl_root 1.0000 
+skin 608 Lclotch_jnt 1.0000 
+skin 609 Lclotch_jnt 1.0000 
+skin 610 Lclotch_jnt 1.0000 
+skin 611 Lclotch_jnt 1.0000 
+skin 612 skl_root 1.0000 
+skin 613 skl_root 1.0000 
+skin 614 chest_jnt 1.0000 
+skin 615 chest_jnt 1.0000 
+skin 616 chest_jnt 1.0000 
+skin 617 chest_jnt 1.0000 
+skin 618 chest_jnt 1.0000 
+skin 619 chest_jnt 1.0000 
+skin 620 chest_jnt 1.0000 
+skin 621 chest_jnt 1.0000 
+skin 622 chest_jnt 1.0000 
+skin 623 chest_jnt 1.0000 
+skin 624 chest_jnt 1.0000 
+skin 625 chest_jnt 1.0000 
+skin 626 chest_jnt 1.0000 
+skin 627 chest_jnt 1.0000 
+skin 628 chest_jnt 1.0000 
+skin 629 chest_jnt 1.0000 
+skin 630 chest_jnt 1.0000 
+skin 631 chest_jnt 1.0000 
+skin 632 chest_jnt 1.0000 
+skin 633 chest_jnt 1.0000 
+skin 634 chest_jnt 1.0000 
+skin 635 chest_jnt 1.0000 
+skin 636 Lclotch_jnt 1.0000 
+skin 637 Lclotch_jnt 1.0000 
+skin 638 Lclotch_jnt 1.0000 
+skin 639 Lclotch_jnt 1.0000 
+skin 640 LarmA_jnt 1.0000 
+skin 641 LarmA_jnt 1.0000 
+skin 642 LarmA_jnt 1.0000 
+skin 643 LarmA_jnt 1.0000 
+skin 644 LarmA_jnt 1.0000 
+skin 645 LarmA_jnt 1.0000 
+skin 646 LarmA_jnt 1.0000 
+skin 647 LarmA_jnt 1.0000 
+skin 648 LarmA_jnt 1.0000 
+skin 649 LarmA_jnt 1.0000 
+skin 650 LarmA_jnt 1.0000 
+skin 651 LarmA_jnt 1.0000 
+skin 652 LarmA_jnt 1.0000 
+skin 653 LarmA_jnt 1.0000 
+skin 654 LarmA_jnt 1.0000 
+skin 655 LarmA_jnt 1.0000 
+skin 656 LarmA_jnt 1.0000 
+skin 657 LarmA_jnt 1.0000 
+skin 658 RarmA_jnt 1.0000 
+skin 659 RarmA_jnt 1.0000 
+skin 660 RarmA_jnt 1.0000 
+skin 661 RarmA_jnt 1.0000 
+skin 662 RarmA_jnt 1.0000 
+skin 663 RarmA_jnt 1.0000 
+skin 664 RarmA_jnt 1.0000 
+skin 665 RarmA_jnt 1.0000 
+skin 666 RarmA_jnt 1.0000 
+skin 667 RarmA_jnt 1.0000 
+skin 668 RarmA_jnt 1.0000 
+skin 669 RarmA_jnt 1.0000 
+skin 670 RarmA_jnt 1.0000 
+skin 671 RarmA_jnt 1.0000 
+skin 672 RarmA_jnt 1.0000 
+skin 673 RarmA_jnt 1.0000 
+skin 674 RarmA_jnt 1.0000 
+skin 675 RarmA_jnt 1.0000 
+skin 676 Rclotch_jnt 1.0000 
+skin 677 Rclotch_jnt 1.0000 
+skin 678 skl_root 0.4000 Rclotch_jnt 0.6000 
+skin 679 Lclotch_jnt 1.0000 
+skin 680 skl_root 0.6000 Lclotch_jnt 0.4000 
+skin 681 skl_root 0.4000 Lclotch_jnt 0.6000 
+skin 682 Rclotch_jnt 1.0000 
+skin 683 Rclotch_jnt 1.0000 
+skin 684 Rclotch_jnt 1.0000 
+skin 685 skl_root 0.4000 Rclotch_jnt 0.6000 
+skin 686 head_jnt 1.0000 
+skin 687 head_jnt 1.0000 
+skin 688 head_jnt 1.0000 
+skin 689 head_jnt 1.0000 
+skin 690 head_jnt 1.0000 
+skin 691 head_jnt 1.0000 
+skin 692 head_jnt 1.0000 
+skin 693 head_jnt 1.0000 
+skin 694 head_jnt 1.0000 
+skin 695 head_jnt 1.0000 
+skin 696 head_jnt 1.0000 
+skin 697 head_jnt 1.0000 
+skin 698 head_jnt 1.0000 
+skin 699 head_jnt 1.0000 
+skin 700 head_jnt 1.0000 
+skin 701 head_jnt 1.0000 
+skin 702 head_jnt 1.0000 
+skin 703 head_jnt 1.0000 
+skin 704 head_jnt 1.0000 
+skin 705 head_jnt 1.0000 
+skin 706 head_jnt 1.0000 
+skin 707 head_jnt 1.0000 
+skin 708 head_jnt 1.0000 
+skin 709 head_jnt 1.0000 
+skin 710 head_jnt 1.0000 
+skin 711 head_jnt 1.0000 
+skin 712 head_jnt 1.0000 
+skin 713 head_jnt 1.0000 
+skin 714 head_jnt 1.0000 
+skin 715 head_jnt 1.0000 
+skin 716 head_jnt 1.0000 
+skin 717 head_jnt 1.0000 
+skin 718 head_jnt 1.0000 
+skin 719 head_jnt 1.0000 
+skin 720 head_jnt 1.0000 
+skin 721 head_jnt 1.0000 
+skin 722 head_jnt 1.0000 
+skin 723 head_jnt 1.0000 
+skin 724 head_jnt 1.0000 
+skin 725 head_jnt 1.0000 
+skin 726 head_jnt 1.0000 
+skin 727 head_jnt 1.0000 
+skin 728 head_jnt 1.0000 
+skin 729 head_jnt 1.0000 
+skin 730 head_jnt 1.0000 
+skin 731 head_jnt 1.0000 
+skin 732 head_jnt 1.0000 
+skin 733 head_jnt 1.0000 
+skin 734 head_jnt 1.0000 
+skin 735 head_jnt 1.0000 
+skin 736 head_jnt 1.0000 
+skin 737 head_jnt 1.0000 
+skin 738 head_jnt 1.0000 
+skin 739 head_jnt 1.0000 
+skin 740 head_jnt 1.0000 
+skin 741 head_jnt 1.0000 
+skin 742 head_jnt 1.0000 
+skin 743 head_jnt 1.0000 
+skin 744 head_jnt 1.0000 
+skin 745 head_jnt 1.0000 
+skin 746 head_jnt 1.0000 
+skin 747 head_jnt 1.0000 
+skin 748 head_jnt 1.0000 
+skin 749 head_jnt 1.0000 
+skin 750 head_jnt 1.0000 
+skin 751 head_jnt 1.0000 
+skin 752 head_jnt 1.0000 
+skin 753 head_jnt 1.0000 
+skin 754 head_jnt 1.0000 
+skin 755 head_jnt 1.0000 
+skin 756 head_jnt 1.0000 
+skin 757 head_jnt 1.0000 
+skin 758 head_jnt 1.0000 
+skin 759 head_jnt 1.0000 
+skin 760 head_jnt 1.0000 
+skin 761 head_jnt 1.0000 
+skin 762 head_jnt 1.0000 
+skin 763 head_jnt 1.0000 
+skin 764 head_jnt 1.0000 
+skin 765 head_jnt 1.0000 
+skin 766 head_jnt 1.0000 
+hier skl_root chest_jnt
+hier skl_root Lclotch_jnt
+hier skl_root Rclotch_jnt
+hier chest_jnt Lshoulder_jnt
+hier chest_jnt Rshoulder_jnt
+hier chest_jnt neck_jnt
+hier Lclotch_jnt LlegA_jnt
+hier Rclotch_jnt RlegA_jnt
+hier Lshoulder_jnt LarmA_jnt
+hier Rshoulder_jnt RarmA_jnt
+hier neck_jnt head_jnt
+hier LlegA_jnt LlegB_jnt
+hier RlegA_jnt RlegB_jnt
+hier LarmA_jnt LarmB_jnt
+hier RarmA_jnt RarmB_jnt
+hier head_jnt hair_jntA
+hier head_jnt sideburnsL_jntA
+hier head_jnt sideburnsR_jntA
+hier LarmB_jnt cl_LhandA
+hier RarmB_jnt cl_RhandA
+hier hair_jntA hair_jntB
+hier sideburnsL_jntA sideburnsL_jntB
+hier sideburnsR_jntA sideburnsR_jntB
