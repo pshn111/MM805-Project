@@ -1,0 +1,2333 @@
+joints Waist 0.00000000 0.19401100 -0.01248200
+joints Spine -0.00000026 0.28102800 -0.01248200
+joints Arm_1_L 0.08576820 0.29530300 -0.02501430
+joints Arm_1_R -0.08576880 0.29530300 -0.02501380
+joints Head_1 -0.00000020 0.31194900 0.03851030
+joints Pendant_1 -0.00000008 0.30041400 0.06882920
+joints Arm_2_L 0.17278500 0.29530300 -0.02501460
+joints Arm_2_R -0.17278600 0.29530300 -0.02501350
+joints Beard_L 0.04100710 0.30607900 0.06737510
+joints Beard_R -0.04101410 0.30607900 0.06737540
+joints Face_1 -0.00000004 0.34806700 0.12757500
+joints Head_2 -0.00000034 0.37533300 0.05642290
+joints Sleeve_L 0.24717700 0.26415300 -0.02501480
+joints Wrist_L 0.27710900 0.29530300 -0.02501490
+joints Sleeve_R -0.24717100 0.26415100 -0.02501340
+joints Wrist_R -0.27710900 0.29530300 -0.02501320
+joints Finger_A_1_L 0.32736600 0.29530300 0.02151090
+joints Finger_B_1_L 0.37964400 0.29530300 0.01422630
+joints Finger_C_1_L 0.38191600 0.29530300 -0.01131449
+joints Finger_D_1_L 0.38191600 0.29530300 -0.03675240
+joints Finger_E_1_L 0.38065700 0.29530300 -0.06119470
+joints Finger_A_1_R -0.32736700 0.29530300 0.02151290
+joints Finger_B_1_R -0.37964400 0.29530300 0.01422860
+joints Finger_C_1_R -0.38191700 0.29530300 -0.01131220
+joints Finger_D_1_R -0.38191700 0.29530300 -0.03675010
+joints Finger_E_1_R -0.38065800 0.29530300 -0.06119240
+joints Finger_A_2_L 0.34122100 0.29530300 0.06551280
+joints Finger_B_2_L 0.43273900 0.29530300 0.01779400
+joints Finger_C_2_L 0.43755400 0.29530300 -0.00996230
+joints Finger_D_2_L 0.43561300 0.29530300 -0.03834730
+joints Finger_E_2_L 0.43155000 0.29530300 -0.06599890
+joints Finger_A_2_R -0.34122100 0.29530300 0.06551500
+joints Finger_B_2_R -0.43274000 0.29530300 0.01779650
+joints Finger_C_2_R -0.43755500 0.29530300 -0.00995968
+joints Finger_D_2_R -0.43561300 0.29530300 -0.03834470
+joints Finger_E_2_R -0.43155100 0.29530300 -0.06599640
+root Waist
+skin 0 Finger_C_1_L 1.0000 
+skin 1 Wrist_L 0.2000 Finger_C_1_L 0.8000 
+skin 2 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 3 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 4 Finger_C_1_L 1.0000 
+skin 5 Finger_C_1_L 1.0000 
+skin 6 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 7 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 8 Finger_C_1_L 1.0000 
+skin 9 Finger_C_1_L 1.0000 
+skin 10 Finger_C_2_L 1.0000 
+skin 11 Finger_C_2_L 1.0000 
+skin 12 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 13 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 14 Finger_C_2_L 1.0000 
+skin 15 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 16 Finger_C_2_L 1.0000 
+skin 17 Finger_C_2_L 1.0000 
+skin 18 Finger_C_2_L 1.0000 
+skin 19 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 20 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 21 Wrist_L 0.2000 Finger_C_1_L 0.8000 
+skin 22 Finger_C_1_L 1.0000 
+skin 23 Finger_C_1_L 1.0000 
+skin 24 Wrist_L 1.0000 
+skin 25 Wrist_L 1.0000 
+skin 26 Wrist_L 1.0000 
+skin 27 Wrist_L 1.0000 
+skin 28 Wrist_L 1.0000 
+skin 29 Wrist_L 1.0000 
+skin 30 Wrist_L 1.0000 
+skin 31 Wrist_L 1.0000 
+skin 32 Wrist_L 1.0000 
+skin 33 Wrist_L 1.0000 
+skin 34 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 35 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 36 Wrist_L 1.0000 
+skin 37 Wrist_L 1.0000 
+skin 38 Wrist_L 1.0000 
+skin 39 Wrist_L 1.0000 
+skin 40 Wrist_L 1.0000 
+skin 41 Wrist_L 1.0000 
+skin 42 Wrist_L 1.0000 
+skin 43 Wrist_L 1.0000 
+skin 44 Wrist_L 1.0000 
+skin 45 Wrist_L 1.0000 
+skin 46 Wrist_L 1.0000 
+skin 47 Wrist_L 1.0000 
+skin 48 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 49 Wrist_L 0.2000 Finger_D_1_L 0.8000 
+skin 50 Wrist_L 1.0000 
+skin 51 Wrist_L 1.0000 
+skin 52 Wrist_L 1.0000 
+skin 53 Wrist_L 1.0000 
+skin 54 Wrist_L 1.0000 
+skin 55 Wrist_L 1.0000 
+skin 56 Wrist_L 1.0000 
+skin 57 Wrist_L 1.0000 
+skin 58 Wrist_L 1.0000 
+skin 59 Wrist_L 1.0000 
+skin 60 Wrist_L 1.0000 
+skin 61 Wrist_L 1.0000 
+skin 62 Wrist_L 1.0000 
+skin 63 Wrist_L 1.0000 
+skin 64 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 65 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 66 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 67 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 68 Wrist_L 1.0000 
+skin 69 Finger_B_1_L 1.0000 
+skin 70 Finger_B_1_L 1.0000 
+skin 71 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 72 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 73 Wrist_L 1.0000 
+skin 74 Wrist_L 0.4000 Finger_B_1_L 0.6000 
+skin 75 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 76 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 77 Finger_B_1_L 1.0000 
+skin 78 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 79 Finger_B_1_L 1.0000 
+skin 80 Finger_B_1_L 1.0000 
+skin 81 Finger_B_1_L 1.0000 
+skin 82 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 83 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 84 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 85 Finger_B_2_L 1.0000 
+skin 86 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 87 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 88 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 89 Finger_B_2_L 1.0000 
+skin 90 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 91 Finger_B_2_L 1.0000 
+skin 92 Finger_B_2_L 1.0000 
+skin 93 Finger_B_2_L 1.0000 
+skin 94 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 95 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 96 Finger_B_2_L 1.0000 
+skin 97 Finger_B_2_L 1.0000 
+skin 98 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 99 Wrist_L 1.0000 
+skin 100 Wrist_L 1.0000 
+skin 101 Finger_A_1_L 1.0000 
+skin 102 Finger_A_1_L 1.0000 
+skin 103 Finger_A_1_L 1.0000 
+skin 104 Finger_A_1_L 1.0000 
+skin 105 Finger_A_1_L 1.0000 
+skin 106 Finger_A_2_L 1.0000 
+skin 107 Finger_A_1_L 1.0000 
+skin 108 Finger_A_1_L 1.0000 
+skin 109 Finger_A_2_L 1.0000 
+skin 110 Finger_A_2_L 1.0000 
+skin 111 Finger_A_2_L 1.0000 
+skin 112 Finger_A_2_L 1.0000 
+skin 113 Finger_A_2_L 1.0000 
+skin 114 Finger_A_2_L 1.0000 
+skin 115 Finger_A_2_L 1.0000 
+skin 116 Finger_A_2_L 1.0000 
+skin 117 Finger_A_2_L 1.0000 
+skin 118 Finger_A_2_L 1.0000 
+skin 119 Finger_A_2_L 1.0000 
+skin 120 Finger_A_2_L 1.0000 
+skin 121 Finger_A_2_L 1.0000 
+skin 122 Finger_A_2_L 1.0000 
+skin 123 Finger_A_2_L 1.0000 
+skin 124 Finger_A_2_L 1.0000 
+skin 125 Finger_A_2_L 1.0000 
+skin 126 Finger_A_2_L 1.0000 
+skin 127 Finger_A_2_L 1.0000 
+skin 128 Finger_A_2_L 1.0000 
+skin 129 Finger_A_2_L 1.0000 
+skin 130 Finger_A_2_L 1.0000 
+skin 131 Finger_A_2_L 1.0000 
+skin 132 Finger_A_2_L 1.0000 
+skin 133 Finger_A_2_L 1.0000 
+skin 134 Finger_A_2_L 1.0000 
+skin 135 Finger_A_1_L 1.0000 
+skin 136 Finger_A_2_L 1.0000 
+skin 137 Finger_A_1_L 1.0000 
+skin 138 Finger_A_1_L 1.0000 
+skin 139 Finger_A_1_L 1.0000 
+skin 140 Finger_A_1_L 1.0000 
+skin 141 Finger_A_1_L 1.0000 
+skin 142 Finger_A_1_L 1.0000 
+skin 143 Finger_A_1_L 1.0000 
+skin 144 Wrist_L 1.0000 
+skin 145 Finger_A_1_L 1.0000 
+skin 146 Finger_A_1_L 1.0000 
+skin 147 Finger_A_1_L 1.0000 
+skin 148 Finger_A_1_L 1.0000 
+skin 149 Finger_A_1_L 1.0000 
+skin 150 Finger_A_1_L 1.0000 
+skin 151 Finger_A_1_L 1.0000 
+skin 152 Finger_A_2_L 1.0000 
+skin 153 Finger_A_2_L 1.0000 
+skin 154 Finger_A_2_L 1.0000 
+skin 155 Finger_A_2_L 1.0000 
+skin 156 Finger_A_2_L 1.0000 
+skin 157 Finger_A_2_L 1.0000 
+skin 158 Finger_A_2_L 1.0000 
+skin 159 Finger_A_2_L 1.0000 
+skin 160 Finger_A_1_L 1.0000 
+skin 161 Finger_A_1_L 1.0000 
+skin 162 Finger_A_1_L 1.0000 
+skin 163 Finger_A_1_L 1.0000 
+skin 164 Finger_A_1_L 1.0000 
+skin 165 Wrist_L 1.0000 
+skin 166 Wrist_L 1.0000 
+skin 167 Finger_A_1_L 1.0000 
+skin 168 Wrist_L 1.0000 
+skin 169 Finger_A_1_L 1.0000 
+skin 170 Wrist_L 1.0000 
+skin 171 Wrist_L 1.0000 
+skin 172 Wrist_L 1.0000 
+skin 173 Wrist_L 1.0000 
+skin 174 Wrist_L 1.0000 
+skin 175 Wrist_L 1.0000 
+skin 176 Wrist_L 1.0000 
+skin 177 Finger_A_2_L 1.0000 
+skin 178 Finger_A_2_L 1.0000 
+skin 179 Finger_A_2_L 1.0000 
+skin 180 Finger_A_2_L 1.0000 
+skin 181 Wrist_L 1.0000 
+skin 182 Wrist_L 1.0000 
+skin 183 Wrist_L 0.4000 Finger_B_1_L 0.6000 
+skin 184 Wrist_L 1.0000 
+skin 185 Wrist_L 1.0000 
+skin 186 Wrist_L 1.0000 
+skin 187 Wrist_L 1.0000 
+skin 188 Wrist_L 1.0000 
+skin 189 Wrist_L 1.0000 
+skin 190 Wrist_L 1.0000 
+skin 191 Wrist_L 1.0000 
+skin 192 Wrist_L 1.0000 
+skin 193 Wrist_L 1.0000 
+skin 194 Wrist_L 1.0000 
+skin 195 Wrist_L 1.0000 
+skin 196 Wrist_L 1.0000 
+skin 197 Wrist_L 1.0000 
+skin 198 Wrist_L 1.0000 
+skin 199 Wrist_L 1.0000 
+skin 200 Wrist_L 1.0000 
+skin 201 Wrist_L 1.0000 
+skin 202 Wrist_L 1.0000 
+skin 203 Wrist_L 1.0000 
+skin 204 Wrist_L 1.0000 
+skin 205 Wrist_L 1.0000 
+skin 206 Wrist_L 0.5000 Finger_E_1_L 0.5000 
+skin 207 Wrist_L 0.5000 Finger_E_1_L 0.5000 
+skin 208 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 209 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 210 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 211 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 212 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 213 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 214 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 215 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 216 Wrist_L 1.0000 
+skin 217 Wrist_L 0.1000 Finger_E_1_L 0.9000 
+skin 218 Wrist_L 0.1000 Finger_E_1_L 0.9000 
+skin 219 Wrist_L 0.1000 Finger_E_1_L 0.9000 
+skin 220 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 221 Finger_E_1_L 1.0000 
+skin 222 Finger_E_1_L 1.0000 
+skin 223 Finger_E_1_L 1.0000 
+skin 224 Finger_E_2_L 1.0000 
+skin 225 Finger_E_1_L 1.0000 
+skin 226 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 227 Finger_E_1_L 1.0000 
+skin 228 Finger_E_2_L 1.0000 
+skin 229 Finger_E_2_L 1.0000 
+skin 230 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 231 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 232 Finger_E_2_L 1.0000 
+skin 233 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 234 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 235 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 236 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 237 Finger_E_2_L 1.0000 
+skin 238 Finger_E_2_L 1.0000 
+skin 239 Finger_E_2_L 1.0000 
+skin 240 Finger_E_2_L 1.0000 
+skin 241 Finger_E_2_L 1.0000 
+skin 242 Finger_D_1_L 1.0000 
+skin 243 Finger_D_1_L 1.0000 
+skin 244 Finger_D_1_L 1.0000 
+skin 245 Finger_D_2_L 1.0000 
+skin 246 Finger_D_1_L 1.0000 
+skin 247 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 248 Finger_D_1_L 1.0000 
+skin 249 Finger_D_2_L 1.0000 
+skin 250 Finger_D_2_L 1.0000 
+skin 251 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 252 Finger_D_2_L 1.0000 
+skin 253 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 254 Finger_D_2_L 1.0000 
+skin 255 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 256 Finger_D_2_L 1.0000 
+skin 257 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 258 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 259 Finger_D_2_L 1.0000 
+skin 260 Finger_D_2_L 1.0000 
+skin 261 Finger_D_2_L 1.0000 
+skin 262 Finger_D_2_L 1.0000 
+skin 263 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 264 Finger_C_1_L 1.0000 
+skin 265 Finger_C_1_L 1.0000 
+skin 266 Finger_C_2_L 1.0000 
+skin 267 Finger_C_1_L 1.0000 
+skin 268 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 269 Finger_C_2_L 1.0000 
+skin 270 Finger_C_2_L 1.0000 
+skin 271 Finger_C_2_L 1.0000 
+skin 272 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 273 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 274 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 275 Finger_C_2_L 1.0000 
+skin 276 Finger_C_2_L 1.0000 
+skin 277 Finger_C_2_L 1.0000 
+skin 278 Finger_B_1_L 1.0000 
+skin 279 Finger_B_1_L 1.0000 
+skin 280 Finger_B_1_L 1.0000 
+skin 281 Finger_B_1_L 1.0000 
+skin 282 Finger_B_1_L 1.0000 
+skin 283 Finger_B_1_L 1.0000 
+skin 284 Finger_B_2_L 1.0000 
+skin 285 Finger_B_2_L 1.0000 
+skin 286 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 287 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 288 Finger_B_2_L 1.0000 
+skin 289 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 290 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 291 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 292 Finger_B_2_L 1.0000 
+skin 293 Finger_B_2_L 1.0000 
+skin 294 Finger_D_1_L 1.0000 
+skin 295 Finger_D_1_L 1.0000 
+skin 296 Finger_D_1_L 1.0000 
+skin 297 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 298 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 299 Finger_D_1_L 1.0000 
+skin 300 Finger_D_1_L 1.0000 
+skin 301 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 302 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 303 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 304 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 305 Finger_D_2_L 1.0000 
+skin 306 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 307 Finger_D_2_L 1.0000 
+skin 308 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 309 Finger_D_2_L 1.0000 
+skin 310 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 311 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 312 Finger_D_2_L 1.0000 
+skin 313 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 314 Finger_E_1_L 1.0000 
+skin 315 Finger_E_1_L 1.0000 
+skin 316 Finger_E_1_L 1.0000 
+skin 317 Finger_E_1_L 1.0000 
+skin 318 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 319 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 320 Finger_E_2_L 1.0000 
+skin 321 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 322 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 323 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 324 Finger_E_1_L 1.0000 
+skin 325 Finger_E_2_L 1.0000 
+skin 326 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 327 Finger_E_2_L 1.0000 
+skin 328 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 329 Wrist_L 1.0000 
+skin 330 Wrist_L 1.0000 
+skin 331 Wrist_L 1.0000 
+skin 332 Wrist_L 1.0000 
+skin 333 Wrist_L 1.0000 
+skin 334 Wrist_L 1.0000 
+skin 335 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 336 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 337 Wrist_L 1.0000 
+skin 338 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 339 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 340 Wrist_L 1.0000 
+skin 341 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 342 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 343 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 344 Finger_B_1_L 1.0000 
+skin 345 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 346 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 347 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 348 Wrist_L 1.0000 
+skin 349 Wrist_L 0.1000 Finger_E_1_L 0.9000 
+skin 350 Finger_E_1_L 1.0000 
+skin 351 Finger_E_1_L 1.0000 
+skin 352 Finger_E_1_L 1.0000 
+skin 353 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 354 Finger_E_2_L 1.0000 
+skin 355 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 356 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 357 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 358 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 359 Finger_D_2_L 1.0000 
+skin 360 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 361 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 362 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 363 Finger_C_2_L 1.0000 
+skin 364 Finger_B_1_L 1.0000 
+skin 365 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 366 Finger_B_2_L 1.0000 
+skin 367 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 368 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 369 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 370 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 371 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 372 Finger_E_1_L 1.0000 
+skin 373 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 374 Wrist_L 1.0000 
+skin 375 Wrist_L 0.1000 Finger_C_1_L 0.9000 
+skin 376 Finger_B_1_L 1.0000 
+skin 377 Finger_C_1_L 1.0000 
+skin 378 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 379 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 380 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 381 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 382 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 383 Finger_C_1_L 0.9000 Finger_C_2_L 0.1000 
+skin 384 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 385 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 386 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 387 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 388 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 389 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 390 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 391 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 392 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 393 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 394 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 395 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 396 Finger_C_1_L 0.2000 Finger_C_2_L 0.8000 
+skin 397 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 398 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 399 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 400 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 401 Finger_C_2_L 1.0000 
+skin 402 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 403 Wrist_L 0.1000 Finger_B_1_L 0.9000 
+skin 404 Finger_B_1_L 1.0000 
+skin 405 Wrist_L 0.2000 Finger_B_1_L 0.8000 
+skin 406 Wrist_L 0.4000 Finger_B_1_L 0.6000 
+skin 407 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 408 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 409 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 410 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 411 Finger_B_1_L 0.9000 Finger_B_2_L 0.1000 
+skin 412 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 413 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 414 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 415 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 416 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 417 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 418 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 419 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 420 Finger_B_1_L 0.2000 Finger_B_2_L 0.8000 
+skin 421 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 422 Finger_B_2_L 1.0000 
+skin 423 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 424 Wrist_L 0.4000 Finger_B_1_L 0.6000 
+skin 425 Wrist_L 0.1000 Finger_B_1_L 0.9000 
+skin 426 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 427 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 428 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 429 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 430 Wrist_L 0.1000 Finger_D_1_L 0.9000 
+skin 431 Finger_D_1_L 1.0000 
+skin 432 Wrist_L 0.1000 Finger_D_1_L 0.9000 
+skin 433 Finger_D_1_L 1.0000 
+skin 434 Wrist_L 0.1000 Finger_D_1_L 0.9000 
+skin 435 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 436 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 437 Wrist_L 0.1000 Finger_C_1_L 0.9000 
+skin 438 Finger_C_1_L 1.0000 
+skin 439 Finger_C_1_L 1.0000 
+skin 440 Wrist_L 0.1000 Finger_C_1_L 0.9000 
+skin 441 Wrist_L 0.1000 Finger_C_1_L 0.9000 
+skin 442 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 443 Finger_C_1_L 0.1000 Finger_C_2_L 0.9000 
+skin 444 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 445 Finger_B_1_L 0.1000 Finger_B_2_L 0.9000 
+skin 446 Finger_D_1_L 1.0000 
+skin 447 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 448 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 449 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 450 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 451 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 452 Finger_D_1_L 0.9000 Finger_D_2_L 0.1000 
+skin 453 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 454 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 455 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 456 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 457 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 458 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 459 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 460 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 461 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 462 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 463 Finger_D_1_L 0.2000 Finger_D_2_L 0.8000 
+skin 464 Finger_D_1_L 0.1000 Finger_D_2_L 0.9000 
+skin 465 Finger_E_1_L 1.0000 
+skin 466 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 467 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 468 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 469 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 470 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 471 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 472 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 473 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 474 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 475 Finger_E_1_L 0.9000 Finger_E_2_L 0.1000 
+skin 476 Wrist_L 0.5000 Finger_E_1_L 0.5000 
+skin 477 Wrist_L 0.5000 Finger_E_1_L 0.5000 
+skin 478 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 479 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 480 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 481 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 482 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 483 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 484 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 485 Finger_E_1_L 0.2000 Finger_E_2_L 0.8000 
+skin 486 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 487 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 488 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 489 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 490 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 491 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 492 Finger_E_2_L 1.0000 
+skin 493 Finger_E_1_L 0.1000 Finger_E_2_L 0.9000 
+skin 494 Finger_B_1_L 1.0000 
+skin 495 Wrist_L 0.2000 Finger_D_1_L 0.8000 
+skin 496 Wrist_L 0.2000 Finger_E_1_L 0.8000 
+skin 497 Finger_B_1_L 1.0000 
+skin 498 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 499 Wrist_L 0.1000 Finger_D_1_L 0.9000 
+skin 500 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 501 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 502 Finger_E_1_L 1.0000 
+skin 503 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 504 Finger_E_1_L 1.0000 
+skin 505 Wrist_L 0.4000 Finger_D_1_L 0.3000 Finger_E_1_L 0.3000 
+skin 506 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 507 Wrist_L 0.4000 Finger_C_1_L 0.3000 Finger_D_1_L 0.3000 
+skin 508 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 509 Wrist_L 0.4000 Finger_B_1_L 0.3000 Finger_C_1_L 0.3000 
+skin 510 Finger_C_1_R 1.0000 
+skin 511 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 512 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 513 Wrist_R 0.2000 Finger_C_1_R 0.8000 
+skin 514 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 515 Finger_C_1_R 1.0000 
+skin 516 Finger_C_1_R 1.0000 
+skin 517 Finger_C_1_R 1.0000 
+skin 518 Finger_C_1_R 1.0000 
+skin 519 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 520 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 521 Finger_C_2_R 1.0000 
+skin 522 Finger_C_2_R 1.0000 
+skin 523 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 524 Finger_C_2_R 1.0000 
+skin 525 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 526 Wrist_R 0.2000 Finger_C_1_R 0.8000 
+skin 527 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 528 Finger_C_1_R 1.0000 
+skin 529 Finger_C_1_R 1.0000 
+skin 530 Finger_C_2_R 1.0000 
+skin 531 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 532 Finger_C_2_R 1.0000 
+skin 533 Finger_C_2_R 1.0000 
+skin 534 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 535 Finger_C_2_R 1.0000 
+skin 536 Finger_C_2_R 1.0000 
+skin 537 Wrist_R 1.0000 
+skin 538 Wrist_R 0.2000 Finger_D_1_R 0.8000 
+skin 539 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 540 Wrist_R 1.0000 
+skin 541 Wrist_R 1.0000 
+skin 542 Wrist_R 1.0000 
+skin 543 Wrist_R 1.0000 
+skin 544 Wrist_R 1.0000 
+skin 545 Wrist_R 1.0000 
+skin 546 Wrist_R 1.0000 
+skin 547 Wrist_R 1.0000 
+skin 548 Wrist_R 1.0000 
+skin 549 Wrist_R 1.0000 
+skin 550 Wrist_R 1.0000 
+skin 551 Wrist_R 1.0000 
+skin 552 Wrist_R 1.0000 
+skin 553 Wrist_R 1.0000 
+skin 554 Wrist_R 1.0000 
+skin 555 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 556 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 557 Wrist_R 1.0000 
+skin 558 Wrist_R 1.0000 
+skin 559 Wrist_R 1.0000 
+skin 560 Wrist_R 1.0000 
+skin 561 Wrist_R 1.0000 
+skin 562 Wrist_R 1.0000 
+skin 563 Wrist_R 1.0000 
+skin 564 Wrist_R 1.0000 
+skin 565 Wrist_R 1.0000 
+skin 566 Wrist_R 1.0000 
+skin 567 Wrist_R 1.0000 
+skin 568 Wrist_R 1.0000 
+skin 569 Wrist_R 1.0000 
+skin 570 Wrist_R 1.0000 
+skin 571 Wrist_R 1.0000 
+skin 572 Wrist_R 1.0000 
+skin 573 Wrist_R 1.0000 
+skin 574 Wrist_R 1.0000 
+skin 575 Wrist_R 1.0000 
+skin 576 Wrist_R 1.0000 
+skin 577 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 578 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 579 Wrist_R 1.0000 
+skin 580 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 581 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 582 Finger_B_1_R 1.0000 
+skin 583 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 584 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 585 Finger_B_1_R 1.0000 
+skin 586 Wrist_R 0.4000 Finger_B_1_R 0.6000 
+skin 587 Wrist_R 1.0000 
+skin 588 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 589 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 590 Finger_B_1_R 1.0000 
+skin 591 Finger_B_1_R 1.0000 
+skin 592 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 593 Finger_B_1_R 1.0000 
+skin 594 Finger_B_1_R 1.0000 
+skin 595 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 596 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 597 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 598 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 599 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 600 Finger_B_2_R 1.0000 
+skin 601 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 602 Finger_B_2_R 1.0000 
+skin 603 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 604 Finger_B_2_R 1.0000 
+skin 605 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 606 Finger_B_2_R 1.0000 
+skin 607 Finger_B_2_R 1.0000 
+skin 608 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 609 Finger_B_2_R 1.0000 
+skin 610 Finger_B_2_R 1.0000 
+skin 611 Wrist_R 1.0000 
+skin 612 Finger_A_1_R 1.0000 
+skin 613 Wrist_R 1.0000 
+skin 614 Finger_A_1_R 1.0000 
+skin 615 Finger_A_1_R 1.0000 
+skin 616 Finger_A_1_R 1.0000 
+skin 617 Finger_A_2_R 1.0000 
+skin 618 Finger_A_2_R 1.0000 
+skin 619 Finger_A_2_R 1.0000 
+skin 620 Finger_A_1_R 1.0000 
+skin 621 Finger_A_1_R 1.0000 
+skin 622 Finger_A_1_R 1.0000 
+skin 623 Finger_A_1_R 1.0000 
+skin 624 Finger_A_1_R 1.0000 
+skin 625 Finger_A_1_R 1.0000 
+skin 626 Finger_A_2_R 1.0000 
+skin 627 Finger_A_2_R 1.0000 
+skin 628 Finger_A_1_R 1.0000 
+skin 629 Finger_A_1_R 1.0000 
+skin 630 Finger_A_1_R 1.0000 
+skin 631 Finger_A_1_R 1.0000 
+skin 632 Finger_A_1_R 1.0000 
+skin 633 Wrist_R 1.0000 
+skin 634 Finger_A_1_R 1.0000 
+skin 635 Finger_A_1_R 1.0000 
+skin 636 Finger_A_1_R 1.0000 
+skin 637 Finger_A_1_R 1.0000 
+skin 638 Finger_A_2_R 1.0000 
+skin 639 Finger_A_2_R 1.0000 
+skin 640 Finger_A_2_R 1.0000 
+skin 641 Finger_A_2_R 1.0000 
+skin 642 Finger_A_2_R 1.0000 
+skin 643 Finger_A_2_R 1.0000 
+skin 644 Finger_A_2_R 1.0000 
+skin 645 Finger_A_2_R 1.0000 
+skin 646 Finger_A_2_R 1.0000 
+skin 647 Finger_A_2_R 1.0000 
+skin 648 Finger_A_2_R 1.0000 
+skin 649 Finger_A_2_R 1.0000 
+skin 650 Finger_A_2_R 1.0000 
+skin 651 Finger_A_2_R 1.0000 
+skin 652 Finger_A_2_R 1.0000 
+skin 653 Finger_A_2_R 1.0000 
+skin 654 Finger_A_2_R 1.0000 
+skin 655 Finger_A_2_R 1.0000 
+skin 656 Finger_A_2_R 1.0000 
+skin 657 Finger_A_2_R 1.0000 
+skin 658 Finger_A_2_R 1.0000 
+skin 659 Finger_A_2_R 1.0000 
+skin 660 Finger_A_2_R 1.0000 
+skin 661 Finger_A_1_R 1.0000 
+skin 662 Finger_A_1_R 1.0000 
+skin 663 Finger_A_1_R 1.0000 
+skin 664 Finger_A_2_R 1.0000 
+skin 665 Finger_A_2_R 1.0000 
+skin 666 Finger_A_2_R 1.0000 
+skin 667 Finger_A_2_R 1.0000 
+skin 668 Finger_A_2_R 1.0000 
+skin 669 Finger_A_2_R 1.0000 
+skin 670 Finger_A_2_R 1.0000 
+skin 671 Finger_A_2_R 1.0000 
+skin 672 Finger_A_1_R 1.0000 
+skin 673 Finger_A_1_R 1.0000 
+skin 674 Finger_A_1_R 1.0000 
+skin 675 Finger_A_1_R 1.0000 
+skin 676 Finger_A_1_R 1.0000 
+skin 677 Finger_A_1_R 1.0000 
+skin 678 Wrist_R 1.0000 
+skin 679 Wrist_R 1.0000 
+skin 680 Finger_A_1_R 1.0000 
+skin 681 Wrist_R 1.0000 
+skin 682 Wrist_R 1.0000 
+skin 683 Wrist_R 1.0000 
+skin 684 Wrist_R 1.0000 
+skin 685 Wrist_R 1.0000 
+skin 686 Wrist_R 1.0000 
+skin 687 Wrist_R 1.0000 
+skin 688 Wrist_R 1.0000 
+skin 689 Finger_A_2_R 1.0000 
+skin 690 Finger_A_2_R 1.0000 
+skin 691 Finger_A_2_R 1.0000 
+skin 692 Finger_A_2_R 1.0000 
+skin 693 Wrist_R 1.0000 
+skin 694 Wrist_R 1.0000 
+skin 695 Wrist_R 1.0000 
+skin 696 Wrist_R 1.0000 
+skin 697 Wrist_R 1.0000 
+skin 698 Wrist_R 1.0000 
+skin 699 Wrist_R 0.4000 Finger_B_1_R 0.6000 
+skin 700 Wrist_R 1.0000 
+skin 701 Wrist_R 1.0000 
+skin 702 Wrist_R 1.0000 
+skin 703 Wrist_R 1.0000 
+skin 704 Wrist_R 1.0000 
+skin 705 Wrist_R 1.0000 
+skin 706 Wrist_R 1.0000 
+skin 707 Wrist_R 1.0000 
+skin 708 Wrist_R 1.0000 
+skin 709 Wrist_R 1.0000 
+skin 710 Wrist_R 1.0000 
+skin 711 Wrist_R 1.0000 
+skin 712 Wrist_R 1.0000 
+skin 713 Wrist_R 1.0000 
+skin 714 Wrist_R 1.0000 
+skin 715 Wrist_R 1.0000 
+skin 716 Wrist_R 1.0000 
+skin 717 Wrist_R 1.0000 
+skin 718 Wrist_R 0.5000 Finger_E_1_R 0.5000 
+skin 719 Wrist_R 0.5000 Finger_E_1_R 0.5000 
+skin 720 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 721 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 722 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 723 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 724 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 725 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 726 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 727 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 728 Wrist_R 0.1000 Finger_E_1_R 0.9000 
+skin 729 Wrist_R 1.0000 
+skin 730 Wrist_R 0.1000 Finger_E_1_R 0.9000 
+skin 731 Wrist_R 0.1000 Finger_E_1_R 0.9000 
+skin 732 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 733 Finger_E_1_R 1.0000 
+skin 734 Finger_E_2_R 1.0000 
+skin 735 Finger_E_1_R 1.0000 
+skin 736 Finger_E_1_R 1.0000 
+skin 737 Finger_E_1_R 1.0000 
+skin 738 Finger_E_1_R 1.0000 
+skin 739 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 740 Finger_E_2_R 1.0000 
+skin 741 Finger_E_2_R 1.0000 
+skin 742 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 743 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 744 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 745 Finger_E_2_R 1.0000 
+skin 746 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 747 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 748 Finger_E_2_R 1.0000 
+skin 749 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 750 Finger_E_2_R 1.0000 
+skin 751 Finger_E_2_R 1.0000 
+skin 752 Finger_E_2_R 1.0000 
+skin 753 Finger_E_2_R 1.0000 
+skin 754 Finger_D_1_R 1.0000 
+skin 755 Finger_D_2_R 1.0000 
+skin 756 Finger_D_1_R 1.0000 
+skin 757 Finger_D_1_R 1.0000 
+skin 758 Finger_D_1_R 1.0000 
+skin 759 Finger_D_1_R 1.0000 
+skin 760 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 761 Finger_D_2_R 1.0000 
+skin 762 Finger_D_2_R 1.0000 
+skin 763 Finger_D_2_R 1.0000 
+skin 764 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 765 Finger_D_2_R 1.0000 
+skin 766 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 767 Finger_D_2_R 1.0000 
+skin 768 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 769 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 770 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 771 Finger_D_2_R 1.0000 
+skin 772 Finger_D_2_R 1.0000 
+skin 773 Finger_D_2_R 1.0000 
+skin 774 Finger_D_2_R 1.0000 
+skin 775 Wrist_R 0.1000 Finger_C_1_R 0.9000 
+skin 776 Finger_C_1_R 1.0000 
+skin 777 Finger_C_1_R 1.0000 
+skin 778 Finger_C_1_R 1.0000 
+skin 779 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 780 Finger_C_2_R 1.0000 
+skin 781 Finger_C_2_R 1.0000 
+skin 782 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 783 Finger_C_1_R 1.0000 
+skin 784 Finger_C_2_R 1.0000 
+skin 785 Finger_C_2_R 1.0000 
+skin 786 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 787 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 788 Finger_C_2_R 1.0000 
+skin 789 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 790 Finger_C_2_R 1.0000 
+skin 791 Finger_B_1_R 1.0000 
+skin 792 Finger_B_1_R 1.0000 
+skin 793 Finger_B_1_R 1.0000 
+skin 794 Finger_B_1_R 1.0000 
+skin 795 Finger_B_1_R 1.0000 
+skin 796 Finger_B_1_R 1.0000 
+skin 797 Finger_B_2_R 1.0000 
+skin 798 Finger_B_2_R 1.0000 
+skin 799 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 800 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 801 Finger_B_2_R 1.0000 
+skin 802 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 803 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 804 Finger_B_2_R 1.0000 
+skin 805 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 806 Finger_B_2_R 1.0000 
+skin 807 Finger_D_1_R 1.0000 
+skin 808 Finger_D_1_R 1.0000 
+skin 809 Finger_D_1_R 1.0000 
+skin 810 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 811 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 812 Finger_D_1_R 1.0000 
+skin 813 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 814 Finger_D_2_R 1.0000 
+skin 815 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 816 Finger_D_2_R 1.0000 
+skin 817 Finger_D_1_R 1.0000 
+skin 818 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 819 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 820 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 821 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 822 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 823 Finger_D_2_R 1.0000 
+skin 824 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 825 Finger_D_2_R 1.0000 
+skin 826 Finger_E_1_R 1.0000 
+skin 827 Finger_E_1_R 1.0000 
+skin 828 Finger_E_1_R 1.0000 
+skin 829 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 830 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 831 Finger_E_1_R 1.0000 
+skin 832 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 833 Finger_E_2_R 1.0000 
+skin 834 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 835 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 836 Finger_E_1_R 1.0000 
+skin 837 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 838 Finger_E_2_R 1.0000 
+skin 839 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 840 Finger_E_2_R 1.0000 
+skin 841 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 842 Finger_E_2_R 1.0000 
+skin 843 Wrist_R 1.0000 
+skin 844 Wrist_R 1.0000 
+skin 845 Wrist_R 1.0000 
+skin 846 Wrist_R 1.0000 
+skin 847 Wrist_R 1.0000 
+skin 848 Wrist_R 1.0000 
+skin 849 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 850 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 851 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 852 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 853 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 854 Wrist_R 1.0000 
+skin 855 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 856 Wrist_R 1.0000 
+skin 857 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 858 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 859 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 860 Finger_B_1_R 1.0000 
+skin 861 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 862 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 863 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 864 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 865 Wrist_R 1.0000 
+skin 866 Wrist_R 0.1000 Finger_E_1_R 0.9000 
+skin 867 Finger_E_1_R 1.0000 
+skin 868 Finger_E_1_R 1.0000 
+skin 869 Finger_E_1_R 1.0000 
+skin 870 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 871 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 872 Finger_E_2_R 1.0000 
+skin 873 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 874 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 875 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 876 Finger_D_2_R 1.0000 
+skin 877 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 878 Finger_C_1_R 1.0000 
+skin 879 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 880 Finger_C_2_R 1.0000 
+skin 881 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 882 Finger_B_1_R 1.0000 
+skin 883 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 884 Finger_B_2_R 1.0000 
+skin 885 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 886 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 887 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 888 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 889 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 890 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 891 Finger_E_1_R 1.0000 
+skin 892 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 893 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 894 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 895 Wrist_R 1.0000 
+skin 896 Wrist_R 0.1000 Finger_C_1_R 0.9000 
+skin 897 Finger_B_1_R 1.0000 
+skin 898 Finger_C_1_R 1.0000 
+skin 899 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 900 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 901 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 902 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 903 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 904 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 905 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 906 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 907 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 908 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 909 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 910 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 911 Finger_C_1_R 0.9000 Finger_C_2_R 0.1000 
+skin 912 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 913 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 914 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 915 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 916 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 917 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 918 Finger_C_1_R 0.2000 Finger_C_2_R 0.8000 
+skin 919 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 920 Wrist_R 0.2000 Finger_B_1_R 0.8000 
+skin 921 Wrist_R 0.1000 Finger_B_1_R 0.9000 
+skin 922 Finger_B_1_R 1.0000 
+skin 923 Wrist_R 0.4000 Finger_B_1_R 0.6000 
+skin 924 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 925 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 926 Finger_B_1_R 0.9000 Finger_B_2_R 0.1000 
+skin 927 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 928 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 929 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 930 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 931 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 932 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 933 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 934 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 935 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 936 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 937 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 938 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 939 Finger_B_1_R 0.2000 Finger_B_2_R 0.8000 
+skin 940 Finger_B_2_R 1.0000 
+skin 941 Wrist_R 0.4000 Finger_B_1_R 0.6000 
+skin 942 Wrist_R 0.1000 Finger_B_1_R 0.9000 
+skin 943 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 944 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 945 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 946 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 947 Wrist_R 0.1000 Finger_D_1_R 0.9000 
+skin 948 Finger_D_1_R 1.0000 
+skin 949 Wrist_R 0.1000 Finger_D_1_R 0.9000 
+skin 950 Wrist_R 0.1000 Finger_D_1_R 0.9000 
+skin 951 Finger_D_1_R 1.0000 
+skin 952 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 953 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 954 Wrist_R 0.1000 Finger_C_1_R 0.9000 
+skin 955 Wrist_R 0.1000 Finger_C_1_R 0.9000 
+skin 956 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 957 Finger_C_1_R 0.1000 Finger_C_2_R 0.9000 
+skin 958 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 959 Finger_B_1_R 0.1000 Finger_B_2_R 0.9000 
+skin 960 Finger_D_1_R 1.0000 
+skin 961 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 962 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 963 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 964 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 965 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 966 Finger_D_1_R 0.9000 Finger_D_2_R 0.1000 
+skin 967 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 968 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 969 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 970 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 971 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 972 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 973 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 974 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 975 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 976 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 977 Finger_D_1_R 0.2000 Finger_D_2_R 0.8000 
+skin 978 Finger_D_1_R 0.1000 Finger_D_2_R 0.9000 
+skin 979 Finger_E_1_R 1.0000 
+skin 980 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 981 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 982 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 983 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 984 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 985 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 986 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 987 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 988 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 989 Finger_E_1_R 0.9000 Finger_E_2_R 0.1000 
+skin 990 Wrist_R 0.5000 Finger_E_1_R 0.5000 
+skin 991 Wrist_R 0.5000 Finger_E_1_R 0.5000 
+skin 992 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 993 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 994 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 995 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 996 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 997 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 998 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 999 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 1000 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 1001 Finger_E_1_R 0.2000 Finger_E_2_R 0.8000 
+skin 1002 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 1003 Finger_E_1_R 0.1000 Finger_E_2_R 0.9000 
+skin 1004 Finger_B_1_R 1.0000 
+skin 1005 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 1006 Wrist_R 0.2000 Finger_D_1_R 0.8000 
+skin 1007 Wrist_R 0.2000 Finger_E_1_R 0.8000 
+skin 1008 Finger_B_1_R 1.0000 
+skin 1009 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 1010 Wrist_R 0.1000 Finger_D_1_R 0.9000 
+skin 1011 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 1012 Finger_E_1_R 1.0000 
+skin 1013 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 1014 Finger_E_1_R 1.0000 
+skin 1015 Wrist_R 0.4000 Finger_D_1_R 0.3000 Finger_E_1_R 0.3000 
+skin 1016 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 1017 Wrist_R 0.4000 Finger_C_1_R 0.3000 Finger_D_1_R 0.3000 
+skin 1018 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 1019 Wrist_R 0.4000 Finger_B_1_R 0.3000 Finger_C_1_R 0.3000 
+skin 1020 Head_1 1.0000 
+skin 1021 Head_1 0.9000 Head_2 0.1000 
+skin 1022 Pendant_1 1.0000 
+skin 1023 Head_1 0.8000 Beard_R 0.2000 
+skin 1024 Head_1 0.7000 Head_2 0.3000 
+skin 1025 Head_1 1.0000 
+skin 1026 Head_1 0.6000 Beard_R 0.4000 
+skin 1027 Head_1 0.6000 Beard_R 0.4000 
+skin 1028 Head_1 0.4000 Beard_R 0.6000 
+skin 1029 Head_1 0.7000 Head_2 0.3000 
+skin 1030 Spine 1.0000 
+skin 1031 Head_1 0.4000 Beard_R 0.6000 
+skin 1032 Head_1 0.4000 Beard_R 0.6000 
+skin 1033 Head_1 0.4000 Beard_R 0.6000 
+skin 1034 Head_1 0.4000 Beard_R 0.6000 
+skin 1035 Beard_R 1.0000 
+skin 1036 Head_1 0.2000 Beard_R 0.8000 
+skin 1037 Head_1 0.2000 Beard_R 0.8000 
+skin 1038 Head_1 0.2000 Beard_R 0.8000 
+skin 1039 Head_2 1.0000 
+skin 1040 Head_2 1.0000 
+skin 1041 Head_2 1.0000 
+skin 1042 Head_2 1.0000 
+skin 1043 Head_2 1.0000 
+skin 1044 Head_2 1.0000 
+skin 1045 Head_1 0.1000 Head_2 0.9000 
+skin 1046 Head_2 1.0000 
+skin 1047 Head_1 0.1000 Head_2 0.9000 
+skin 1048 Head_2 1.0000 
+skin 1049 Head_1 0.1000 Head_2 0.9000 
+skin 1050 Head_2 1.0000 
+skin 1051 Head_1 0.1000 Head_2 0.9000 
+skin 1052 Head_1 0.1000 Head_2 0.9000 
+skin 1053 Head_2 1.0000 
+skin 1054 Head_2 1.0000 
+skin 1055 Head_1 0.1000 Head_2 0.9000 
+skin 1056 Head_1 0.1000 Head_2 0.9000 
+skin 1057 Head_1 0.1000 Head_2 0.9000 
+skin 1058 Head_1 0.1000 Head_2 0.9000 
+skin 1059 Head_2 1.0000 
+skin 1060 Head_1 0.1000 Head_2 0.9000 
+skin 1061 Head_1 0.1000 Head_2 0.9000 
+skin 1062 Head_2 1.0000 
+skin 1063 Head_1 0.1000 Head_2 0.9000 
+skin 1064 Head_2 1.0000 
+skin 1065 Head_1 0.1000 Head_2 0.9000 
+skin 1066 Head_2 1.0000 
+skin 1067 Head_2 1.0000 
+skin 1068 Head_1 0.1000 Head_2 0.9000 
+skin 1069 Head_2 1.0000 
+skin 1070 Head_2 1.0000 
+skin 1071 Head_2 1.0000 
+skin 1072 Head_2 1.0000 
+skin 1073 Head_1 1.0000 
+skin 1074 Head_1 0.9000 Head_2 0.1000 
+skin 1075 Head_1 1.0000 
+skin 1076 Head_1 0.7000 Head_2 0.3000 
+skin 1077 Head_1 0.8000 Beard_L 0.2000 
+skin 1078 Pendant_1 1.0000 
+skin 1079 Head_1 0.7000 Head_2 0.3000 
+skin 1080 Head_1 0.4000 Beard_L 0.6000 
+skin 1081 Head_1 0.6000 Beard_L 0.4000 
+skin 1082 Head_1 0.6000 Beard_L 0.4000 
+skin 1083 Head_1 0.4000 Beard_L 0.6000 
+skin 1084 Head_1 0.4000 Beard_L 0.6000 
+skin 1085 Head_1 0.4000 Beard_L 0.6000 
+skin 1086 Spine 1.0000 
+skin 1087 Head_1 0.4000 Beard_L 0.6000 
+skin 1088 Head_1 1.0000 
+skin 1089 Head_1 1.0000 
+skin 1090 Head_1 1.0000 
+skin 1091 Head_1 1.0000 
+skin 1092 Pendant_1 1.0000 
+skin 1093 Pendant_1 1.0000 
+skin 1094 Head_1 0.9000 Head_2 0.1000 
+skin 1095 Spine 1.0000 
+skin 1096 Spine 1.0000 
+skin 1097 Head_1 0.4000 Beard_R 0.6000 
+skin 1098 Head_1 0.2000 Beard_R 0.8000 
+skin 1099 Head_1 0.4000 Beard_R 0.6000 
+skin 1100 Head_2 1.0000 
+skin 1101 Head_1 0.5000 Beard_R 0.5000 
+skin 1102 Head_1 0.9000 Head_2 0.1000 
+skin 1103 Head_1 0.8000 Head_2 0.2000 
+skin 1104 Head_1 0.8000 Head_2 0.2000 
+skin 1105 Head_1 0.9000 Head_2 0.1000 
+skin 1106 Head_1 0.5000 Beard_R 0.5000 
+skin 1107 Head_1 0.6000 Beard_R 0.4000 
+skin 1108 Head_1 0.7000 Head_2 0.3000 
+skin 1109 Head_1 0.6000 Beard_R 0.4000 
+skin 1110 Head_1 0.2000 Beard_R 0.8000 
+skin 1111 Head_1 0.2000 Beard_R 0.8000 
+skin 1112 Head_1 0.4000 Beard_R 0.6000 
+skin 1113 Pendant_1 1.0000 
+skin 1114 Head_1 0.2000 Beard_R 0.8000 
+skin 1115 Head_1 0.2000 Beard_R 0.8000 
+skin 1116 Head_1 0.2000 Beard_R 0.8000 
+skin 1117 Head_1 0.2000 Beard_R 0.8000 
+skin 1118 Head_1 0.4000 Beard_R 0.6000 
+skin 1119 Head_1 0.4000 Head_2 0.6000 
+skin 1120 Spine 1.0000 
+skin 1121 Head_1 0.4000 Head_2 0.6000 
+skin 1122 Spine 1.0000 
+skin 1123 Head_1 0.4000 Head_2 0.6000 
+skin 1124 Head_1 0.1000 Head_2 0.9000 
+skin 1125 Spine 1.0000 
+skin 1126 Head_2 1.0000 
+skin 1127 Head_1 0.3000 Head_2 0.7000 
+skin 1128 Head_1 0.4000 Head_2 0.6000 
+skin 1129 Head_2 1.0000 
+skin 1130 Head_1 0.3000 Head_2 0.7000 
+skin 1131 Head_2 1.0000 
+skin 1132 Head_1 0.4000 Head_2 0.6000 
+skin 1133 Spine 1.0000 
+skin 1134 Head_1 0.4000 Head_2 0.6000 
+skin 1135 Spine 1.0000 
+skin 1136 Head_2 1.0000 
+skin 1137 Spine 1.0000 
+skin 1138 Head_2 1.0000 
+skin 1139 Head_1 0.3000 Head_2 0.7000 
+skin 1140 Head_1 0.3000 Head_2 0.7000 
+skin 1141 Head_1 0.4000 Head_2 0.6000 
+skin 1142 Head_2 1.0000 
+skin 1143 Head_1 0.5000 Beard_L 0.5000 
+skin 1144 Head_1 0.7000 Head_2 0.3000 
+skin 1145 Head_1 0.2000 Beard_L 0.8000 
+skin 1146 Head_1 0.2000 Beard_L 0.8000 
+skin 1147 Head_1 0.5000 Beard_L 0.5000 
+skin 1148 Head_1 0.8000 Head_2 0.2000 
+skin 1149 Head_1 0.4000 Beard_L 0.6000 
+skin 1150 Head_1 0.8000 Head_2 0.2000 
+skin 1151 Head_1 0.9000 Head_2 0.1000 
+skin 1152 Head_1 0.6000 Beard_L 0.4000 
+skin 1153 Head_1 0.6000 Beard_L 0.4000 
+skin 1154 Head_1 0.9000 Head_2 0.1000 
+skin 1155 Head_1 0.2000 Beard_L 0.8000 
+skin 1156 Head_1 0.2000 Beard_L 0.8000 
+skin 1157 Head_1 0.2000 Beard_L 0.8000 
+skin 1158 Beard_L 1.0000 
+skin 1159 Head_1 0.2000 Beard_L 0.8000 
+skin 1160 Head_1 0.2000 Beard_L 0.8000 
+skin 1161 Head_1 0.4000 Beard_L 0.6000 
+skin 1162 Pendant_1 1.0000 
+skin 1163 Pendant_1 1.0000 
+skin 1164 Head_1 0.2000 Beard_R 0.8000 
+skin 1165 Head_1 0.2000 Beard_R 0.8000 
+skin 1166 Head_1 0.3000 Head_2 0.7000 
+skin 1167 Head_1 0.1000 Head_2 0.9000 
+skin 1168 Head_1 0.1000 Head_2 0.9000 
+skin 1169 Head_1 0.1000 Head_2 0.9000 
+skin 1170 Head_1 0.1000 Head_2 0.9000 
+skin 1171 Head_1 0.1000 Head_2 0.9000 
+skin 1172 Head_1 0.1000 Head_2 0.9000 
+skin 1173 Head_2 1.0000 
+skin 1174 Head_2 1.0000 
+skin 1175 Head_1 0.3000 Head_2 0.7000 
+skin 1176 Head_1 0.3000 Head_2 0.7000 
+skin 1177 Head_1 0.3000 Head_2 0.7000 
+skin 1178 Head_2 1.0000 
+skin 1179 Head_1 0.3000 Head_2 0.7000 
+skin 1180 Head_1 0.8000 Head_2 0.2000 
+skin 1181 Head_1 0.8000 Head_2 0.2000 
+skin 1182 Head_1 0.7000 Head_2 0.3000 
+skin 1183 Head_1 0.8000 Head_2 0.2000 
+skin 1184 Head_1 0.8000 Head_2 0.2000 
+skin 1185 Head_1 0.3000 Head_2 0.7000 
+skin 1186 Head_1 0.8000 Head_2 0.2000 
+skin 1187 Head_1 0.3000 Head_2 0.7000 
+skin 1188 Head_1 0.9000 Head_2 0.1000 
+skin 1189 Head_1 0.9000 Head_2 0.1000 
+skin 1190 Head_1 1.0000 
+skin 1191 Head_1 0.3000 Head_2 0.7000 
+skin 1192 Head_1 0.1000 Head_2 0.9000 
+skin 1193 Head_1 1.0000 
+skin 1194 Head_1 0.3000 Head_2 0.7000 
+skin 1195 Head_1 0.3000 Head_2 0.7000 
+skin 1196 Head_1 1.0000 
+skin 1197 Head_1 0.9000 Head_2 0.1000 
+skin 1198 Head_1 0.3000 Head_2 0.7000 
+skin 1199 Head_1 0.1000 Head_2 0.9000 
+skin 1200 Head_1 0.8000 Head_2 0.2000 
+skin 1201 Head_1 0.8000 Head_2 0.2000 
+skin 1202 Head_1 0.8000 Head_2 0.2000 
+skin 1203 Head_1 0.1000 Head_2 0.9000 
+skin 1204 Head_1 0.8000 Head_2 0.2000 
+skin 1205 Head_1 0.3000 Head_2 0.7000 
+skin 1206 Head_1 0.3000 Head_2 0.7000 
+skin 1207 Head_1 0.3000 Head_2 0.7000 
+skin 1208 Head_1 0.3000 Head_2 0.7000 
+skin 1209 Head_1 0.8000 Head_2 0.2000 
+skin 1210 Head_1 0.3000 Head_2 0.7000 
+skin 1211 Head_1 0.3000 Head_2 0.7000 
+skin 1212 Head_1 0.3000 Head_2 0.7000 
+skin 1213 Head_2 1.0000 
+skin 1214 Head_1 0.7000 Head_2 0.3000 
+skin 1215 Head_1 0.1000 Head_2 0.9000 
+skin 1216 Head_1 0.1000 Head_2 0.9000 
+skin 1217 Head_1 0.1000 Head_2 0.9000 
+skin 1218 Head_1 0.1000 Head_2 0.9000 
+skin 1219 Head_1 0.1000 Head_2 0.9000 
+skin 1220 Head_1 0.1000 Head_2 0.9000 
+skin 1221 Pendant_1 1.0000 
+skin 1222 Head_1 0.2000 Beard_L 0.8000 
+skin 1223 Head_1 0.4000 Beard_L 0.6000 
+skin 1224 Head_1 0.2000 Beard_L 0.8000 
+skin 1225 Head_1 0.2000 Beard_L 0.8000 
+skin 1226 Head_1 0.4000 Beard_L 0.6000 
+skin 1227 Head_1 0.2000 Beard_L 0.8000 
+skin 1228 Head_1 0.2000 Beard_L 0.8000 
+skin 1229 Wrist_L 1.0000 
+skin 1230 Wrist_L 1.0000 
+skin 1231 Wrist_L 1.0000 
+skin 1232 Wrist_L 1.0000 
+skin 1233 Wrist_L 1.0000 
+skin 1234 Wrist_L 1.0000 
+skin 1235 Wrist_L 1.0000 
+skin 1236 Wrist_L 1.0000 
+skin 1237 Wrist_L 1.0000 
+skin 1238 Wrist_L 1.0000 
+skin 1239 Wrist_L 1.0000 
+skin 1240 Wrist_L 1.0000 
+skin 1241 Wrist_L 1.0000 
+skin 1242 Wrist_L 1.0000 
+skin 1243 Wrist_L 1.0000 
+skin 1244 Wrist_L 1.0000 
+skin 1245 Wrist_L 1.0000 
+skin 1246 Wrist_L 1.0000 
+skin 1247 Wrist_L 1.0000 
+skin 1248 Wrist_L 1.0000 
+skin 1249 Wrist_L 1.0000 
+skin 1250 Wrist_L 1.0000 
+skin 1251 Wrist_L 1.0000 
+skin 1252 Wrist_L 1.0000 
+skin 1253 Wrist_L 1.0000 
+skin 1254 Wrist_L 1.0000 
+skin 1255 Wrist_L 1.0000 
+skin 1256 Wrist_L 1.0000 
+skin 1257 Wrist_L 1.0000 
+skin 1258 Wrist_L 1.0000 
+skin 1259 Wrist_L 1.0000 
+skin 1260 Wrist_L 1.0000 
+skin 1261 Wrist_L 1.0000 
+skin 1262 Wrist_L 1.0000 
+skin 1263 Wrist_L 1.0000 
+skin 1264 Wrist_L 1.0000 
+skin 1265 Wrist_L 1.0000 
+skin 1266 Wrist_L 1.0000 
+skin 1267 Wrist_L 1.0000 
+skin 1268 Wrist_L 1.0000 
+skin 1269 Wrist_L 1.0000 
+skin 1270 Wrist_L 1.0000 
+skin 1271 Wrist_L 1.0000 
+skin 1272 Wrist_L 1.0000 
+skin 1273 Wrist_L 1.0000 
+skin 1274 Wrist_L 1.0000 
+skin 1275 Wrist_L 1.0000 
+skin 1276 Wrist_L 1.0000 
+skin 1277 Wrist_L 1.0000 
+skin 1278 Wrist_L 1.0000 
+skin 1279 Wrist_L 1.0000 
+skin 1280 Wrist_L 1.0000 
+skin 1281 Wrist_L 1.0000 
+skin 1282 Wrist_L 1.0000 
+skin 1283 Wrist_L 1.0000 
+skin 1284 Wrist_L 1.0000 
+skin 1285 Wrist_R 1.0000 
+skin 1286 Wrist_R 1.0000 
+skin 1287 Wrist_R 1.0000 
+skin 1288 Wrist_R 1.0000 
+skin 1289 Wrist_R 1.0000 
+skin 1290 Wrist_R 1.0000 
+skin 1291 Wrist_R 1.0000 
+skin 1292 Wrist_R 1.0000 
+skin 1293 Wrist_R 1.0000 
+skin 1294 Wrist_R 1.0000 
+skin 1295 Wrist_R 1.0000 
+skin 1296 Wrist_R 1.0000 
+skin 1297 Wrist_R 1.0000 
+skin 1298 Wrist_R 1.0000 
+skin 1299 Wrist_R 1.0000 
+skin 1300 Wrist_R 1.0000 
+skin 1301 Wrist_R 1.0000 
+skin 1302 Wrist_R 1.0000 
+skin 1303 Wrist_R 1.0000 
+skin 1304 Wrist_R 1.0000 
+skin 1305 Wrist_R 1.0000 
+skin 1306 Wrist_R 1.0000 
+skin 1307 Wrist_R 1.0000 
+skin 1308 Wrist_R 1.0000 
+skin 1309 Wrist_R 1.0000 
+skin 1310 Wrist_R 1.0000 
+skin 1311 Wrist_R 1.0000 
+skin 1312 Wrist_R 1.0000 
+skin 1313 Wrist_R 1.0000 
+skin 1314 Wrist_R 1.0000 
+skin 1315 Wrist_R 1.0000 
+skin 1316 Wrist_R 1.0000 
+skin 1317 Wrist_R 1.0000 
+skin 1318 Wrist_R 1.0000 
+skin 1319 Wrist_R 1.0000 
+skin 1320 Wrist_R 1.0000 
+skin 1321 Wrist_R 1.0000 
+skin 1322 Wrist_R 1.0000 
+skin 1323 Wrist_R 1.0000 
+skin 1324 Wrist_R 1.0000 
+skin 1325 Wrist_R 1.0000 
+skin 1326 Wrist_R 1.0000 
+skin 1327 Wrist_R 1.0000 
+skin 1328 Wrist_R 1.0000 
+skin 1329 Wrist_R 1.0000 
+skin 1330 Wrist_R 1.0000 
+skin 1331 Wrist_R 1.0000 
+skin 1332 Wrist_R 1.0000 
+skin 1333 Wrist_R 1.0000 
+skin 1334 Wrist_R 1.0000 
+skin 1335 Wrist_R 1.0000 
+skin 1336 Wrist_R 1.0000 
+skin 1337 Wrist_R 1.0000 
+skin 1338 Wrist_R 1.0000 
+skin 1339 Wrist_R 1.0000 
+skin 1340 Wrist_R 1.0000 
+skin 1341 Pendant_1 1.0000 
+skin 1342 Pendant_1 1.0000 
+skin 1343 Pendant_1 1.0000 
+skin 1344 Pendant_1 1.0000 
+skin 1345 Pendant_1 1.0000 
+skin 1346 Pendant_1 1.0000 
+skin 1347 Pendant_1 1.0000 
+skin 1348 Pendant_1 1.0000 
+skin 1349 Pendant_1 1.0000 
+skin 1350 Pendant_1 1.0000 
+skin 1351 Pendant_1 1.0000 
+skin 1352 Pendant_1 1.0000 
+skin 1353 Pendant_1 1.0000 
+skin 1354 Pendant_1 1.0000 
+skin 1355 Pendant_1 1.0000 
+skin 1356 Pendant_1 1.0000 
+skin 1357 Pendant_1 1.0000 
+skin 1358 Pendant_1 1.0000 
+skin 1359 Pendant_1 1.0000 
+skin 1360 Pendant_1 1.0000 
+skin 1361 Pendant_1 1.0000 
+skin 1362 Pendant_1 1.0000 
+skin 1363 Pendant_1 1.0000 
+skin 1364 Pendant_1 1.0000 
+skin 1365 Pendant_1 1.0000 
+skin 1366 Pendant_1 1.0000 
+skin 1367 Pendant_1 1.0000 
+skin 1368 Pendant_1 1.0000 
+skin 1369 Pendant_1 1.0000 
+skin 1370 Pendant_1 1.0000 
+skin 1371 Pendant_1 1.0000 
+skin 1372 Pendant_1 1.0000 
+skin 1373 Pendant_1 1.0000 
+skin 1374 Pendant_1 1.0000 
+skin 1375 Pendant_1 1.0000 
+skin 1376 Pendant_1 1.0000 
+skin 1377 Pendant_1 1.0000 
+skin 1378 Pendant_1 1.0000 
+skin 1379 Pendant_1 1.0000 
+skin 1380 Pendant_1 1.0000 
+skin 1381 Pendant_1 1.0000 
+skin 1382 Pendant_1 1.0000 
+skin 1383 Pendant_1 1.0000 
+skin 1384 Pendant_1 1.0000 
+skin 1385 Pendant_1 1.0000 
+skin 1386 Pendant_1 1.0000 
+skin 1387 Pendant_1 1.0000 
+skin 1388 Pendant_1 1.0000 
+skin 1389 Pendant_1 1.0000 
+skin 1390 Pendant_1 1.0000 
+skin 1391 Pendant_1 1.0000 
+skin 1392 Pendant_1 1.0000 
+skin 1393 Pendant_1 1.0000 
+skin 1394 Pendant_1 1.0000 
+skin 1395 Pendant_1 1.0000 
+skin 1396 Pendant_1 1.0000 
+skin 1397 Pendant_1 1.0000 
+skin 1398 Pendant_1 1.0000 
+skin 1399 Pendant_1 1.0000 
+skin 1400 Pendant_1 1.0000 
+skin 1401 Pendant_1 1.0000 
+skin 1402 Pendant_1 1.0000 
+skin 1403 Pendant_1 1.0000 
+skin 1404 Pendant_1 1.0000 
+skin 1405 Pendant_1 1.0000 
+skin 1406 Pendant_1 1.0000 
+skin 1407 Pendant_1 1.0000 
+skin 1408 Pendant_1 1.0000 
+skin 1409 Pendant_1 1.0000 
+skin 1410 Pendant_1 1.0000 
+skin 1411 Pendant_1 1.0000 
+skin 1412 Pendant_1 1.0000 
+skin 1413 Pendant_1 1.0000 
+skin 1414 Pendant_1 1.0000 
+skin 1415 Pendant_1 1.0000 
+skin 1416 Pendant_1 1.0000 
+skin 1417 Pendant_1 1.0000 
+skin 1418 Pendant_1 1.0000 
+skin 1419 Pendant_1 1.0000 
+skin 1420 Pendant_1 1.0000 
+skin 1421 Pendant_1 1.0000 
+skin 1422 Pendant_1 1.0000 
+skin 1423 Pendant_1 1.0000 
+skin 1424 Pendant_1 1.0000 
+skin 1425 Pendant_1 1.0000 
+skin 1426 Pendant_1 1.0000 
+skin 1427 Pendant_1 1.0000 
+skin 1428 Pendant_1 1.0000 
+skin 1429 Pendant_1 1.0000 
+skin 1430 Pendant_1 1.0000 
+skin 1431 Pendant_1 1.0000 
+skin 1432 Pendant_1 1.0000 
+skin 1433 Pendant_1 1.0000 
+skin 1434 Pendant_1 1.0000 
+skin 1435 Pendant_1 1.0000 
+skin 1436 Pendant_1 1.0000 
+skin 1437 Pendant_1 1.0000 
+skin 1438 Pendant_1 1.0000 
+skin 1439 Pendant_1 1.0000 
+skin 1440 Pendant_1 1.0000 
+skin 1441 Pendant_1 1.0000 
+skin 1442 Pendant_1 1.0000 
+skin 1443 Pendant_1 1.0000 
+skin 1444 Pendant_1 1.0000 
+skin 1445 Pendant_1 1.0000 
+skin 1446 Pendant_1 1.0000 
+skin 1447 Pendant_1 1.0000 
+skin 1448 Pendant_1 1.0000 
+skin 1449 Pendant_1 1.0000 
+skin 1450 Pendant_1 1.0000 
+skin 1451 Pendant_1 1.0000 
+skin 1452 Pendant_1 1.0000 
+skin 1453 Pendant_1 1.0000 
+skin 1454 Pendant_1 1.0000 
+skin 1455 Pendant_1 1.0000 
+skin 1456 Pendant_1 1.0000 
+skin 1457 Pendant_1 1.0000 
+skin 1458 Pendant_1 1.0000 
+skin 1459 Waist 0.5000 Spine 0.5000 
+skin 1460 Pendant_1 1.0000 
+skin 1461 Waist 0.5000 Spine 0.5000 
+skin 1462 Pendant_1 1.0000 
+skin 1463 Pendant_1 1.0000 
+skin 1464 Pendant_1 1.0000 
+skin 1465 Pendant_1 1.0000 
+skin 1466 Pendant_1 1.0000 
+skin 1467 Pendant_1 1.0000 
+skin 1468 Pendant_1 1.0000 
+skin 1469 Pendant_1 1.0000 
+skin 1470 Pendant_1 1.0000 
+skin 1471 Pendant_1 1.0000 
+skin 1472 Pendant_1 1.0000 
+skin 1473 Pendant_1 1.0000 
+skin 1474 Pendant_1 1.0000 
+skin 1475 Pendant_1 1.0000 
+skin 1476 Pendant_1 1.0000 
+skin 1477 Pendant_1 1.0000 
+skin 1478 Pendant_1 1.0000 
+skin 1479 Pendant_1 1.0000 
+skin 1480 Pendant_1 1.0000 
+skin 1481 Pendant_1 1.0000 
+skin 1482 Pendant_1 1.0000 
+skin 1483 Pendant_1 1.0000 
+skin 1484 Pendant_1 1.0000 
+skin 1485 Pendant_1 1.0000 
+skin 1486 Pendant_1 1.0000 
+skin 1487 Pendant_1 1.0000 
+skin 1488 Pendant_1 1.0000 
+skin 1489 Pendant_1 1.0000 
+skin 1490 Pendant_1 1.0000 
+skin 1491 Pendant_1 1.0000 
+skin 1492 Pendant_1 1.0000 
+skin 1493 Pendant_1 1.0000 
+skin 1494 Pendant_1 1.0000 
+skin 1495 Pendant_1 1.0000 
+skin 1496 Pendant_1 1.0000 
+skin 1497 Pendant_1 1.0000 
+skin 1498 Pendant_1 1.0000 
+skin 1499 Pendant_1 1.0000 
+skin 1500 Pendant_1 1.0000 
+skin 1501 Pendant_1 1.0000 
+skin 1502 Pendant_1 1.0000 
+skin 1503 Pendant_1 1.0000 
+skin 1504 Pendant_1 1.0000 
+skin 1505 Pendant_1 1.0000 
+skin 1506 Pendant_1 1.0000 
+skin 1507 Pendant_1 1.0000 
+skin 1508 Pendant_1 1.0000 
+skin 1509 Pendant_1 1.0000 
+skin 1510 Pendant_1 1.0000 
+skin 1511 Pendant_1 1.0000 
+skin 1512 Pendant_1 1.0000 
+skin 1513 Pendant_1 1.0000 
+skin 1514 Pendant_1 1.0000 
+skin 1515 Pendant_1 1.0000 
+skin 1516 Pendant_1 1.0000 
+skin 1517 Waist 1.0000 
+skin 1518 Waist 1.0000 
+skin 1519 Waist 1.0000 
+skin 1520 Waist 1.0000 
+skin 1521 Waist 1.0000 
+skin 1522 Waist 1.0000 
+skin 1523 Waist 1.0000 
+skin 1524 Spine 1.0000 
+skin 1525 Spine 1.0000 
+skin 1526 Head_1 1.0000 
+skin 1527 Spine 1.0000 
+skin 1528 Spine 1.0000 
+skin 1529 Spine 0.2000 Arm_1_R 0.8000 
+skin 1530 Arm_1_R 1.0000 
+skin 1531 Arm_1_R 1.0000 
+skin 1532 Spine 1.0000 
+skin 1533 Spine 0.8000 Arm_1_R 0.2000 
+skin 1534 Head_1 0.4000 Beard_R 0.6000 
+skin 1535 Spine 1.0000 
+skin 1536 Arm_1_R 1.0000 
+skin 1537 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1538 Spine 1.0000 
+skin 1539 Spine 1.0000 
+skin 1540 Spine 0.8000 Arm_1_R 0.2000 
+skin 1541 Spine 0.8000 Arm_1_R 0.2000 
+skin 1542 Spine 1.0000 
+skin 1543 Spine 1.0000 
+skin 1544 Spine 1.0000 
+skin 1545 Spine 1.0000 
+skin 1546 Sleeve_R 1.0000 
+skin 1547 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1548 Sleeve_R 1.0000 
+skin 1549 Sleeve_R 1.0000 
+skin 1550 Arm_1_R 1.0000 
+skin 1551 Spine 0.2000 Arm_1_R 0.8000 
+skin 1552 Arm_1_R 1.0000 
+skin 1553 Arm_1_R 1.0000 
+skin 1554 Arm_1_R 1.0000 
+skin 1555 Arm_1_R 1.0000 
+skin 1556 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1557 Arm_1_R 1.0000 
+skin 1558 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1559 Arm_1_R 1.0000 
+skin 1560 Waist 0.1000 Spine 0.9000 
+skin 1561 Spine 1.0000 
+skin 1562 Spine 1.0000 
+skin 1563 Spine 1.0000 
+skin 1564 Waist 0.3000 Spine 0.7000 
+skin 1565 Waist 0.1000 Spine 0.9000 
+skin 1566 Waist 0.1000 Spine 0.9000 
+skin 1567 Waist 0.1000 Spine 0.9000 
+skin 1568 Spine 1.0000 
+skin 1569 Spine 1.0000 
+skin 1570 Spine 1.0000 
+skin 1571 Waist 0.1000 Spine 0.9000 
+skin 1572 Spine 1.0000 
+skin 1573 Spine 0.2000 Arm_1_R 0.8000 
+skin 1574 Arm_2_R 1.0000 
+skin 1575 Arm_2_R 1.0000 
+skin 1576 Arm_2_R 1.0000 
+skin 1577 Arm_1_R 1.0000 
+skin 1578 Arm_1_R 1.0000 
+skin 1579 Arm_1_R 1.0000 
+skin 1580 Arm_1_R 0.4000 Arm_2_R 0.5000 Sleeve_R 0.1000 
+skin 1581 Spine 1.0000 
+skin 1582 Spine 1.0000 
+skin 1583 Spine 1.0000 
+skin 1584 Spine 1.0000 
+skin 1585 Arm_2_R 1.0000 
+skin 1586 Arm_2_R 1.0000 
+skin 1587 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1588 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1589 Arm_2_R 1.0000 
+skin 1590 Arm_2_R 1.0000 
+skin 1591 Arm_2_R 1.0000 
+skin 1592 Arm_2_R 1.0000 
+skin 1593 Arm_2_R 1.0000 
+skin 1594 Arm_2_R 0.7000 Sleeve_R 0.3000 
+skin 1595 Arm_2_R 1.0000 
+skin 1596 Arm_2_R 1.0000 
+skin 1597 Arm_2_R 1.0000 
+skin 1598 Wrist_R 1.0000 
+skin 1599 Arm_1_R 1.0000 
+skin 1600 Waist 0.2000 Arm_1_R 0.8000 
+skin 1601 Arm_1_R 1.0000 
+skin 1602 Arm_1_R 1.0000 
+skin 1603 Waist 0.2000 Arm_1_R 0.8000 
+skin 1604 Waist 0.1000 Arm_1_R 0.6300 Sleeve_R 0.2700 
+skin 1605 Spine 0.2000 Arm_1_L 0.8000 
+skin 1606 Spine 1.0000 
+skin 1607 Waist 0.1000 Spine 0.9000 
+skin 1608 Spine 1.0000 
+skin 1609 Spine 0.8000 Arm_1_L 0.2000 
+skin 1610 Spine 1.0000 
+skin 1611 Waist 1.0000 
+skin 1612 Waist 1.0000 
+skin 1613 Waist 1.0000 
+skin 1614 Waist 1.0000 
+skin 1615 Sleeve_R 1.0000 
+skin 1616 Sleeve_R 1.0000 
+skin 1617 Waist 1.0000 
+skin 1618 Waist 1.0000 
+skin 1619 Waist 1.0000 
+skin 1620 Waist 1.0000 
+skin 1621 Spine 1.0000 
+skin 1622 Spine 1.0000 
+skin 1623 Spine 0.8000 Arm_1_L 0.2000 
+skin 1624 Arm_1_L 1.0000 
+skin 1625 Arm_1_L 1.0000 
+skin 1626 Arm_1_L 1.0000 
+skin 1627 Arm_1_L 1.0000 
+skin 1628 Waist 0.2000 Arm_1_L 0.8000 
+skin 1629 Waist 1.0000 
+skin 1630 Waist 1.0000 
+skin 1631 Waist 1.0000 
+skin 1632 Waist 1.0000 
+skin 1633 Waist 1.0000 
+skin 1634 Waist 1.0000 
+skin 1635 Waist 1.0000 
+skin 1636 Spine 1.0000 
+skin 1637 Spine 1.0000 
+skin 1638 Spine 1.0000 
+skin 1639 Head_1 1.0000 
+skin 1640 Arm_1_L 1.0000 
+skin 1641 Arm_1_L 1.0000 
+skin 1642 Arm_1_L 1.0000 
+skin 1643 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 1644 Arm_1_L 0.4000 Arm_2_L 0.5000 Sleeve_L 0.1000 
+skin 1645 Arm_1_L 1.0000 
+skin 1646 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 1647 Arm_1_L 0.4000 Arm_2_L 0.5000 Sleeve_L 0.1000 
+skin 1648 Waist 0.1000 Arm_1_L 0.6000 Sleeve_L 0.3000 
+skin 1649 Waist 0.2000 Spine 0.8000 
+skin 1650 Spine 1.0000 
+skin 1651 Arm_1_L 1.0000 
+skin 1652 Arm_1_L 1.0000 
+skin 1653 Spine 1.0000 
+skin 1654 Spine 1.0000 
+skin 1655 Waist 0.2000 Spine 0.8000 
+skin 1656 Arm_1_L 1.0000 
+skin 1657 Arm_1_L 1.0000 
+skin 1658 Waist 0.2000 Spine 0.8000 
+skin 1659 Spine 0.1000 Arm_1_L 0.5000 Sleeve_L 0.4000 
+skin 1660 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 1661 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 1662 Arm_2_L 1.0000 
+skin 1663 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 1664 Arm_2_L 1.0000 
+skin 1665 Arm_2_L 1.0000 
+skin 1666 Arm_2_L 1.0000 
+skin 1667 Arm_2_L 1.0000 
+skin 1668 Arm_2_L 1.0000 
+skin 1669 Arm_2_L 1.0000 
+skin 1670 Waist 0.5000 Spine 0.5000 
+skin 1671 Waist 0.5000 Spine 0.5000 
+skin 1672 Waist 0.5000 Spine 0.5000 
+skin 1673 Sleeve_L 1.0000 
+skin 1674 Sleeve_L 1.0000 
+skin 1675 Sleeve_L 1.0000 
+skin 1676 Sleeve_L 1.0000 
+skin 1677 Arm_2_L 1.0000 
+skin 1678 Arm_2_L 1.0000 
+skin 1679 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 1680 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 1681 Arm_2_L 1.0000 
+skin 1682 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 1683 Arm_2_L 1.0000 
+skin 1684 Arm_2_L 1.0000 
+skin 1685 Wrist_L 1.0000 
+skin 1686 Arm_2_L 1.0000 
+skin 1687 Arm_2_L 1.0000 
+skin 1688 Waist 1.0000 
+skin 1689 Waist 1.0000 
+skin 1690 Waist 1.0000 
+skin 1691 Waist 1.0000 
+skin 1692 Waist 1.0000 
+skin 1693 Waist 1.0000 
+skin 1694 Waist 1.0000 
+skin 1695 Spine 1.0000 
+skin 1696 Spine 1.0000 
+skin 1697 Spine 1.0000 
+skin 1698 Spine 1.0000 
+skin 1699 Spine 1.0000 
+skin 1700 Spine 1.0000 
+skin 1701 Spine 1.0000 
+skin 1702 Head_1 0.9000 Head_2 0.1000 
+skin 1703 Spine 1.0000 
+skin 1704 Spine 1.0000 
+skin 1705 Head_1 0.9000 Head_2 0.1000 
+skin 1706 Spine 1.0000 
+skin 1707 Spine 1.0000 
+skin 1708 Spine 1.0000 
+skin 1709 Spine 1.0000 
+skin 1710 Spine 1.0000 
+skin 1711 Spine 1.0000 
+skin 1712 Spine 1.0000 
+skin 1713 Pendant_1 1.0000 
+skin 1714 Waist 0.2000 Spine 0.8000 
+skin 1715 Waist 0.2000 Spine 0.8000 
+skin 1716 Pendant_1 1.0000 
+skin 1717 Head_1 1.0000 
+skin 1718 Spine 1.0000 
+skin 1719 Spine 1.0000 
+skin 1720 Spine 1.0000 
+skin 1721 Head_1 0.9000 Head_2 0.1000 
+skin 1722 Waist 0.2000 Spine 0.8000 
+skin 1723 Pendant_1 1.0000 
+skin 1724 Spine 1.0000 
+skin 1725 Spine 1.0000 
+skin 1726 Spine 1.0000 
+skin 1727 Spine 1.0000 
+skin 1728 Head_1 0.9000 Head_2 0.1000 
+skin 1729 Spine 1.0000 
+skin 1730 Spine 1.0000 
+skin 1731 Waist 1.0000 
+skin 1732 Waist 1.0000 
+skin 1733 Waist 1.0000 
+skin 1734 Waist 1.0000 
+skin 1735 Waist 1.0000 
+skin 1736 Waist 1.0000 
+skin 1737 Waist 1.0000 
+skin 1738 Waist 1.0000 
+skin 1739 Waist 1.0000 
+skin 1740 Waist 1.0000 
+skin 1741 Waist 1.0000 
+skin 1742 Waist 1.0000 
+skin 1743 Waist 1.0000 
+skin 1744 Waist 1.0000 
+skin 1745 Waist 1.0000 
+skin 1746 Waist 1.0000 
+skin 1747 Waist 1.0000 
+skin 1748 Waist 1.0000 
+skin 1749 Waist 1.0000 
+skin 1750 Waist 1.0000 
+skin 1751 Waist 1.0000 
+skin 1752 Waist 1.0000 
+skin 1753 Waist 1.0000 
+skin 1754 Waist 1.0000 
+skin 1755 Waist 1.0000 
+skin 1756 Waist 1.0000 
+skin 1757 Waist 1.0000 
+skin 1758 Waist 1.0000 
+skin 1759 Waist 1.0000 
+skin 1760 Waist 1.0000 
+skin 1761 Waist 1.0000 
+skin 1762 Waist 1.0000 
+skin 1763 Waist 1.0000 
+skin 1764 Arm_2_R 1.0000 
+skin 1765 Wrist_R 1.0000 
+skin 1766 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1767 Arm_2_R 1.0000 
+skin 1768 Arm_2_R 1.0000 
+skin 1769 Wrist_R 1.0000 
+skin 1770 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1771 Arm_2_R 1.0000 
+skin 1772 Arm_2_R 1.0000 
+skin 1773 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1774 Arm_2_R 1.0000 
+skin 1775 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1776 Wrist_R 1.0000 
+skin 1777 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1778 Arm_2_R 1.0000 
+skin 1779 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1780 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 1781 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1782 Arm_2_R 1.0000 
+skin 1783 Arm_2_R 0.7000 Sleeve_R 0.3000 
+skin 1784 Wrist_R 1.0000 
+skin 1785 Arm_2_L 1.0000 
+skin 1786 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 1787 Wrist_L 1.0000 
+skin 1788 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 1789 Wrist_L 1.0000 
+skin 1790 Arm_2_L 1.0000 
+skin 1791 Arm_2_L 1.0000 
+skin 1792 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 1793 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 1794 Arm_2_L 1.0000 
+skin 1795 Arm_2_L 1.0000 
+skin 1796 Arm_2_L 1.0000 
+skin 1797 Wrist_L 1.0000 
+skin 1798 Arm_2_L 1.0000 
+skin 1799 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 1800 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 1801 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 1802 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 1803 Arm_2_L 0.7000 Sleeve_L 0.3000 
+skin 1804 Arm_2_L 1.0000 
+skin 1805 Wrist_L 1.0000 
+skin 1806 Waist 1.0000 
+skin 1807 Spine 0.2000 Arm_1_R 0.8000 
+skin 1808 Spine 0.2000 Arm_1_R 0.8000 
+skin 1809 Spine 0.8000 Arm_1_R 0.2000 
+skin 1810 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1811 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1812 Spine 0.2000 Arm_1_R 0.8000 
+skin 1813 Spine 1.0000 
+skin 1814 Spine 0.2000 Arm_1_R 0.8000 
+skin 1815 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1816 Arm_1_R 1.0000 
+skin 1817 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1818 Arm_2_R 1.0000 
+skin 1819 Arm_2_R 1.0000 
+skin 1820 Arm_2_R 1.0000 
+skin 1821 Arm_1_R 1.0000 
+skin 1822 Arm_1_R 1.0000 
+skin 1823 Spine 1.0000 
+skin 1824 Spine 0.8000 Arm_1_L 0.2000 
+skin 1825 Arm_1_L 1.0000 
+skin 1826 Arm_1_L 1.0000 
+skin 1827 Waist 1.0000 
+skin 1828 Arm_1_L 1.0000 
+skin 1829 Waist 0.2000 Arm_1_L 0.8000 
+skin 1830 Spine 1.0000 
+skin 1831 Waist 0.2000 Spine 0.8000 
+skin 1832 Waist 0.2000 Spine 0.8000 
+skin 1833 Arm_2_L 1.0000 
+skin 1834 Waist 1.0000 
+skin 1835 Waist 1.0000 
+skin 1836 Waist 1.0000 
+skin 1837 Waist 1.0000 
+skin 1838 Waist 1.0000 
+skin 1839 Waist 0.8000 Spine 0.2000 
+skin 1840 Waist 0.5000 Spine 0.5000 
+skin 1841 Waist 0.5000 Spine 0.5000 
+skin 1842 Waist 1.0000 
+skin 1843 Waist 1.0000 
+skin 1844 Waist 1.0000 
+skin 1845 Waist 1.0000 
+skin 1846 Waist 1.0000 
+skin 1847 Waist 1.0000 
+skin 1848 Waist 1.0000 
+skin 1849 Waist 1.0000 
+skin 1850 Waist 1.0000 
+skin 1851 Waist 1.0000 
+skin 1852 Waist 1.0000 
+skin 1853 Waist 1.0000 
+skin 1854 Waist 0.5000 Spine 0.5000 
+skin 1855 Pendant_1 1.0000 
+skin 1856 Waist 0.5000 Spine 0.5000 
+skin 1857 Waist 1.0000 
+skin 1858 Waist 1.0000 
+skin 1859 Waist 1.0000 
+skin 1860 Waist 1.0000 
+skin 1861 Waist 0.2000 Spine 0.8000 
+skin 1862 Spine 1.0000 
+skin 1863 Waist 0.2000 Spine 0.8000 
+skin 1864 Arm_1_R 1.0000 
+skin 1865 Spine 1.0000 
+skin 1866 Waist 0.2000 Spine 0.8000 
+skin 1867 Waist 1.0000 
+skin 1868 Waist 1.0000 
+skin 1869 Waist 1.0000 
+skin 1870 Waist 1.0000 
+skin 1871 Waist 1.0000 
+skin 1872 Waist 1.0000 
+skin 1873 Waist 0.2000 Spine 0.8000 
+skin 1874 Spine 0.1000 Arm_1_R 0.5400 Sleeve_R 0.3600 
+skin 1875 Spine 0.1000 Arm_1_R 0.5400 Sleeve_R 0.3600 
+skin 1876 Waist 0.2000 Arm_1_R 0.4000 Sleeve_R 0.4000 
+skin 1877 Waist 0.7000 Spine 0.3000 
+skin 1878 Waist 0.7000 Spine 0.3000 
+skin 1879 Arm_2_R 0.3000 Sleeve_R 0.7000 
+skin 1880 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1881 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 1882 Arm_2_R 0.3000 Sleeve_R 0.7000 
+skin 1883 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1884 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1885 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1886 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1887 Arm_2_R 1.0000 
+skin 1888 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 1889 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1890 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1891 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 1892 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 1893 Arm_2_R 0.7000 Sleeve_R 0.3000 
+skin 1894 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1895 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1896 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1897 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1898 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1899 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1900 Arm_1_R 0.4000 Arm_2_R 0.5000 Sleeve_R 0.1000 
+skin 1901 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1902 Arm_2_R 1.0000 
+skin 1903 Arm_2_R 1.0000 
+skin 1904 Arm_2_R 0.7000 Sleeve_R 0.3000 
+skin 1905 Arm_2_R 0.7000 Sleeve_R 0.3000 
+skin 1906 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1907 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1908 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1909 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1910 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 1911 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1912 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1913 Waist 0.1000 Spine 0.9000 
+skin 1914 Waist 0.6000 Spine 0.4000 
+skin 1915 Waist 0.1000 Spine 0.9000 
+skin 1916 Waist 0.6000 Spine 0.4000 
+skin 1917 Waist 0.1000 Spine 0.9000 
+skin 1918 Waist 0.1000 Spine 0.9000 
+skin 1919 Waist 0.6000 Spine 0.4000 
+skin 1920 Waist 0.7000 Spine 0.3000 
+skin 1921 Waist 0.6000 Spine 0.4000 
+skin 1922 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1923 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1924 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1925 Sleeve_R 1.0000 
+skin 1926 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1927 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1928 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1929 Waist 1.0000 
+skin 1930 Waist 0.6000 Spine 0.4000 
+skin 1931 Waist 0.6000 Spine 0.4000 
+skin 1932 Waist 0.7000 Spine 0.3000 
+skin 1933 Waist 0.7000 Spine 0.3000 
+skin 1934 Waist 0.7000 Spine 0.3000 
+skin 1935 Waist 0.6000 Spine 0.4000 
+skin 1936 Waist 1.0000 
+skin 1937 Waist 0.7000 Spine 0.3000 
+skin 1938 Waist 0.6000 Spine 0.4000 
+skin 1939 Wrist_R 1.0000 
+skin 1940 Arm_2_R 0.9000 Sleeve_R 0.1000 
+skin 1941 Arm_2_R 0.8000 Sleeve_R 0.2000 
+skin 1942 Sleeve_R 1.0000 
+skin 1943 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 1944 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1945 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1946 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1947 Arm_2_R 0.2000 Sleeve_R 0.8000 
+skin 1948 Waist 1.0000 
+skin 1949 Waist 1.0000 
+skin 1950 Waist 1.0000 
+skin 1951 Waist 1.0000 
+skin 1952 Waist 1.0000 
+skin 1953 Waist 1.0000 
+skin 1954 Waist 1.0000 
+skin 1955 Waist 1.0000 
+skin 1956 Waist 1.0000 
+skin 1957 Waist 1.0000 
+skin 1958 Waist 1.0000 
+skin 1959 Waist 0.2000 Arm_1_R 0.8000 
+skin 1960 Waist 0.2000 Arm_1_R 0.8000 
+skin 1961 Waist 0.2000 Arm_1_L 0.8000 
+skin 1962 Waist 0.7000 Spine 0.3000 
+skin 1963 Waist 0.7000 Spine 0.3000 
+skin 1964 Waist 0.2000 Arm_1_L 0.8000 
+skin 1965 Waist 1.0000 
+skin 1966 Waist 1.0000 
+skin 1967 Waist 1.0000 
+skin 1968 Waist 1.0000 
+skin 1969 Waist 1.0000 
+skin 1970 Waist 1.0000 
+skin 1971 Waist 1.0000 
+skin 1972 Waist 1.0000 
+skin 1973 Waist 1.0000 
+skin 1974 Waist 1.0000 
+skin 1975 Waist 1.0000 
+skin 1976 Waist 1.0000 
+skin 1977 Waist 1.0000 
+skin 1978 Waist 1.0000 
+skin 1979 Waist 0.7000 Spine 0.3000 
+skin 1980 Waist 1.0000 
+skin 1981 Waist 1.0000 
+skin 1982 Waist 1.0000 
+skin 1983 Waist 1.0000 
+skin 1984 Waist 1.0000 
+skin 1985 Waist 1.0000 
+skin 1986 Waist 1.0000 
+skin 1987 Spine 0.2000 Arm_1_L 0.8000 
+skin 1988 Spine 0.2000 Arm_1_L 0.8000 
+skin 1989 Spine 0.2000 Arm_1_L 0.8000 
+skin 1990 Spine 0.8000 Arm_1_L 0.2000 
+skin 1991 Arm_1_L 1.0000 
+skin 1992 Waist 1.0000 
+skin 1993 Waist 1.0000 
+skin 1994 Waist 1.0000 
+skin 1995 Waist 1.0000 
+skin 1996 Waist 1.0000 
+skin 1997 Waist 1.0000 
+skin 1998 Waist 1.0000 
+skin 1999 Spine 0.2000 Arm_1_L 0.8000 
+skin 2000 Spine 0.2000 Arm_1_L 0.8000 
+skin 2001 Head_1 0.4000 Beard_L 0.6000 
+skin 2002 Spine 0.2000 Arm_1_L 0.8000 
+skin 2003 Arm_1_L 1.0000 
+skin 2004 Arm_1_L 1.0000 
+skin 2005 Waist 0.7000 Spine 0.3000 
+skin 2006 Waist 0.2000 Arm_1_L 0.4000 Sleeve_L 0.4000 
+skin 2007 Waist 1.0000 
+skin 2008 Waist 1.0000 
+skin 2009 Waist 1.0000 
+skin 2010 Waist 1.0000 
+skin 2011 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 2012 Arm_2_L 1.0000 
+skin 2013 Arm_1_L 1.0000 
+skin 2014 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 2015 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 2016 Arm_1_L 1.0000 
+skin 2017 Arm_1_L 0.5000 Arm_2_L 0.5000 
+skin 2018 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2019 Arm_2_L 1.0000 
+skin 2020 Arm_2_L 0.3000 Sleeve_L 0.7000 
+skin 2021 Sleeve_L 1.0000 
+skin 2022 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2023 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2024 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2025 Sleeve_L 1.0000 
+skin 2026 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2027 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2028 Arm_2_L 0.7000 Sleeve_L 0.3000 
+skin 2029 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2030 Arm_2_L 1.0000 
+skin 2031 Arm_2_L 1.0000 
+skin 2032 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2033 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2034 Spine 0.1000 Arm_1_L 0.5000 Sleeve_L 0.4000 
+skin 2035 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2036 Arm_2_L 0.7000 Sleeve_L 0.3000 
+skin 2037 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 2038 Spine 0.1000 Arm_1_L 0.5000 Sleeve_L 0.4000 
+skin 2039 Waist 0.2000 Spine 0.8000 
+skin 2040 Waist 1.0000 
+skin 2041 Waist 0.7000 Spine 0.3000 
+skin 2042 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 2043 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2044 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2045 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2046 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2047 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2048 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2049 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2050 Arm_2_L 0.7000 Sleeve_L 0.3000 
+skin 2051 Arm_2_L 0.7000 Sleeve_L 0.3000 
+skin 2052 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2053 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2054 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2055 Arm_2_L 0.3000 Sleeve_L 0.7000 
+skin 2056 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2057 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2058 Waist 1.0000 
+skin 2059 Waist 1.0000 
+skin 2060 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2061 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2062 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2063 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2064 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2065 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2066 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2067 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2068 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2069 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2070 Arm_2_L 0.2000 Sleeve_L 0.8000 
+skin 2071 Sleeve_L 1.0000 
+skin 2072 Pendant_1 1.0000 
+skin 2073 Waist 0.8000 Spine 0.2000 
+skin 2074 Waist 0.5000 Spine 0.5000 
+skin 2075 Waist 1.0000 
+skin 2076 Waist 1.0000 
+skin 2077 Waist 1.0000 
+skin 2078 Waist 1.0000 
+skin 2079 Waist 1.0000 
+skin 2080 Waist 1.0000 
+skin 2081 Waist 1.0000 
+skin 2082 Waist 1.0000 
+skin 2083 Arm_2_L 0.8000 Sleeve_L 0.2000 
+skin 2084 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 2085 Wrist_L 1.0000 
+skin 2086 Waist 1.0000 
+skin 2087 Waist 1.0000 
+skin 2088 Waist 1.0000 
+skin 2089 Waist 1.0000 
+skin 2090 Waist 1.0000 
+skin 2091 Waist 1.0000 
+skin 2092 Waist 1.0000 
+skin 2093 Waist 1.0000 
+skin 2094 Waist 1.0000 
+skin 2095 Waist 1.0000 
+skin 2096 Waist 1.0000 
+skin 2097 Pendant_1 1.0000 
+skin 2098 Spine 1.0000 
+skin 2099 Pendant_1 1.0000 
+skin 2100 Waist 0.5000 Spine 0.5000 
+skin 2101 Pendant_1 1.0000 
+skin 2102 Waist 0.5000 Spine 0.5000 
+skin 2103 Pendant_1 1.0000 
+skin 2104 Pendant_1 1.0000 
+skin 2105 Pendant_1 1.0000 
+skin 2106 Waist 0.8000 Spine 0.2000 
+skin 2107 Pendant_1 1.0000 
+skin 2108 Pendant_1 1.0000 
+skin 2109 Waist 0.5000 Spine 0.5000 
+skin 2110 Pendant_1 1.0000 
+skin 2111 Waist 0.8000 Spine 0.2000 
+skin 2112 Pendant_1 1.0000 
+skin 2113 Pendant_1 1.0000 
+skin 2114 Pendant_1 1.0000 
+skin 2115 Pendant_1 1.0000 
+skin 2116 Pendant_1 1.0000 
+skin 2117 Pendant_1 1.0000 
+skin 2118 Waist 1.0000 
+skin 2119 Pendant_1 1.0000 
+skin 2120 Waist 0.8000 Spine 0.2000 
+skin 2121 Waist 1.0000 
+skin 2122 Waist 1.0000 
+skin 2123 Waist 1.0000 
+skin 2124 Waist 0.8000 Spine 0.2000 
+skin 2125 Waist 1.0000 
+skin 2126 Waist 1.0000 
+skin 2127 Waist 1.0000 
+skin 2128 Waist 1.0000 
+skin 2129 Waist 1.0000 
+skin 2130 Waist 1.0000 
+skin 2131 Waist 1.0000 
+skin 2132 Waist 1.0000 
+skin 2133 Waist 1.0000 
+skin 2134 Waist 1.0000 
+skin 2135 Waist 1.0000 
+skin 2136 Waist 1.0000 
+skin 2137 Waist 1.0000 
+skin 2138 Waist 1.0000 
+skin 2139 Waist 1.0000 
+skin 2140 Waist 1.0000 
+skin 2141 Waist 1.0000 
+skin 2142 Waist 1.0000 
+skin 2143 Waist 1.0000 
+skin 2144 Waist 1.0000 
+skin 2145 Waist 1.0000 
+skin 2146 Waist 1.0000 
+skin 2147 Waist 1.0000 
+skin 2148 Waist 1.0000 
+skin 2149 Waist 1.0000 
+skin 2150 Waist 1.0000 
+skin 2151 Waist 1.0000 
+skin 2152 Waist 1.0000 
+skin 2153 Waist 1.0000 
+skin 2154 Waist 1.0000 
+skin 2155 Waist 1.0000 
+skin 2156 Waist 1.0000 
+skin 2157 Waist 1.0000 
+skin 2158 Waist 1.0000 
+skin 2159 Waist 1.0000 
+skin 2160 Waist 1.0000 
+skin 2161 Waist 1.0000 
+skin 2162 Waist 1.0000 
+skin 2163 Waist 1.0000 
+skin 2164 Waist 1.0000 
+skin 2165 Waist 1.0000 
+skin 2166 Waist 1.0000 
+skin 2167 Waist 1.0000 
+skin 2168 Waist 1.0000 
+skin 2169 Waist 1.0000 
+skin 2170 Waist 1.0000 
+skin 2171 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2172 Arm_2_R 0.6000 Sleeve_R 0.4000 
+skin 2173 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 2174 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2175 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2176 Arm_2_R 0.4000 Sleeve_R 0.6000 
+skin 2177 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2178 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2179 Arm_2_L 0.6000 Sleeve_L 0.4000 
+skin 2180 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2181 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2182 Arm_2_L 0.4000 Sleeve_L 0.6000 
+skin 2183 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2184 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2185 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2186 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2187 Waist 1.0000 
+skin 2188 Waist 1.0000 
+skin 2189 Waist 1.0000 
+skin 2190 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2191 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2192 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2193 Arm_2_L 0.5000 Sleeve_L 0.5000 
+skin 2194 Arm_1_R 0.4000 Arm_2_R 0.5000 Sleeve_R 0.1000 
+skin 2195 Arm_1_L 0.4000 Arm_2_L 0.5000 Sleeve_L 0.1000 
+skin 2196 Waist 1.0000 
+skin 2197 Waist 0.2000 Spine 0.8000 
+skin 2198 Arm_1_R 0.5000 Arm_2_R 0.5000 
+skin 2199 Waist 0.7000 Spine 0.3000 
+skin 2200 Waist 0.2000 Arm_1_R 0.4000 Sleeve_R 0.4000 
+skin 2201 Arm_2_R 0.5000 Sleeve_R 0.5000 
+skin 2202 Spine 0.1000 Arm_1_R 0.5400 Sleeve_R 0.3600 
+skin 2203 Waist 0.1000 Arm_1_R 0.6300 Sleeve_R 0.2700 
+skin 2204 Waist 0.1000 Arm_1_L 0.6000 Sleeve_L 0.3000 
+skin 2205 Waist 0.2000 Arm_1_L 0.4000 Sleeve_L 0.4000 
+skin 2206 Waist 0.1000 Arm_1_L 0.6000 Sleeve_L 0.3000 
+skin 2207 Arm_2_L 0.9000 Sleeve_L 0.1000 
+skin 2208 Waist 0.7000 Spine 0.3000 
+skin 2209 Waist 0.2000 Arm_1_L 0.4000 Sleeve_L 0.4000 
+skin 2210 Waist 1.0000 
+skin 2211 Waist 1.0000 
+skin 2212 Waist 1.0000 
+skin 2213 Waist 1.0000 
+skin 2214 Waist 0.2000 Arm_1_R 0.4000 Sleeve_R 0.4000 
+skin 2215 Waist 1.0000 
+skin 2216 Waist 1.0000 
+skin 2217 Waist 1.0000 
+skin 2218 Waist 1.0000 
+skin 2219 Waist 1.0000 
+skin 2220 Waist 1.0000 
+skin 2221 Waist 1.0000 
+skin 2222 Waist 1.0000 
+skin 2223 Waist 1.0000 
+skin 2224 Waist 1.0000 
+skin 2225 Waist 0.7000 Spine 0.3000 
+skin 2226 Waist 0.2000 Arm_1_R 0.4000 Sleeve_R 0.4000 
+skin 2227 Waist 0.1000 Arm_1_R 0.6300 Sleeve_R 0.2700 
+skin 2228 Waist 0.2000 Arm_1_L 0.4000 Sleeve_L 0.4000 
+skin 2229 Waist 1.0000 
+skin 2230 Waist 1.0000 
+skin 2231 Waist 1.0000 
+skin 2232 Waist 1.0000 
+skin 2233 Waist 1.0000 
+skin 2234 Waist 1.0000 
+skin 2235 Waist 1.0000 
+skin 2236 Waist 1.0000 
+skin 2237 Waist 1.0000 
+skin 2238 Waist 1.0000 
+skin 2239 Waist 1.0000 
+skin 2240 Waist 1.0000 
+skin 2241 Waist 1.0000 
+skin 2242 Waist 1.0000 
+skin 2243 Waist 1.0000 
+skin 2244 Waist 1.0000 
+skin 2245 Waist 1.0000 
+skin 2246 Waist 1.0000 
+skin 2247 Waist 1.0000 
+skin 2248 Waist 1.0000 
+skin 2249 Waist 1.0000 
+skin 2250 Waist 1.0000 
+skin 2251 Head_1 0.5000 Face_1 0.5000 
+skin 2252 Face_1 0.5000 Head_2 0.5000 
+skin 2253 Head_1 0.3000 Head_2 0.7000 
+skin 2254 Head_1 0.5000 Face_1 0.5000 
+skin 2255 Head_1 0.1000 Head_2 0.9000 
+skin 2256 Face_1 0.5000 Head_2 0.5000 
+skin 2257 Head_1 0.5000 Face_1 0.5000 
+skin 2258 Head_1 0.3000 Head_2 0.7000 
+skin 2259 Face_1 0.5000 Head_2 0.5000 
+skin 2260 Head_1 0.1000 Head_2 0.9000 
+hier Waist Spine
+hier Spine Arm_1_L
+hier Spine Arm_1_R
+hier Spine Head_1
+hier Spine Pendant_1
+hier Arm_1_L Arm_2_L
+hier Arm_1_R Arm_2_R
+hier Head_1 Beard_L
+hier Head_1 Beard_R
+hier Head_1 Face_1
+hier Head_1 Head_2
+hier Arm_2_L Sleeve_L
+hier Arm_2_L Wrist_L
+hier Arm_2_R Sleeve_R
+hier Arm_2_R Wrist_R
+hier Wrist_L Finger_A_1_L
+hier Wrist_L Finger_B_1_L
+hier Wrist_L Finger_C_1_L
+hier Wrist_L Finger_D_1_L
+hier Wrist_L Finger_E_1_L
+hier Wrist_R Finger_A_1_R
+hier Wrist_R Finger_B_1_R
+hier Wrist_R Finger_C_1_R
+hier Wrist_R Finger_D_1_R
+hier Wrist_R Finger_E_1_R
+hier Finger_A_1_L Finger_A_2_L
+hier Finger_B_1_L Finger_B_2_L
+hier Finger_C_1_L Finger_C_2_L
+hier Finger_D_1_L Finger_D_2_L
+hier Finger_E_1_L Finger_E_2_L
+hier Finger_A_1_R Finger_A_2_R
+hier Finger_B_1_R Finger_B_2_R
+hier Finger_C_1_R Finger_C_2_R
+hier Finger_D_1_R Finger_D_2_R
+hier Finger_E_1_R Finger_E_2_R

@@ -1,0 +1,1892 @@
+joints Pelvis 0.00000000 0.49690500 -0.29355700
+joints Spine -0.00000000 0.52109600 -0.14787200
+joints Tail0 0.00000000 0.49431300 -0.35014600
+joints Left_BackHip 0.12591300 0.34138400 -0.23667200
+joints Right_BackHip -0.12591400 0.34138400 -0.23667200
+joints Gut -0.00000000 0.54201500 -0.02776970
+joints Tail1 0.00000000 0.42270000 -0.40763700
+joints Left_BackKnee 0.14522200 0.19151100 -0.38217100
+joints Right_BackKnee -0.14522200 0.19151100 -0.38217100
+joints Chest -0.00000000 0.52317400 0.10698200
+joints Left_BackAnkle 0.15943400 0.08119930 -0.36227200
+joints Right_BackAnkle -0.15943400 0.08119890 -0.36227200
+joints Right_FrontHip -0.13336700 0.39621700 0.11242400
+joints Left_FrontHip 0.13336700 0.39621600 0.11242400
+joints HorseHead0 -0.00000000 0.57539000 0.24275100
+joints Left_BackBall 0.16977900 0.00089996 -0.36415900
+joints Right_BackBall -0.16977900 0.00089988 -0.36416000
+joints Right_FrontKnee -0.14423100 0.26862300 0.04771500
+joints Left_FrontKnee 0.14423100 0.26862400 0.04771500
+joints HorseHead1 -0.00000000 0.50419500 0.36636900
+joints Right_FrontAnkle -0.15932400 0.09134380 0.08511600
+joints Left_FrontAnkle 0.15932500 0.09134350 0.08511500
+joints Right_FrontBall -0.16703000 0.00084581 0.08931600
+joints Left_FrontBall 0.16703000 0.00084575 0.08931700
+root Pelvis
+skin 0 Chest 1.0000 
+skin 1 Chest 1.0000 
+skin 2 Gut 0.1700 Chest 0.8300 
+skin 3 Chest 1.0000 
+skin 4 Chest 1.0000 
+skin 5 Gut 0.1717 Chest 0.8283 
+skin 6 Spine 0.0100 Gut 0.2200 Chest 0.7700 
+skin 7 Pelvis 0.0693 Spine 0.0396 Gut 0.3663 Chest 0.5248 
+skin 8 Pelvis 0.0800 Spine 0.0400 Gut 0.2900 Chest 0.5900 
+skin 9 Spine 0.0100 Gut 0.2900 Chest 0.7000 
+skin 10 Gut 0.1515 Chest 0.8485 
+skin 11 Spine 0.0099 Gut 0.1584 Chest 0.8218 Right_FrontHip 0.0099 
+skin 12 Gut 0.1100 Chest 0.8800 Right_FrontHip 0.0100 
+skin 13 Gut 0.0900 Chest 0.9100 
+skin 14 Gut 0.1212 Chest 0.8788 
+skin 15 Gut 0.0900 Chest 0.9000 Right_FrontHip 0.0100 
+skin 16 Gut 0.0700 Chest 0.9200 Right_FrontHip 0.0100 
+skin 17 Chest 0.4040 Right_FrontHip 0.5960 
+skin 18 Gut 0.0100 Chest 0.4500 Right_FrontHip 0.5400 
+skin 19 Chest 0.3400 Right_FrontHip 0.6600 
+skin 20 Chest 0.2800 Right_FrontHip 0.7200 
+skin 21 Gut 0.0300 Chest 0.6100 Right_FrontHip 0.3600 
+skin 22 Gut 0.0400 Chest 0.6400 Right_FrontHip 0.3200 
+skin 23 Gut 0.0303 Chest 0.3535 Right_FrontHip 0.6162 
+skin 24 Gut 0.0300 Chest 0.3100 Right_FrontHip 0.6600 
+skin 25 Gut 0.2121 Chest 0.7879 
+skin 26 Gut 0.1919 Chest 0.8081 
+skin 27 Spine 0.0099 Gut 0.2277 Chest 0.7624 
+skin 28 Pelvis 0.0800 Spine 0.0400 Gut 0.2900 Chest 0.5900 
+skin 29 Gut 0.0200 Chest 0.4800 Left_FrontHip 0.5000 
+skin 30 Gut 0.0500 Chest 0.6200 Left_FrontHip 0.3300 
+skin 31 Gut 0.0396 Chest 0.6238 Left_FrontHip 0.3366 
+skin 32 Gut 0.0100 Chest 0.4000 Left_FrontHip 0.5900 
+skin 33 Gut 0.0100 Chest 0.4700 Left_FrontHip 0.5200 
+skin 34 Gut 0.0100 Chest 0.3700 Left_FrontHip 0.6200 
+skin 35 Chest 0.4400 Left_FrontHip 0.5600 
+skin 36 Chest 0.3131 Left_FrontHip 0.6869 
+skin 37 Gut 0.0300 Chest 0.6100 Left_FrontHip 0.3600 
+skin 38 Gut 0.0300 Chest 0.3700 Left_FrontHip 0.6000 
+skin 39 Gut 0.0202 Chest 0.3232 Left_FrontHip 0.6566 
+skin 40 Gut 0.1600 Chest 0.8400 
+skin 41 Gut 0.1100 Chest 0.8800 Left_FrontHip 0.0100 
+skin 42 Spine 0.0099 Gut 0.1584 Chest 0.8218 Left_FrontHip 0.0099 
+skin 43 Gut 0.1000 Chest 0.9000 
+skin 44 Gut 0.0900 Chest 0.9000 Left_FrontHip 0.0100 
+skin 45 Gut 0.1300 Chest 0.8700 
+skin 46 Gut 0.0700 Chest 0.9200 Left_FrontHip 0.0100 
+skin 47 Gut 0.2000 Chest 0.8000 
+skin 48 Pelvis 0.0600 Spine 0.0300 Gut 0.2100 Chest 0.7000 
+skin 49 Pelvis 0.1800 Spine 0.0800 Gut 0.3500 Chest 0.3900 
+skin 50 Pelvis 0.2000 Spine 0.0900 Gut 0.2600 Chest 0.4500 
+skin 51 Pelvis 0.2400 Spine 0.1000 Gut 0.3900 Chest 0.2700 
+skin 52 Pelvis 0.3000 Spine 0.1100 Gut 0.2800 Chest 0.3100 
+skin 53 Pelvis 0.2020 Spine 0.0909 Gut 0.4545 Chest 0.2525 
+skin 54 Pelvis 0.1500 Spine 0.0700 Gut 0.4300 Chest 0.3500 
+skin 55 Pelvis 0.3737 Spine 0.1010 Gut 0.3232 Chest 0.2020 
+skin 56 Pelvis 0.4200 Spine 0.1000 Gut 0.2600 Chest 0.2200 
+skin 57 Pelvis 0.6139 Spine 0.0891 Gut 0.1881 Chest 0.1089 
+skin 58 Pelvis 0.5800 Spine 0.0900 Gut 0.2100 Chest 0.1200 
+skin 59 Pelvis 0.3131 Spine 0.1010 Gut 0.3737 Chest 0.2121 
+skin 60 Pelvis 0.1000 Spine 0.0600 Gut 0.2300 Chest 0.6100 
+skin 61 Pelvis 0.3232 Spine 0.1111 Gut 0.2626 Chest 0.3030 
+skin 62 Spine 0.0404 Gut 0.1818 Chest 0.6667 Right_FrontHip 0.1111 
+skin 63 Pelvis 0.3232 Spine 0.1111 Gut 0.2525 Chest 0.3131 
+skin 64 Pelvis 0.4141 Spine 0.1010 Gut 0.2424 Chest 0.2424 
+skin 65 Pelvis 0.4900 Spine 0.0900 Gut 0.2100 Chest 0.2100 
+skin 66 Pelvis 0.2600 Spine 0.1200 Gut 0.2600 Chest 0.3600 
+skin 67 Pelvis 0.4800 Spine 0.1000 Gut 0.2100 Chest 0.2100 
+skin 68 Pelvis 0.1089 Gut 0.2574 Chest 0.5347 Right_FrontHip 0.0990 
+skin 69 Spine 0.0099 Gut 0.0495 Chest 0.3960 Right_FrontHip 0.5446 
+skin 70 Spine 0.0100 Gut 0.0800 Chest 0.5200 Right_FrontHip 0.3900 
+skin 71 Pelvis 0.3700 Spine 0.1200 Gut 0.2400 Chest 0.2700 
+skin 72 Gut 0.0100 Chest 0.3700 Right_FrontHip 0.6200 
+skin 73 Gut 0.0200 Chest 0.4600 Right_FrontHip 0.5200 
+skin 74 Gut 0.0500 Chest 0.6400 Right_FrontHip 0.3100 
+skin 75 Pelvis 0.0100 Gut 0.1200 Chest 0.8000 Right_FrontHip 0.0700 
+skin 76 Gut 0.1010 Chest 0.8384 Right_FrontHip 0.0606 
+skin 77 Gut 0.1010 Chest 0.8788 Right_FrontHip 0.0202 
+skin 78 Gut 0.0900 Chest 0.7900 Right_FrontHip 0.1200 
+skin 79 Gut 0.0700 Chest 0.7600 Right_FrontHip 0.1700 
+skin 80 Gut 0.0700 Chest 0.8800 Right_FrontHip 0.0500 
+skin 81 Gut 0.0600 Chest 0.8900 Right_FrontHip 0.0500 
+skin 82 Pelvis 0.0400 Gut 0.2100 Chest 0.5500 Right_FrontHip 0.2000 
+skin 83 Pelvis 0.0396 Gut 0.2079 Chest 0.5347 Right_FrontHip 0.2178 
+skin 84 Pelvis 0.4100 Spine 0.1200 Gut 0.2300 Chest 0.2400 
+skin 85 Pelvis 0.5200 Spine 0.1000 Gut 0.2000 Chest 0.1800 
+skin 86 Pelvis 0.4700 Spine 0.1200 Gut 0.2100 Chest 0.2000 
+skin 87 Pelvis 0.5900 Spine 0.0900 Gut 0.1800 Chest 0.1400 
+skin 88 Pelvis 0.5300 Spine 0.0900 Gut 0.2000 Chest 0.1800 
+skin 89 Pelvis 0.5859 Spine 0.0808 Gut 0.1818 Chest 0.1515 
+skin 90 Pelvis 0.4700 Spine 0.1000 Gut 0.2200 Chest 0.2100 
+skin 91 Pelvis 0.5300 Spine 0.0900 Gut 0.2000 Chest 0.1800 
+skin 92 Pelvis 0.5500 Spine 0.0900 Gut 0.2100 Chest 0.1500 
+skin 93 Pelvis 0.6200 Spine 0.0800 Gut 0.1900 Chest 0.1100 
+skin 94 Pelvis 0.6931 Spine 0.0693 Gut 0.1584 Chest 0.0792 
+skin 95 Pelvis 0.6700 Spine 0.0800 Gut 0.1700 Chest 0.0800 
+skin 96 Pelvis 0.7900 Spine 0.0500 Gut 0.1200 Chest 0.0400 
+skin 97 Pelvis 0.8283 Spine 0.0505 Gut 0.1010 Chest 0.0202 
+skin 98 Pelvis 0.6400 Spine 0.0800 Gut 0.1800 Chest 0.1000 
+skin 99 Pelvis 0.7200 Spine 0.0700 Gut 0.1400 Chest 0.0700 
+skin 100 Pelvis 0.7000 Spine 0.0700 Gut 0.1500 Chest 0.0800 
+skin 101 Pelvis 0.6500 Spine 0.0800 Gut 0.1700 Chest 0.1000 
+skin 102 Pelvis 0.5800 Spine 0.0900 Gut 0.2100 Chest 0.1200 
+skin 103 Pelvis 0.5300 Spine 0.1000 Gut 0.2400 Chest 0.1300 
+skin 104 Pelvis 0.5347 Spine 0.0990 Gut 0.2277 Chest 0.1386 
+skin 105 Pelvis 0.6100 Spine 0.0800 Gut 0.1900 Chest 0.1200 
+skin 106 Pelvis 0.6600 Spine 0.0800 Gut 0.1700 Chest 0.0900 
+skin 107 Pelvis 0.7172 Spine 0.0606 Gut 0.1313 Chest 0.0909 
+skin 108 Gut 0.0700 Chest 0.8200 Right_FrontHip 0.1100 
+skin 109 Gut 0.0600 Chest 0.8000 Right_FrontHip 0.1400 
+skin 110 Pelvis 0.0606 Spine 0.0303 Gut 0.2121 Chest 0.6970 
+skin 111 Pelvis 0.1800 Spine 0.0800 Gut 0.3600 Chest 0.3800 
+skin 112 Pelvis 0.2100 Spine 0.0900 Gut 0.2700 Chest 0.4300 
+skin 113 Pelvis 0.2400 Spine 0.1000 Gut 0.4000 Chest 0.2600 
+skin 114 Pelvis 0.3100 Spine 0.1100 Gut 0.2900 Chest 0.2900 
+skin 115 Pelvis 0.3700 Spine 0.1000 Gut 0.3300 Chest 0.2000 
+skin 116 Pelvis 0.4100 Spine 0.1000 Gut 0.2700 Chest 0.2200 
+skin 117 Pelvis 0.6000 Spine 0.0800 Gut 0.2000 Chest 0.1200 
+skin 118 Pelvis 0.5700 Spine 0.0900 Gut 0.2200 Chest 0.1200 
+skin 119 Pelvis 0.1100 Spine 0.0600 Gut 0.2400 Chest 0.5900 
+skin 120 Spine 0.0100 Gut 0.1200 Chest 0.7800 Left_FrontHip 0.0900 
+skin 121 Gut 0.1010 Chest 0.8283 Left_FrontHip 0.0707 
+skin 122 Pelvis 0.3300 Spine 0.1100 Gut 0.2800 Chest 0.2800 
+skin 123 Spine 0.0400 Gut 0.1900 Chest 0.6400 Left_FrontHip 0.1300 
+skin 124 Pelvis 0.3300 Spine 0.1100 Gut 0.2800 Chest 0.2800 
+skin 125 Pelvis 0.4100 Spine 0.1000 Gut 0.2600 Chest 0.2300 
+skin 126 Pelvis 0.4949 Spine 0.0909 Gut 0.2323 Chest 0.1818 
+skin 127 Pelvis 0.2700 Spine 0.1200 Gut 0.2800 Chest 0.3300 
+skin 128 Pelvis 0.4800 Spine 0.1000 Gut 0.2300 Chest 0.1900 
+skin 129 Spine 0.0400 Gut 0.2100 Chest 0.5400 Left_FrontHip 0.2100 
+skin 130 Gut 0.0500 Chest 0.4100 Left_FrontHip 0.5400 
+skin 131 Spine 0.0100 Gut 0.0800 Chest 0.5500 Left_FrontHip 0.3600 
+skin 132 Pelvis 0.3800 Spine 0.1200 Gut 0.2500 Chest 0.2500 
+skin 133 Gut 0.0900 Chest 0.7700 Left_FrontHip 0.1400 
+skin 134 Gut 0.0693 Chest 0.7327 Left_FrontHip 0.1980 
+skin 135 Spine 0.0303 Gut 0.2121 Chest 0.5354 Left_FrontHip 0.2222 
+skin 136 Spine 0.0300 Gut 0.2000 Chest 0.5100 Left_FrontHip 0.2600 
+skin 137 Pelvis 0.4200 Spine 0.1200 Gut 0.2300 Chest 0.2300 
+skin 138 Pelvis 0.5300 Spine 0.1000 Gut 0.2100 Chest 0.1600 
+skin 139 Pelvis 0.4747 Spine 0.1212 Gut 0.2121 Chest 0.1919 
+skin 140 Pelvis 0.6000 Spine 0.0900 Gut 0.1900 Chest 0.1200 
+skin 141 Pelvis 0.5347 Spine 0.0891 Gut 0.2178 Chest 0.1584 
+skin 142 Pelvis 0.5743 Spine 0.0891 Gut 0.2079 Chest 0.1287 
+skin 143 Pelvis 0.4600 Spine 0.1000 Gut 0.2400 Chest 0.2000 
+skin 144 Pelvis 0.5253 Spine 0.0909 Gut 0.2222 Chest 0.1616 
+skin 145 Pelvis 0.5400 Spine 0.0900 Gut 0.2200 Chest 0.1500 
+skin 146 Pelvis 0.6061 Spine 0.0808 Gut 0.2020 Chest 0.1111 
+skin 147 Pelvis 0.6869 Spine 0.0707 Gut 0.1717 Chest 0.0707 
+skin 148 Pelvis 0.6500 Spine 0.0700 Gut 0.1800 Chest 0.1000 
+skin 149 Pelvis 0.7800 Spine 0.0500 Gut 0.1300 Chest 0.0400 
+skin 150 Pelvis 0.8020 Spine 0.0495 Gut 0.1188 Chest 0.0297 
+skin 151 Pelvis 0.6300 Spine 0.0800 Gut 0.1900 Chest 0.1000 
+skin 152 Pelvis 0.7200 Spine 0.0700 Gut 0.1400 Chest 0.0700 
+skin 153 Pelvis 0.6869 Spine 0.0707 Gut 0.1717 Chest 0.0707 
+skin 154 Pelvis 0.6337 Spine 0.0792 Gut 0.1881 Chest 0.0990 
+skin 155 Pelvis 0.5859 Spine 0.0909 Gut 0.2020 Chest 0.1212 
+skin 156 Pelvis 0.5354 Spine 0.1010 Gut 0.2323 Chest 0.1313 
+skin 157 Pelvis 0.6634 Spine 0.0792 Gut 0.1584 Chest 0.0990 
+skin 158 Gut 0.1010 Chest 0.8788 Left_FrontHip 0.0202 
+skin 159 Gut 0.0800 Chest 0.8700 Left_FrontHip 0.0500 
+skin 160 Gut 0.0600 Chest 0.8800 Left_FrontHip 0.0600 
+skin 161 Gut 0.0700 Chest 0.8000 Left_FrontHip 0.1300 
+skin 162 Gut 0.0600 Chest 0.7800 Left_FrontHip 0.1600 
+skin 163 Gut 0.1500 Chest 0.8500 
+skin 164 Gut 0.0600 Chest 0.7500 Right_FrontHip 0.1900 
+skin 165 Gut 0.0202 Chest 0.6162 Right_FrontHip 0.3636 
+skin 166 Chest 0.3900 Right_FrontHip 0.6100 
+skin 167 Chest 0.2626 Right_FrontHip 0.7374 
+skin 168 Gut 0.1000 Chest 0.9000 
+skin 169 Gut 0.1100 Chest 0.8900 
+skin 170 Gut 0.0600 Chest 0.7300 Left_FrontHip 0.2100 
+skin 171 Gut 0.0300 Chest 0.6100 Left_FrontHip 0.3600 
+skin 172 Chest 0.4242 Left_FrontHip 0.5758 
+skin 173 Chest 0.3000 Left_FrontHip 0.7000 
+skin 174 Gut 0.0500 Chest 0.7900 Right_FrontHip 0.1600 
+skin 175 Gut 0.0500 Chest 0.8900 Right_FrontHip 0.0600 
+skin 176 Gut 0.0600 Chest 0.9300 Right_FrontHip 0.0100 
+skin 177 Gut 0.0200 Chest 0.3000 Right_FrontHip 0.6800 
+skin 178 Gut 0.0594 Chest 0.7624 Left_FrontHip 0.1782 
+skin 179 Gut 0.0600 Chest 0.8800 Left_FrontHip 0.0600 
+skin 180 Gut 0.0606 Chest 0.9293 Left_FrontHip 0.0101 
+skin 181 Gut 0.0200 Chest 0.3100 Left_FrontHip 0.6700 
+skin 182 HorseHead1 1.0000 
+skin 183 HorseHead1 1.0000 
+skin 184 HorseHead1 1.0000 
+skin 185 HorseHead1 1.0000 
+skin 186 HorseHead1 1.0000 
+skin 187 HorseHead1 1.0000 
+skin 188 HorseHead1 1.0000 
+skin 189 HorseHead1 1.0000 
+skin 190 HorseHead1 1.0000 
+skin 191 HorseHead1 1.0000 
+skin 192 HorseHead1 1.0000 
+skin 193 HorseHead1 1.0000 
+skin 194 HorseHead1 1.0000 
+skin 195 HorseHead1 1.0000 
+skin 196 HorseHead1 1.0000 
+skin 197 HorseHead1 1.0000 
+skin 198 HorseHead1 1.0000 
+skin 199 HorseHead1 1.0000 
+skin 200 HorseHead1 1.0000 
+skin 201 HorseHead1 1.0000 
+skin 202 HorseHead1 1.0000 
+skin 203 HorseHead1 1.0000 
+skin 204 HorseHead1 1.0000 
+skin 205 HorseHead1 1.0000 
+skin 206 HorseHead1 1.0000 
+skin 207 HorseHead1 1.0000 
+skin 208 HorseHead1 1.0000 
+skin 209 HorseHead1 1.0000 
+skin 210 HorseHead1 1.0000 
+skin 211 HorseHead1 1.0000 
+skin 212 HorseHead1 1.0000 
+skin 213 HorseHead1 1.0000 
+skin 214 HorseHead1 1.0000 
+skin 215 HorseHead1 1.0000 
+skin 216 HorseHead1 1.0000 
+skin 217 HorseHead1 1.0000 
+skin 218 HorseHead1 1.0000 
+skin 219 HorseHead1 1.0000 
+skin 220 HorseHead1 1.0000 
+skin 221 HorseHead1 1.0000 
+skin 222 HorseHead1 1.0000 
+skin 223 HorseHead1 1.0000 
+skin 224 HorseHead1 1.0000 
+skin 225 HorseHead1 1.0000 
+skin 226 HorseHead1 1.0000 
+skin 227 HorseHead1 1.0000 
+skin 228 HorseHead1 1.0000 
+skin 229 HorseHead1 1.0000 
+skin 230 HorseHead1 1.0000 
+skin 231 HorseHead1 1.0000 
+skin 232 HorseHead1 1.0000 
+skin 233 HorseHead1 1.0000 
+skin 234 HorseHead1 1.0000 
+skin 235 HorseHead1 1.0000 
+skin 236 HorseHead1 1.0000 
+skin 237 HorseHead1 1.0000 
+skin 238 HorseHead1 1.0000 
+skin 239 HorseHead1 1.0000 
+skin 240 HorseHead1 1.0000 
+skin 241 HorseHead1 1.0000 
+skin 242 HorseHead1 1.0000 
+skin 243 HorseHead1 1.0000 
+skin 244 HorseHead1 1.0000 
+skin 245 HorseHead1 1.0000 
+skin 246 HorseHead1 1.0000 
+skin 247 HorseHead1 1.0000 
+skin 248 HorseHead1 1.0000 
+skin 249 HorseHead1 1.0000 
+skin 250 HorseHead1 1.0000 
+skin 251 HorseHead1 1.0000 
+skin 252 HorseHead1 1.0000 
+skin 253 HorseHead1 1.0000 
+skin 254 HorseHead1 1.0000 
+skin 255 HorseHead1 1.0000 
+skin 256 HorseHead1 1.0000 
+skin 257 HorseHead1 1.0000 
+skin 258 HorseHead1 1.0000 
+skin 259 HorseHead1 1.0000 
+skin 260 HorseHead1 1.0000 
+skin 261 HorseHead1 1.0000 
+skin 262 HorseHead1 1.0000 
+skin 263 HorseHead1 1.0000 
+skin 264 HorseHead1 1.0000 
+skin 265 HorseHead1 1.0000 
+skin 266 HorseHead1 1.0000 
+skin 267 HorseHead1 1.0000 
+skin 268 HorseHead1 1.0000 
+skin 269 HorseHead1 1.0000 
+skin 270 HorseHead1 1.0000 
+skin 271 HorseHead1 1.0000 
+skin 272 HorseHead1 1.0000 
+skin 273 HorseHead1 1.0000 
+skin 274 HorseHead1 1.0000 
+skin 275 HorseHead1 1.0000 
+skin 276 HorseHead1 1.0000 
+skin 277 HorseHead1 1.0000 
+skin 278 HorseHead1 1.0000 
+skin 279 HorseHead1 1.0000 
+skin 280 HorseHead1 1.0000 
+skin 281 HorseHead1 1.0000 
+skin 282 HorseHead1 1.0000 
+skin 283 HorseHead1 1.0000 
+skin 284 HorseHead1 1.0000 
+skin 285 HorseHead1 1.0000 
+skin 286 HorseHead1 1.0000 
+skin 287 HorseHead1 1.0000 
+skin 288 HorseHead1 1.0000 
+skin 289 HorseHead1 1.0000 
+skin 290 HorseHead1 1.0000 
+skin 291 HorseHead1 1.0000 
+skin 292 HorseHead1 1.0000 
+skin 293 HorseHead1 1.0000 
+skin 294 HorseHead1 1.0000 
+skin 295 HorseHead1 1.0000 
+skin 296 HorseHead1 1.0000 
+skin 297 HorseHead1 1.0000 
+skin 298 HorseHead1 1.0000 
+skin 299 HorseHead1 1.0000 
+skin 300 HorseHead1 1.0000 
+skin 301 HorseHead1 1.0000 
+skin 302 HorseHead1 1.0000 
+skin 303 HorseHead1 1.0000 
+skin 304 HorseHead1 1.0000 
+skin 305 HorseHead1 1.0000 
+skin 306 HorseHead1 1.0000 
+skin 307 HorseHead1 1.0000 
+skin 308 HorseHead1 1.0000 
+skin 309 HorseHead1 1.0000 
+skin 310 HorseHead1 1.0000 
+skin 311 HorseHead1 1.0000 
+skin 312 HorseHead1 1.0000 
+skin 313 HorseHead1 1.0000 
+skin 314 HorseHead1 1.0000 
+skin 315 HorseHead1 1.0000 
+skin 316 HorseHead1 1.0000 
+skin 317 HorseHead1 1.0000 
+skin 318 HorseHead1 1.0000 
+skin 319 HorseHead1 1.0000 
+skin 320 HorseHead1 1.0000 
+skin 321 HorseHead1 1.0000 
+skin 322 HorseHead1 1.0000 
+skin 323 HorseHead1 1.0000 
+skin 324 HorseHead1 1.0000 
+skin 325 HorseHead1 1.0000 
+skin 326 HorseHead1 1.0000 
+skin 327 HorseHead1 1.0000 
+skin 328 HorseHead1 1.0000 
+skin 329 HorseHead1 1.0000 
+skin 330 HorseHead1 1.0000 
+skin 331 HorseHead1 1.0000 
+skin 332 HorseHead1 1.0000 
+skin 333 HorseHead1 1.0000 
+skin 334 HorseHead1 1.0000 
+skin 335 HorseHead1 1.0000 
+skin 336 HorseHead1 1.0000 
+skin 337 HorseHead1 1.0000 
+skin 338 HorseHead1 1.0000 
+skin 339 HorseHead1 1.0000 
+skin 340 HorseHead1 1.0000 
+skin 341 HorseHead1 1.0000 
+skin 342 HorseHead1 1.0000 
+skin 343 HorseHead1 1.0000 
+skin 344 HorseHead1 1.0000 
+skin 345 HorseHead1 1.0000 
+skin 346 HorseHead1 1.0000 
+skin 347 HorseHead1 1.0000 
+skin 348 HorseHead1 1.0000 
+skin 349 HorseHead1 1.0000 
+skin 350 HorseHead1 1.0000 
+skin 351 HorseHead1 1.0000 
+skin 352 HorseHead1 1.0000 
+skin 353 HorseHead1 1.0000 
+skin 354 HorseHead1 1.0000 
+skin 355 HorseHead1 1.0000 
+skin 356 HorseHead1 1.0000 
+skin 357 HorseHead1 1.0000 
+skin 358 HorseHead1 1.0000 
+skin 359 HorseHead1 1.0000 
+skin 360 HorseHead1 1.0000 
+skin 361 HorseHead1 1.0000 
+skin 362 HorseHead1 1.0000 
+skin 363 HorseHead1 1.0000 
+skin 364 HorseHead1 1.0000 
+skin 365 HorseHead1 1.0000 
+skin 366 HorseHead1 1.0000 
+skin 367 HorseHead1 1.0000 
+skin 368 HorseHead1 1.0000 
+skin 369 HorseHead1 1.0000 
+skin 370 HorseHead1 1.0000 
+skin 371 Right_FrontAnkle 1.0000 
+skin 372 Right_FrontAnkle 1.0000 
+skin 373 Right_FrontAnkle 1.0000 
+skin 374 Right_FrontAnkle 1.0000 
+skin 375 Right_FrontAnkle 1.0000 
+skin 376 Right_FrontAnkle 1.0000 
+skin 377 Right_FrontAnkle 1.0000 
+skin 378 Right_FrontAnkle 1.0000 
+skin 379 Right_FrontAnkle 1.0000 
+skin 380 Right_FrontAnkle 1.0000 
+skin 381 Right_FrontAnkle 1.0000 
+skin 382 Right_FrontAnkle 1.0000 
+skin 383 Right_FrontAnkle 1.0000 
+skin 384 Right_FrontAnkle 1.0000 
+skin 385 Right_FrontAnkle 1.0000 
+skin 386 Right_FrontKnee 0.1900 Right_FrontAnkle 0.8100 
+skin 387 Right_FrontAnkle 1.0000 
+skin 388 Right_FrontKnee 0.1300 Right_FrontAnkle 0.8700 
+skin 389 Right_FrontAnkle 1.0000 
+skin 390 Right_FrontKnee 0.1200 Right_FrontAnkle 0.8800 
+skin 391 Right_FrontKnee 0.2000 Right_FrontAnkle 0.8000 
+skin 392 Right_FrontAnkle 1.0000 
+skin 393 Right_FrontAnkle 1.0000 
+skin 394 Right_FrontKnee 0.1800 Right_FrontAnkle 0.8200 
+skin 395 Right_FrontAnkle 1.0000 
+skin 396 Right_FrontKnee 0.1500 Right_FrontAnkle 0.8500 
+skin 397 Right_FrontAnkle 1.0000 
+skin 398 Right_FrontAnkle 1.0000 
+skin 399 Right_FrontAnkle 1.0000 
+skin 400 Right_FrontKnee 0.1800 Right_FrontAnkle 0.8200 
+skin 401 Right_FrontAnkle 1.0000 
+skin 402 Right_FrontKnee 0.1700 Right_FrontAnkle 0.8300 
+skin 403 Right_FrontAnkle 1.0000 
+skin 404 Right_FrontKnee 0.1800 Right_FrontAnkle 0.8200 
+skin 405 Right_FrontKnee 0.1700 Right_FrontAnkle 0.8300 
+skin 406 Right_FrontKnee 0.2000 Right_FrontAnkle 0.8000 
+skin 407 Right_FrontAnkle 1.0000 
+skin 408 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 409 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 410 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 411 Right_FrontKnee 0.5200 Right_FrontAnkle 0.4800 
+skin 412 Right_FrontKnee 0.8000 Right_FrontAnkle 0.2000 
+skin 413 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 414 Right_FrontKnee 0.8000 Right_FrontAnkle 0.2000 
+skin 415 Right_FrontHip 0.0100 Right_FrontKnee 0.9900 
+skin 416 Right_FrontHip 0.0100 Right_FrontKnee 0.9900 
+skin 417 Right_FrontKnee 0.7500 Right_FrontAnkle 0.2500 
+skin 418 Right_FrontHip 0.0200 Right_FrontKnee 0.9800 
+skin 419 Chest 0.0606 Right_FrontHip 0.1515 Right_FrontKnee 0.7879 
+skin 420 Right_FrontHip 0.0700 Right_FrontKnee 0.9300 
+skin 421 Gut 0.0100 Chest 0.1200 Right_FrontHip 0.1500 Right_FrontKnee 0.7200 
+skin 422 Right_FrontHip 0.1100 Right_FrontKnee 0.8900 
+skin 423 Chest 0.0099 Right_FrontHip 0.2376 Right_FrontKnee 0.7525 
+skin 424 Chest 0.0100 Right_FrontHip 0.2600 Right_FrontKnee 0.7300 
+skin 425 Right_FrontHip 0.1100 Right_FrontKnee 0.8900 
+skin 426 Chest 0.0500 Right_FrontHip 0.2300 Right_FrontKnee 0.7200 
+skin 427 Right_FrontHip 0.0300 Right_FrontKnee 0.9700 
+skin 428 Right_FrontHip 0.0300 Right_FrontKnee 0.9700 
+skin 429 Right_FrontKnee 0.7500 Right_FrontAnkle 0.2500 
+skin 430 Right_FrontKnee 0.7700 Right_FrontAnkle 0.2300 
+skin 431 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 432 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 433 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 434 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 435 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 436 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 437 Right_FrontKnee 0.5400 Right_FrontAnkle 0.4600 
+skin 438 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 439 Right_FrontKnee 0.7600 Right_FrontAnkle 0.2400 
+skin 440 Right_FrontKnee 0.7500 Right_FrontAnkle 0.2500 
+skin 441 Right_FrontHip 0.0700 Right_FrontKnee 0.9300 
+skin 442 Right_FrontHip 0.0400 Right_FrontKnee 0.9600 
+skin 443 Chest 0.0300 Right_FrontHip 0.2000 Right_FrontKnee 0.7700 
+skin 444 Right_FrontHip 0.0100 Right_FrontKnee 0.9900 
+skin 445 Right_FrontHip 0.0500 Right_FrontKnee 0.9500 
+skin 446 Right_FrontHip 0.0400 Right_FrontKnee 0.9600 
+skin 447 Right_FrontHip 0.0100 Right_FrontKnee 0.9900 
+skin 448 Right_FrontKnee 0.7500 Right_FrontAnkle 0.2500 
+skin 449 Right_FrontKnee 0.7400 Right_FrontAnkle 0.2600 
+skin 450 Right_FrontKnee 0.5200 Right_FrontAnkle 0.4800 
+skin 451 Right_FrontKnee 0.5200 Right_FrontAnkle 0.4800 
+skin 452 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 453 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 454 Right_FrontKnee 0.1100 Right_FrontAnkle 0.8900 
+skin 455 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 456 Right_FrontKnee 0.5200 Right_FrontAnkle 0.4800 
+skin 457 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 458 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 459 Right_FrontKnee 0.5300 Right_FrontAnkle 0.4700 
+skin 460 Right_FrontKnee 0.5200 Right_FrontAnkle 0.4800 
+skin 461 Right_FrontKnee 0.7500 Right_FrontAnkle 0.2500 
+skin 462 Right_FrontKnee 0.8000 Right_FrontAnkle 0.2000 
+skin 463 Right_FrontHip 0.0100 Right_FrontKnee 0.9900 
+skin 464 Right_FrontHip 0.0200 Right_FrontKnee 0.9800 
+skin 465 Gut 0.0200 Chest 0.1000 Right_FrontHip 0.0800 Right_FrontKnee 0.8000 
+skin 466 Gut 0.0396 Chest 0.1881 Right_FrontHip 0.1287 Right_FrontKnee 0.6436 
+skin 467 Right_FrontKnee 0.2600 Right_FrontAnkle 0.7400 
+skin 468 Chest 0.1111 Right_FrontHip 0.2323 Right_FrontKnee 0.6566 
+skin 469 Gut 0.0100 Chest 0.2500 Right_FrontHip 0.3500 Right_FrontKnee 0.3900 
+skin 470 Chest 0.0404 Right_FrontHip 0.5152 Right_FrontKnee 0.4444 
+skin 471 Chest 0.0101 Right_FrontHip 0.5253 Right_FrontKnee 0.4646 
+skin 472 Chest 0.0297 Right_FrontHip 0.4950 Right_FrontKnee 0.4752 
+skin 473 Chest 0.1000 Right_FrontHip 0.1000 Right_FrontKnee 0.8000 
+skin 474 Chest 0.4400 Right_FrontHip 0.2100 Right_FrontKnee 0.3500 
+skin 475 Chest 0.1800 Right_FrontHip 0.3300 Right_FrontKnee 0.4900 
+skin 476 Gut 0.0200 Chest 0.1600 Right_FrontHip 0.0900 Right_FrontKnee 0.7300 
+skin 477 Chest 0.1200 Right_FrontHip 0.0800 Right_FrontKnee 0.8000 
+skin 478 Gut 0.3000 Chest 0.4600 Right_FrontHip 0.1200 Right_FrontKnee 0.1200 
+skin 479 Pelvis 0.0300 Gut 0.1300 Chest 0.1300 Right_FrontKnee 0.7100 
+skin 480 Chest 0.3500 Right_FrontHip 0.1600 Right_FrontKnee 0.4900 
+skin 481 Chest 0.8400 Right_FrontHip 0.1200 HorseHead0 0.0300 Right_FrontKnee 0.0100 
+skin 482 Gut 0.1818 Chest 0.4646 Right_FrontHip 0.1818 Right_FrontKnee 0.1717 
+skin 483 Chest 0.2900 Right_FrontHip 0.1400 Right_FrontKnee 0.5700 
+skin 484 Gut 0.0900 Chest 0.2800 Right_FrontHip 0.1200 Right_FrontKnee 0.5100 
+skin 485 Gut 0.1800 Chest 0.3600 Right_FrontHip 0.1000 Right_FrontKnee 0.3600 
+skin 486 Gut 0.1100 Chest 0.5300 Right_FrontHip 0.1100 Right_FrontKnee 0.2500 
+skin 487 Spine 0.0400 Gut 0.3300 Chest 0.5400 Right_FrontHip 0.0900 
+skin 488 Spine 0.0101 Gut 0.1818 Chest 0.7374 Right_FrontHip 0.0707 
+skin 489 Pelvis 0.0900 Gut 0.3300 Chest 0.4600 Right_FrontHip 0.1200 
+skin 490 Gut 0.0303 Chest 0.8687 Right_FrontHip 0.0909 Right_FrontKnee 0.0101 
+skin 491 Right_BackAnkle 1.0000 
+skin 492 Right_BackAnkle 1.0000 
+skin 493 Right_BackAnkle 1.0000 
+skin 494 Right_BackAnkle 1.0000 
+skin 495 Right_BackAnkle 1.0000 
+skin 496 Right_BackAnkle 1.0000 
+skin 497 Right_BackAnkle 1.0000 
+skin 498 Right_BackAnkle 1.0000 
+skin 499 Right_BackAnkle 1.0000 
+skin 500 Right_BackAnkle 1.0000 
+skin 501 Right_BackAnkle 1.0000 
+skin 502 Right_BackAnkle 1.0000 
+skin 503 Right_BackAnkle 1.0000 
+skin 504 Right_BackAnkle 1.0000 
+skin 505 Right_BackAnkle 1.0000 
+skin 506 Right_BackKnee 0.1900 Right_BackAnkle 0.8100 
+skin 507 Right_BackAnkle 1.0000 
+skin 508 Right_BackKnee 0.0900 Right_BackAnkle 0.9100 
+skin 509 Right_BackAnkle 1.0000 
+skin 510 Right_BackKnee 0.2100 Right_BackAnkle 0.7900 
+skin 511 Right_BackAnkle 1.0000 
+skin 512 Right_BackAnkle 1.0000 
+skin 513 Right_BackKnee 0.1100 Right_BackAnkle 0.8900 
+skin 514 Right_BackKnee 0.1900 Right_BackAnkle 0.8100 
+skin 515 Right_BackAnkle 1.0000 
+skin 516 Right_BackKnee 0.1800 Right_BackAnkle 0.8200 
+skin 517 Right_BackHip 1.0000 
+skin 518 Right_BackHip 0.9000 Right_BackKnee 0.1000 
+skin 519 Right_BackHip 0.8500 Right_BackKnee 0.1500 
+skin 520 Right_BackHip 1.0000 
+skin 521 Right_BackHip 0.8900 Right_BackKnee 0.1100 
+skin 522 Pelvis 0.1400 Right_BackHip 0.8200 Gut 0.0400 
+skin 523 Right_BackHip 1.0000 
+skin 524 Pelvis 0.0200 Right_BackHip 0.9800 
+skin 525 Pelvis 0.0100 Right_BackHip 0.9900 
+skin 526 Right_BackHip 1.0000 
+skin 527 Right_BackHip 1.0000 
+skin 528 Pelvis 0.0400 Right_BackHip 0.9600 
+skin 529 Right_BackHip 1.0000 
+skin 530 Pelvis 0.0400 Right_BackHip 0.9600 
+skin 531 Right_BackHip 1.0000 
+skin 532 Right_BackHip 1.0000 
+skin 533 Right_BackHip 1.0000 
+skin 534 Right_BackHip 1.0000 
+skin 535 Right_BackHip 1.0000 
+skin 536 Pelvis 0.1900 Right_BackHip 0.8100 
+skin 537 Right_BackHip 1.0000 
+skin 538 Right_BackHip 1.0000 
+skin 539 Right_BackHip 1.0000 
+skin 540 Right_BackHip 1.0000 
+skin 541 Pelvis 0.4500 Right_BackHip 0.5500 
+skin 542 Pelvis 0.0800 Right_BackHip 0.9200 
+skin 543 Pelvis 0.1400 Right_BackHip 0.8600 
+skin 544 Right_BackHip 0.9200 Right_BackKnee 0.0800 
+skin 545 Right_BackKnee 1.0000 
+skin 546 Right_BackHip 0.3200 Right_BackKnee 0.6800 
+skin 547 Right_BackHip 0.2600 Right_BackKnee 0.7400 
+skin 548 Right_BackKnee 1.0000 
+skin 549 Right_BackHip 0.3200 Right_BackKnee 0.6800 
+skin 550 Right_BackKnee 1.0000 
+skin 551 Right_BackHip 0.9500 Right_BackKnee 0.0500 
+skin 552 Right_BackKnee 1.0000 
+skin 553 Right_BackKnee 0.9400 Right_BackAnkle 0.0600 
+skin 554 Right_BackKnee 0.9900 Right_BackAnkle 0.0100 
+skin 555 Right_BackHip 0.3300 Right_BackKnee 0.6700 
+skin 556 Right_BackKnee 1.0000 
+skin 557 Right_BackKnee 0.9200 Right_BackAnkle 0.0800 
+skin 558 Right_BackHip 0.3400 Right_BackKnee 0.6600 
+skin 559 Right_BackHip 0.3500 Right_BackKnee 0.6500 
+skin 560 Right_BackHip 0.9600 Right_BackKnee 0.0400 
+skin 561 Right_BackHip 0.9100 Right_BackKnee 0.0900 
+skin 562 Right_BackKnee 1.0000 
+skin 563 Right_BackKnee 0.9200 Right_BackAnkle 0.0800 
+skin 564 Right_BackKnee 0.1800 Right_BackAnkle 0.8200 
+skin 565 Right_BackAnkle 1.0000 
+skin 566 Right_BackKnee 0.1800 Right_BackAnkle 0.8200 
+skin 567 Right_BackAnkle 1.0000 
+skin 568 Right_BackKnee 1.0000 
+skin 569 Right_BackKnee 0.9300 Right_BackAnkle 0.0700 
+skin 570 Right_BackAnkle 1.0000 
+skin 571 Right_BackKnee 0.0700 Right_BackAnkle 0.9300 
+skin 572 Right_BackAnkle 1.0000 
+skin 573 Right_BackKnee 0.2100 Right_BackAnkle 0.7900 
+skin 574 Right_BackKnee 0.9300 Right_BackAnkle 0.0700 
+skin 575 Right_BackAnkle 1.0000 
+skin 576 Right_BackKnee 0.1900 Right_BackAnkle 0.8100 
+skin 577 Right_BackAnkle 1.0000 
+skin 578 Right_BackKnee 0.1200 Right_BackAnkle 0.8800 
+skin 579 Right_BackHip 0.3900 Right_BackKnee 0.6100 
+skin 580 Right_BackKnee 0.9600 Right_BackAnkle 0.0400 
+skin 581 Right_BackHip 0.3500 Right_BackKnee 0.6500 
+skin 582 Pelvis 0.1212 Right_BackHip 0.8586 Gut 0.0202 
+skin 583 Pelvis 0.1300 Right_BackHip 0.8000 Gut 0.0700 
+skin 584 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 585 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 586 Right_BackKnee 0.4900 Right_BackAnkle 0.5100 
+skin 587 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 588 Right_BackKnee 0.9300 Right_BackAnkle 0.0700 
+skin 589 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 590 Right_BackKnee 0.9200 Right_BackAnkle 0.0800 
+skin 591 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 592 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 593 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 594 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 595 Right_BackKnee 0.4300 Right_BackAnkle 0.5700 
+skin 596 Right_BackKnee 0.4000 Right_BackAnkle 0.6000 
+skin 597 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 598 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 599 Right_BackKnee 0.6000 Right_BackAnkle 0.4000 
+skin 600 Right_BackKnee 0.9000 Right_BackAnkle 0.1000 
+skin 601 Right_BackKnee 0.6200 Right_BackAnkle 0.3800 
+skin 602 Right_BackKnee 0.8500 Right_BackAnkle 0.1500 
+skin 603 Right_BackHip 0.5000 Right_BackKnee 0.5000 
+skin 604 Right_BackHip 0.5000 Right_BackKnee 0.5000 
+skin 605 Right_BackHip 0.6200 Right_BackKnee 0.3800 
+skin 606 Right_BackKnee 0.5300 Right_BackAnkle 0.4700 
+skin 607 Right_BackKnee 0.6200 Right_BackAnkle 0.3800 
+skin 608 Pelvis 0.7400 Tail0 0.0100 Right_BackHip 0.2500 
+skin 609 Pelvis 0.1400 Right_BackHip 0.8600 
+skin 610 Right_BackHip 0.9400 Right_BackKnee 0.0600 
+skin 611 Right_BackHip 0.9400 Right_BackKnee 0.0600 
+skin 612 Right_BackHip 0.6400 Right_BackKnee 0.3600 
+skin 613 Right_BackHip 0.6100 Right_BackKnee 0.3900 
+skin 614 Right_BackHip 0.6500 Right_BackKnee 0.3500 
+skin 615 Right_BackHip 0.9400 Right_BackKnee 0.0600 
+skin 616 Right_BackHip 0.6700 Right_BackKnee 0.3300 
+skin 617 Right_BackHip 0.6800 Right_BackKnee 0.3200 
+skin 618 Right_BackHip 0.3700 Right_BackKnee 0.6300 
+skin 619 Right_BackHip 0.6900 Right_BackKnee 0.3100 
+skin 620 Right_BackHip 0.7000 Right_BackKnee 0.3000 
+skin 621 Right_BackHip 0.6600 Right_BackKnee 0.3400 
+skin 622 Right_BackHip 0.9500 Right_BackKnee 0.0500 
+skin 623 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 624 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 625 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 626 Right_BackKnee 0.5000 Right_BackAnkle 0.5000 
+skin 627 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 628 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 629 Right_BackKnee 0.5100 Right_BackAnkle 0.4900 
+skin 630 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 631 Right_BackKnee 0.2600 Right_BackAnkle 0.7400 
+skin 632 Right_BackKnee 0.4700 Right_BackAnkle 0.5300 
+skin 633 Pelvis 0.6500 Spine 0.0100 Right_BackHip 0.2400 Gut 0.1000 
+skin 634 Pelvis 0.7921 Right_BackHip 0.1881 Gut 0.0198 
+skin 635 Pelvis 0.5000 Spine 0.0800 Right_BackHip 0.1900 Gut 0.2300 
+skin 636 Pelvis 0.1287 Spine 0.0297 Right_BackHip 0.7525 Gut 0.0891 
+skin 637 HorseHead1 1.0000 
+skin 638 HorseHead1 1.0000 
+skin 639 HorseHead1 1.0000 
+skin 640 HorseHead1 1.0000 
+skin 641 HorseHead1 1.0000 
+skin 642 HorseHead1 1.0000 
+skin 643 HorseHead0 0.0800 HorseHead1 0.9200 
+skin 644 HorseHead0 0.2100 HorseHead1 0.7900 
+skin 645 HorseHead0 0.1200 HorseHead1 0.8800 
+skin 646 HorseHead1 1.0000 
+skin 647 HorseHead1 1.0000 
+skin 648 HorseHead1 1.0000 
+skin 649 HorseHead1 1.0000 
+skin 650 HorseHead1 1.0000 
+skin 651 HorseHead1 1.0000 
+skin 652 HorseHead1 1.0000 
+skin 653 HorseHead1 1.0000 
+skin 654 HorseHead1 1.0000 
+skin 655 HorseHead1 1.0000 
+skin 656 HorseHead1 1.0000 
+skin 657 HorseHead1 1.0000 
+skin 658 HorseHead1 1.0000 
+skin 659 HorseHead1 1.0000 
+skin 660 HorseHead1 1.0000 
+skin 661 HorseHead1 1.0000 
+skin 662 HorseHead1 1.0000 
+skin 663 HorseHead1 1.0000 
+skin 664 HorseHead0 0.3000 HorseHead1 0.7000 
+skin 665 Chest 0.0200 HorseHead0 0.4600 HorseHead1 0.5200 
+skin 666 HorseHead0 0.1600 HorseHead1 0.8400 
+skin 667 HorseHead1 1.0000 
+skin 668 HorseHead1 1.0000 
+skin 669 HorseHead1 1.0000 
+skin 670 HorseHead1 1.0000 
+skin 671 HorseHead1 1.0000 
+skin 672 HorseHead1 1.0000 
+skin 673 HorseHead1 1.0000 
+skin 674 HorseHead1 1.0000 
+skin 675 HorseHead1 1.0000 
+skin 676 HorseHead1 1.0000 
+skin 677 HorseHead1 1.0000 
+skin 678 HorseHead0 0.4300 HorseHead1 0.5700 
+skin 679 HorseHead1 1.0000 
+skin 680 HorseHead0 0.5200 HorseHead1 0.4800 
+skin 681 HorseHead1 1.0000 
+skin 682 HorseHead1 1.0000 
+skin 683 HorseHead1 1.0000 
+skin 684 HorseHead1 1.0000 
+skin 685 HorseHead1 1.0000 
+skin 686 HorseHead1 1.0000 
+skin 687 HorseHead1 1.0000 
+skin 688 HorseHead1 1.0000 
+skin 689 HorseHead1 1.0000 
+skin 690 HorseHead1 1.0000 
+skin 691 HorseHead1 1.0000 
+skin 692 HorseHead1 1.0000 
+skin 693 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 694 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 695 HorseHead1 1.0000 
+skin 696 HorseHead1 1.0000 
+skin 697 HorseHead1 1.0000 
+skin 698 HorseHead1 1.0000 
+skin 699 HorseHead1 1.0000 
+skin 700 HorseHead0 0.0700 HorseHead1 0.9300 
+skin 701 HorseHead1 1.0000 
+skin 702 HorseHead1 1.0000 
+skin 703 HorseHead1 1.0000 
+skin 704 HorseHead1 1.0000 
+skin 705 HorseHead1 1.0000 
+skin 706 HorseHead1 1.0000 
+skin 707 HorseHead1 1.0000 
+skin 708 HorseHead1 1.0000 
+skin 709 HorseHead1 1.0000 
+skin 710 HorseHead1 1.0000 
+skin 711 HorseHead1 1.0000 
+skin 712 HorseHead1 1.0000 
+skin 713 HorseHead1 1.0000 
+skin 714 HorseHead1 1.0000 
+skin 715 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 716 HorseHead1 1.0000 
+skin 717 HorseHead1 1.0000 
+skin 718 HorseHead1 1.0000 
+skin 719 HorseHead1 1.0000 
+skin 720 HorseHead1 1.0000 
+skin 721 HorseHead1 1.0000 
+skin 722 HorseHead1 1.0000 
+skin 723 HorseHead1 1.0000 
+skin 724 HorseHead1 1.0000 
+skin 725 HorseHead1 1.0000 
+skin 726 HorseHead1 1.0000 
+skin 727 HorseHead1 1.0000 
+skin 728 HorseHead1 1.0000 
+skin 729 HorseHead1 1.0000 
+skin 730 HorseHead1 1.0000 
+skin 731 HorseHead1 1.0000 
+skin 732 HorseHead1 1.0000 
+skin 733 HorseHead1 1.0000 
+skin 734 HorseHead1 1.0000 
+skin 735 HorseHead1 1.0000 
+skin 736 HorseHead1 1.0000 
+skin 737 HorseHead1 1.0000 
+skin 738 HorseHead1 1.0000 
+skin 739 HorseHead1 1.0000 
+skin 740 HorseHead1 1.0000 
+skin 741 HorseHead1 1.0000 
+skin 742 HorseHead1 1.0000 
+skin 743 HorseHead1 1.0000 
+skin 744 HorseHead1 1.0000 
+skin 745 HorseHead1 1.0000 
+skin 746 HorseHead1 1.0000 
+skin 747 HorseHead1 1.0000 
+skin 748 HorseHead1 1.0000 
+skin 749 HorseHead1 1.0000 
+skin 750 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 751 HorseHead1 1.0000 
+skin 752 HorseHead1 1.0000 
+skin 753 HorseHead1 1.0000 
+skin 754 HorseHead1 1.0000 
+skin 755 HorseHead1 1.0000 
+skin 756 HorseHead1 1.0000 
+skin 757 HorseHead1 1.0000 
+skin 758 HorseHead1 1.0000 
+skin 759 HorseHead1 1.0000 
+skin 760 HorseHead1 1.0000 
+skin 761 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 762 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 763 HorseHead1 1.0000 
+skin 764 HorseHead1 1.0000 
+skin 765 HorseHead1 1.0000 
+skin 766 HorseHead0 0.0300 HorseHead1 0.9700 
+skin 767 HorseHead0 0.0200 HorseHead1 0.9800 
+skin 768 HorseHead1 1.0000 
+skin 769 HorseHead1 1.0000 
+skin 770 HorseHead1 1.0000 
+skin 771 HorseHead1 1.0000 
+skin 772 HorseHead1 1.0000 
+skin 773 HorseHead1 1.0000 
+skin 774 HorseHead1 1.0000 
+skin 775 HorseHead1 1.0000 
+skin 776 HorseHead1 1.0000 
+skin 777 HorseHead1 1.0000 
+skin 778 HorseHead1 1.0000 
+skin 779 HorseHead1 1.0000 
+skin 780 HorseHead1 1.0000 
+skin 781 HorseHead1 1.0000 
+skin 782 Chest 0.0200 HorseHead0 0.4700 HorseHead1 0.5100 
+skin 783 HorseHead0 0.4400 HorseHead1 0.5600 
+skin 784 Chest 0.0500 HorseHead0 0.5000 HorseHead1 0.4500 
+skin 785 HorseHead1 1.0000 
+skin 786 HorseHead1 1.0000 
+skin 787 HorseHead0 0.1600 HorseHead1 0.8400 
+skin 788 HorseHead0 0.0700 HorseHead1 0.9300 
+skin 789 HorseHead0 0.0400 HorseHead1 0.9600 
+skin 790 Chest 0.0200 HorseHead0 0.3700 HorseHead1 0.6100 
+skin 791 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 792 HorseHead1 1.0000 
+skin 793 HorseHead1 1.0000 
+skin 794 HorseHead1 1.0000 
+skin 795 HorseHead1 1.0000 
+skin 796 HorseHead1 1.0000 
+skin 797 HorseHead0 0.0200 HorseHead1 0.9800 
+skin 798 HorseHead0 0.0400 HorseHead1 0.9600 
+skin 799 HorseHead1 1.0000 
+skin 800 HorseHead1 1.0000 
+skin 801 HorseHead1 1.0000 
+skin 802 HorseHead1 1.0000 
+skin 803 HorseHead1 1.0000 
+skin 804 HorseHead1 1.0000 
+skin 805 HorseHead1 1.0000 
+skin 806 HorseHead1 1.0000 
+skin 807 HorseHead1 1.0000 
+skin 808 HorseHead1 1.0000 
+skin 809 HorseHead1 1.0000 
+skin 810 HorseHead1 1.0000 
+skin 811 HorseHead1 1.0000 
+skin 812 HorseHead1 1.0000 
+skin 813 HorseHead1 1.0000 
+skin 814 HorseHead1 1.0000 
+skin 815 HorseHead1 1.0000 
+skin 816 HorseHead1 1.0000 
+skin 817 HorseHead1 1.0000 
+skin 818 HorseHead1 1.0000 
+skin 819 HorseHead1 1.0000 
+skin 820 HorseHead1 1.0000 
+skin 821 HorseHead1 1.0000 
+skin 822 HorseHead1 1.0000 
+skin 823 HorseHead1 1.0000 
+skin 824 HorseHead1 1.0000 
+skin 825 HorseHead1 1.0000 
+skin 826 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 827 Chest 0.0100 HorseHead0 0.1700 HorseHead1 0.8200 
+skin 828 HorseHead1 1.0000 
+skin 829 HorseHead1 1.0000 
+skin 830 HorseHead1 1.0000 
+skin 831 HorseHead1 1.0000 
+skin 832 HorseHead1 1.0000 
+skin 833 HorseHead1 1.0000 
+skin 834 HorseHead1 1.0000 
+skin 835 HorseHead1 1.0000 
+skin 836 HorseHead1 1.0000 
+skin 837 HorseHead1 1.0000 
+skin 838 HorseHead0 0.0400 HorseHead1 0.9600 
+skin 839 HorseHead1 1.0000 
+skin 840 HorseHead1 1.0000 
+skin 841 HorseHead1 1.0000 
+skin 842 HorseHead1 1.0000 
+skin 843 HorseHead1 1.0000 
+skin 844 HorseHead1 1.0000 
+skin 845 HorseHead1 1.0000 
+skin 846 HorseHead1 1.0000 
+skin 847 HorseHead1 1.0000 
+skin 848 HorseHead1 1.0000 
+skin 849 HorseHead1 1.0000 
+skin 850 HorseHead1 1.0000 
+skin 851 HorseHead1 1.0000 
+skin 852 HorseHead1 1.0000 
+skin 853 HorseHead1 1.0000 
+skin 854 HorseHead1 1.0000 
+skin 855 HorseHead1 1.0000 
+skin 856 HorseHead1 1.0000 
+skin 857 HorseHead1 1.0000 
+skin 858 HorseHead1 1.0000 
+skin 859 HorseHead1 1.0000 
+skin 860 HorseHead1 1.0000 
+skin 861 HorseHead1 1.0000 
+skin 862 HorseHead1 1.0000 
+skin 863 HorseHead1 1.0000 
+skin 864 HorseHead1 1.0000 
+skin 865 HorseHead1 1.0000 
+skin 866 HorseHead1 1.0000 
+skin 867 HorseHead1 1.0000 
+skin 868 HorseHead1 1.0000 
+skin 869 HorseHead1 1.0000 
+skin 870 Chest 0.0101 HorseHead0 0.1212 HorseHead1 0.8687 
+skin 871 Chest 0.0297 HorseHead0 0.4653 HorseHead1 0.5050 
+skin 872 Chest 0.0300 HorseHead0 0.5200 HorseHead1 0.4500 
+skin 873 Chest 0.0400 HorseHead0 0.3400 HorseHead1 0.6200 
+skin 874 HorseHead1 1.0000 
+skin 875 Chest 0.0100 HorseHead0 0.1600 HorseHead1 0.8300 
+skin 876 Chest 0.0202 HorseHead0 0.2828 HorseHead1 0.6970 
+skin 877 HorseHead1 1.0000 
+skin 878 HorseHead1 1.0000 
+skin 879 HorseHead1 1.0000 
+skin 880 HorseHead1 1.0000 
+skin 881 HorseHead1 1.0000 
+skin 882 HorseHead1 1.0000 
+skin 883 HorseHead1 1.0000 
+skin 884 HorseHead1 1.0000 
+skin 885 HorseHead1 1.0000 
+skin 886 HorseHead1 1.0000 
+skin 887 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 888 HorseHead1 1.0000 
+skin 889 HorseHead1 1.0000 
+skin 890 HorseHead1 1.0000 
+skin 891 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 892 HorseHead1 1.0000 
+skin 893 HorseHead1 1.0000 
+skin 894 HorseHead1 1.0000 
+skin 895 HorseHead1 1.0000 
+skin 896 HorseHead1 1.0000 
+skin 897 HorseHead1 1.0000 
+skin 898 HorseHead1 1.0000 
+skin 899 HorseHead1 1.0000 
+skin 900 HorseHead1 1.0000 
+skin 901 HorseHead1 1.0000 
+skin 902 HorseHead1 1.0000 
+skin 903 HorseHead1 1.0000 
+skin 904 HorseHead1 1.0000 
+skin 905 HorseHead1 1.0000 
+skin 906 HorseHead1 1.0000 
+skin 907 HorseHead1 1.0000 
+skin 908 HorseHead1 1.0000 
+skin 909 HorseHead1 1.0000 
+skin 910 HorseHead1 1.0000 
+skin 911 HorseHead1 1.0000 
+skin 912 HorseHead0 0.0300 HorseHead1 0.9700 
+skin 913 HorseHead0 0.0200 HorseHead1 0.9800 
+skin 914 HorseHead1 1.0000 
+skin 915 HorseHead1 1.0000 
+skin 916 HorseHead1 1.0000 
+skin 917 HorseHead1 1.0000 
+skin 918 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 919 HorseHead1 1.0000 
+skin 920 HorseHead1 1.0000 
+skin 921 HorseHead1 1.0000 
+skin 922 HorseHead1 1.0000 
+skin 923 HorseHead1 1.0000 
+skin 924 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 925 Pelvis 0.0500 Left_BackHip 0.9500 
+skin 926 Pelvis 0.4800 Left_BackHip 0.5200 
+skin 927 Pelvis 0.4949 Left_BackHip 0.4949 Gut 0.0101 
+skin 928 Pelvis 0.0100 Left_BackHip 0.9900 
+skin 929 Pelvis 0.6800 Left_BackHip 0.3200 
+skin 930 Pelvis 0.7700 Left_BackHip 0.2300 
+skin 931 Pelvis 0.6900 Left_BackHip 0.3100 
+skin 932 Pelvis 0.6800 Left_BackHip 0.3200 
+skin 933 Pelvis 0.4700 Left_BackHip 0.5300 
+skin 934 Pelvis 0.6600 Left_BackHip 0.3400 
+skin 935 Pelvis 0.4700 Left_BackHip 0.5300 
+skin 936 Pelvis 0.0400 Left_BackHip 0.9600 
+skin 937 Pelvis 0.0400 Left_BackHip 0.9600 
+skin 938 Pelvis 0.5800 Left_BackHip 0.4200 
+skin 939 Pelvis 0.1900 Left_BackHip 0.8100 
+skin 940 Pelvis 0.7980 Left_BackHip 0.2020 
+skin 941 Pelvis 0.8218 Left_BackHip 0.1683 Gut 0.0099 
+skin 942 Pelvis 0.7700 Left_BackHip 0.2300 
+skin 943 Pelvis 0.4400 Left_BackHip 0.5600 
+skin 944 Chest 0.0900 HorseHead0 0.3600 HorseHead1 0.5500 
+skin 945 Chest 0.0300 HorseHead0 0.3000 HorseHead1 0.6700 
+skin 946 Chest 0.0693 HorseHead0 0.4356 HorseHead1 0.4950 
+skin 947 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 948 HorseHead0 0.0600 HorseHead1 0.9400 
+skin 949 Chest 0.0400 HorseHead0 0.4000 HorseHead1 0.5600 
+skin 950 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 951 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 952 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 953 HorseHead1 1.0000 
+skin 954 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 955 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 956 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 957 Pelvis 0.4500 Right_BackHip 0.5500 
+skin 958 Pelvis 0.8020 Tail0 0.0099 Right_BackHip 0.1881 
+skin 959 Pelvis 0.5700 Right_BackHip 0.4300 
+skin 960 Pelvis 0.3900 Right_BackHip 0.6100 
+skin 961 Pelvis 0.6400 Right_BackHip 0.3600 
+skin 962 Pelvis 0.8200 Tail0 0.0100 Right_BackHip 0.1700 
+skin 963 Pelvis 0.7576 Right_BackHip 0.2424 
+skin 964 Pelvis 0.5859 Right_BackHip 0.4141 
+skin 965 Pelvis 0.4400 Right_BackHip 0.5400 Gut 0.0200 
+skin 966 Pelvis 0.3900 Right_BackHip 0.6100 
+skin 967 Right_FrontHip 0.9200 Right_FrontKnee 0.0800 
+skin 968 Chest 0.0600 Right_FrontHip 0.8600 Right_FrontKnee 0.0800 
+skin 969 Chest 0.0100 Right_FrontHip 0.9000 Right_FrontKnee 0.0900 
+skin 970 Chest 0.0700 Right_FrontHip 0.8600 Right_FrontKnee 0.0700 
+skin 971 Right_FrontHip 0.8300 Right_FrontKnee 0.1700 
+skin 972 Right_FrontHip 0.8300 Right_FrontKnee 0.1700 
+skin 973 Right_FrontHip 0.8200 Right_FrontKnee 0.1800 
+skin 974 Chest 0.0300 Right_FrontHip 0.8900 Right_FrontKnee 0.0800 
+skin 975 Chest 0.0600 HorseHead0 0.5100 HorseHead1 0.4300 
+skin 976 Chest 0.0303 HorseHead0 0.3232 HorseHead1 0.6465 
+skin 977 HorseHead0 0.0600 HorseHead1 0.9400 
+skin 978 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 979 HorseHead0 0.0700 HorseHead1 0.9300 
+skin 980 HorseHead0 0.0400 HorseHead1 0.9600 
+skin 981 Pelvis 0.7600 Left_BackHip 0.2400 
+skin 982 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 983 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 984 HorseHead0 0.0400 HorseHead1 0.9600 
+skin 985 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 986 HorseHead1 1.0000 
+skin 987 HorseHead1 1.0000 
+skin 988 HorseHead0 0.0600 HorseHead1 0.9400 
+skin 989 HorseHead0 0.0100 HorseHead1 0.9900 
+skin 990 HorseHead0 0.0200 HorseHead1 0.9800 
+skin 991 Pelvis 0.7600 Left_BackHip 0.2300 Gut 0.0100 
+skin 992 Pelvis 0.7800 Spine 0.0100 Left_BackHip 0.1600 Gut 0.0500 
+skin 993 Pelvis 0.7600 Spine 0.0200 Left_BackHip 0.1500 Gut 0.0700 
+skin 994 Pelvis 0.7374 Left_BackHip 0.2222 Gut 0.0404 
+skin 995 Pelvis 0.6970 Left_BackHip 0.3030 
+skin 996 Pelvis 0.7600 Left_BackHip 0.2400 
+skin 997 Chest 0.4800 Left_FrontHip 0.5100 Left_FrontKnee 0.0100 
+skin 998 Gut 0.0300 Chest 0.6400 Left_FrontHip 0.3300 
+skin 999 Gut 0.0101 Chest 0.6667 Left_FrontHip 0.3232 
+skin 1000 Chest 0.4300 Left_FrontHip 0.5600 Left_FrontKnee 0.0100 
+skin 1001 Gut 0.0600 Chest 0.6000 Left_FrontHip 0.3400 
+skin 1002 Chest 0.3000 Left_FrontHip 0.6800 Left_FrontKnee 0.0200 
+skin 1003 Chest 0.2500 Left_FrontHip 0.7300 Left_FrontKnee 0.0200 
+skin 1004 Gut 0.0099 Chest 0.4356 Left_FrontHip 0.5446 Left_FrontKnee 0.0099 
+skin 1005 Chest 0.2626 Left_FrontHip 0.7172 Left_FrontKnee 0.0202 
+skin 1006 Pelvis 0.7822 Tail0 0.0495 Left_BackHip 0.1683 
+skin 1007 Pelvis 0.7300 Tail0 0.0100 Left_BackHip 0.2600 
+skin 1008 Pelvis 0.8400 Tail0 0.0500 Left_BackHip 0.1100 
+skin 1009 Pelvis 0.7228 Tail0 0.1881 Left_BackHip 0.0594 Tail1 0.0297 
+skin 1010 Pelvis 0.8600 Tail0 0.0300 Left_BackHip 0.1100 
+skin 1011 Pelvis 0.8700 Tail0 0.0200 Left_BackHip 0.1000 Gut 0.0100 
+skin 1012 Pelvis 0.3000 Tail0 0.4800 Tail1 0.2200 
+skin 1013 Pelvis 0.2500 Tail0 0.5100 Tail1 0.2400 
+skin 1014 Pelvis 0.2100 Tail0 0.3700 Tail1 0.4200 
+skin 1015 Pelvis 0.1800 Tail0 0.3300 Tail1 0.4900 
+skin 1016 Pelvis 0.2400 Tail0 0.4600 Tail1 0.3000 
+skin 1017 Pelvis 0.2700 Tail0 0.4800 Tail1 0.2500 
+skin 1018 Pelvis 0.4752 Tail0 0.4752 Left_BackHip 0.0099 Tail1 0.0396 
+skin 1019 Pelvis 0.4700 Tail0 0.4900 Tail1 0.0400 
+skin 1020 Pelvis 0.4300 Tail0 0.5300 Tail1 0.0400 
+skin 1021 Pelvis 0.2200 Tail0 0.4500 Tail1 0.3300 
+skin 1022 Pelvis 0.1700 Tail0 0.3500 Tail1 0.4800 
+skin 1023 Pelvis 0.1600 Tail0 0.3500 Tail1 0.4900 
+skin 1024 Pelvis 0.1616 Tail0 0.2626 Tail1 0.5758 
+skin 1025 Pelvis 0.1782 Tail0 0.2772 Tail1 0.5446 
+skin 1026 Pelvis 0.1500 Tail0 0.1900 Tail1 0.6600 
+skin 1027 Pelvis 0.1800 Tail0 0.3200 Tail1 0.5000 
+skin 1028 Spine 0.0100 Gut 0.3000 Chest 0.6900 
+skin 1029 Pelvis 0.2000 Spine 0.0900 Gut 0.4600 Chest 0.2500 
+skin 1030 Pelvis 0.1900 Spine 0.0900 Gut 0.4600 Chest 0.2600 
+skin 1031 Spine 0.0099 Gut 0.3168 Chest 0.6733 
+skin 1032 Gut 0.0400 Chest 0.8800 HorseHead0 0.0800 
+skin 1033 Gut 0.1100 Chest 0.8500 HorseHead0 0.0400 
+skin 1034 Gut 0.1200 Chest 0.8500 HorseHead0 0.0300 
+skin 1035 Gut 0.0100 Chest 0.8900 HorseHead0 0.1000 
+skin 1036 Chest 0.5859 HorseHead0 0.3838 HorseHead1 0.0303 
+skin 1037 Chest 0.9010 Left_FrontHip 0.0297 HorseHead0 0.0594 HorseHead1 0.0099 
+skin 1038 Chest 0.7300 Left_FrontHip 0.0200 HorseHead0 0.2300 HorseHead1 0.0200 
+skin 1039 Chest 0.6100 Left_FrontHip 0.0100 HorseHead0 0.3500 HorseHead1 0.0300 
+skin 1040 Chest 0.9200 HorseHead0 0.0800 
+skin 1041 Gut 0.0404 Chest 0.9192 Left_FrontHip 0.0202 HorseHead0 0.0202 
+skin 1042 Chest 0.9200 HorseHead0 0.0800 
+skin 1043 Gut 0.0606 Chest 0.9293 HorseHead0 0.0101 
+skin 1044 Chest 0.4000 Left_FrontHip 0.5800 Left_FrontKnee 0.0200 
+skin 1045 Chest 0.5600 Left_FrontHip 0.4200 HorseHead0 0.0100 Left_FrontKnee 0.0100 
+skin 1046 Chest 0.6400 Left_FrontHip 0.3300 HorseHead0 0.0200 Left_FrontKnee 0.0100 
+skin 1047 Chest 0.1500 Left_FrontHip 0.4200 Left_FrontKnee 0.4300 
+skin 1048 Chest 0.1100 Left_FrontHip 0.8000 Left_FrontKnee 0.0900 
+skin 1049 Chest 0.1900 Left_FrontHip 0.6800 Left_FrontKnee 0.1300 
+skin 1050 Chest 0.0700 Left_FrontHip 0.4900 Left_FrontKnee 0.4400 
+skin 1051 Chest 0.1000 Left_FrontHip 0.8100 Left_FrontKnee 0.0900 
+skin 1052 Chest 0.2200 Left_FrontHip 0.7600 Left_FrontKnee 0.0200 
+skin 1053 Chest 0.2700 Left_FrontHip 0.7100 Left_FrontKnee 0.0200 
+skin 1054 Chest 0.0500 Left_FrontHip 0.5000 Left_FrontKnee 0.4500 
+skin 1055 Chest 0.3100 Left_FrontHip 0.6700 Left_FrontKnee 0.0200 
+skin 1056 Chest 0.1100 Left_FrontHip 0.8000 Left_FrontKnee 0.0900 
+skin 1057 Chest 0.2400 Left_FrontHip 0.7300 Left_FrontKnee 0.0300 
+skin 1058 Chest 0.0792 Left_FrontHip 0.5248 Left_FrontKnee 0.3960 
+skin 1059 Chest 0.1818 Left_FrontHip 0.7273 Left_FrontKnee 0.0909 
+skin 1060 Gut 0.0200 Chest 0.2100 Left_FrontHip 0.4600 Left_FrontKnee 0.3100 
+skin 1061 Chest 0.3300 Left_FrontHip 0.6500 Left_FrontKnee 0.0200 
+skin 1062 Chest 0.4000 Left_FrontHip 0.5800 Left_FrontKnee 0.0200 
+skin 1063 Chest 0.4040 Left_FrontHip 0.5758 Left_FrontKnee 0.0202 
+skin 1064 Chest 0.0200 HorseHead0 0.1700 HorseHead1 0.8100 
+skin 1065 Chest 0.1188 HorseHead0 0.4059 HorseHead1 0.4752 
+skin 1066 Chest 0.3333 HorseHead0 0.6061 HorseHead1 0.0606 
+skin 1067 Chest 0.3900 HorseHead0 0.5500 HorseHead1 0.0600 
+skin 1068 Chest 0.1200 HorseHead0 0.4100 HorseHead1 0.4700 
+skin 1069 Chest 0.3100 HorseHead0 0.6300 HorseHead1 0.0600 
+skin 1070 Chest 0.3200 HorseHead0 0.6100 HorseHead1 0.0700 
+skin 1071 Chest 0.2500 HorseHead0 0.5800 HorseHead1 0.1700 
+skin 1072 Chest 0.3600 HorseHead0 0.5700 HorseHead1 0.0700 
+skin 1073 Chest 0.5400 Left_FrontHip 0.0200 HorseHead0 0.3900 HorseHead1 0.0500 
+skin 1074 Chest 0.5800 HorseHead0 0.4000 HorseHead1 0.0200 
+skin 1075 Chest 0.5800 HorseHead0 0.4000 HorseHead1 0.0200 
+skin 1076 Chest 0.0707 HorseHead0 0.4848 HorseHead1 0.4444 
+skin 1077 Chest 0.1700 HorseHead0 0.5400 HorseHead1 0.2900 
+skin 1078 Chest 0.2000 HorseHead0 0.5400 HorseHead1 0.2600 
+skin 1079 Chest 0.2900 HorseHead0 0.5500 HorseHead1 0.1600 
+skin 1080 Chest 0.0300 HorseHead0 0.5300 HorseHead1 0.4400 
+skin 1081 Chest 0.0300 HorseHead0 0.5300 HorseHead1 0.4400 
+skin 1082 Chest 0.1900 HorseHead0 0.5600 HorseHead1 0.2500 
+skin 1083 Chest 0.2500 HorseHead0 0.5600 HorseHead1 0.1900 
+skin 1084 Chest 0.2700 HorseHead0 0.5700 HorseHead1 0.1600 
+skin 1085 Chest 0.2100 HorseHead0 0.5500 HorseHead1 0.2400 
+skin 1086 Chest 0.2574 HorseHead0 0.5644 HorseHead1 0.1782 
+skin 1087 Chest 0.2772 HorseHead0 0.5446 HorseHead1 0.1782 
+skin 1088 Chest 0.3400 HorseHead0 0.5100 HorseHead1 0.1500 
+skin 1089 Chest 0.3535 HorseHead0 0.5051 HorseHead1 0.1414 
+skin 1090 Chest 0.3700 HorseHead0 0.4900 HorseHead1 0.1400 
+skin 1091 Chest 0.3267 HorseHead0 0.5149 HorseHead1 0.1584 
+skin 1092 Chest 0.5152 HorseHead0 0.3838 HorseHead1 0.1010 
+skin 1093 Chest 0.4300 HorseHead0 0.4500 HorseHead1 0.1200 
+skin 1094 Chest 0.5100 HorseHead0 0.3900 HorseHead1 0.1000 
+skin 1095 Chest 0.3939 HorseHead0 0.4747 HorseHead1 0.1313 
+skin 1096 Chest 0.5800 HorseHead0 0.3400 HorseHead1 0.0800 
+skin 1097 Chest 0.6300 HorseHead0 0.3000 HorseHead1 0.0700 
+skin 1098 Chest 0.5300 HorseHead0 0.3700 HorseHead1 0.1000 
+skin 1099 Chest 0.7700 HorseHead0 0.2000 HorseHead1 0.0300 
+skin 1100 Chest 0.4141 HorseHead0 0.4545 HorseHead1 0.1313 
+skin 1101 Chest 0.4545 HorseHead0 0.4242 HorseHead1 0.1212 
+skin 1102 Chest 0.6500 HorseHead0 0.2900 HorseHead1 0.0600 
+skin 1103 Chest 0.5200 HorseHead0 0.3800 HorseHead1 0.1000 
+skin 1104 Chest 0.7700 HorseHead0 0.2000 HorseHead1 0.0300 
+skin 1105 Chest 0.6970 HorseHead0 0.2525 HorseHead1 0.0505 
+skin 1106 Chest 0.7300 HorseHead0 0.2300 HorseHead1 0.0400 
+skin 1107 Chest 0.7600 HorseHead0 0.2100 HorseHead1 0.0300 
+skin 1108 Chest 0.7500 HorseHead0 0.2100 HorseHead1 0.0400 
+skin 1109 Chest 0.7300 HorseHead0 0.2300 HorseHead1 0.0400 
+skin 1110 Chest 0.7700 HorseHead0 0.2000 HorseHead1 0.0300 
+skin 1111 Chest 0.6500 HorseHead0 0.2900 HorseHead1 0.0600 
+skin 1112 Chest 0.7600 HorseHead0 0.2100 HorseHead1 0.0300 
+skin 1113 Chest 0.5600 Left_FrontHip 0.0100 HorseHead0 0.3600 HorseHead1 0.0700 
+skin 1114 Chest 0.6800 Left_FrontHip 0.0200 HorseHead0 0.2700 HorseHead1 0.0300 
+skin 1115 Chest 0.4851 Left_FrontHip 0.0099 HorseHead0 0.4059 HorseHead1 0.0990 
+skin 1116 Gut 0.0099 Chest 0.8416 HorseHead0 0.1386 HorseHead1 0.0099 
+skin 1117 Chest 0.2828 HorseHead0 0.5556 HorseHead1 0.1616 
+skin 1118 Chest 0.3700 HorseHead0 0.5700 HorseHead1 0.0600 
+skin 1119 Chest 0.3762 Left_FrontHip 0.0099 HorseHead0 0.5545 HorseHead1 0.0594 
+skin 1120 Chest 0.2900 HorseHead0 0.5800 HorseHead1 0.1300 
+skin 1121 Chest 0.4158 Left_FrontHip 0.0099 HorseHead0 0.5149 HorseHead1 0.0594 
+skin 1122 Chest 0.5545 Left_FrontHip 0.0198 HorseHead0 0.3762 HorseHead1 0.0495 
+skin 1123 Pelvis 0.1414 Tail0 0.2424 Tail1 0.6162 
+skin 1124 Pelvis 0.1500 Tail0 0.2400 Tail1 0.6100 
+skin 1125 Pelvis 0.1300 Tail0 0.1800 Tail1 0.6900 
+skin 1126 Pelvis 0.1600 Tail0 0.2800 Tail1 0.5600 
+skin 1127 Pelvis 0.1300 Tail0 0.2200 Tail1 0.6500 
+skin 1128 Pelvis 0.1300 Tail0 0.1800 Tail1 0.6900 
+skin 1129 Pelvis 0.1900 Tail0 0.3800 Tail1 0.4300 
+skin 1130 Pelvis 0.2574 Tail0 0.4752 Tail1 0.2673 
+skin 1131 Pelvis 0.2700 Tail0 0.4900 Tail1 0.2400 
+skin 1132 Pelvis 0.2600 Tail0 0.4600 Tail1 0.2800 
+skin 1133 Pelvis 0.4700 Tail0 0.4100 Right_BackHip 0.0100 Tail1 0.1100 
+skin 1134 Pelvis 0.4300 Tail0 0.4200 Right_BackHip 0.0300 Tail1 0.1200 
+skin 1135 Pelvis 0.1700 Tail0 0.3500 Tail1 0.4800 
+skin 1136 Pelvis 0.7700 Tail0 0.0600 Right_BackHip 0.1700 
+skin 1137 Pelvis 0.7426 Tail0 0.1980 Right_BackHip 0.0297 Tail1 0.0297 
+skin 1138 Pelvis 0.9208 Tail0 0.0396 Right_BackHip 0.0297 Gut 0.0099 
+skin 1139 Pelvis 0.8400 Tail0 0.0600 Right_BackHip 0.1000 
+skin 1140 Pelvis 0.5800 Right_BackHip 0.4200 
+skin 1141 Chest 0.4158 Right_FrontHip 0.5347 Right_FrontKnee 0.0495 
+skin 1142 Gut 0.0400 Chest 0.7000 Right_FrontHip 0.2500 Right_FrontKnee 0.0100 
+skin 1143 Gut 0.0693 Chest 0.6436 Right_FrontHip 0.2673 Right_FrontKnee 0.0198 
+skin 1144 Chest 0.0891 Right_FrontHip 0.8317 Right_FrontKnee 0.0792 
+skin 1145 Chest 0.4545 Right_FrontHip 0.4949 Right_FrontKnee 0.0505 
+skin 1146 Gut 0.0100 Chest 0.4400 Right_FrontHip 0.5000 Right_FrontKnee 0.0500 
+skin 1147 Chest 0.1980 Right_FrontHip 0.5743 Right_FrontKnee 0.2277 
+skin 1148 Gut 0.1300 Chest 0.5500 Right_FrontHip 0.2900 Right_FrontKnee 0.0300 
+skin 1149 Gut 0.0700 Chest 0.4400 Right_FrontHip 0.3000 Right_FrontKnee 0.1900 
+skin 1150 Gut 0.0400 Chest 0.3600 Right_FrontHip 0.5000 Right_FrontKnee 0.1000 
+skin 1151 Chest 0.1400 Right_FrontHip 0.7600 Right_FrontKnee 0.1000 
+skin 1152 Chest 0.2200 Right_FrontHip 0.5200 Right_FrontKnee 0.2600 
+skin 1153 Chest 0.3939 Right_FrontHip 0.4848 Right_FrontKnee 0.1212 
+skin 1154 Chest 0.6600 Right_FrontHip 0.2800 HorseHead0 0.0100 Right_FrontKnee 0.0500 
+skin 1155 Chest 0.5600 Right_FrontHip 0.3800 HorseHead0 0.0100 Right_FrontKnee 0.0500 
+skin 1156 Chest 0.5900 HorseHead0 0.3800 HorseHead1 0.0300 
+skin 1157 Chest 0.7374 Right_FrontHip 0.0202 HorseHead0 0.2323 HorseHead1 0.0101 
+skin 1158 Chest 0.9100 Right_FrontHip 0.0200 HorseHead0 0.0600 HorseHead1 0.0100 
+skin 1159 Chest 0.6162 Right_FrontHip 0.0101 HorseHead0 0.3434 HorseHead1 0.0303 
+skin 1160 Gut 0.0505 Chest 0.9091 Right_FrontHip 0.0202 HorseHead0 0.0202 
+skin 1161 Chest 0.9293 HorseHead0 0.0707 
+skin 1162 Chest 0.5800 HorseHead0 0.4000 HorseHead1 0.0200 
+skin 1163 Chest 0.3400 HorseHead0 0.6000 HorseHead1 0.0600 
+skin 1164 Chest 0.4100 HorseHead0 0.5200 HorseHead1 0.0700 
+skin 1165 Chest 0.0900 HorseHead0 0.3800 HorseHead1 0.5300 
+skin 1166 Chest 0.1200 HorseHead0 0.4100 HorseHead1 0.4700 
+skin 1167 Chest 0.1300 HorseHead0 0.5700 HorseHead1 0.3000 
+skin 1168 Chest 0.1500 HorseHead0 0.5300 HorseHead1 0.3200 
+skin 1169 Chest 0.2525 HorseHead0 0.5657 HorseHead1 0.1818 
+skin 1170 Chest 0.5200 HorseHead0 0.3600 HorseHead1 0.1200 
+skin 1171 Chest 0.7778 HorseHead0 0.1919 HorseHead1 0.0303 
+skin 1172 Chest 0.7778 HorseHead0 0.1919 HorseHead1 0.0303 
+skin 1173 Chest 0.6900 HorseHead0 0.2500 HorseHead1 0.0600 
+skin 1174 Chest 0.5000 HorseHead0 0.3800 HorseHead1 0.1200 
+skin 1175 Chest 0.2376 HorseHead0 0.5644 HorseHead1 0.1980 
+skin 1176 Chest 0.2400 HorseHead0 0.5500 HorseHead1 0.2100 
+skin 1177 Chest 0.1700 HorseHead0 0.5400 HorseHead1 0.2900 
+skin 1178 Chest 0.1700 HorseHead0 0.5300 HorseHead1 0.3000 
+skin 1179 Spine 0.0100 Gut 0.3000 Chest 0.6900 
+skin 1180 Pelvis 0.2000 Spine 0.0900 Gut 0.4500 Chest 0.2600 
+skin 1181 Pelvis 0.5900 Right_BackHip 0.4000 Gut 0.0100 
+skin 1182 Pelvis 0.7000 Right_BackHip 0.2800 Gut 0.0200 
+skin 1183 Pelvis 0.7100 Right_BackHip 0.2900 
+skin 1184 Pelvis 0.6000 Right_BackHip 0.4000 
+skin 1185 Pelvis 0.7374 Right_BackHip 0.2626 
+skin 1186 Pelvis 0.6300 Right_BackHip 0.3500 Gut 0.0200 
+skin 1187 Pelvis 0.6700 Right_BackHip 0.3000 Gut 0.0300 
+skin 1188 Pelvis 0.7300 Right_BackHip 0.2700 
+skin 1189 Chest 0.0400 HorseHead0 0.5300 HorseHead1 0.4300 
+skin 1190 Chest 0.0396 HorseHead0 0.4554 HorseHead1 0.5050 
+skin 1191 Chest 0.1200 HorseHead0 0.5300 HorseHead1 0.3500 
+skin 1192 Chest 0.1100 HorseHead0 0.5200 HorseHead1 0.3700 
+skin 1193 Chest 0.1800 HorseHead0 0.5400 HorseHead1 0.2800 
+skin 1194 Chest 0.1200 HorseHead0 0.5200 HorseHead1 0.3600 
+skin 1195 Chest 0.0600 HorseHead0 0.4800 HorseHead1 0.4600 
+skin 1196 Chest 0.0500 HorseHead0 0.4700 HorseHead1 0.4800 
+skin 1197 Chest 0.1400 HorseHead0 0.5400 HorseHead1 0.3200 
+skin 1198 Chest 0.0594 HorseHead0 0.4653 HorseHead1 0.4752 
+skin 1199 Chest 0.1200 HorseHead0 0.5100 HorseHead1 0.3700 
+skin 1200 Chest 0.1300 HorseHead0 0.5100 HorseHead1 0.3600 
+skin 1201 Chest 0.1600 HorseHead0 0.5200 HorseHead1 0.3200 
+skin 1202 Chest 0.1600 HorseHead0 0.5300 HorseHead1 0.3100 
+skin 1203 Chest 0.1287 HorseHead0 0.4950 HorseHead1 0.3762 
+skin 1204 Chest 0.1900 HorseHead0 0.5200 HorseHead1 0.2900 
+skin 1205 Chest 0.1400 HorseHead0 0.5300 HorseHead1 0.3300 
+skin 1206 Chest 0.2500 HorseHead0 0.5600 HorseHead1 0.1900 
+skin 1207 Chest 0.5000 HorseHead0 0.3800 HorseHead1 0.1200 
+skin 1208 Pelvis 0.6800 Left_BackHip 0.3000 Gut 0.0200 
+skin 1209 Pelvis 0.7000 Left_BackHip 0.2700 Gut 0.0300 
+skin 1210 Pelvis 0.8000 Spine 0.0100 Left_BackHip 0.1800 Gut 0.0100 
+skin 1211 Pelvis 0.8990 Left_BackHip 0.0808 Gut 0.0202 
+skin 1212 Pelvis 0.8317 Left_BackHip 0.1584 Gut 0.0099 
+skin 1213 Pelvis 0.7300 Spine 0.0100 Left_BackHip 0.2200 Gut 0.0400 
+skin 1214 Pelvis 0.8000 Spine 0.0300 Left_BackHip 0.0600 Gut 0.1100 
+skin 1215 Chest 0.3200 Right_FrontHip 0.5900 Right_FrontKnee 0.0900 
+skin 1216 Chest 0.2900 Right_FrontHip 0.6300 Right_FrontKnee 0.0800 
+skin 1217 Chest 0.1600 Right_FrontHip 0.7600 Right_FrontKnee 0.0800 
+skin 1218 Pelvis 0.9307 Right_BackHip 0.0396 Gut 0.0297 
+skin 1219 Pelvis 0.8182 Spine 0.0303 Right_BackHip 0.0303 Gut 0.1212 
+skin 1220 Chest 0.3800 HorseHead0 0.4700 HorseHead1 0.1500 
+skin 1221 Chest 0.4200 HorseHead0 0.4400 HorseHead1 0.1400 
+skin 1222 Chest 0.4200 HorseHead0 0.4500 HorseHead1 0.1300 
+skin 1223 Chest 0.3600 HorseHead0 0.4900 HorseHead1 0.1500 
+skin 1224 Chest 0.4000 HorseHead0 0.4600 HorseHead1 0.1400 
+skin 1225 Chest 0.4356 HorseHead0 0.4356 HorseHead1 0.1287 
+skin 1226 Chest 0.4600 HorseHead0 0.4200 HorseHead1 0.1200 
+skin 1227 Chest 0.3900 HorseHead0 0.4600 HorseHead1 0.1500 
+skin 1228 Chest 0.4600 HorseHead0 0.4200 HorseHead1 0.1200 
+skin 1229 Gut 0.0200 Chest 0.8400 HorseHead0 0.1300 HorseHead1 0.0100 
+skin 1230 Gut 0.0200 Chest 0.8400 HorseHead0 0.1300 HorseHead1 0.0100 
+skin 1231 Gut 0.0202 Chest 0.8485 HorseHead0 0.1212 HorseHead1 0.0101 
+skin 1232 Gut 0.0202 Chest 0.8485 HorseHead0 0.1212 HorseHead1 0.0101 
+skin 1233 Gut 0.0200 Chest 0.8400 HorseHead0 0.1300 HorseHead1 0.0100 
+skin 1234 Chest 0.2700 HorseHead0 0.5800 HorseHead1 0.1500 
+skin 1235 Chest 0.3500 HorseHead0 0.5700 HorseHead1 0.0800 
+skin 1236 Chest 0.3800 Right_FrontHip 0.0100 HorseHead0 0.5400 HorseHead1 0.0700 
+skin 1237 Chest 0.7600 HorseHead0 0.2100 HorseHead1 0.0300 
+skin 1238 Chest 0.1700 HorseHead0 0.5400 HorseHead1 0.2900 
+skin 1239 Chest 0.4100 HorseHead0 0.4600 HorseHead1 0.1300 
+skin 1240 Pelvis 0.8100 Spine 0.0100 Left_BackHip 0.1600 Gut 0.0200 
+skin 1241 Pelvis 0.7172 Left_BackHip 0.2525 Gut 0.0303 
+skin 1242 Pelvis 0.7525 Spine 0.0099 Left_BackHip 0.1683 Gut 0.0693 
+skin 1243 Pelvis 0.8300 Spine 0.0300 Left_BackHip 0.0800 Gut 0.0600 
+skin 1244 Pelvis 0.7723 Spine 0.0396 Left_BackHip 0.0792 Gut 0.1089 
+skin 1245 Pelvis 0.7800 Spine 0.0500 Gut 0.1300 Chest 0.0400 
+skin 1246 Pelvis 0.6869 Spine 0.0707 Gut 0.1717 Chest 0.0707 
+skin 1247 Pelvis 0.5500 Spine 0.0900 Gut 0.2200 Chest 0.1400 
+skin 1248 Pelvis 0.2800 Spine 0.1200 Gut 0.3000 Chest 0.3000 
+skin 1249 Pelvis 0.5743 Spine 0.0891 Gut 0.2079 Chest 0.1287 
+skin 1250 Pelvis 0.3030 Spine 0.1111 Gut 0.2828 Chest 0.3030 
+skin 1251 Pelvis 0.6000 Spine 0.1000 Gut 0.1800 Chest 0.1200 
+skin 1252 Pelvis 0.2600 Spine 0.1500 Gut 0.2700 Chest 0.3200 
+skin 1253 Pelvis 0.1600 Spine 0.1000 Gut 0.2900 Chest 0.4500 
+skin 1254 Pelvis 0.1200 Spine 0.0800 Gut 0.2600 Chest 0.5400 
+skin 1255 Spine 0.0100 Gut 0.1900 Chest 0.8000 
+skin 1256 Spine 0.0200 Gut 0.1700 Chest 0.7900 Left_FrontHip 0.0200 
+skin 1257 Gut 0.1300 Chest 0.8500 Left_FrontHip 0.0200 
+skin 1258 Gut 0.0900 Chest 0.8800 Left_FrontHip 0.0200 HorseHead0 0.0100 
+skin 1259 Gut 0.0100 Chest 0.9300 Left_FrontHip 0.0200 HorseHead0 0.0400 
+skin 1260 Gut 0.0800 Chest 0.8800 HorseHead0 0.0400 
+skin 1261 Gut 0.0500 Chest 0.8900 HorseHead0 0.0600 
+skin 1262 Gut 0.0404 Chest 0.8283 Left_FrontHip 0.1212 HorseHead0 0.0101 
+skin 1263 Chest 0.8200 Left_FrontHip 0.1300 HorseHead0 0.0500 
+skin 1264 Chest 0.7900 Left_FrontHip 0.1400 HorseHead0 0.0700 
+skin 1265 Chest 0.7624 Left_FrontHip 0.1485 HorseHead0 0.0792 Left_FrontKnee 0.0099 
+skin 1266 Gut 0.0891 Chest 0.7822 Left_FrontHip 0.1287 
+skin 1267 Spine 0.0198 Gut 0.1386 Chest 0.7129 Left_FrontHip 0.1287 
+skin 1268 Spine 0.0500 Gut 0.2300 Chest 0.6000 Left_FrontHip 0.1200 
+skin 1269 Spine 0.0099 Gut 0.0891 Chest 0.5347 Left_FrontHip 0.3663 
+skin 1270 Gut 0.0300 Chest 0.3500 Left_FrontHip 0.6000 Left_FrontKnee 0.0200 
+skin 1271 Gut 0.1300 Chest 0.4800 Left_FrontHip 0.3600 Left_FrontKnee 0.0300 
+skin 1272 Pelvis 0.0500 Gut 0.2700 Chest 0.5400 Left_FrontHip 0.1400 
+skin 1273 Pelvis 0.2800 Spine 0.1200 Gut 0.3300 Chest 0.2700 
+skin 1274 Spine 0.0808 Gut 0.2929 Chest 0.4848 Left_FrontHip 0.1414 
+skin 1275 Pelvis 0.6000 Spine 0.1200 Gut 0.1900 Chest 0.0900 
+skin 1276 Pelvis 0.5743 Spine 0.1188 Gut 0.1782 Chest 0.1287 
+skin 1277 Pelvis 0.2200 Spine 0.1000 Gut 0.4400 Chest 0.2400 
+skin 1278 Gut 0.2800 Chest 0.3800 Left_FrontHip 0.1100 Left_FrontKnee 0.2300 
+skin 1279 Gut 0.2900 Chest 0.4300 Left_FrontHip 0.0800 Left_FrontKnee 0.2000 
+skin 1280 Pelvis 0.1000 Spine 0.0800 Gut 0.4400 Chest 0.3800 
+skin 1281 Gut 0.1600 Chest 0.6000 Left_FrontHip 0.0900 Left_FrontKnee 0.1500 
+skin 1282 Spine 0.0100 Gut 0.2200 Chest 0.7500 Left_FrontHip 0.0200 
+skin 1283 Pelvis 0.0099 Spine 0.0099 Gut 0.2475 Chest 0.7327 
+skin 1284 Pelvis 0.0300 Spine 0.0600 Gut 0.4800 Chest 0.4300 
+skin 1285 Pelvis 0.4747 Spine 0.1515 Gut 0.2828 Chest 0.0909 
+skin 1286 Pelvis 0.5200 Spine 0.0900 Gut 0.2900 Chest 0.1000 
+skin 1287 Pelvis 0.2828 Spine 0.0909 Gut 0.4040 Chest 0.2222 
+skin 1288 Pelvis 0.6040 Spine 0.0693 Gut 0.2574 Chest 0.0693 
+skin 1289 Pelvis 0.2800 Spine 0.1000 Gut 0.4200 Chest 0.2000 
+skin 1290 Pelvis 0.8300 Spine 0.0300 Left_BackHip 0.0100 Gut 0.1300 
+skin 1291 Pelvis 0.5248 Spine 0.0495 Left_BackHip 0.2079 Gut 0.2178 
+skin 1292 Pelvis 0.6061 Spine 0.0808 Left_BackHip 0.1111 Gut 0.2020 
+skin 1293 Pelvis 0.1300 Spine 0.0300 Left_BackHip 0.8000 Gut 0.0400 
+skin 1294 Pelvis 0.5700 Spine 0.0100 Left_BackHip 0.3600 Gut 0.0600 
+skin 1295 Pelvis 0.7300 Spine 0.0500 Left_BackHip 0.0800 Gut 0.1400 
+skin 1296 Pelvis 0.7200 Spine 0.0100 Left_BackHip 0.2000 Gut 0.0700 
+skin 1297 Pelvis 0.0600 Left_BackHip 0.9200 Gut 0.0200 
+skin 1298 Pelvis 0.7000 Tail0 0.2200 Left_BackHip 0.0500 Tail1 0.0300 
+skin 1299 Pelvis 0.7600 Tail0 0.1600 Left_BackHip 0.0500 Tail1 0.0300 
+skin 1300 Pelvis 0.8614 Tail0 0.0297 Left_BackHip 0.0495 Gut 0.0594 
+skin 1301 Pelvis 0.8500 Spine 0.0100 Left_BackHip 0.1100 Gut 0.0300 
+skin 1302 Pelvis 0.9500 Left_BackHip 0.0200 Gut 0.0300 
+skin 1303 Pelvis 0.9208 Tail0 0.0495 Left_BackHip 0.0198 Gut 0.0099 
+skin 1304 Pelvis 0.7228 Tail0 0.2277 Left_BackHip 0.0198 Tail1 0.0297 
+skin 1305 Pelvis 0.4700 Tail0 0.4800 Left_BackHip 0.0100 Tail1 0.0400 
+skin 1306 Pelvis 0.4700 Tail0 0.4900 Tail1 0.0400 
+skin 1307 Pelvis 0.4653 Tail0 0.4851 Left_BackHip 0.0099 Tail1 0.0396 
+skin 1308 Pelvis 0.7500 Tail0 0.2000 Gut 0.0200 Tail1 0.0300 
+skin 1309 Pelvis 0.7228 Tail0 0.2277 Gut 0.0198 Tail1 0.0297 
+skin 1310 Pelvis 0.8317 Spine 0.0495 Gut 0.0693 Chest 0.0495 
+skin 1311 Pelvis 0.8283 Tail0 0.0404 Gut 0.0707 Chest 0.0606 
+skin 1312 Pelvis 0.8586 Spine 0.0303 Left_BackHip 0.0303 Gut 0.0808 
+skin 1313 Pelvis 0.8586 Spine 0.0202 Left_BackHip 0.0707 Gut 0.0505 
+skin 1314 Pelvis 0.7921 Spine 0.0594 Gut 0.0891 Chest 0.0594 
+skin 1315 Pelvis 0.4646 Spine 0.1111 Gut 0.2727 Chest 0.1515 
+skin 1316 Pelvis 0.8000 Spine 0.0400 Gut 0.0900 Chest 0.0700 
+skin 1317 Pelvis 0.4500 Spine 0.1100 Gut 0.2800 Chest 0.1600 
+skin 1318 Gut 0.0300 Chest 0.8500 HorseHead0 0.1100 HorseHead1 0.0100 
+skin 1319 Gut 0.0200 Chest 0.8500 HorseHead0 0.1200 HorseHead1 0.0100 
+skin 1320 Chest 0.8283 Left_FrontHip 0.0202 HorseHead0 0.1414 HorseHead1 0.0101 
+skin 1321 Gut 0.0297 Chest 0.8416 HorseHead0 0.1188 HorseHead1 0.0099 
+skin 1322 Gut 0.0200 Chest 0.8500 HorseHead0 0.1200 HorseHead1 0.0100 
+skin 1323 Chest 0.6300 Left_FrontHip 0.0200 HorseHead0 0.3200 HorseHead1 0.0300 
+skin 1324 Chest 0.6900 Left_FrontHip 0.1100 HorseHead0 0.1900 HorseHead1 0.0100 
+skin 1325 Chest 0.5941 Left_FrontHip 0.0198 HorseHead0 0.3465 HorseHead1 0.0396 
+skin 1326 Chest 0.5248 Left_FrontHip 0.0198 HorseHead0 0.3960 HorseHead1 0.0594 
+skin 1327 Chest 0.5700 Left_FrontHip 0.0200 HorseHead0 0.3800 HorseHead1 0.0300 
+skin 1328 Chest 0.5545 Left_FrontHip 0.0198 HorseHead0 0.3861 HorseHead1 0.0396 
+skin 1329 Chest 0.7000 Left_FrontHip 0.1700 HorseHead0 0.1200 HorseHead1 0.0100 
+skin 1330 Chest 0.6733 Left_FrontHip 0.2079 HorseHead0 0.1089 Left_FrontKnee 0.0099 
+skin 1331 Chest 0.6500 Left_FrontHip 0.0900 HorseHead0 0.2500 HorseHead1 0.0100 
+skin 1332 Chest 0.6500 Left_FrontHip 0.2200 HorseHead0 0.1200 Left_FrontKnee 0.0100 
+skin 1333 Chest 0.5700 Left_FrontHip 0.0200 HorseHead0 0.3900 HorseHead1 0.0200 
+skin 1334 Chest 0.6800 Left_FrontHip 0.0300 HorseHead0 0.2500 HorseHead1 0.0400 
+skin 1335 Chest 0.7600 Left_FrontHip 0.1500 HorseHead0 0.0600 Left_FrontKnee 0.0300 
+skin 1336 Chest 0.7100 Left_FrontHip 0.1400 HorseHead0 0.0900 Left_FrontKnee 0.0600 
+skin 1337 Chest 0.5600 Left_FrontHip 0.1600 HorseHead0 0.0100 Left_FrontKnee 0.2700 
+skin 1338 Gut 0.0200 Chest 0.6000 Left_FrontHip 0.1200 Left_FrontKnee 0.2600 
+skin 1339 Chest 0.5800 Left_FrontHip 0.3800 HorseHead0 0.0100 Left_FrontKnee 0.0300 
+skin 1340 Chest 0.4800 Left_FrontHip 0.3600 HorseHead0 0.0200 Left_FrontKnee 0.1400 
+skin 1341 Chest 0.3434 Left_FrontHip 0.2727 Left_FrontKnee 0.3838 
+skin 1342 Gut 0.0400 Chest 0.3400 Left_FrontHip 0.5900 Left_FrontKnee 0.0300 
+skin 1343 Gut 0.1000 Chest 0.4200 Left_FrontHip 0.3700 Left_FrontKnee 0.1100 
+skin 1344 Gut 0.1683 Chest 0.3663 Left_FrontHip 0.2178 Left_FrontKnee 0.2475 
+skin 1345 Chest 0.5248 Left_FrontHip 0.4554 HorseHead0 0.0099 Left_FrontKnee 0.0099 
+skin 1346 Chest 0.3200 HorseHead0 0.5300 HorseHead1 0.1500 
+skin 1347 Chest 0.5248 Left_FrontHip 0.0099 HorseHead0 0.3762 HorseHead1 0.0891 
+skin 1348 Chest 0.4851 Left_FrontHip 0.0099 HorseHead0 0.4059 HorseHead1 0.0990 
+skin 1349 Chest 0.4800 Left_FrontHip 0.0100 HorseHead0 0.4100 HorseHead1 0.1000 
+skin 1350 Chest 0.5200 Left_FrontHip 0.0100 HorseHead0 0.3800 HorseHead1 0.0900 
+skin 1351 Chest 0.5000 Left_FrontHip 0.0100 HorseHead0 0.4000 HorseHead1 0.0900 
+skin 1352 Chest 0.4900 Left_FrontHip 0.0100 HorseHead0 0.4100 HorseHead1 0.0900 
+skin 1353 Chest 0.5000 Left_FrontHip 0.0100 HorseHead0 0.4000 HorseHead1 0.0900 
+skin 1354 Chest 0.5300 Left_FrontHip 0.0100 HorseHead0 0.3800 HorseHead1 0.0800 
+skin 1355 Chest 0.5700 Left_FrontHip 0.0100 HorseHead0 0.3500 HorseHead1 0.0700 
+skin 1356 Chest 0.5400 Left_FrontHip 0.0200 HorseHead0 0.4000 HorseHead1 0.0400 
+skin 1357 Chest 0.5545 Left_FrontHip 0.0198 HorseHead0 0.3861 HorseHead1 0.0396 
+skin 1358 Chest 0.6600 Left_FrontHip 0.1100 HorseHead0 0.2200 HorseHead1 0.0100 
+skin 1359 Chest 0.7700 Left_FrontHip 0.1200 HorseHead0 0.1100 
+skin 1360 Chest 0.6436 Left_FrontHip 0.2970 HorseHead0 0.0495 Left_FrontKnee 0.0099 
+skin 1361 Pelvis 0.4000 Tail0 0.4400 Right_BackHip 0.0300 Tail1 0.1300 
+skin 1362 Pelvis 0.4400 Tail0 0.4200 Right_BackHip 0.0300 Tail1 0.1100 
+skin 1363 Pelvis 0.7327 Tail0 0.2079 Right_BackHip 0.0297 Tail1 0.0297 
+skin 1364 Pelvis 0.7822 Tail0 0.1584 Right_BackHip 0.0297 Tail1 0.0297 
+skin 1365 Pelvis 0.7129 Tail0 0.2277 Gut 0.0297 Tail1 0.0297 
+skin 1366 Pelvis 0.8100 Spine 0.0500 Gut 0.0900 Chest 0.0500 
+skin 1367 Pelvis 0.8800 Spine 0.0300 Right_BackHip 0.0300 Gut 0.0600 
+skin 1368 Pelvis 0.8600 Spine 0.0100 Tail0 0.0400 Right_BackHip 0.0900 
+skin 1369 Pelvis 0.8600 Spine 0.0100 Right_BackHip 0.1100 Gut 0.0200 
+skin 1370 Pelvis 0.5455 Spine 0.0101 Right_BackHip 0.3838 Gut 0.0606 
+skin 1371 Pelvis 0.7071 Spine 0.0101 Right_BackHip 0.2222 Gut 0.0606 
+skin 1372 Pelvis 0.7327 Spine 0.0396 Right_BackHip 0.0891 Gut 0.1386 
+skin 1373 Pelvis 0.5800 Spine 0.0700 Right_BackHip 0.1500 Gut 0.2000 
+skin 1374 Pelvis 0.5000 Spine 0.1200 Gut 0.3200 Chest 0.0600 
+skin 1375 Pelvis 0.5400 Spine 0.0900 Gut 0.2900 Chest 0.0800 
+skin 1376 Pelvis 0.2300 Spine 0.1000 Gut 0.4500 Chest 0.2200 
+skin 1377 Pelvis 0.2970 Spine 0.0990 Gut 0.3861 Chest 0.2178 
+skin 1378 Pelvis 0.5900 Spine 0.1200 Gut 0.2100 Chest 0.0800 
+skin 1379 Pelvis 0.2376 Spine 0.1386 Gut 0.3762 Chest 0.2475 
+skin 1380 Pelvis 0.2574 Spine 0.1485 Gut 0.2673 Chest 0.3267 
+skin 1381 Pelvis 0.0600 Gut 0.2500 Chest 0.5600 Right_FrontHip 0.1300 
+skin 1382 Spine 0.0792 Gut 0.3069 Chest 0.4752 Right_FrontHip 0.1386 
+skin 1383 Pelvis 0.5800 Spine 0.1100 Gut 0.1800 Chest 0.1300 
+skin 1384 Pelvis 0.1100 Spine 0.0800 Gut 0.4500 Chest 0.3600 
+skin 1385 Spine 0.0101 Gut 0.2121 Chest 0.7576 Right_FrontHip 0.0202 
+skin 1386 Spine 0.0600 Gut 0.2200 Chest 0.6200 Right_FrontHip 0.1000 
+skin 1387 Pelvis 0.1500 Spine 0.1000 Gut 0.2700 Chest 0.4800 
+skin 1388 Pelvis 0.2871 Spine 0.1188 Gut 0.2574 Chest 0.3366 
+skin 1389 Pelvis 0.6000 Spine 0.1000 Gut 0.1800 Chest 0.1200 
+skin 1390 Pelvis 0.5800 Spine 0.0800 Gut 0.1800 Chest 0.1600 
+skin 1391 Pelvis 0.2772 Spine 0.1188 Gut 0.2772 Chest 0.3267 
+skin 1392 Pelvis 0.6900 Spine 0.0700 Gut 0.1600 Chest 0.0800 
+skin 1393 Pelvis 0.5700 Spine 0.0900 Gut 0.2100 Chest 0.1300 
+skin 1394 Pelvis 0.7900 Spine 0.0600 Gut 0.1200 Chest 0.0300 
+skin 1395 Pelvis 0.1188 Spine 0.0792 Gut 0.2475 Chest 0.5545 
+skin 1396 Spine 0.0099 Gut 0.1980 Chest 0.7921 
+skin 1397 Pelvis 0.0202 Gut 0.1616 Chest 0.7980 Right_FrontHip 0.0202 
+skin 1398 Gut 0.1313 Chest 0.8485 Right_FrontHip 0.0202 
+skin 1399 Gut 0.0909 Chest 0.8889 Right_FrontHip 0.0202 
+skin 1400 Gut 0.0100 Chest 0.9500 Right_FrontHip 0.0200 HorseHead0 0.0200 
+skin 1401 Gut 0.0700 Chest 0.9000 HorseHead0 0.0300 
+skin 1402 Gut 0.0500 Chest 0.9000 HorseHead0 0.0500 
+skin 1403 Gut 0.0300 Chest 0.8600 Right_FrontHip 0.1000 HorseHead0 0.0100 
+skin 1404 Gut 0.0100 Chest 0.8600 Right_FrontHip 0.1000 HorseHead0 0.0300 
+skin 1405 Chest 0.7071 Right_FrontHip 0.2727 Right_FrontKnee 0.0202 
+skin 1406 Chest 0.8200 Right_FrontHip 0.1100 HorseHead0 0.0600 Right_FrontKnee 0.0100 
+skin 1407 Chest 0.8020 Right_FrontHip 0.1188 HorseHead0 0.0693 Right_FrontKnee 0.0099 
+skin 1408 Gut 0.0808 Chest 0.8182 Right_FrontHip 0.1010 
+skin 1409 Pelvis 0.0200 Gut 0.1300 Chest 0.7500 Right_FrontHip 0.1000 
+skin 1410 Gut 0.1000 Chest 0.5400 Right_FrontHip 0.3300 Right_FrontKnee 0.0300 
+skin 1411 Gut 0.0400 Chest 0.3500 Right_FrontHip 0.5300 Right_FrontKnee 0.0800 
+skin 1412 Chest 0.4848 Right_FrontHip 0.2727 HorseHead0 0.0101 Right_FrontKnee 0.2323 
+skin 1413 Chest 0.6300 Right_FrontHip 0.2500 HorseHead0 0.0100 Right_FrontKnee 0.1100 
+skin 1414 Chest 0.7800 Right_FrontHip 0.1000 HorseHead0 0.0900 Right_FrontKnee 0.0300 
+skin 1415 Chest 0.7172 Right_FrontHip 0.0202 HorseHead0 0.2323 HorseHead1 0.0303 
+skin 1416 Chest 0.7100 Right_FrontHip 0.1200 HorseHead0 0.0900 Right_FrontKnee 0.0800 
+skin 1417 Chest 0.7400 Right_FrontHip 0.0800 HorseHead0 0.1700 Right_FrontKnee 0.0100 
+skin 1418 Chest 0.3000 HorseHead0 0.6200 HorseHead1 0.0800 
+skin 1419 Chest 0.2200 HorseHead0 0.5800 HorseHead1 0.2000 
+skin 1420 Chest 0.3100 HorseHead0 0.6300 HorseHead1 0.0600 
+skin 1421 Chest 0.5400 Right_FrontHip 0.0100 HorseHead0 0.4000 HorseHead1 0.0500 
+skin 1422 Chest 0.5700 Right_FrontHip 0.0200 HorseHead0 0.3500 HorseHead1 0.0600 
+skin 1423 Chest 0.5051 Right_FrontHip 0.0101 HorseHead0 0.3838 HorseHead1 0.1010 
+skin 1424 Chest 0.7000 Right_FrontHip 0.0200 HorseHead0 0.2500 HorseHead1 0.0300 
+skin 1425 Chest 0.6600 Right_FrontHip 0.0200 HorseHead0 0.2800 HorseHead1 0.0400 
+skin 1426 Chest 0.6300 Right_FrontHip 0.0200 HorseHead0 0.3100 HorseHead1 0.0400 
+skin 1427 Chest 0.6200 Right_FrontHip 0.0200 HorseHead0 0.3200 HorseHead1 0.0400 
+skin 1428 Chest 0.6500 Right_FrontHip 0.0200 HorseHead0 0.3100 HorseHead1 0.0200 
+skin 1429 Chest 0.7500 Right_FrontHip 0.1500 HorseHead0 0.0800 Right_FrontKnee 0.0200 
+skin 1430 Chest 0.7200 Right_FrontHip 0.1800 HorseHead0 0.0700 Right_FrontKnee 0.0300 
+skin 1431 Chest 0.5941 Right_FrontHip 0.0198 HorseHead0 0.3465 HorseHead1 0.0396 
+skin 1432 Chest 0.7000 Right_FrontHip 0.1900 HorseHead0 0.0800 Right_FrontKnee 0.0300 
+skin 1433 Chest 0.7576 Right_FrontHip 0.0909 HorseHead0 0.1414 HorseHead1 0.0101 
+skin 1434 Chest 0.7200 Right_FrontHip 0.0200 HorseHead0 0.2200 HorseHead1 0.0400 
+skin 1435 Chest 0.8500 Right_FrontHip 0.0200 HorseHead0 0.1100 HorseHead1 0.0200 
+skin 1436 Gut 0.0202 Chest 0.8687 HorseHead0 0.1010 HorseHead1 0.0101 
+skin 1437 Chest 0.6800 Right_FrontHip 0.2500 HorseHead0 0.0300 Right_FrontKnee 0.0400 
+skin 1438 Chest 0.8020 Right_FrontHip 0.0990 HorseHead0 0.0891 Right_FrontKnee 0.0099 
+skin 1439 Chest 0.7900 Right_FrontHip 0.0700 HorseHead0 0.1300 HorseHead1 0.0100 
+skin 1440 Gut 0.0200 Chest 0.8600 HorseHead0 0.1100 HorseHead1 0.0100 
+skin 1441 Gut 0.0200 Chest 0.8600 HorseHead0 0.1100 HorseHead1 0.0100 
+skin 1442 Gut 0.0202 Chest 0.8586 HorseHead0 0.1111 HorseHead1 0.0101 
+skin 1443 Gut 0.0101 Chest 0.8485 HorseHead0 0.1313 HorseHead1 0.0101 
+skin 1444 Gut 0.0200 Chest 0.8400 HorseHead0 0.1300 HorseHead1 0.0100 
+skin 1445 Gut 0.0202 Chest 0.8485 HorseHead0 0.1212 HorseHead1 0.0101 
+skin 1446 Gut 0.0200 Chest 0.8500 HorseHead0 0.1200 HorseHead1 0.0100 
+skin 1447 Gut 0.0396 Chest 0.8812 HorseHead0 0.0792 
+skin 1448 Gut 0.0400 Chest 0.8900 HorseHead0 0.0700 
+skin 1449 Gut 0.0300 Chest 0.8700 HorseHead0 0.0900 HorseHead1 0.0100 
+skin 1450 Gut 0.1010 Chest 0.8687 HorseHead0 0.0303 
+skin 1451 Pelvis 0.4646 Spine 0.1111 Gut 0.2727 Chest 0.1515 
+skin 1452 Pelvis 0.7700 Spine 0.0600 Gut 0.1100 Chest 0.0600 
+skin 1453 Pelvis 0.8586 Spine 0.0404 Right_BackHip 0.0202 Gut 0.0808 
+skin 1454 Pelvis 0.8500 Spine 0.0300 Right_BackHip 0.0800 Gut 0.0400 
+skin 1455 Pelvis 0.7822 Spine 0.0396 Right_BackHip 0.0792 Gut 0.0990 
+skin 1456 Pelvis 0.7374 Right_BackHip 0.0707 Gut 0.1313 Chest 0.0606 
+skin 1457 Pelvis 0.7400 Right_BackHip 0.0900 Gut 0.1300 Chest 0.0400 
+skin 1458 Pelvis 0.8687 Spine 0.0202 Right_BackHip 0.0707 Gut 0.0404 
+skin 1459 Pelvis 0.7822 Spine 0.0099 Right_BackHip 0.1584 Gut 0.0495 
+skin 1460 Pelvis 0.8100 Spine 0.0100 Right_BackHip 0.1600 Gut 0.0200 
+skin 1461 Pelvis 0.7600 Right_BackHip 0.1500 Gut 0.0700 Chest 0.0200 
+skin 1462 Pelvis 0.7200 Right_BackHip 0.2400 Gut 0.0400 
+skin 1463 Pelvis 0.6869 Right_BackHip 0.2828 Gut 0.0303 
+skin 1464 Pelvis 0.7500 Right_BackHip 0.1700 Gut 0.0700 Chest 0.0100 
+skin 1465 Pelvis 0.7400 Right_BackHip 0.0700 Gut 0.1400 Chest 0.0500 
+skin 1466 Pelvis 0.7426 Right_BackHip 0.1683 Gut 0.0792 Chest 0.0099 
+skin 1467 Pelvis 0.8100 Spine 0.0100 Right_BackHip 0.1800 
+skin 1468 Pelvis 0.8119 Spine 0.0099 Right_BackHip 0.1683 Gut 0.0099 
+skin 1469 Chest 0.4848 HorseHead0 0.3939 HorseHead1 0.1212 
+skin 1470 Chest 0.5758 HorseHead0 0.3333 HorseHead1 0.0909 
+skin 1471 Chest 0.6300 HorseHead0 0.2900 HorseHead1 0.0800 
+skin 1472 Chest 0.6700 HorseHead0 0.2600 HorseHead1 0.0700 
+skin 1473 Chest 0.6337 HorseHead0 0.2871 HorseHead1 0.0792 
+skin 1474 Chest 0.7200 HorseHead0 0.2300 HorseHead1 0.0500 
+skin 1475 Chest 0.5200 HorseHead0 0.3700 HorseHead1 0.1100 
+skin 1476 Chest 0.5149 Right_FrontHip 0.0099 HorseHead0 0.3663 HorseHead1 0.1089 
+skin 1477 Pelvis 0.7500 Spine 0.0400 Left_BackHip 0.0700 Gut 0.1400 
+skin 1478 Pelvis 0.7600 Spine 0.0100 Left_BackHip 0.1600 Gut 0.0700 
+skin 1479 Pelvis 0.7500 Spine 0.0300 Left_BackHip 0.0900 Gut 0.1300 
+skin 1480 Pelvis 0.7400 Spine 0.0500 Left_BackHip 0.0700 Gut 0.1400 
+skin 1481 Pelvis 0.8100 Spine 0.0100 Left_BackHip 0.1700 Gut 0.0100 
+skin 1482 Chest 0.5152 Right_FrontHip 0.4343 Right_FrontKnee 0.0505 
+skin 1483 Gut 0.0101 Chest 0.8687 HorseHead0 0.1111 HorseHead1 0.0101 
+skin 1484 Gut 0.0099 Chest 0.8515 HorseHead0 0.1287 HorseHead1 0.0099 
+skin 1485 Gut 0.0100 Chest 0.8800 HorseHead0 0.1100 
+skin 1486 Gut 0.0100 Chest 0.8800 HorseHead0 0.1100 
+skin 1487 Gut 0.0100 Chest 0.8800 HorseHead0 0.1100 
+skin 1488 Gut 0.0100 Chest 0.8700 HorseHead0 0.1100 HorseHead1 0.0100 
+skin 1489 Gut 0.0300 Chest 0.8500 HorseHead0 0.1100 HorseHead1 0.0100 
+skin 1490 Gut 0.0297 Chest 0.8515 HorseHead0 0.1089 HorseHead1 0.0099 
+skin 1491 Gut 0.0297 Chest 0.8515 HorseHead0 0.1089 HorseHead1 0.0099 
+skin 1492 Chest 0.3600 Right_FrontHip 0.0100 HorseHead0 0.5700 HorseHead1 0.0600 
+skin 1493 Chest 0.5545 Right_FrontHip 0.0198 HorseHead0 0.3861 HorseHead1 0.0396 
+skin 1494 Chest 0.5700 Right_FrontHip 0.0200 HorseHead0 0.3700 HorseHead1 0.0400 
+skin 1495 Gut 0.0202 Chest 0.8485 HorseHead0 0.1212 HorseHead1 0.0101 
+skin 1496 Gut 0.0297 Chest 0.8713 HorseHead0 0.0891 HorseHead1 0.0099 
+skin 1497 Gut 0.0297 Chest 0.8614 HorseHead0 0.0990 HorseHead1 0.0099 
+skin 1498 Gut 0.0300 Chest 0.8800 HorseHead0 0.0900 
+skin 1499 Gut 0.0297 Chest 0.8614 HorseHead0 0.0990 HorseHead1 0.0099 
+skin 1500 Gut 0.0303 Chest 0.8889 HorseHead0 0.0808 
+skin 1501 Gut 0.0200 Chest 0.8500 HorseHead0 0.1200 HorseHead1 0.0100 
+skin 1502 Gut 0.0300 Chest 0.8800 HorseHead0 0.0800 HorseHead1 0.0100 
+skin 1503 Gut 0.0300 Chest 0.8900 HorseHead0 0.0800 
+skin 1504 HorseHead1 1.0000 
+skin 1505 HorseHead1 1.0000 
+skin 1506 HorseHead1 1.0000 
+skin 1507 HorseHead1 1.0000 
+skin 1508 HorseHead1 1.0000 
+skin 1509 HorseHead1 1.0000 
+skin 1510 HorseHead1 1.0000 
+skin 1511 HorseHead1 1.0000 
+skin 1512 HorseHead1 1.0000 
+skin 1513 HorseHead1 1.0000 
+skin 1514 HorseHead1 1.0000 
+skin 1515 HorseHead1 1.0000 
+skin 1516 HorseHead1 1.0000 
+skin 1517 HorseHead1 1.0000 
+skin 1518 HorseHead1 1.0000 
+skin 1519 HorseHead1 1.0000 
+skin 1520 HorseHead1 1.0000 
+skin 1521 HorseHead1 1.0000 
+skin 1522 HorseHead1 1.0000 
+skin 1523 HorseHead1 1.0000 
+skin 1524 HorseHead1 1.0000 
+skin 1525 HorseHead1 1.0000 
+skin 1526 HorseHead1 1.0000 
+skin 1527 HorseHead1 1.0000 
+skin 1528 HorseHead1 1.0000 
+skin 1529 HorseHead1 1.0000 
+skin 1530 HorseHead1 1.0000 
+skin 1531 HorseHead1 1.0000 
+skin 1532 HorseHead1 1.0000 
+skin 1533 HorseHead1 1.0000 
+skin 1534 HorseHead1 1.0000 
+skin 1535 HorseHead1 1.0000 
+skin 1536 HorseHead1 1.0000 
+skin 1537 HorseHead1 1.0000 
+skin 1538 HorseHead1 1.0000 
+skin 1539 HorseHead1 1.0000 
+skin 1540 HorseHead1 1.0000 
+skin 1541 HorseHead1 1.0000 
+skin 1542 HorseHead1 1.0000 
+skin 1543 HorseHead1 1.0000 
+skin 1544 Left_FrontAnkle 1.0000 
+skin 1545 Left_FrontAnkle 1.0000 
+skin 1546 Left_FrontAnkle 1.0000 
+skin 1547 Left_FrontAnkle 1.0000 
+skin 1548 Left_FrontAnkle 1.0000 
+skin 1549 Left_FrontAnkle 1.0000 
+skin 1550 Left_FrontAnkle 1.0000 
+skin 1551 Left_FrontAnkle 1.0000 
+skin 1552 Left_FrontAnkle 1.0000 
+skin 1553 Left_FrontAnkle 1.0000 
+skin 1554 Left_FrontAnkle 1.0000 
+skin 1555 Left_FrontAnkle 1.0000 
+skin 1556 Left_FrontAnkle 1.0000 
+skin 1557 Left_FrontAnkle 1.0000 
+skin 1558 Left_FrontAnkle 1.0000 
+skin 1559 Left_FrontKnee 0.1900 Left_FrontAnkle 0.8100 
+skin 1560 Left_FrontKnee 0.1300 Left_FrontAnkle 0.8700 
+skin 1561 Left_FrontAnkle 1.0000 
+skin 1562 Left_FrontAnkle 1.0000 
+skin 1563 Left_FrontKnee 0.2000 Left_FrontAnkle 0.8000 
+skin 1564 Left_FrontKnee 0.1200 Left_FrontAnkle 0.8800 
+skin 1565 Left_FrontAnkle 1.0000 
+skin 1566 Left_FrontAnkle 1.0000 
+skin 1567 Left_FrontKnee 0.1800 Left_FrontAnkle 0.8200 
+skin 1568 Left_FrontAnkle 1.0000 
+skin 1569 Left_FrontKnee 0.1500 Left_FrontAnkle 0.8500 
+skin 1570 Left_FrontAnkle 1.0000 
+skin 1571 Left_FrontAnkle 1.0000 
+skin 1572 Left_FrontAnkle 1.0000 
+skin 1573 Left_FrontKnee 0.1800 Left_FrontAnkle 0.8200 
+skin 1574 Left_FrontAnkle 1.0000 
+skin 1575 Left_FrontKnee 0.1800 Left_FrontAnkle 0.8200 
+skin 1576 Left_FrontKnee 0.1700 Left_FrontAnkle 0.8300 
+skin 1577 Left_FrontAnkle 1.0000 
+skin 1578 Left_FrontKnee 0.2000 Left_FrontAnkle 0.8000 
+skin 1579 Left_FrontKnee 0.1700 Left_FrontAnkle 0.8300 
+skin 1580 Left_FrontAnkle 1.0000 
+skin 1581 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1582 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1583 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1584 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1585 Left_FrontKnee 0.8000 Left_FrontAnkle 0.2000 
+skin 1586 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1587 Left_FrontKnee 0.8000 Left_FrontAnkle 0.2000 
+skin 1588 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1589 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1590 Left_FrontKnee 0.7600 Left_FrontAnkle 0.2400 
+skin 1591 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1592 Chest 0.0600 Left_FrontHip 0.2700 Left_FrontKnee 0.6700 
+skin 1593 Chest 0.0100 Left_FrontHip 0.1600 Left_FrontKnee 0.8300 
+skin 1594 Gut 0.0101 Chest 0.1010 Left_FrontHip 0.2525 Left_FrontKnee 0.6364 
+skin 1595 Left_FrontHip 0.0200 Left_FrontKnee 0.9800 
+skin 1596 Chest 0.0099 Left_FrontHip 0.1782 Left_FrontKnee 0.8119 
+skin 1597 Chest 0.0099 Left_FrontHip 0.1485 Left_FrontKnee 0.8416 
+skin 1598 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1599 Left_FrontKnee 0.7600 Left_FrontAnkle 0.2400 
+skin 1600 Left_FrontKnee 0.7800 Left_FrontAnkle 0.2200 
+skin 1601 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1602 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1603 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1604 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1605 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1606 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1607 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1608 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1609 Left_FrontKnee 0.7600 Left_FrontAnkle 0.2400 
+skin 1610 Left_FrontKnee 0.7600 Left_FrontAnkle 0.2400 
+skin 1611 Left_FrontHip 0.1000 Left_FrontKnee 0.9000 
+skin 1612 Left_FrontHip 0.0800 Left_FrontKnee 0.9200 
+skin 1613 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1614 Chest 0.0100 Left_FrontHip 0.1000 Left_FrontKnee 0.8900 
+skin 1615 Chest 0.0100 Left_FrontHip 0.1200 Left_FrontKnee 0.8700 
+skin 1616 Left_FrontHip 0.0200 Left_FrontKnee 0.9800 
+skin 1617 Left_FrontKnee 0.7600 Left_FrontAnkle 0.2400 
+skin 1618 Left_FrontKnee 0.7500 Left_FrontAnkle 0.2500 
+skin 1619 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1620 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1621 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1622 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1623 Left_FrontKnee 0.1100 Left_FrontAnkle 0.8900 
+skin 1624 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1625 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1626 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1627 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1628 Left_FrontKnee 0.5400 Left_FrontAnkle 0.4600 
+skin 1629 Left_FrontKnee 0.5300 Left_FrontAnkle 0.4700 
+skin 1630 Left_FrontKnee 0.7500 Left_FrontAnkle 0.2500 
+skin 1631 Left_FrontKnee 0.8000 Left_FrontAnkle 0.2000 
+skin 1632 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1633 Left_FrontHip 0.0100 Left_FrontKnee 0.9900 
+skin 1634 Gut 0.0200 Chest 0.0900 Left_FrontHip 0.1800 Left_FrontKnee 0.7100 
+skin 1635 Gut 0.0202 Chest 0.1515 Left_FrontHip 0.2222 Left_FrontKnee 0.6061 
+skin 1636 Left_FrontKnee 0.2600 Left_FrontAnkle 0.7400 
+skin 1637 Chest 0.1000 Left_FrontHip 0.3400 Left_FrontKnee 0.5600 
+skin 1638 Chest 0.0505 Left_FrontHip 0.3232 Left_FrontKnee 0.6263 
+skin 1639 Chest 0.0200 Left_FrontHip 0.3200 Left_FrontKnee 0.6600 
+skin 1640 Chest 0.0200 Left_FrontHip 0.2900 Left_FrontKnee 0.6900 
+skin 1641 Chest 0.0396 Left_FrontHip 0.2673 Left_FrontKnee 0.6931 
+skin 1642 Chest 0.0700 Left_FrontHip 0.2000 Left_FrontKnee 0.7300 
+skin 1643 Chest 0.2222 Left_FrontHip 0.2525 Left_FrontKnee 0.5253 
+skin 1644 Chest 0.0700 Left_FrontHip 0.1800 Left_FrontKnee 0.7500 
+skin 1645 Gut 0.0100 Chest 0.1400 Left_FrontHip 0.1800 Left_FrontKnee 0.6700 
+skin 1646 Pelvis 0.0400 Gut 0.1600 Chest 0.1500 Left_FrontKnee 0.6500 
+skin 1647 Gut 0.2673 Chest 0.3663 Left_FrontHip 0.1089 Left_FrontKnee 0.2574 
+skin 1648 Chest 0.1900 Left_FrontHip 0.2300 Left_FrontKnee 0.5800 
+skin 1649 Gut 0.0800 Chest 0.2400 Left_FrontHip 0.2000 Left_FrontKnee 0.4800 
+skin 1650 Gut 0.1600 Chest 0.3200 Left_FrontHip 0.1500 Left_FrontKnee 0.3700 
+skin 1651 Gut 0.0800 Chest 0.3700 Left_FrontHip 0.1500 Left_FrontKnee 0.4000 
+skin 1652 Left_BackAnkle 1.0000 
+skin 1653 Left_BackAnkle 1.0000 
+skin 1654 Left_BackAnkle 1.0000 
+skin 1655 Left_BackAnkle 1.0000 
+skin 1656 Left_BackAnkle 1.0000 
+skin 1657 Left_BackAnkle 1.0000 
+skin 1658 Left_BackAnkle 1.0000 
+skin 1659 Left_BackAnkle 1.0000 
+skin 1660 Left_BackAnkle 1.0000 
+skin 1661 Left_BackAnkle 1.0000 
+skin 1662 Left_BackAnkle 1.0000 
+skin 1663 Left_BackAnkle 1.0000 
+skin 1664 Left_BackAnkle 1.0000 
+skin 1665 Left_BackAnkle 1.0000 
+skin 1666 Left_BackAnkle 1.0000 
+skin 1667 Left_BackKnee 0.1900 Left_BackAnkle 0.8100 
+skin 1668 Left_BackKnee 0.0900 Left_BackAnkle 0.9100 
+skin 1669 Left_BackAnkle 1.0000 
+skin 1670 Left_BackAnkle 1.0000 
+skin 1671 Left_BackKnee 0.2100 Left_BackAnkle 0.7900 
+skin 1672 Left_BackAnkle 1.0000 
+skin 1673 Left_BackAnkle 1.0000 
+skin 1674 Left_BackKnee 0.1100 Left_BackAnkle 0.8900 
+skin 1675 Left_BackKnee 0.1900 Left_BackAnkle 0.8100 
+skin 1676 Left_BackAnkle 1.0000 
+skin 1677 Left_BackKnee 0.1800 Left_BackAnkle 0.8200 
+skin 1678 Left_BackHip 1.0000 
+skin 1679 Left_BackHip 0.9100 Left_BackKnee 0.0900 
+skin 1680 Left_BackHip 0.9200 Left_BackKnee 0.0800 
+skin 1681 Left_BackHip 1.0000 
+skin 1682 Left_BackHip 0.9300 Left_BackKnee 0.0700 
+skin 1683 Pelvis 0.1400 Left_BackHip 0.8500 Gut 0.0100 
+skin 1684 Left_BackHip 1.0000 
+skin 1685 Left_BackHip 1.0000 
+skin 1686 Left_BackHip 1.0000 
+skin 1687 Left_BackHip 1.0000 
+skin 1688 Left_BackHip 1.0000 
+skin 1689 Left_BackHip 1.0000 
+skin 1690 Left_BackHip 1.0000 
+skin 1691 Left_BackHip 1.0000 
+skin 1692 Left_BackHip 1.0000 
+skin 1693 Left_BackHip 1.0000 
+skin 1694 Left_BackHip 1.0000 
+skin 1695 Left_BackHip 1.0000 
+skin 1696 Left_BackHip 1.0000 
+skin 1697 Pelvis 0.1400 Left_BackHip 0.8600 
+skin 1698 Left_BackHip 0.9200 Left_BackKnee 0.0800 
+skin 1699 Left_BackKnee 1.0000 
+skin 1700 Left_BackHip 0.3200 Left_BackKnee 0.6800 
+skin 1701 Left_BackHip 0.3700 Left_BackKnee 0.6300 
+skin 1702 Left_BackKnee 1.0000 
+skin 1703 Left_BackHip 0.2300 Left_BackKnee 0.7700 
+skin 1704 Left_BackKnee 1.0000 
+skin 1705 Left_BackHip 0.9300 Left_BackKnee 0.0700 
+skin 1706 Left_BackKnee 1.0000 
+skin 1707 Left_BackHip 0.3800 Left_BackKnee 0.6200 
+skin 1708 Left_BackKnee 0.8600 Left_BackAnkle 0.1400 
+skin 1709 Left_BackKnee 0.9000 Left_BackAnkle 0.1000 
+skin 1710 Left_BackKnee 1.0000 
+skin 1711 Left_BackKnee 0.9200 Left_BackAnkle 0.0800 
+skin 1712 Left_BackHip 0.2900 Left_BackKnee 0.7100 
+skin 1713 Left_BackHip 0.2000 Left_BackKnee 0.8000 
+skin 1714 Left_BackHip 0.8900 Left_BackKnee 0.1100 
+skin 1715 Left_BackHip 0.9600 Left_BackKnee 0.0400 
+skin 1716 Left_BackKnee 1.0000 
+skin 1717 Left_BackKnee 0.9400 Left_BackAnkle 0.0600 
+skin 1718 Left_BackKnee 0.1800 Left_BackAnkle 0.8200 
+skin 1719 Left_BackAnkle 1.0000 
+skin 1720 Left_BackKnee 0.1800 Left_BackAnkle 0.8200 
+skin 1721 Left_BackAnkle 1.0000 
+skin 1722 Left_BackKnee 1.0000 
+skin 1723 Left_BackKnee 0.9400 Left_BackAnkle 0.0600 
+skin 1724 Left_BackAnkle 1.0000 
+skin 1725 Left_BackKnee 0.0700 Left_BackAnkle 0.9300 
+skin 1726 Left_BackAnkle 1.0000 
+skin 1727 Left_BackKnee 0.2100 Left_BackAnkle 0.7900 
+skin 1728 Left_BackKnee 0.9600 Left_BackAnkle 0.0400 
+skin 1729 Left_BackAnkle 1.0000 
+skin 1730 Left_BackKnee 0.1900 Left_BackAnkle 0.8100 
+skin 1731 Left_BackAnkle 1.0000 
+skin 1732 Left_BackKnee 0.1200 Left_BackAnkle 0.8800 
+skin 1733 Left_BackKnee 0.9600 Left_BackAnkle 0.0400 
+skin 1734 Left_BackHip 0.4000 Left_BackKnee 0.6000 
+skin 1735 Left_BackHip 0.3200 Left_BackKnee 0.6800 
+skin 1736 Pelvis 0.1386 Left_BackHip 0.8119 Gut 0.0396 Chest 0.0099 
+skin 1737 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1738 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1739 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1740 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1741 Left_BackKnee 0.8900 Left_BackAnkle 0.1100 
+skin 1742 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1743 Left_BackKnee 0.9100 Left_BackAnkle 0.0900 
+skin 1744 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1745 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1746 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1747 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1748 Left_BackKnee 0.4300 Left_BackAnkle 0.5700 
+skin 1749 Left_BackKnee 0.4200 Left_BackAnkle 0.5800 
+skin 1750 Left_BackKnee 0.5300 Left_BackAnkle 0.4700 
+skin 1751 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1752 Left_BackKnee 0.5700 Left_BackAnkle 0.4300 
+skin 1753 Left_BackKnee 0.8100 Left_BackAnkle 0.1900 
+skin 1754 Left_BackKnee 0.5900 Left_BackAnkle 0.4100 
+skin 1755 Left_BackKnee 0.8200 Left_BackAnkle 0.1800 
+skin 1756 Left_BackHip 0.5500 Left_BackKnee 0.4500 
+skin 1757 Left_BackHip 0.5200 Left_BackKnee 0.4800 
+skin 1758 Left_BackHip 0.6500 Left_BackKnee 0.3500 
+skin 1759 Left_BackKnee 0.5400 Left_BackAnkle 0.4600 
+skin 1760 Left_BackKnee 0.5900 Left_BackAnkle 0.4100 
+skin 1761 Pelvis 0.0800 Left_BackHip 0.9200 
+skin 1762 Pelvis 0.1400 Left_BackHip 0.8600 
+skin 1763 Left_BackHip 0.9500 Left_BackKnee 0.0500 
+skin 1764 Left_BackHip 0.9500 Left_BackKnee 0.0500 
+skin 1765 Left_BackHip 0.7000 Left_BackKnee 0.3000 
+skin 1766 Left_BackHip 0.6600 Left_BackKnee 0.3400 
+skin 1767 Left_BackHip 0.6900 Left_BackKnee 0.3100 
+skin 1768 Left_BackHip 0.9500 Left_BackKnee 0.0500 
+skin 1769 Left_BackHip 0.6800 Left_BackKnee 0.3200 
+skin 1770 Left_BackHip 0.6800 Left_BackKnee 0.3200 
+skin 1771 Left_BackHip 0.4200 Left_BackKnee 0.5800 
+skin 1772 Left_BackHip 0.7300 Left_BackKnee 0.2700 
+skin 1773 Left_BackHip 0.6800 Left_BackKnee 0.3200 
+skin 1774 Left_BackHip 0.6600 Left_BackKnee 0.3400 
+skin 1775 Left_BackHip 0.9400 Left_BackKnee 0.0600 
+skin 1776 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1777 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1778 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1779 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1780 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1781 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1782 Left_BackKnee 0.5600 Left_BackAnkle 0.4400 
+skin 1783 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1784 Left_BackKnee 0.2600 Left_BackAnkle 0.7400 
+skin 1785 Left_BackKnee 0.4400 Left_BackAnkle 0.5600 
+skin 1786 HorseHead1 1.0000 
+skin 1787 HorseHead1 1.0000 
+skin 1788 HorseHead1 1.0000 
+skin 1789 HorseHead1 1.0000 
+skin 1790 HorseHead1 1.0000 
+skin 1791 HorseHead1 1.0000 
+skin 1792 HorseHead0 0.1200 HorseHead1 0.8800 
+skin 1793 HorseHead0 0.1800 HorseHead1 0.8200 
+skin 1794 HorseHead0 0.1100 HorseHead1 0.8900 
+skin 1795 HorseHead1 1.0000 
+skin 1796 HorseHead1 1.0000 
+skin 1797 HorseHead1 1.0000 
+skin 1798 HorseHead1 1.0000 
+skin 1799 HorseHead1 1.0000 
+skin 1800 HorseHead1 1.0000 
+skin 1801 HorseHead1 1.0000 
+skin 1802 HorseHead1 1.0000 
+skin 1803 HorseHead1 1.0000 
+skin 1804 HorseHead1 1.0000 
+skin 1805 HorseHead1 1.0000 
+skin 1806 HorseHead1 1.0000 
+skin 1807 HorseHead1 1.0000 
+skin 1808 HorseHead1 1.0000 
+skin 1809 HorseHead1 1.0000 
+skin 1810 HorseHead1 1.0000 
+skin 1811 HorseHead1 1.0000 
+skin 1812 HorseHead1 1.0000 
+skin 1813 HorseHead0 0.2800 HorseHead1 0.7200 
+skin 1814 HorseHead1 1.0000 
+skin 1815 HorseHead1 1.0000 
+skin 1816 HorseHead1 1.0000 
+skin 1817 HorseHead1 1.0000 
+skin 1818 HorseHead1 1.0000 
+skin 1819 HorseHead1 1.0000 
+skin 1820 HorseHead1 1.0000 
+skin 1821 HorseHead1 1.0000 
+skin 1822 HorseHead1 1.0000 
+skin 1823 HorseHead1 1.0000 
+skin 1824 HorseHead1 1.0000 
+skin 1825 Pelvis 0.7300 Spine 0.0600 Gut 0.1200 Chest 0.0900 
+skin 1826 Pelvis 0.7600 Spine 0.0600 Gut 0.1200 Chest 0.0600 
+skin 1827 Pelvis 0.8416 Spine 0.0495 Gut 0.0891 Chest 0.0198 
+skin 1828 Pelvis 0.8800 Spine 0.0300 Gut 0.0800 Chest 0.0100 
+skin 1829 Pelvis 0.8300 Spine 0.0400 Gut 0.1100 Chest 0.0200 
+skin 1830 Pelvis 0.5446 Spine 0.0891 Gut 0.1980 Chest 0.1683 
+skin 1831 Pelvis 0.5600 Spine 0.0900 Gut 0.1900 Chest 0.1600 
+skin 1832 Pelvis 0.5700 Spine 0.1000 Gut 0.1800 Chest 0.1500 
+skin 1833 Pelvis 0.4400 Spine 0.1200 Gut 0.2200 Chest 0.2200 
+skin 1834 Pelvis 0.0400 Gut 0.2300 Chest 0.5300 Right_FrontHip 0.2000 
+skin 1835 Pelvis 0.7600 Spine 0.0600 Gut 0.1200 Chest 0.0600 
+skin 1836 Pelvis 0.8384 Spine 0.0404 Gut 0.1010 Chest 0.0202 
+skin 1837 Pelvis 0.8600 Spine 0.0400 Gut 0.0900 Chest 0.0100 
+skin 1838 Pelvis 0.7700 Spine 0.0500 Gut 0.1400 Chest 0.0400 
+skin 1839 Pelvis 0.5446 Spine 0.0891 Gut 0.2178 Chest 0.1485 
+skin 1840 Pelvis 0.5644 Spine 0.0891 Gut 0.2079 Chest 0.1386 
+skin 1841 Pelvis 0.5800 Spine 0.1000 Gut 0.1900 Chest 0.1300 
+skin 1842 Pelvis 0.4500 Spine 0.1200 Gut 0.2200 Chest 0.2100 
+skin 1843 Spine 0.0400 Gut 0.2100 Chest 0.5100 Left_FrontHip 0.2400 
+hier Pelvis Spine
+hier Pelvis Tail0
+hier Pelvis Left_BackHip
+hier Pelvis Right_BackHip
+hier Spine Gut
+hier Tail0 Tail1
+hier Left_BackHip Left_BackKnee
+hier Right_BackHip Right_BackKnee
+hier Gut Chest
+hier Left_BackKnee Left_BackAnkle
+hier Right_BackKnee Right_BackAnkle
+hier Chest Right_FrontHip
+hier Chest Left_FrontHip
+hier Chest HorseHead0
+hier Left_BackAnkle Left_BackBall
+hier Right_BackAnkle Right_BackBall
+hier Right_FrontHip Right_FrontKnee
+hier Left_FrontHip Left_FrontKnee
+hier HorseHead0 HorseHead1
+hier Right_FrontKnee Right_FrontAnkle
+hier Left_FrontKnee Left_FrontAnkle
+hier Right_FrontAnkle Right_FrontBall
+hier Left_FrontAnkle Left_FrontBall

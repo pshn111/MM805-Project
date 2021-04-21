@@ -1,0 +1,2134 @@
+joints joint_base 0.00000000 0.19179300 -0.00939180
+joints joint_hara -0.00000029 0.28604900 -0.03168900
+joints joint_momo_L 0.08542280 0.19885300 -0.01427920
+joints joint_momo_R -0.08542280 0.19885300 -0.01427870
+joints joint_hart -0.00000055 0.37523800 -0.04689170
+joints joint_foot_L 0.08533540 0.11894000 -0.00890160
+joints joint_foot_R -0.08533510 0.11893900 -0.00890100
+joints joint_kata -0.00000081 0.47962900 -0.04689180
+joints joint_ude_L 0.14180000 0.44474900 -0.01201500
+joints joint_ude_R -0.14180200 0.44474900 -0.01201420
+joints joint_too_L 0.08542320 0.05709040 -0.01517560
+joints joint_too_R -0.08542260 0.05709000 -0.01517480
+joints joint_kubi -0.00000092 0.56273700 -0.01243260
+joints joint_te_L 0.28425300 0.44483600 -0.01425790
+joints joint_te_R -0.28425400 0.44483500 -0.01425620
+joints hat -0.00000100 0.64722400 0.07338230
+joints joint_kao -0.00000091 0.59821000 0.07574260
+joints joint_hand_L 0.40539400 0.44475000 -0.00752900
+joints joint_hand_R -0.40539500 0.44474800 -0.00752660
+joints joint_k_B_end -0.00000056 0.47253500 0.24601300
+joints joint_yubi_L 0.46080600 0.45059200 -0.00742140
+joints joint_yubi_R -0.46080600 0.45058900 -0.00741860
+joints joint_y_B_L 0.47198100 0.39583300 -0.00843290
+joints joint_y_B_R -0.47198100 0.39583000 -0.00842990
+root joint_base
+skin 0 joint_te_R 1.0000 
+skin 1 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 2 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 3 joint_ude_R 0.6300 joint_te_R 0.3700 
+skin 4 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 5 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 6 joint_ude_R 0.6100 joint_te_R 0.3900 
+skin 7 joint_te_R 1.0000 
+skin 8 joint_ude_R 0.0200 joint_te_R 0.9800 
+skin 9 joint_ude_R 0.0200 joint_te_R 0.9800 
+skin 10 joint_ude_R 0.4800 joint_te_R 0.5200 
+skin 11 joint_te_R 1.0000 
+skin 12 joint_te_R 1.0000 
+skin 13 joint_te_R 1.0000 
+skin 14 joint_te_R 0.9200 joint_hand_R 0.0800 
+skin 15 joint_te_R 1.0000 
+skin 16 joint_ude_L 1.0000 
+skin 17 joint_hart 0.4700 joint_ude_L 0.5300 
+skin 18 joint_ude_L 1.0000 
+skin 19 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 20 joint_te_L 1.0000 
+skin 21 joint_ude_L 0.6300 joint_te_L 0.3700 
+skin 22 joint_te_L 1.0000 
+skin 23 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 24 joint_te_L 1.0000 
+skin 25 joint_te_L 1.0000 
+skin 26 joint_te_L 1.0000 
+skin 27 joint_te_L 1.0000 
+skin 28 joint_te_L 1.0000 
+skin 29 joint_te_L 1.0000 
+skin 30 joint_te_L 1.0000 
+skin 31 joint_te_L 1.0000 
+skin 32 joint_yubi_L 1.0000 
+skin 33 joint_yubi_L 0.5600 joint_y_B_L 0.4400 
+skin 34 joint_yubi_L 1.0000 
+skin 35 joint_hand_L 0.3700 joint_yubi_L 0.6300 
+skin 36 joint_hand_L 0.3700 joint_yubi_L 0.6300 
+skin 37 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 38 joint_hand_L 1.0000 
+skin 39 joint_hand_L 0.8800 joint_yubi_L 0.1200 
+skin 40 joint_yubi_L 0.5600 joint_y_B_L 0.4400 
+skin 41 joint_hand_L 0.8400 joint_yubi_L 0.1600 
+skin 42 joint_hand_L 1.0000 
+skin 43 joint_hand_L 1.0000 
+skin 44 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 45 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 46 joint_hand_L 1.0000 
+skin 47 joint_hand_L 1.0000 
+skin 48 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 49 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 50 joint_hand_L 0.9100 joint_yubi_L 0.0900 
+skin 51 joint_hand_L 1.0000 
+skin 52 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 53 joint_yubi_L 1.0000 
+skin 54 joint_yubi_L 0.5000 joint_y_B_L 0.5000 
+skin 55 joint_te_L 1.0000 
+skin 56 joint_te_L 1.0000 
+skin 57 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 58 joint_te_L 1.0000 
+skin 59 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 60 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 61 joint_te_L 1.0000 
+skin 62 joint_te_L 0.9300 joint_hand_L 0.0700 
+skin 63 joint_te_L 0.9400 joint_hand_L 0.0600 
+skin 64 joint_te_L 0.9400 joint_hand_L 0.0600 
+skin 65 joint_te_L 1.0000 
+skin 66 joint_yubi_R 1.0000 
+skin 67 joint_yubi_R 0.5000 joint_y_B_R 0.5000 
+skin 68 joint_yubi_R 1.0000 
+skin 69 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 70 joint_hand_R 0.5500 joint_yubi_R 0.4500 
+skin 71 joint_yubi_R 1.0000 
+skin 72 joint_yubi_R 1.0000 
+skin 73 joint_base 1.0000 
+skin 74 joint_base 0.9900 joint_hara 0.0100 
+skin 75 joint_base 0.1700 joint_momo_R 0.8300 
+skin 76 joint_base 0.1700 joint_momo_R 0.8300 
+skin 77 joint_foot_R 1.0000 
+skin 78 joint_foot_R 1.0000 
+skin 79 joint_foot_R 1.0000 
+skin 80 joint_momo_R 0.5300 joint_foot_R 0.4700 
+skin 81 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 82 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 83 joint_momo_R 0.5400 joint_foot_R 0.4600 
+skin 84 joint_base 1.0000 
+skin 85 joint_base 1.0000 
+skin 86 joint_base 1.0000 
+skin 87 joint_base 0.9000 joint_hara 0.1000 
+skin 88 joint_base 0.8800 joint_hara 0.1200 
+skin 89 joint_base 0.8800 joint_hara 0.1200 
+skin 90 joint_base 0.9700 joint_hara 0.0300 
+skin 91 joint_base 1.0000 
+skin 92 joint_base 0.9900 joint_hara 0.0100 
+skin 93 joint_base 0.9900 joint_hara 0.0100 
+skin 94 joint_base 0.9700 joint_hara 0.0300 
+skin 95 joint_base 1.0000 
+skin 96 joint_base 1.0000 
+skin 97 joint_base 0.9900 joint_hara 0.0100 
+skin 98 joint_base 1.0000 
+skin 99 joint_base 1.0000 
+skin 100 joint_base 0.9400 joint_hara 0.0600 
+skin 101 joint_base 0.6300 joint_hara 0.3700 
+skin 102 joint_base 1.0000 
+skin 103 joint_base 1.0000 
+skin 104 joint_base 1.0000 
+skin 105 joint_base 1.0000 
+skin 106 joint_base 1.0000 
+skin 107 joint_base 0.8900 joint_hara 0.1100 
+skin 108 joint_base 1.0000 
+skin 109 joint_base 1.0000 
+skin 110 joint_base 1.0000 
+skin 111 joint_base 1.0000 
+skin 112 joint_base 1.0000 
+skin 113 joint_base 1.0000 
+skin 114 joint_base 1.0000 
+skin 115 joint_base 1.0000 
+skin 116 joint_base 1.0000 
+skin 117 joint_base 1.0000 
+skin 118 joint_base 1.0000 
+skin 119 joint_base 1.0000 
+skin 120 joint_base 1.0000 
+skin 121 joint_base 0.9400 joint_hara 0.0600 
+skin 122 joint_base 0.9900 joint_hara 0.0100 
+skin 123 joint_base 1.0000 
+skin 124 joint_base 1.0000 
+skin 125 joint_base 1.0000 
+skin 126 joint_base 1.0000 
+skin 127 joint_base 1.0000 
+skin 128 joint_base 1.0000 
+skin 129 joint_base 1.0000 
+skin 130 joint_base 1.0000 
+skin 131 joint_base 1.0000 
+skin 132 joint_base 1.0000 
+skin 133 joint_base 1.0000 
+skin 134 joint_base 1.0000 
+skin 135 joint_base 1.0000 
+skin 136 joint_base 1.0000 
+skin 137 joint_base 1.0000 
+skin 138 joint_base 1.0000 
+skin 139 joint_base 1.0000 
+skin 140 joint_base 1.0000 
+skin 141 joint_base 1.0000 
+skin 142 joint_base 1.0000 
+skin 143 joint_base 1.0000 
+skin 144 joint_base 1.0000 
+skin 145 joint_base 0.5200 joint_hara 0.4800 
+skin 146 joint_base 0.9900 joint_hara 0.0100 
+skin 147 joint_base 0.8900 joint_hara 0.1100 
+skin 148 joint_base 1.0000 
+skin 149 joint_base 1.0000 
+skin 150 joint_base 1.0000 
+skin 151 joint_base 1.0000 
+skin 152 joint_base 1.0000 
+skin 153 joint_base 1.0000 
+skin 154 joint_base 1.0000 
+skin 155 joint_base 1.0000 
+skin 156 joint_base 1.0000 
+skin 157 joint_base 1.0000 
+skin 158 joint_base 1.0000 
+skin 159 joint_base 1.0000 
+skin 160 joint_base 1.0000 
+skin 161 joint_base 1.0000 
+skin 162 joint_base 1.0000 
+skin 163 joint_base 1.0000 
+skin 164 joint_base 1.0000 
+skin 165 joint_base 0.9900 joint_hara 0.0100 
+skin 166 joint_base 1.0000 
+skin 167 joint_base 1.0000 
+skin 168 joint_base 0.9400 joint_hara 0.0600 
+skin 169 joint_base 1.0000 
+skin 170 joint_base 0.6300 joint_hara 0.3700 
+skin 171 joint_base 1.0000 
+skin 172 joint_base 1.0000 
+skin 173 joint_base 1.0000 
+skin 174 joint_base 1.0000 
+skin 175 joint_base 0.8900 joint_hara 0.1100 
+skin 176 joint_base 1.0000 
+skin 177 joint_base 1.0000 
+skin 178 joint_base 1.0000 
+skin 179 joint_base 1.0000 
+skin 180 joint_base 1.0000 
+skin 181 joint_base 1.0000 
+skin 182 joint_base 1.0000 
+skin 183 joint_base 1.0000 
+skin 184 joint_base 1.0000 
+skin 185 joint_base 1.0000 
+skin 186 joint_base 1.0000 
+skin 187 joint_base 1.0000 
+skin 188 joint_base 1.0000 
+skin 189 joint_base 0.9400 joint_hara 0.0600 
+skin 190 joint_base 0.9900 joint_hara 0.0100 
+skin 191 joint_base 1.0000 
+skin 192 joint_base 1.0000 
+skin 193 joint_base 1.0000 
+skin 194 joint_base 1.0000 
+skin 195 joint_base 1.0000 
+skin 196 joint_base 1.0000 
+skin 197 joint_base 1.0000 
+skin 198 joint_base 1.0000 
+skin 199 joint_base 1.0000 
+skin 200 joint_base 1.0000 
+skin 201 joint_base 1.0000 
+skin 202 joint_base 1.0000 
+skin 203 joint_base 1.0000 
+skin 204 joint_base 1.0000 
+skin 205 joint_base 1.0000 
+skin 206 joint_base 1.0000 
+skin 207 joint_base 1.0000 
+skin 208 joint_base 1.0000 
+skin 209 joint_base 1.0000 
+skin 210 joint_base 1.0000 
+skin 211 joint_base 1.0000 
+skin 212 joint_base 0.5200 joint_hara 0.4800 
+skin 213 joint_base 1.0000 
+skin 214 joint_base 0.9900 joint_hara 0.0100 
+skin 215 joint_base 0.8900 joint_hara 0.1100 
+skin 216 joint_base 1.0000 
+skin 217 joint_base 1.0000 
+skin 218 joint_base 1.0000 
+skin 219 joint_base 1.0000 
+skin 220 joint_base 1.0000 
+skin 221 joint_base 1.0000 
+skin 222 joint_base 1.0000 
+skin 223 joint_base 1.0000 
+skin 224 joint_base 1.0000 
+skin 225 joint_base 1.0000 
+skin 226 joint_base 1.0000 
+skin 227 joint_base 1.0000 
+skin 228 joint_base 1.0000 
+skin 229 joint_base 1.0000 
+skin 230 joint_base 1.0000 
+skin 231 joint_foot_R 1.0000 
+skin 232 joint_foot_R 0.7300 joint_too_R 0.2700 
+skin 233 joint_base 0.2600 joint_momo_L 0.7400 
+skin 234 joint_base 0.2600 joint_momo_L 0.7400 
+skin 235 joint_base 0.9800 joint_foot_L 0.0200 
+skin 236 joint_base 1.0000 
+skin 237 joint_base 1.0000 
+skin 238 joint_base 1.0000 
+skin 239 joint_base 1.0000 
+skin 240 joint_base 1.0000 
+skin 241 joint_foot_L 1.0000 
+skin 242 joint_foot_L 0.7300 joint_too_L 0.2700 
+skin 243 joint_foot_L 1.0000 
+skin 244 joint_foot_L 1.0000 
+skin 245 joint_hart 0.8800 joint_kata 0.1200 
+skin 246 joint_hart 0.7600 joint_kata 0.2400 
+skin 247 joint_hart 0.8800 joint_kata 0.1200 
+skin 248 joint_hart 0.8700 joint_kata 0.1300 
+skin 249 joint_hart 0.4000 joint_kata 0.6000 
+skin 250 joint_hart 0.4000 joint_kata 0.6000 
+skin 251 joint_hart 0.4000 joint_kata 0.6000 
+skin 252 joint_hart 0.4500 joint_kata 0.5500 
+skin 253 joint_kata 0.5400 joint_kubi 0.4600 
+skin 254 joint_kata 0.5300 joint_kubi 0.4700 
+skin 255 joint_kata 0.5400 joint_kubi 0.4600 
+skin 256 joint_kata 0.5600 joint_kubi 0.4400 
+skin 257 joint_kubi 0.5500 joint_kao 0.4500 
+skin 258 joint_kubi 0.5200 joint_kao 0.4800 
+skin 259 joint_kubi 0.5500 joint_kao 0.4500 
+skin 260 joint_kubi 0.5500 joint_kao 0.4500 
+skin 261 joint_kubi 0.5500 joint_kao 0.4500 
+skin 262 joint_kubi 0.5600 joint_kao 0.4400 
+skin 263 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 264 joint_kubi 0.0700 joint_kao 0.8800 joint_k_B_end 0.0500 
+skin 265 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 266 joint_kao 0.9100 joint_k_B_end 0.0900 
+skin 267 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 268 joint_hart 0.2300 joint_kubi 0.0800 joint_kao 0.6400 joint_k_B_end 0.0500 
+skin 269 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 270 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 271 joint_hart 0.9500 joint_kata 0.0500 
+skin 272 joint_hart 0.8800 joint_kata 0.1200 
+skin 273 joint_hart 0.4000 joint_kata 0.6000 
+skin 274 joint_hart 0.4000 joint_kata 0.6000 
+skin 275 joint_kata 0.5900 joint_kubi 0.4100 
+skin 276 joint_kata 0.5400 joint_kubi 0.4600 
+skin 277 joint_kubi 0.0500 joint_kao 0.9500 
+skin 278 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 279 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 280 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 281 joint_kubi 0.5300 joint_kao 0.4700 
+skin 282 joint_kubi 0.5200 joint_kao 0.4800 
+skin 283 joint_kubi 0.5700 joint_kao 0.4300 
+skin 284 joint_kubi 0.5300 joint_kao 0.4700 
+skin 285 joint_kubi 0.5000 joint_kao 0.5000 
+skin 286 joint_kubi 0.5000 joint_kao 0.5000 
+skin 287 joint_kubi 0.5000 joint_kao 0.5000 
+skin 288 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 289 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 290 joint_kubi 0.5200 joint_kao 0.4800 
+skin 291 joint_kubi 0.5200 joint_kao 0.4800 
+skin 292 joint_kubi 0.5200 joint_kao 0.4800 
+skin 293 joint_kubi 0.6800 joint_kao 0.3200 
+skin 294 joint_kubi 0.5500 joint_kao 0.4500 
+skin 295 joint_kata 0.6300 joint_kubi 0.3700 
+skin 296 joint_kata 0.5300 joint_kubi 0.4700 
+skin 297 joint_kata 0.6100 joint_kubi 0.3900 
+skin 298 joint_kata 0.6100 joint_kubi 0.3900 
+skin 299 joint_hart 0.3100 joint_kata 0.6900 
+skin 300 joint_hart 0.4000 joint_kata 0.6000 
+skin 301 joint_hart 0.3700 joint_kata 0.6300 
+skin 302 joint_hart 0.3700 joint_kata 0.6300 
+skin 303 joint_hart 0.3700 joint_kata 0.6300 
+skin 304 joint_hart 0.3600 joint_kata 0.6400 
+skin 305 joint_kata 0.5300 joint_kubi 0.4700 
+skin 306 joint_kata 0.6100 joint_kubi 0.3900 
+skin 307 joint_kata 0.5900 joint_kubi 0.4100 
+skin 308 joint_hart 0.3700 joint_kata 0.6300 
+skin 309 joint_hart 0.7600 joint_kata 0.2400 
+skin 310 joint_hart 0.7600 joint_kata 0.2400 
+skin 311 joint_hart 0.6800 joint_kata 0.3200 
+skin 312 joint_hart 0.7100 joint_kata 0.2900 
+skin 313 joint_hart 0.4000 joint_kata 0.6000 
+skin 314 joint_hart 0.3700 joint_kata 0.6300 
+skin 315 joint_hart 0.6800 joint_kata 0.3200 
+skin 316 joint_hart 0.4000 joint_kata 0.6000 
+skin 317 joint_kata 0.6300 joint_kubi 0.3700 
+skin 318 joint_kata 0.6200 joint_kubi 0.3800 
+skin 319 joint_hart 0.3100 joint_kata 0.6900 
+skin 320 joint_hart 0.3300 joint_kata 0.6700 
+skin 321 joint_kata 0.5000 joint_kubi 0.5000 
+skin 322 joint_kata 0.5300 joint_kubi 0.4700 
+skin 323 joint_kata 0.5100 joint_kubi 0.4900 
+skin 324 joint_kata 0.6100 joint_kubi 0.3900 
+skin 325 joint_kata 0.5000 joint_kubi 0.5000 
+skin 326 joint_kata 0.5000 joint_kubi 0.5000 
+skin 327 joint_kata 0.5000 joint_kubi 0.5000 
+skin 328 joint_hart 0.4000 joint_kata 0.6000 
+skin 329 joint_hart 0.3700 joint_kata 0.6300 
+skin 330 joint_hart 0.7600 joint_kata 0.2400 
+skin 331 joint_hart 0.7600 joint_kata 0.2400 
+skin 332 joint_kubi 0.5600 joint_kao 0.4400 
+skin 333 joint_kubi 0.5700 joint_kao 0.4300 
+skin 334 joint_kubi 0.5200 joint_kao 0.4800 
+skin 335 joint_kubi 0.5300 joint_kao 0.4700 
+skin 336 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 337 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 338 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 339 joint_kubi 0.5200 joint_kao 0.4800 
+skin 340 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 341 joint_kao 0.9100 joint_k_B_end 0.0900 
+skin 342 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 343 joint_hart 0.1300 joint_kao 0.8000 joint_k_B_end 0.0700 
+skin 344 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 345 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 346 joint_hart 0.1200 joint_kao 0.8000 joint_k_B_end 0.0800 
+skin 347 joint_hart 0.1200 joint_kao 0.8000 joint_k_B_end 0.0800 
+skin 348 joint_kata 0.5000 joint_kubi 0.5000 
+skin 349 joint_kata 0.5000 joint_kubi 0.5000 
+skin 350 joint_kubi 0.6000 joint_kao 0.4000 
+skin 351 joint_kubi 0.6000 joint_kao 0.4000 
+skin 352 joint_hart 0.1000 joint_kata 0.1000 joint_kubi 0.5900 joint_kao 0.2100 
+skin 353 joint_kubi 0.5600 joint_kao 0.4400 
+skin 354 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 355 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 356 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 357 joint_hart 0.8600 joint_kata 0.1400 
+skin 358 joint_hart 0.8700 joint_kata 0.1300 
+skin 359 joint_hart 0.8600 joint_kata 0.1400 
+skin 360 joint_hart 0.7500 joint_kata 0.2500 
+skin 361 joint_hart 0.3600 joint_kata 0.6400 
+skin 362 joint_hart 0.3500 joint_kata 0.6500 
+skin 363 joint_hart 0.3500 joint_kata 0.6500 
+skin 364 joint_hart 0.3500 joint_kata 0.6500 
+skin 365 joint_hart 0.3600 joint_kata 0.6400 
+skin 366 joint_kata 0.5400 joint_kubi 0.4600 
+skin 367 joint_kata 0.5400 joint_kubi 0.4600 
+skin 368 joint_kata 0.5400 joint_kubi 0.4600 
+skin 369 joint_kata 0.5500 joint_kubi 0.4500 
+skin 370 joint_kata 0.5400 joint_kubi 0.4600 
+skin 371 joint_kubi 0.5500 joint_kao 0.4500 
+skin 372 joint_kubi 0.5900 joint_kao 0.4100 
+skin 373 joint_kubi 0.5500 joint_kao 0.4500 
+skin 374 joint_kubi 0.5300 joint_kao 0.4700 
+skin 375 joint_kubi 0.5600 joint_kao 0.4400 
+skin 376 joint_kubi 0.5500 joint_kao 0.4500 
+skin 377 joint_hart 0.8600 joint_kata 0.1400 
+skin 378 joint_hart 0.9400 joint_kata 0.0600 
+skin 379 joint_hart 0.3900 joint_kata 0.6100 
+skin 380 joint_hart 0.3600 joint_kata 0.6400 
+skin 381 joint_kata 0.5400 joint_kubi 0.4600 
+skin 382 joint_kata 0.5400 joint_kubi 0.4600 
+skin 383 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 384 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 385 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 386 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 387 joint_kubi 0.5300 joint_kao 0.4700 
+skin 388 joint_kubi 0.5300 joint_kao 0.4700 
+skin 389 joint_kubi 0.5700 joint_kao 0.4300 
+skin 390 joint_kubi 0.5300 joint_kao 0.4700 
+skin 391 joint_kubi 0.5000 joint_kao 0.5000 
+skin 392 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 393 joint_kubi 0.5000 joint_kao 0.5000 
+skin 394 joint_kubi 0.5200 joint_kao 0.4800 
+skin 395 joint_kubi 0.5200 joint_kao 0.4800 
+skin 396 joint_kubi 0.5500 joint_kao 0.4500 
+skin 397 joint_kata 0.0700 joint_kubi 0.6400 joint_kao 0.2900 
+skin 398 joint_kata 0.5600 joint_kubi 0.4400 
+skin 399 joint_kata 0.6300 joint_kubi 0.3700 
+skin 400 joint_kata 0.5600 joint_kubi 0.4400 
+skin 401 joint_hart 0.3000 joint_kata 0.7000 
+skin 402 joint_hart 0.3100 joint_kata 0.6900 
+skin 403 joint_hart 0.3000 joint_kata 0.7000 
+skin 404 joint_kata 0.5600 joint_kubi 0.4400 
+skin 405 joint_hart 0.4100 joint_kata 0.5900 
+skin 406 joint_kata 0.5400 joint_kubi 0.4600 
+skin 407 joint_hart 0.4100 joint_kata 0.5900 
+skin 408 joint_kata 0.5400 joint_kubi 0.4600 
+skin 409 joint_hart 0.7500 joint_kata 0.2500 
+skin 410 joint_hart 0.7900 joint_kata 0.2100 
+skin 411 joint_hart 0.3000 joint_kata 0.7000 
+skin 412 joint_hart 0.7500 joint_kata 0.2500 
+skin 413 joint_hart 0.3500 joint_kata 0.6500 
+skin 414 joint_hart 0.3900 joint_kata 0.6100 
+skin 415 joint_hart 0.7500 joint_kata 0.2500 
+skin 416 joint_kata 0.5000 joint_kubi 0.5000 
+skin 417 joint_kata 0.5000 joint_kubi 0.5000 
+skin 418 joint_kata 0.5400 joint_kubi 0.4600 
+skin 419 joint_kata 0.5600 joint_kubi 0.4400 
+skin 420 joint_kata 0.5000 joint_kubi 0.5000 
+skin 421 joint_kata 0.5000 joint_kubi 0.5000 
+skin 422 joint_kata 0.5000 joint_kubi 0.5000 
+skin 423 joint_hart 0.3500 joint_kata 0.6500 
+skin 424 joint_hart 0.3000 joint_kata 0.7000 
+skin 425 joint_hart 0.7500 joint_kata 0.2500 
+skin 426 joint_hart 0.7900 joint_kata 0.2100 
+skin 427 joint_kubi 0.5300 joint_kao 0.4700 
+skin 428 joint_kubi 0.5300 joint_kao 0.4700 
+skin 429 joint_kubi 0.5200 joint_kao 0.4800 
+skin 430 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 431 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 432 joint_hart 0.1200 joint_kao 0.8100 joint_k_B_end 0.0700 
+skin 433 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 434 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 435 joint_hart 0.2000 joint_kubi 0.0600 joint_kao 0.6800 joint_k_B_end 0.0600 
+skin 436 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 437 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 438 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 439 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 440 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 441 joint_kata 0.0200 joint_kao 0.9600 joint_k_B_end 0.0200 
+skin 442 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 443 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 444 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 445 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 446 joint_kata 0.0200 joint_kao 0.9600 joint_k_B_end 0.0200 
+skin 447 joint_kata 0.0600 joint_kao 0.9300 joint_k_B_end 0.0100 
+skin 448 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 449 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 450 joint_kata 0.0600 joint_kao 0.9300 joint_k_B_end 0.0100 
+skin 451 joint_kubi 0.5600 joint_kao 0.4400 
+skin 452 joint_kubi 0.6100 joint_kao 0.3900 
+skin 453 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 454 joint_kata 0.0600 joint_kao 0.9300 joint_k_B_end 0.0100 
+skin 455 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 456 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 457 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 458 joint_kubi 0.1200 joint_kao 0.8400 joint_k_B_end 0.0400 
+skin 459 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 460 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 461 joint_hart 0.9300 joint_kata 0.0700 
+skin 462 joint_hart 0.9400 joint_kata 0.0600 
+skin 463 joint_hart 0.9300 joint_kata 0.0700 
+skin 464 joint_hart 0.9600 joint_kata 0.0400 
+skin 465 joint_hart 0.9800 joint_kata 0.0200 
+skin 466 joint_hart 0.9800 joint_kata 0.0200 
+skin 467 joint_hart 0.9500 joint_kata 0.0500 
+skin 468 joint_hart 0.5800 joint_kata 0.4200 
+skin 469 joint_hart 0.9400 joint_kata 0.0600 
+skin 470 joint_hart 0.5800 joint_kata 0.4200 
+skin 471 joint_hart 0.3900 joint_kata 0.6100 
+skin 472 joint_hart 0.8200 joint_kata 0.1800 
+skin 473 joint_hart 0.4600 joint_kata 0.4500 joint_kubi 0.0900 
+skin 474 joint_hart 0.4600 joint_kata 0.4500 joint_kubi 0.0900 
+skin 475 joint_hart 0.6500 joint_kata 0.3500 
+skin 476 joint_hart 0.4000 joint_kata 0.6000 
+skin 477 joint_hart 0.6500 joint_kata 0.3500 
+skin 478 joint_hart 0.9800 joint_kata 0.0200 
+skin 479 joint_hart 0.9500 joint_kata 0.0500 
+skin 480 joint_hart 0.8000 joint_kata 0.2000 
+skin 481 joint_hart 0.4900 joint_kata 0.4900 joint_kubi 0.0200 
+skin 482 joint_hart 0.4900 joint_kata 0.4900 joint_kubi 0.0200 
+skin 483 joint_kubi 0.4200 joint_kao 0.5800 
+skin 484 joint_kubi 0.4900 joint_kao 0.5100 
+skin 485 joint_kubi 0.4900 joint_kao 0.5100 
+skin 486 joint_kubi 0.5200 joint_kao 0.4800 
+skin 487 joint_kubi 0.4900 joint_kao 0.5100 
+skin 488 joint_kubi 0.4700 joint_kao 0.5300 
+skin 489 hat 1.0000 
+skin 490 joint_kubi 0.4700 joint_kao 0.5300 
+skin 491 joint_kubi 0.4700 joint_kao 0.5300 
+skin 492 joint_kubi 0.4200 joint_kao 0.5800 
+skin 493 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 494 joint_kubi 0.5300 joint_kao 0.4700 
+skin 495 hat 1.0000 
+skin 496 joint_kubi 0.5600 joint_kao 0.4400 
+skin 497 hat 1.0000 
+skin 498 joint_kubi 0.5500 joint_kao 0.4500 
+skin 499 joint_kubi 0.5500 joint_kao 0.4500 
+skin 500 joint_kubi 0.5600 joint_kao 0.4400 
+skin 501 joint_kubi 0.5200 joint_kao 0.4800 
+skin 502 joint_kubi 0.5500 joint_kao 0.4500 
+skin 503 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 504 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 505 joint_kubi 0.5500 joint_kao 0.4500 
+skin 506 joint_kubi 0.4200 joint_kao 0.5800 
+skin 507 joint_kubi 0.5200 joint_kao 0.4800 
+skin 508 joint_kubi 0.5000 joint_kao 0.5000 
+skin 509 joint_kubi 0.5000 joint_kao 0.5000 
+skin 510 joint_kubi 0.4700 joint_kao 0.5300 
+skin 511 joint_kubi 0.5000 joint_kao 0.5000 
+skin 512 hat 1.0000 
+skin 513 joint_kubi 0.4700 joint_kao 0.5300 
+skin 514 joint_kubi 0.4700 joint_kao 0.5300 
+skin 515 joint_kubi 0.4200 joint_kao 0.5800 
+skin 516 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 517 joint_kubi 0.5300 joint_kao 0.4700 
+skin 518 hat 1.0000 
+skin 519 joint_kubi 0.5500 joint_kao 0.4500 
+skin 520 joint_kubi 0.5600 joint_kao 0.4400 
+skin 521 joint_kubi 0.5500 joint_kao 0.4500 
+skin 522 hat 1.0000 
+skin 523 joint_kubi 0.5200 joint_kao 0.4800 
+skin 524 joint_kubi 0.5600 joint_kao 0.4400 
+skin 525 joint_kubi 0.5500 joint_kao 0.4500 
+skin 526 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 527 joint_kubi 0.5500 joint_kao 0.4500 
+skin 528 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 529 joint_ude_R 0.0100 joint_kao 0.9700 joint_k_B_end 0.0200 
+skin 530 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 531 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 532 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 533 joint_hart 0.7200 joint_ude_R 0.2800 
+skin 534 joint_hart 0.4700 joint_ude_R 0.5300 
+skin 535 joint_hart 0.7200 joint_ude_R 0.2800 
+skin 536 joint_hart 0.7600 joint_ude_R 0.2400 
+skin 537 joint_kao 0.5600 joint_k_B_end 0.4400 
+skin 538 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 539 joint_kao 0.5600 joint_k_B_end 0.4400 
+skin 540 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 541 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 542 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 543 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 544 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 545 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 546 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 547 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 548 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 549 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 550 joint_kao 0.9100 joint_k_B_end 0.0900 
+skin 551 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 552 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 553 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 554 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 555 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 556 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 557 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 558 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 559 hat 1.0000 
+skin 560 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 561 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 562 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 563 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 564 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 565 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 566 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 567 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 568 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 569 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 570 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 571 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 572 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 573 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 574 hat 1.0000 
+skin 575 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 576 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 577 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 578 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 579 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 580 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 581 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 582 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 583 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 584 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 585 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 586 joint_kao 0.9100 joint_k_B_end 0.0900 
+skin 587 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 588 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 589 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 590 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 591 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 592 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 593 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 594 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 595 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 596 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 597 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 598 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 599 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 600 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 601 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 602 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 603 joint_kao 0.5600 joint_k_B_end 0.4400 
+skin 604 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 605 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 606 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 607 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 608 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 609 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 610 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 611 hat 1.0000 
+skin 612 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 613 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 614 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 615 joint_kao 0.8700 joint_k_B_end 0.1300 
+skin 616 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 617 joint_kao 0.9100 joint_k_B_end 0.0900 
+skin 618 joint_kao 0.5400 joint_k_B_end 0.4600 
+skin 619 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 620 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 621 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 622 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 623 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 624 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 625 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 626 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 627 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 628 joint_kao 0.5500 joint_k_B_end 0.4500 
+skin 629 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 630 hat 1.0000 
+skin 631 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 632 joint_kao 0.9800 joint_k_B_end 0.0200 
+skin 633 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 634 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 635 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 636 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 637 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 638 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 639 joint_hart 0.5200 joint_kata 0.0100 joint_ude_R 0.4700 
+skin 640 joint_hart 0.5200 joint_kata 0.0100 joint_ude_R 0.4700 
+skin 641 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 642 joint_hart 0.5200 joint_kata 0.0100 joint_ude_R 0.4700 
+skin 643 joint_ude_R 0.6100 joint_te_R 0.3900 
+skin 644 joint_kata 0.1800 joint_ude_R 0.8200 
+skin 645 joint_hart 0.0500 joint_kata 0.1000 joint_ude_R 0.8500 
+skin 646 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 647 joint_hart 0.7600 joint_ude_R 0.2400 
+skin 648 joint_hart 0.5200 joint_kata 0.0100 joint_ude_R 0.4700 
+skin 649 joint_hart 0.6400 joint_kata 0.0300 joint_ude_R 0.3300 
+skin 650 joint_hart 0.7600 joint_ude_R 0.2400 
+skin 651 joint_hart 0.5800 joint_kata 0.4200 
+skin 652 joint_hart 0.6400 joint_kata 0.0300 joint_ude_R 0.3300 
+skin 653 joint_hart 0.6100 joint_ude_R 0.3900 
+skin 654 joint_hart 0.9300 joint_kata 0.0700 
+skin 655 joint_hart 0.9800 joint_kata 0.0100 joint_ude_R 0.0100 
+skin 656 joint_hart 0.0500 joint_kata 0.1000 joint_ude_R 0.8500 
+skin 657 joint_hart 0.6100 joint_ude_R 0.3900 
+skin 658 joint_hart 0.0500 joint_kata 0.1000 joint_ude_R 0.8500 
+skin 659 joint_hart 0.9600 joint_kata 0.0400 
+skin 660 joint_hart 0.9800 joint_kata 0.0100 joint_ude_R 0.0100 
+skin 661 joint_hart 0.9300 joint_kata 0.0700 
+skin 662 joint_hart 0.9800 joint_kata 0.0100 joint_ude_R 0.0100 
+skin 663 joint_hart 0.9300 joint_kata 0.0700 
+skin 664 joint_ude_R 0.6300 joint_te_R 0.3700 
+skin 665 joint_ude_R 0.6300 joint_te_R 0.3700 
+skin 666 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 667 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 668 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 669 joint_ude_R 0.4700 joint_te_R 0.5300 
+skin 670 joint_ude_R 0.4700 joint_te_R 0.5300 
+skin 671 joint_ude_R 0.4700 joint_te_R 0.5300 
+skin 672 joint_ude_R 0.6200 joint_te_R 0.3800 
+skin 673 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 674 joint_ude_R 0.4800 joint_te_R 0.5200 
+skin 675 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 676 joint_ude_R 0.0100 joint_te_R 0.9900 
+skin 677 joint_ude_R 0.4700 joint_te_R 0.5300 
+skin 678 joint_te_R 1.0000 
+skin 679 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 680 joint_ude_R 0.0200 joint_te_R 0.9800 
+skin 681 joint_ude_R 0.0200 joint_te_R 0.9800 
+skin 682 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 683 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 684 joint_te_R 1.0000 
+skin 685 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 686 joint_te_R 0.9300 joint_hand_R 0.0700 
+skin 687 joint_te_R 0.9300 joint_hand_R 0.0700 
+skin 688 joint_te_R 0.9300 joint_hand_R 0.0700 
+skin 689 joint_hart 0.9300 joint_ude_L 0.0700 
+skin 690 joint_hart 0.9300 joint_kata 0.0700 
+skin 691 joint_hart 0.9300 joint_ude_L 0.0700 
+skin 692 joint_base 0.6300 joint_hara 0.3700 
+skin 693 joint_base 0.0200 joint_hara 0.0200 joint_hart 0.9200 joint_kata 0.0400 
+skin 694 joint_hart 0.9800 joint_kata 0.0200 
+skin 695 joint_hart 0.9300 joint_ude_L 0.0700 
+skin 696 joint_hart 0.9900 joint_ude_L 0.0100 
+skin 697 joint_base 0.0400 joint_hara 0.0300 joint_hart 0.8700 joint_kata 0.0600 
+skin 698 joint_hara 0.4400 joint_hart 0.5600 
+skin 699 joint_hara 0.4400 joint_hart 0.5600 
+skin 700 joint_base 0.5000 joint_hara 0.5000 
+skin 701 joint_base 0.5000 joint_hara 0.5000 
+skin 702 joint_base 0.5000 joint_hara 0.5000 
+skin 703 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 704 joint_base 0.0200 joint_hara 0.6300 joint_hart 0.3500 
+skin 705 joint_hara 0.5700 joint_hart 0.4300 
+skin 706 joint_base 0.5700 joint_hara 0.4300 
+skin 707 joint_base 0.5000 joint_hara 0.5000 
+skin 708 joint_hara 0.5700 joint_hart 0.4300 
+skin 709 joint_base 0.0200 joint_hara 0.6300 joint_hart 0.3500 
+skin 710 joint_hara 0.6400 joint_hart 0.3600 
+skin 711 joint_hara 0.5700 joint_hart 0.4300 
+skin 712 joint_base 0.0200 joint_hara 0.6300 joint_hart 0.3500 
+skin 713 joint_hara 0.4700 joint_hart 0.5300 
+skin 714 joint_hara 0.5700 joint_hart 0.4300 
+skin 715 joint_base 0.5000 joint_hara 0.5000 
+skin 716 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 717 joint_base 0.5000 joint_hara 0.5000 
+skin 718 joint_base 0.6300 joint_hara 0.3700 
+skin 719 joint_hart 0.9600 joint_kata 0.0400 
+skin 720 joint_base 0.5000 joint_hara 0.5000 
+skin 721 joint_base 0.5000 joint_hara 0.5000 
+skin 722 joint_hart 0.9600 joint_kata 0.0400 
+skin 723 joint_base 0.5200 joint_hara 0.4800 
+skin 724 joint_base 1.0000 
+skin 725 joint_base 0.5200 joint_hara 0.4800 
+skin 726 joint_base 0.5700 joint_hara 0.4300 
+skin 727 joint_hara 0.0100 joint_hart 0.9200 joint_kata 0.0700 
+skin 728 joint_hara 0.0100 joint_hart 0.9200 joint_kata 0.0700 
+skin 729 joint_base 0.5000 joint_hara 0.5000 
+skin 730 joint_base 0.5000 joint_hara 0.5000 
+skin 731 joint_base 0.5200 joint_hara 0.4800 
+skin 732 joint_base 1.0000 
+skin 733 joint_base 0.5200 joint_hara 0.4800 
+skin 734 joint_base 0.0400 joint_hara 0.0300 joint_hart 0.8700 joint_kata 0.0600 
+skin 735 joint_hara 0.5100 joint_hart 0.4900 
+skin 736 joint_hara 0.0500 joint_hart 0.7700 joint_kata 0.1800 
+skin 737 joint_hart 0.7600 joint_kata 0.2400 
+skin 738 joint_hart 0.8800 joint_kata 0.1200 
+skin 739 joint_hara 0.5700 joint_hart 0.4300 
+skin 740 joint_hara 0.5100 joint_hart 0.4900 
+skin 741 joint_hara 0.5100 joint_hart 0.4900 
+skin 742 joint_hara 0.3700 joint_hart 0.6300 
+skin 743 joint_hart 0.7900 joint_kata 0.2100 
+skin 744 joint_hart 0.7500 joint_kata 0.2500 
+skin 745 joint_hart 0.8600 joint_kata 0.1400 
+skin 746 joint_hara 0.3700 joint_hart 0.6300 
+skin 747 joint_hara 0.5700 joint_hart 0.4300 
+skin 748 joint_hara 0.4700 joint_hart 0.5300 
+skin 749 joint_hart 0.9500 joint_kata 0.0500 
+skin 750 joint_hara 0.1100 joint_hart 0.8900 
+skin 751 joint_hart 0.9800 joint_kata 0.0200 
+skin 752 joint_hart 0.9900 joint_ude_L 0.0100 
+skin 753 joint_hart 0.9300 joint_kata 0.0700 
+skin 754 joint_hart 0.9300 joint_kata 0.0700 
+skin 755 joint_hart 0.9500 joint_kata 0.0500 
+skin 756 joint_hart 0.9900 joint_ude_L 0.0100 
+skin 757 joint_hart 0.6400 joint_ude_L 0.3600 
+skin 758 joint_hart 0.6000 joint_ude_L 0.4000 
+skin 759 joint_hart 0.7000 joint_ude_L 0.3000 
+skin 760 joint_hart 0.7000 joint_ude_L 0.3000 
+skin 761 joint_hart 0.6500 joint_kata 0.3500 
+skin 762 joint_hart 0.6000 joint_ude_L 0.4000 
+skin 763 joint_hart 0.6400 joint_ude_L 0.3600 
+skin 764 joint_hart 0.6300 joint_ude_L 0.3700 
+skin 765 joint_hart 0.6300 joint_ude_L 0.3700 
+skin 766 joint_hart 0.9300 joint_kata 0.0700 
+skin 767 joint_hart 0.7000 joint_ude_L 0.3000 
+skin 768 joint_hart 0.9300 joint_kata 0.0700 
+skin 769 joint_hart 0.9300 joint_kata 0.0700 
+skin 770 joint_hart 0.9900 joint_ude_L 0.0100 
+skin 771 joint_hart 0.6400 joint_ude_L 0.3600 
+skin 772 joint_ude_L 0.6300 joint_te_L 0.3700 
+skin 773 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 774 joint_hart 0.4600 joint_ude_L 0.5400 
+skin 775 joint_hart 0.4600 joint_ude_L 0.5400 
+skin 776 joint_hart 0.4600 joint_ude_L 0.5400 
+skin 777 joint_hart 0.4600 joint_ude_L 0.5400 
+skin 778 joint_hart 0.1000 joint_ude_L 0.9000 
+skin 779 joint_hart 0.1000 joint_ude_L 0.9000 
+skin 780 joint_hart 0.6000 joint_ude_L 0.4000 
+skin 781 joint_hart 0.4600 joint_ude_L 0.5400 
+skin 782 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 783 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 784 joint_ude_L 0.6300 joint_te_L 0.3700 
+skin 785 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 786 joint_ude_L 1.0000 
+skin 787 joint_hart 0.1000 joint_ude_L 0.9000 
+skin 788 joint_hart 0.4700 joint_ude_L 0.5300 
+skin 789 joint_ude_L 1.0000 
+skin 790 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 791 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 792 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 793 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 794 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 795 joint_ude_L 0.6200 joint_te_L 0.3800 
+skin 796 joint_te_L 1.0000 
+skin 797 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 798 joint_te_L 1.0000 
+skin 799 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 800 joint_te_L 1.0000 
+skin 801 joint_ude_L 0.5000 joint_te_L 0.5000 
+skin 802 joint_yubi_L 0.8400 joint_y_B_L 0.1600 
+skin 803 joint_hand_L 0.6000 joint_yubi_L 0.4000 
+skin 804 joint_yubi_L 0.8400 joint_y_B_L 0.1600 
+skin 805 joint_yubi_L 0.5800 joint_y_B_L 0.4200 
+skin 806 joint_yubi_L 0.5600 joint_y_B_L 0.4400 
+skin 807 joint_hand_L 0.6000 joint_yubi_L 0.4000 
+skin 808 joint_hand_L 0.5500 joint_yubi_L 0.4500 
+skin 809 joint_hand_L 0.3700 joint_yubi_L 0.6300 
+skin 810 joint_yubi_L 0.9900 joint_y_B_L 0.0100 
+skin 811 joint_yubi_L 0.5700 joint_y_B_L 0.4300 
+skin 812 joint_yubi_L 0.5700 joint_y_B_L 0.4300 
+skin 813 joint_yubi_L 0.8200 joint_y_B_L 0.1800 
+skin 814 joint_hand_L 0.5500 joint_yubi_L 0.4500 
+skin 815 joint_yubi_L 0.8400 joint_y_B_L 0.1600 
+skin 816 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 817 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 818 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 819 joint_yubi_L 0.9900 joint_y_B_L 0.0100 
+skin 820 joint_hand_L 1.0000 
+skin 821 joint_yubi_L 0.5600 joint_y_B_L 0.4400 
+skin 822 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 823 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 824 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 825 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 826 joint_yubi_L 0.8200 joint_y_B_L 0.1800 
+skin 827 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 828 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 829 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 830 joint_yubi_L 0.5800 joint_y_B_L 0.4200 
+skin 831 joint_yubi_L 1.0000 
+skin 832 joint_hand_L 0.8800 joint_yubi_L 0.1200 
+skin 833 joint_yubi_L 0.9900 joint_y_B_L 0.0100 
+skin 834 joint_yubi_L 0.5000 joint_y_B_L 0.5000 
+skin 835 joint_yubi_L 0.5700 joint_y_B_L 0.4300 
+skin 836 joint_yubi_L 0.5900 joint_y_B_L 0.4100 
+skin 837 joint_yubi_L 0.9900 joint_y_B_L 0.0100 
+skin 838 joint_te_L 0.9400 joint_hand_L 0.0600 
+skin 839 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 840 joint_yubi_R 0.5800 joint_y_B_R 0.4200 
+skin 841 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 842 joint_hand_R 0.2100 joint_yubi_R 0.7900 
+skin 843 joint_hand_R 0.3300 joint_yubi_R 0.6700 
+skin 844 joint_hand_R 0.3300 joint_yubi_R 0.6700 
+skin 845 joint_hand_R 0.3300 joint_yubi_R 0.6700 
+skin 846 joint_hand_R 0.6700 joint_yubi_R 0.3300 
+skin 847 joint_yubi_R 1.0000 
+skin 848 joint_yubi_R 0.9900 joint_y_B_R 0.0100 
+skin 849 joint_hand_R 0.5500 joint_yubi_R 0.4500 
+skin 850 joint_hand_R 0.6500 joint_yubi_R 0.3500 
+skin 851 joint_yubi_R 0.5700 joint_y_B_R 0.4300 
+skin 852 joint_yubi_R 0.5700 joint_y_B_R 0.4300 
+skin 853 joint_hand_R 0.6500 joint_yubi_R 0.3500 
+skin 854 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 855 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 856 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 857 joint_yubi_R 0.5800 joint_y_B_R 0.4200 
+skin 858 joint_hand_R 0.9400 joint_yubi_R 0.0600 
+skin 859 joint_yubi_R 1.0000 
+skin 860 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 861 joint_yubi_R 0.5000 joint_y_B_R 0.5000 
+skin 862 joint_yubi_R 0.9900 joint_y_B_R 0.0100 
+skin 863 joint_yubi_R 0.5700 joint_y_B_R 0.4300 
+skin 864 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 865 joint_yubi_R 0.9900 joint_y_B_R 0.0100 
+skin 866 joint_yubi_R 0.9900 joint_y_B_R 0.0100 
+skin 867 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 868 joint_yubi_R 0.5900 joint_y_B_R 0.4100 
+skin 869 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 870 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 871 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 872 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 873 joint_hand_R 0.9200 joint_yubi_R 0.0800 
+skin 874 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 875 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 876 joint_hand_R 0.6700 joint_yubi_R 0.3300 
+skin 877 joint_hand_R 0.5500 joint_yubi_R 0.4500 
+skin 878 joint_yubi_R 1.0000 
+skin 879 joint_hand_R 0.9400 joint_yubi_R 0.0600 
+skin 880 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 881 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 882 joint_hand_R 0.8900 joint_yubi_R 0.1100 
+skin 883 joint_hand_R 0.8900 joint_yubi_R 0.1100 
+skin 884 joint_yubi_R 1.0000 
+skin 885 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 886 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 887 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 888 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 889 joint_hand_R 0.8700 joint_yubi_R 0.1300 
+skin 890 joint_hand_R 0.8900 joint_yubi_R 0.1100 
+skin 891 joint_hand_R 0.8900 joint_yubi_R 0.1100 
+skin 892 joint_base 0.9900 joint_hara 0.0100 
+skin 893 joint_momo_R 0.8800 joint_foot_R 0.1200 
+skin 894 joint_base 1.0000 
+skin 895 joint_base 0.9900 joint_hara 0.0100 
+skin 896 joint_base 1.0000 
+skin 897 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 898 joint_base 0.9800 joint_hara 0.0200 
+skin 899 joint_base 0.9800 joint_hara 0.0200 
+skin 900 joint_momo_R 0.8700 joint_foot_R 0.1300 
+skin 901 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 902 joint_base 0.9900 joint_hara 0.0100 
+skin 903 joint_momo_R 0.8700 joint_foot_R 0.1300 
+skin 904 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 905 joint_base 1.0000 
+skin 906 joint_base 0.9600 joint_hara 0.0400 
+skin 907 joint_base 0.9900 joint_hara 0.0100 
+skin 908 joint_momo_R 0.8900 joint_foot_R 0.1100 
+skin 909 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 910 joint_base 0.8800 joint_hara 0.1200 
+skin 911 joint_base 0.9300 joint_hara 0.0700 
+skin 912 joint_base 0.9300 joint_hara 0.0700 
+skin 913 joint_base 0.1700 joint_momo_R 0.8300 
+skin 914 joint_base 0.1700 joint_momo_R 0.8300 
+skin 915 joint_momo_R 0.5500 joint_foot_R 0.4500 
+skin 916 joint_momo_R 0.5500 joint_foot_R 0.4500 
+skin 917 joint_momo_R 0.8900 joint_foot_R 0.1100 
+skin 918 joint_momo_R 0.5600 joint_foot_R 0.4400 
+skin 919 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 920 joint_momo_R 0.5600 joint_foot_R 0.4400 
+skin 921 joint_momo_R 0.5700 joint_foot_R 0.4300 
+skin 922 joint_momo_R 0.5700 joint_foot_R 0.4300 
+skin 923 joint_momo_R 0.8800 joint_foot_R 0.1200 
+skin 924 joint_momo_R 0.5400 joint_foot_R 0.4600 
+skin 925 joint_momo_R 0.5400 joint_foot_R 0.4600 
+skin 926 joint_momo_R 0.8300 joint_foot_R 0.1700 
+skin 927 joint_momo_R 0.8700 joint_foot_R 0.1300 
+skin 928 joint_momo_R 0.5300 joint_foot_R 0.4700 
+skin 929 joint_momo_R 0.5400 joint_foot_R 0.4600 
+skin 930 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 931 joint_momo_R 0.5700 joint_foot_R 0.4300 
+skin 932 joint_momo_R 0.5700 joint_foot_R 0.4300 
+skin 933 joint_momo_R 0.5400 joint_foot_R 0.4600 
+skin 934 joint_foot_R 1.0000 
+skin 935 joint_momo_R 0.5300 joint_foot_R 0.4700 
+skin 936 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 937 joint_base 0.6300 joint_hara 0.3700 
+skin 938 joint_base 0.5400 joint_hara 0.4600 
+skin 939 joint_base 0.6300 joint_hara 0.3700 
+skin 940 joint_base 0.7600 joint_hara 0.2400 
+skin 941 joint_base 0.9300 joint_hara 0.0700 
+skin 942 joint_base 0.9000 joint_hara 0.1000 
+skin 943 joint_base 0.8800 joint_hara 0.1200 
+skin 944 joint_base 0.8800 joint_hara 0.1200 
+skin 945 joint_base 0.6600 joint_hara 0.3400 
+skin 946 joint_base 0.7800 joint_hara 0.2200 
+skin 947 joint_base 0.7800 joint_hara 0.2200 
+skin 948 joint_base 0.6300 joint_hara 0.3700 
+skin 949 joint_base 0.7500 joint_hara 0.2500 
+skin 950 joint_base 0.8800 joint_hara 0.1200 
+skin 951 joint_base 0.8800 joint_hara 0.1200 
+skin 952 joint_base 0.8800 joint_hara 0.1200 
+skin 953 joint_base 0.5400 joint_hara 0.4600 
+skin 954 joint_base 0.6600 joint_hara 0.3400 
+skin 955 joint_base 0.7500 joint_hara 0.2500 
+skin 956 joint_base 0.7500 joint_hara 0.2500 
+skin 957 joint_base 0.5200 joint_hara 0.4800 
+skin 958 joint_base 0.5400 joint_hara 0.4600 
+skin 959 joint_base 0.5200 joint_hara 0.4800 
+skin 960 joint_base 0.5700 joint_hara 0.4300 
+skin 961 joint_base 0.5400 joint_hara 0.4600 
+skin 962 joint_base 0.5400 joint_hara 0.4600 
+skin 963 joint_base 0.5200 joint_hara 0.4800 
+skin 964 joint_base 0.6600 joint_hara 0.3400 
+skin 965 joint_base 1.0000 
+skin 966 joint_base 0.7500 joint_hara 0.2500 
+skin 967 joint_base 0.5700 joint_hara 0.4300 
+skin 968 joint_base 0.6300 joint_hara 0.3700 
+skin 969 joint_base 0.7600 joint_hara 0.2400 
+skin 970 joint_base 0.6300 joint_hara 0.3700 
+skin 971 joint_base 0.5400 joint_hara 0.4600 
+skin 972 joint_base 0.8800 joint_hara 0.1200 
+skin 973 joint_base 0.8800 joint_hara 0.1200 
+skin 974 joint_base 0.6600 joint_hara 0.3400 
+skin 975 joint_base 0.7800 joint_hara 0.2200 
+skin 976 joint_base 0.7800 joint_hara 0.2200 
+skin 977 joint_base 0.6300 joint_hara 0.3700 
+skin 978 joint_base 0.8800 joint_hara 0.1200 
+skin 979 joint_base 0.7500 joint_hara 0.2500 
+skin 980 joint_base 0.6600 joint_hara 0.3400 
+skin 981 joint_base 0.8800 joint_hara 0.1200 
+skin 982 joint_base 0.7800 joint_hara 0.2200 
+skin 983 joint_base 0.8800 joint_hara 0.1200 
+skin 984 joint_base 0.7500 joint_hara 0.2500 
+skin 985 joint_base 0.5200 joint_hara 0.4800 
+skin 986 joint_base 0.5400 joint_hara 0.4600 
+skin 987 joint_base 0.5400 joint_hara 0.4600 
+skin 988 joint_base 0.5200 joint_hara 0.4800 
+skin 989 joint_base 0.5400 joint_hara 0.4600 
+skin 990 joint_base 0.5200 joint_hara 0.4800 
+skin 991 joint_base 0.7500 joint_hara 0.2500 
+skin 992 joint_base 0.5700 joint_hara 0.4300 
+skin 993 joint_base 0.8700 joint_hara 0.1300 
+skin 994 joint_base 0.8700 joint_hara 0.1300 
+skin 995 joint_base 0.9400 joint_hara 0.0600 
+skin 996 joint_base 1.0000 
+skin 997 joint_base 1.0000 
+skin 998 joint_base 0.8900 joint_hara 0.1100 
+skin 999 joint_base 0.8900 joint_hara 0.1100 
+skin 1000 joint_base 0.8900 joint_hara 0.1100 
+skin 1001 joint_base 0.9400 joint_hara 0.0600 
+skin 1002 joint_base 0.9900 joint_hara 0.0100 
+skin 1003 joint_base 0.9800 joint_hara 0.0200 
+skin 1004 joint_base 0.9900 joint_hara 0.0100 
+skin 1005 joint_base 0.9600 joint_hara 0.0400 
+skin 1006 joint_base 0.5700 joint_hara 0.4300 
+skin 1007 joint_base 0.8900 joint_hara 0.1100 
+skin 1008 joint_base 1.0000 
+skin 1009 joint_base 0.9900 joint_hara 0.0100 
+skin 1010 joint_base 0.7500 joint_hara 0.2500 
+skin 1011 joint_base 1.0000 
+skin 1012 joint_base 0.9300 joint_hara 0.0700 
+skin 1013 joint_base 0.9000 joint_hara 0.1000 
+skin 1014 joint_base 0.8700 joint_hara 0.1300 
+skin 1015 joint_base 0.9400 joint_hara 0.0600 
+skin 1016 joint_base 0.8700 joint_hara 0.1300 
+skin 1017 joint_base 1.0000 
+skin 1018 joint_base 1.0000 
+skin 1019 joint_base 0.8900 joint_hara 0.1100 
+skin 1020 joint_base 0.8900 joint_hara 0.1100 
+skin 1021 joint_base 0.8900 joint_hara 0.1100 
+skin 1022 joint_base 0.9900 joint_hara 0.0100 
+skin 1023 joint_base 0.9400 joint_hara 0.0600 
+skin 1024 joint_base 0.9900 joint_hara 0.0100 
+skin 1025 joint_base 0.9900 joint_hara 0.0100 
+skin 1026 joint_base 0.9800 joint_hara 0.0200 
+skin 1027 joint_base 0.9800 joint_hara 0.0200 
+skin 1028 joint_base 0.9900 joint_hara 0.0100 
+skin 1029 joint_base 0.8900 joint_hara 0.1100 
+skin 1030 joint_base 0.9600 joint_hara 0.0400 
+skin 1031 joint_base 0.9600 joint_hara 0.0400 
+skin 1032 joint_base 0.5700 joint_hara 0.4300 
+skin 1033 joint_base 1.0000 
+skin 1034 joint_base 0.7500 joint_hara 0.2500 
+skin 1035 joint_base 1.0000 
+skin 1036 joint_base 0.9300 joint_hara 0.0700 
+skin 1037 joint_base 0.9000 joint_hara 0.1000 
+skin 1038 joint_base 0.8800 joint_hara 0.1200 
+skin 1039 joint_momo_R 0.5500 joint_foot_R 0.4500 
+skin 1040 joint_foot_R 0.9000 joint_too_R 0.1000 
+skin 1041 joint_foot_R 0.9000 joint_too_R 0.1000 
+skin 1042 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1043 joint_momo_R 0.5600 joint_foot_R 0.4400 
+skin 1044 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1045 joint_base 1.0000 
+skin 1046 joint_momo_L 0.8800 joint_foot_L 0.1200 
+skin 1047 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1048 joint_base 1.0000 
+skin 1049 joint_base 0.9800 joint_hara 0.0200 
+skin 1050 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1051 joint_momo_L 0.7300 joint_foot_L 0.2700 
+skin 1052 joint_base 0.9900 joint_hara 0.0100 
+skin 1053 joint_momo_L 0.7300 joint_foot_L 0.2700 
+skin 1054 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1055 joint_base 1.0000 
+skin 1056 joint_base 0.9900 joint_hara 0.0100 
+skin 1057 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1058 joint_momo_L 0.8000 joint_foot_L 0.2000 
+skin 1059 joint_base 0.8800 joint_hara 0.1200 
+skin 1060 joint_base 0.9300 joint_hara 0.0700 
+skin 1061 joint_base 0.2600 joint_momo_L 0.7400 
+skin 1062 joint_base 0.2600 joint_momo_L 0.7400 
+skin 1063 joint_momo_L 0.5400 joint_foot_L 0.4600 
+skin 1064 joint_momo_L 0.8000 joint_foot_L 0.2000 
+skin 1065 joint_momo_L 0.5500 joint_foot_L 0.4500 
+skin 1066 joint_momo_L 0.5500 joint_foot_L 0.4500 
+skin 1067 joint_momo_L 0.5600 joint_foot_L 0.4400 
+skin 1068 joint_momo_L 0.5600 joint_foot_L 0.4400 
+skin 1069 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1070 joint_momo_L 0.8800 joint_foot_L 0.1200 
+skin 1071 joint_momo_L 0.5700 joint_foot_L 0.4300 
+skin 1072 joint_momo_L 0.5700 joint_foot_L 0.4300 
+skin 1073 joint_momo_L 0.8300 joint_foot_L 0.1700 
+skin 1074 joint_momo_L 0.5400 joint_foot_L 0.4600 
+skin 1075 joint_momo_L 0.5400 joint_foot_L 0.4600 
+skin 1076 joint_momo_L 0.5300 joint_foot_L 0.4700 
+skin 1077 joint_momo_L 0.5300 joint_foot_L 0.4700 
+skin 1078 joint_momo_L 0.7300 joint_foot_L 0.2700 
+skin 1079 joint_momo_L 0.5400 joint_foot_L 0.4600 
+skin 1080 joint_momo_L 0.5700 joint_foot_L 0.4300 
+skin 1081 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1082 joint_momo_L 0.5700 joint_foot_L 0.4300 
+skin 1083 joint_foot_L 1.0000 
+skin 1084 joint_momo_L 0.5400 joint_foot_L 0.4600 
+skin 1085 joint_momo_L 0.5300 joint_foot_L 0.4700 
+skin 1086 joint_foot_L 1.0000 
+skin 1087 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1088 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1089 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1090 joint_foot_L 0.9000 joint_too_L 0.1000 
+skin 1091 joint_momo_L 0.5500 joint_foot_L 0.4500 
+skin 1092 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1093 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1094 joint_momo_L 0.5600 joint_foot_L 0.4400 
+skin 1095 joint_foot_L 0.9000 joint_too_L 0.1000 
+skin 1096 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 1097 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 1098 hat 1.0000 
+skin 1099 joint_kubi 0.1900 joint_kao 0.8000 joint_k_B_end 0.0100 
+skin 1100 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 1101 joint_kata 0.0300 joint_kubi 0.7800 joint_kao 0.1900 
+skin 1102 hat 1.0000 
+skin 1103 joint_kata 0.0800 joint_kubi 0.7600 joint_kao 0.1600 
+skin 1104 joint_kubi 0.6800 joint_kao 0.3200 
+skin 1105 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1106 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 1107 joint_kao 0.9400 joint_k_B_end 0.0600 
+skin 1108 joint_hart 0.1000 joint_kata 0.1000 joint_kubi 0.5900 joint_kao 0.2100 
+skin 1109 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 1110 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 1111 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 1112 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 1113 joint_kubi 0.1900 joint_kao 0.8000 joint_k_B_end 0.0100 
+skin 1114 hat 1.0000 
+skin 1115 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 1116 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 1117 hat 1.0000 
+skin 1118 joint_kubi 0.5300 joint_kao 0.4700 
+skin 1119 joint_kata 0.0600 joint_kubi 0.7700 joint_kao 0.1700 
+skin 1120 joint_kata 0.0700 joint_kubi 0.6400 joint_kao 0.2900 
+skin 1121 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1122 joint_kubi 0.1200 joint_kao 0.8700 joint_k_B_end 0.0100 
+skin 1123 joint_hart 0.1200 joint_kao 0.8000 joint_k_B_end 0.0800 
+skin 1124 joint_hart 0.0800 joint_kata 0.0800 joint_kubi 0.6200 joint_kao 0.2200 
+skin 1125 joint_hart 0.0800 joint_kata 0.0800 joint_kubi 0.6200 joint_kao 0.2200 
+skin 1126 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 1127 joint_kata 0.0200 joint_kao 0.9600 joint_k_B_end 0.0200 
+skin 1128 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 1129 joint_hart 0.4600 joint_kata 0.4500 joint_kubi 0.0900 
+skin 1130 joint_hart 0.4900 joint_kata 0.4900 joint_kubi 0.0200 
+skin 1131 joint_kubi 0.3400 joint_kao 0.6400 joint_k_B_end 0.0200 
+skin 1132 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 1133 joint_kubi 0.3500 joint_kao 0.6300 joint_k_B_end 0.0200 
+skin 1134 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1135 joint_ude_R 0.0100 joint_kao 0.9700 joint_k_B_end 0.0200 
+skin 1136 joint_kao 0.9300 joint_k_B_end 0.0700 
+skin 1137 joint_hart 0.5200 joint_kata 0.0100 joint_ude_R 0.4700 
+skin 1138 joint_hart 0.4700 joint_ude_R 0.5300 
+skin 1139 joint_kata 0.1800 joint_ude_R 0.8200 
+skin 1140 joint_hart 0.0500 joint_kata 0.1000 joint_ude_R 0.8500 
+skin 1141 joint_hart 0.9800 joint_kata 0.0100 joint_ude_R 0.0100 
+skin 1142 joint_kata 0.1800 joint_ude_R 0.8200 
+skin 1143 joint_hart 0.7200 joint_ude_R 0.2800 
+skin 1144 joint_hart 0.6400 joint_kata 0.0300 joint_ude_R 0.3300 
+skin 1145 joint_hart 0.9800 joint_kata 0.0200 
+skin 1146 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 1147 joint_hara 0.5100 joint_hart 0.4900 
+skin 1148 joint_hara 0.5100 joint_hart 0.4900 
+skin 1149 joint_hara 0.5700 joint_hart 0.4300 
+skin 1150 joint_hara 0.4700 joint_hart 0.5300 
+skin 1151 joint_hara 0.5100 joint_hart 0.4900 
+skin 1152 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 1153 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 1154 joint_hara 0.5700 joint_hart 0.4300 
+skin 1155 joint_base 0.5000 joint_hara 0.5000 
+skin 1156 joint_hara 0.0100 joint_hart 0.9200 joint_kata 0.0700 
+skin 1157 joint_hart 0.7600 joint_kata 0.2400 
+skin 1158 joint_hart 0.7900 joint_kata 0.2100 
+skin 1159 joint_hart 0.7600 joint_kata 0.2400 
+skin 1160 joint_hart 0.7700 joint_kata 0.2300 
+skin 1161 joint_hara 0.0500 joint_hart 0.7700 joint_kata 0.1800 
+skin 1162 joint_hara 0.0500 joint_hart 0.7700 joint_kata 0.1800 
+skin 1163 joint_hart 0.1800 joint_kata 0.0100 joint_kubi 0.4600 joint_kao 0.3500 
+skin 1164 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 1165 joint_hart 0.1800 joint_kata 0.0100 joint_kubi 0.4600 joint_kao 0.3500 
+skin 1166 joint_kubi 0.0700 joint_kao 0.8800 joint_k_B_end 0.0500 
+skin 1167 joint_kubi 0.6000 joint_kao 0.4000 
+skin 1168 joint_kao 0.9200 joint_k_B_end 0.0800 
+skin 1169 joint_hart 0.1600 joint_kata 0.0100 joint_kubi 0.4700 joint_kao 0.3600 
+skin 1170 joint_hart 0.1600 joint_kata 0.0100 joint_kubi 0.4700 joint_kao 0.3600 
+skin 1171 joint_kubi 0.1200 joint_kao 0.8400 joint_k_B_end 0.0400 
+skin 1172 joint_kubi 0.6100 joint_kao 0.3900 
+skin 1173 joint_kubi 0.6100 joint_kao 0.3900 
+skin 1174 joint_kao 0.9000 joint_k_B_end 0.1000 
+skin 1175 joint_hart 0.9800 joint_kata 0.0200 
+skin 1176 joint_hart 0.9300 joint_ude_L 0.0700 
+skin 1177 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 1178 joint_base 0.0400 joint_hara 0.0300 joint_hart 0.8700 joint_kata 0.0600 
+skin 1179 joint_base 0.0200 joint_hara 0.0200 joint_hart 0.9200 joint_kata 0.0400 
+skin 1180 joint_hand_L 1.0000 
+skin 1181 joint_te_L 0.2700 joint_hand_L 0.7300 
+skin 1182 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1183 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1184 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1185 joint_te_L 0.3300 joint_hand_L 0.6700 
+skin 1186 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 1187 joint_hand_L 0.8800 joint_yubi_L 0.1200 
+skin 1188 joint_hand_L 0.5500 joint_yubi_L 0.4500 
+skin 1189 joint_hand_R 1.0000 
+skin 1190 joint_hand_R 0.7400 joint_yubi_R 0.2600 
+skin 1191 joint_hand_R 0.7400 joint_yubi_R 0.2600 
+skin 1192 joint_te_L 0.2700 joint_hand_L 0.7300 
+skin 1193 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1194 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1195 joint_te_L 0.2400 joint_hand_L 0.7600 
+skin 1196 joint_hand_L 0.8800 joint_yubi_L 0.1200 
+skin 1197 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1198 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 1199 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 1200 joint_te_L 0.3300 joint_hand_L 0.6700 
+skin 1201 joint_hand_L 0.8800 joint_yubi_L 0.1200 
+skin 1202 joint_hand_L 0.9100 joint_yubi_L 0.0900 
+skin 1203 joint_te_L 0.2700 joint_hand_L 0.7300 
+skin 1204 joint_te_L 0.8600 joint_hand_L 0.1400 
+skin 1205 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1206 joint_te_L 0.8200 joint_hand_L 0.1800 
+skin 1207 joint_te_L 0.9300 joint_hand_L 0.0700 
+skin 1208 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1209 joint_te_L 0.8600 joint_hand_L 0.1400 
+skin 1210 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1211 joint_te_L 0.9300 joint_hand_L 0.0700 
+skin 1212 joint_te_L 0.8200 joint_hand_L 0.1800 
+skin 1213 joint_te_L 0.9400 joint_hand_L 0.0600 
+skin 1214 joint_te_L 0.9400 joint_hand_L 0.0600 
+skin 1215 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1216 joint_te_L 0.9300 joint_hand_L 0.0700 
+skin 1217 joint_te_L 0.3300 joint_hand_L 0.6700 
+skin 1218 joint_te_L 0.9300 joint_hand_L 0.0700 
+skin 1219 joint_te_L 0.3300 joint_hand_L 0.6700 
+skin 1220 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1221 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1222 joint_te_L 0.9500 joint_hand_L 0.0500 
+skin 1223 joint_te_L 0.3600 joint_hand_L 0.6400 
+skin 1224 joint_hand_L 1.0000 
+skin 1225 joint_hand_L 0.9900 joint_yubi_L 0.0100 
+skin 1226 joint_hand_L 0.9600 joint_yubi_L 0.0400 
+skin 1227 joint_hand_L 0.9600 joint_yubi_L 0.0400 
+skin 1228 joint_hand_L 0.6100 joint_yubi_L 0.3900 
+skin 1229 joint_hand_L 0.6100 joint_yubi_L 0.3900 
+skin 1230 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 1231 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 1232 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 1233 joint_hand_L 0.6300 joint_yubi_L 0.3700 
+skin 1234 joint_hand_L 0.6100 joint_yubi_L 0.3900 
+skin 1235 joint_hand_L 0.6300 joint_yubi_L 0.3700 
+skin 1236 joint_hand_L 0.9800 joint_yubi_L 0.0200 
+skin 1237 joint_hand_L 0.6000 joint_yubi_L 0.4000 
+skin 1238 joint_hand_L 0.8400 joint_yubi_L 0.1600 
+skin 1239 joint_hand_L 0.3700 joint_yubi_L 0.6300 
+skin 1240 joint_hand_L 0.8400 joint_yubi_L 0.1600 
+skin 1241 joint_hand_L 0.6000 joint_yubi_L 0.4000 
+skin 1242 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 1243 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 1244 joint_yubi_L 0.8800 joint_y_B_L 0.1200 
+skin 1245 joint_yubi_L 0.8400 joint_y_B_L 0.1600 
+skin 1246 joint_yubi_L 0.8400 joint_y_B_L 0.1600 
+skin 1247 joint_yubi_L 0.8200 joint_y_B_L 0.1800 
+skin 1248 joint_yubi_L 0.8200 joint_y_B_L 0.1800 
+skin 1249 joint_te_R 0.2300 joint_hand_R 0.7700 
+skin 1250 joint_hand_R 0.8800 joint_yubi_R 0.1200 
+skin 1251 joint_te_R 0.2300 joint_hand_R 0.7700 
+skin 1252 joint_hand_R 0.8600 joint_yubi_R 0.1400 
+skin 1253 joint_te_R 0.2500 joint_hand_R 0.7500 
+skin 1254 joint_te_R 0.2500 joint_hand_R 0.7500 
+skin 1255 joint_te_R 0.3500 joint_hand_R 0.6500 
+skin 1256 joint_te_R 0.3500 joint_hand_R 0.6500 
+skin 1257 joint_hand_R 0.8800 joint_yubi_R 0.1200 
+skin 1258 joint_te_R 0.2100 joint_hand_R 0.7900 
+skin 1259 joint_te_R 0.3500 joint_hand_R 0.6500 
+skin 1260 joint_te_R 0.2800 joint_hand_R 0.7200 
+skin 1261 joint_te_R 0.2500 joint_hand_R 0.7500 
+skin 1262 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 1263 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 1264 joint_te_R 0.2800 joint_hand_R 0.7200 
+skin 1265 joint_hand_R 0.8800 joint_yubi_R 0.1200 
+skin 1266 joint_hand_R 0.8700 joint_yubi_R 0.1300 
+skin 1267 joint_te_R 0.2300 joint_hand_R 0.7700 
+skin 1268 joint_te_R 0.8600 joint_hand_R 0.1400 
+skin 1269 joint_te_R 0.8200 joint_hand_R 0.1800 
+skin 1270 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1271 joint_te_R 0.9200 joint_hand_R 0.0800 
+skin 1272 joint_te_R 0.8700 joint_hand_R 0.1300 
+skin 1273 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1274 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1275 joint_te_R 0.9200 joint_hand_R 0.0800 
+skin 1276 joint_te_R 0.8200 joint_hand_R 0.1800 
+skin 1277 joint_te_R 0.9300 joint_hand_R 0.0700 
+skin 1278 joint_te_R 0.9300 joint_hand_R 0.0700 
+skin 1279 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1280 joint_te_R 0.9200 joint_hand_R 0.0800 
+skin 1281 joint_te_R 0.9200 joint_hand_R 0.0800 
+skin 1282 joint_te_R 0.2800 joint_hand_R 0.7200 
+skin 1283 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1284 joint_te_R 0.2800 joint_hand_R 0.7200 
+skin 1285 joint_te_R 0.3500 joint_hand_R 0.6500 
+skin 1286 joint_te_R 0.9500 joint_hand_R 0.0500 
+skin 1287 joint_te_R 0.3500 joint_hand_R 0.6500 
+skin 1288 joint_hand_R 0.8600 joint_yubi_R 0.1400 
+skin 1289 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 1290 joint_hand_R 0.9800 joint_yubi_R 0.0200 
+skin 1291 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 1292 joint_hand_R 0.6900 joint_yubi_R 0.3100 
+skin 1293 joint_hand_R 0.6900 joint_yubi_R 0.3100 
+skin 1294 joint_hand_R 1.0000 
+skin 1295 joint_hand_R 1.0000 
+skin 1296 joint_hand_R 0.6900 joint_yubi_R 0.3100 
+skin 1297 joint_hand_R 0.6700 joint_yubi_R 0.3300 
+skin 1298 joint_hand_R 1.0000 
+skin 1299 joint_hand_R 0.9600 joint_yubi_R 0.0400 
+skin 1300 joint_hand_R 0.9200 joint_yubi_R 0.0800 
+skin 1301 joint_hand_R 0.5500 joint_yubi_R 0.4500 
+skin 1302 joint_hand_R 0.6500 joint_yubi_R 0.3500 
+skin 1303 joint_hand_R 0.2100 joint_yubi_R 0.7900 
+skin 1304 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 1305 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 1306 joint_hand_R 0.3300 joint_yubi_R 0.6700 
+skin 1307 joint_hand_R 0.3300 joint_yubi_R 0.6700 
+skin 1308 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 1309 joint_hand_R 0.2600 joint_yubi_R 0.7400 
+skin 1310 joint_hand_R 0.9200 joint_yubi_R 0.0800 
+skin 1311 joint_hand_R 0.6700 joint_yubi_R 0.3300 
+skin 1312 joint_too_R 1.0000 
+skin 1313 joint_too_R 1.0000 
+skin 1314 joint_too_R 1.0000 
+skin 1315 joint_too_R 1.0000 
+skin 1316 joint_too_R 1.0000 
+skin 1317 joint_too_R 1.0000 
+skin 1318 joint_too_R 1.0000 
+skin 1319 joint_too_R 1.0000 
+skin 1320 joint_too_R 1.0000 
+skin 1321 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1322 joint_too_R 1.0000 
+skin 1323 joint_too_R 1.0000 
+skin 1324 joint_too_R 1.0000 
+skin 1325 joint_too_R 1.0000 
+skin 1326 joint_foot_R 0.7300 joint_too_R 0.2700 
+skin 1327 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1328 joint_foot_R 0.7500 joint_too_R 0.2500 
+skin 1329 joint_foot_R 1.0000 
+skin 1330 joint_foot_R 1.0000 
+skin 1331 joint_foot_R 1.0000 
+skin 1332 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1333 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1334 joint_foot_R 1.0000 
+skin 1335 joint_foot_R 1.0000 
+skin 1336 joint_foot_R 0.9200 joint_too_R 0.0800 
+skin 1337 joint_foot_R 1.0000 
+skin 1338 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1339 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1340 joint_foot_R 1.0000 
+skin 1341 joint_foot_R 1.0000 
+skin 1342 joint_too_L 1.0000 
+skin 1343 joint_too_L 1.0000 
+skin 1344 joint_too_L 1.0000 
+skin 1345 joint_too_L 1.0000 
+skin 1346 joint_too_L 1.0000 
+skin 1347 joint_too_L 1.0000 
+skin 1348 joint_too_L 1.0000 
+skin 1349 joint_too_L 1.0000 
+skin 1350 joint_too_L 1.0000 
+skin 1351 joint_too_L 1.0000 
+skin 1352 joint_too_L 1.0000 
+skin 1353 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1354 joint_too_L 1.0000 
+skin 1355 joint_too_L 1.0000 
+skin 1356 joint_too_L 1.0000 
+skin 1357 joint_too_L 1.0000 
+skin 1358 joint_too_L 1.0000 
+skin 1359 joint_too_L 1.0000 
+skin 1360 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1361 joint_too_L 1.0000 
+skin 1362 joint_foot_L 1.0000 
+skin 1363 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1364 joint_foot_L 1.0000 
+skin 1365 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1366 joint_foot_L 1.0000 
+skin 1367 joint_foot_L 1.0000 
+skin 1368 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1369 joint_foot_L 1.0000 
+skin 1370 joint_foot_L 0.9200 joint_too_L 0.0800 
+skin 1371 joint_foot_L 1.0000 
+skin 1372 joint_foot_L 1.0000 
+skin 1373 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1374 joint_too_R 1.0000 
+skin 1375 joint_too_R 1.0000 
+skin 1376 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1377 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1378 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1379 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1380 joint_too_R 1.0000 
+skin 1381 joint_too_R 1.0000 
+skin 1382 joint_too_R 1.0000 
+skin 1383 joint_too_R 1.0000 
+skin 1384 joint_too_R 1.0000 
+skin 1385 joint_too_R 1.0000 
+skin 1386 joint_too_R 1.0000 
+skin 1387 joint_too_R 1.0000 
+skin 1388 joint_too_R 1.0000 
+skin 1389 joint_too_R 1.0000 
+skin 1390 joint_too_R 1.0000 
+skin 1391 joint_too_R 1.0000 
+skin 1392 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1393 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1394 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1395 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1396 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1397 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1398 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1399 joint_foot_R 0.5100 joint_too_R 0.4900 
+skin 1400 joint_too_R 1.0000 
+skin 1401 joint_too_R 1.0000 
+skin 1402 joint_too_R 1.0000 
+skin 1403 joint_too_R 1.0000 
+skin 1404 joint_too_R 1.0000 
+skin 1405 joint_too_R 1.0000 
+skin 1406 joint_too_R 1.0000 
+skin 1407 joint_too_R 1.0000 
+skin 1408 joint_too_R 1.0000 
+skin 1409 joint_too_R 1.0000 
+skin 1410 joint_too_R 1.0000 
+skin 1411 joint_too_R 1.0000 
+skin 1412 joint_too_R 1.0000 
+skin 1413 joint_too_R 1.0000 
+skin 1414 joint_too_R 1.0000 
+skin 1415 joint_too_R 1.0000 
+skin 1416 joint_too_R 1.0000 
+skin 1417 joint_too_R 1.0000 
+skin 1418 joint_too_R 1.0000 
+skin 1419 joint_too_R 1.0000 
+skin 1420 joint_too_R 1.0000 
+skin 1421 joint_too_R 1.0000 
+skin 1422 joint_too_R 1.0000 
+skin 1423 joint_too_R 1.0000 
+skin 1424 joint_foot_R 0.7500 joint_too_R 0.2500 
+skin 1425 joint_foot_R 0.6800 joint_too_R 0.3200 
+skin 1426 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1427 joint_foot_R 0.6800 joint_too_R 0.3200 
+skin 1428 joint_foot_R 0.6900 joint_too_R 0.3100 
+skin 1429 joint_foot_R 0.5000 joint_too_R 0.5000 
+skin 1430 joint_foot_R 0.6900 joint_too_R 0.3100 
+skin 1431 joint_foot_R 0.7800 joint_too_R 0.2200 
+skin 1432 joint_foot_R 0.5100 joint_too_R 0.4900 
+skin 1433 joint_foot_R 0.7800 joint_too_R 0.2200 
+skin 1434 joint_too_R 1.0000 
+skin 1435 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1436 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1437 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1438 joint_foot_R 0.7100 joint_too_R 0.2900 
+skin 1439 joint_foot_R 0.7500 joint_too_R 0.2500 
+skin 1440 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1441 joint_foot_R 0.8200 joint_too_R 0.1800 
+skin 1442 joint_foot_R 0.6900 joint_too_R 0.3100 
+skin 1443 joint_foot_R 0.8200 joint_too_R 0.1800 
+skin 1444 joint_foot_R 0.9000 joint_too_R 0.1000 
+skin 1445 joint_foot_R 0.6800 joint_too_R 0.3200 
+skin 1446 joint_foot_R 0.8200 joint_too_R 0.1800 
+skin 1447 joint_foot_R 0.7800 joint_too_R 0.2200 
+skin 1448 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1449 joint_foot_R 0.9100 joint_too_R 0.0900 
+skin 1450 joint_foot_R 0.7800 joint_too_R 0.2200 
+skin 1451 joint_foot_R 0.7500 joint_too_R 0.2500 
+skin 1452 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 1453 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 1454 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 1455 joint_foot_R 0.9000 joint_too_R 0.1000 
+skin 1456 joint_momo_R 0.5000 joint_foot_R 0.5000 
+skin 1457 joint_too_L 1.0000 
+skin 1458 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1459 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1460 joint_too_L 1.0000 
+skin 1461 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1462 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1463 joint_too_L 1.0000 
+skin 1464 joint_too_L 1.0000 
+skin 1465 joint_too_L 1.0000 
+skin 1466 joint_too_L 1.0000 
+skin 1467 joint_too_L 1.0000 
+skin 1468 joint_too_L 1.0000 
+skin 1469 joint_too_L 1.0000 
+skin 1470 joint_too_L 1.0000 
+skin 1471 joint_too_L 1.0000 
+skin 1472 joint_too_L 1.0000 
+skin 1473 joint_too_L 1.0000 
+skin 1474 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1475 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1476 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1477 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1478 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1479 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1480 joint_foot_L 0.5100 joint_too_L 0.4900 
+skin 1481 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1482 joint_too_L 1.0000 
+skin 1483 joint_too_L 1.0000 
+skin 1484 joint_too_L 1.0000 
+skin 1485 joint_too_L 1.0000 
+skin 1486 joint_too_L 1.0000 
+skin 1487 joint_too_L 1.0000 
+skin 1488 joint_too_L 1.0000 
+skin 1489 joint_too_L 1.0000 
+skin 1490 joint_too_L 1.0000 
+skin 1491 joint_too_L 1.0000 
+skin 1492 joint_too_L 1.0000 
+skin 1493 joint_too_L 1.0000 
+skin 1494 joint_too_L 1.0000 
+skin 1495 joint_too_L 1.0000 
+skin 1496 joint_too_L 1.0000 
+skin 1497 joint_too_L 1.0000 
+skin 1498 joint_too_L 1.0000 
+skin 1499 joint_too_L 1.0000 
+skin 1500 joint_too_L 1.0000 
+skin 1501 joint_too_L 1.0000 
+skin 1502 joint_too_L 1.0000 
+skin 1503 joint_foot_L 0.7500 joint_too_L 0.2500 
+skin 1504 joint_foot_L 0.6800 joint_too_L 0.3200 
+skin 1505 joint_foot_L 0.7500 joint_too_L 0.2500 
+skin 1506 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1507 joint_foot_L 0.6900 joint_too_L 0.3100 
+skin 1508 joint_foot_L 0.6800 joint_too_L 0.3200 
+skin 1509 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1510 joint_foot_L 0.7800 joint_too_L 0.2200 
+skin 1511 joint_foot_L 0.6900 joint_too_L 0.3100 
+skin 1512 joint_foot_L 0.5100 joint_too_L 0.4900 
+skin 1513 joint_foot_L 0.7800 joint_too_L 0.2200 
+skin 1514 joint_too_L 1.0000 
+skin 1515 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1516 joint_foot_L 0.7300 joint_too_L 0.2700 
+skin 1517 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1518 joint_foot_L 0.5000 joint_too_L 0.5000 
+skin 1519 joint_foot_L 0.7500 joint_too_L 0.2500 
+skin 1520 joint_foot_L 1.0000 
+skin 1521 joint_foot_L 0.8200 joint_too_L 0.1800 
+skin 1522 joint_foot_L 0.6900 joint_too_L 0.3100 
+skin 1523 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1524 joint_foot_L 0.8200 joint_too_L 0.1800 
+skin 1525 joint_foot_L 0.8200 joint_too_L 0.1800 
+skin 1526 joint_foot_L 0.6800 joint_too_L 0.3200 
+skin 1527 joint_foot_L 0.9000 joint_too_L 0.1000 
+skin 1528 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1529 joint_foot_L 0.7800 joint_too_L 0.2200 
+skin 1530 joint_foot_L 0.7800 joint_too_L 0.2200 
+skin 1531 joint_foot_L 0.9100 joint_too_L 0.0900 
+skin 1532 joint_foot_L 0.7100 joint_too_L 0.2900 
+skin 1533 joint_foot_L 0.7500 joint_too_L 0.2500 
+skin 1534 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1535 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1536 joint_foot_L 0.9000 joint_too_L 0.1000 
+skin 1537 joint_momo_L 0.5000 joint_foot_L 0.5000 
+skin 1538 joint_hart 1.0000 
+skin 1539 joint_hart 0.9700 joint_kao 0.0300 
+skin 1540 joint_hart 1.0000 
+skin 1541 joint_hart 0.9800 joint_kata 0.0200 
+skin 1542 joint_hart 0.9500 joint_kata 0.0500 
+skin 1543 joint_hart 1.0000 
+skin 1544 joint_hart 0.6900 joint_kao 0.3100 
+skin 1545 joint_hart 0.2000 joint_kubi 0.0600 joint_kao 0.6800 joint_k_B_end 0.0600 
+skin 1546 joint_hart 0.7300 joint_kao 0.2700 
+skin 1547 joint_hart 0.6900 joint_kao 0.3100 
+skin 1548 joint_hart 0.9900 joint_kao 0.0100 
+skin 1549 joint_hart 0.9700 joint_kao 0.0300 
+skin 1550 joint_hart 0.6900 joint_kao 0.3100 
+skin 1551 joint_hart 0.7800 joint_kata 0.0700 joint_kao 0.1500 
+skin 1552 joint_hart 0.9300 joint_kata 0.0700 
+skin 1553 joint_hart 0.9900 joint_kao 0.0100 
+skin 1554 joint_hart 0.9400 joint_kata 0.0600 
+skin 1555 joint_hart 0.9400 joint_kata 0.0600 
+skin 1556 joint_hart 0.9400 joint_kata 0.0600 
+skin 1557 joint_hart 0.9400 joint_kata 0.0600 
+skin 1558 joint_hart 0.9400 joint_kata 0.0600 
+skin 1559 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1560 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1561 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1562 joint_kata 0.5400 joint_kubi 0.4600 
+skin 1563 joint_hart 0.4900 joint_kata 0.4900 joint_kubi 0.0200 
+skin 1564 joint_hart 0.4800 joint_kata 0.4800 joint_kubi 0.0400 
+skin 1565 joint_hart 0.9500 joint_kata 0.0100 joint_kao 0.0400 
+skin 1566 joint_hart 0.9700 joint_kao 0.0300 
+skin 1567 joint_hart 0.8100 joint_kata 0.0300 joint_kao 0.1600 
+skin 1568 joint_hart 0.9300 joint_kata 0.0700 
+skin 1569 joint_hart 0.6600 joint_kao 0.3400 
+skin 1570 joint_hart 0.9500 joint_kata 0.0100 joint_kao 0.0400 
+skin 1571 joint_hart 0.9400 joint_kata 0.0600 
+skin 1572 joint_hart 0.9300 joint_kata 0.0700 
+skin 1573 joint_hart 0.9300 joint_kata 0.0700 
+skin 1574 joint_hart 0.9400 joint_kata 0.0600 
+skin 1575 joint_hart 0.9400 joint_kata 0.0600 
+skin 1576 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1577 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1578 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1579 joint_kata 0.5900 joint_kubi 0.4100 
+skin 1580 joint_hart 0.7300 joint_kao 0.2700 
+skin 1581 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1582 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1583 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1584 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1585 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1586 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1587 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1588 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1589 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1590 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1591 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1592 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1593 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1594 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1595 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1596 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1597 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1598 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1599 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1600 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1601 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1602 joint_kata 0.5400 joint_kubi 0.4600 
+skin 1603 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1604 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1605 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1606 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1607 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1608 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1609 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1610 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1611 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1612 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1613 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1614 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1615 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1616 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1617 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1618 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1619 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1620 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1621 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1622 joint_kata 0.5900 joint_kubi 0.4100 
+skin 1623 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1624 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1625 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1626 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1627 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1628 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1629 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1630 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1631 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1632 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1633 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1634 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1635 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1636 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1637 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1638 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1639 joint_hart 0.9500 joint_kata 0.0500 
+skin 1640 joint_hart 0.9800 joint_kata 0.0200 
+skin 1641 joint_hara 0.0400 joint_hart 0.9600 
+skin 1642 joint_hara 0.1100 joint_hart 0.8900 
+skin 1643 joint_hara 0.1100 joint_hart 0.8900 
+skin 1644 joint_hart 1.0000 
+skin 1645 joint_hart 1.0000 
+skin 1646 joint_hart 0.2000 joint_kubi 0.0600 joint_kao 0.6800 joint_k_B_end 0.0600 
+skin 1647 joint_hart 0.7800 joint_kata 0.0700 joint_kao 0.1500 
+skin 1648 joint_hart 0.4100 joint_kata 0.4700 joint_kubi 0.1200 
+skin 1649 joint_hart 0.7800 joint_kata 0.0700 joint_kao 0.1500 
+skin 1650 joint_hart 0.4600 joint_kata 0.4500 joint_kubi 0.0900 
+skin 1651 joint_hart 0.8200 joint_kata 0.1800 
+skin 1652 joint_hart 0.4100 joint_kata 0.4700 joint_kubi 0.1200 
+skin 1653 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1654 joint_hart 0.2300 joint_kubi 0.0800 joint_kao 0.6400 joint_k_B_end 0.0500 
+skin 1655 joint_hart 0.8100 joint_kata 0.0300 joint_kao 0.1600 
+skin 1656 joint_hart 0.8100 joint_kata 0.0300 joint_kao 0.1600 
+skin 1657 joint_hart 0.6600 joint_kao 0.3400 
+skin 1658 joint_hart 0.6600 joint_kao 0.3400 
+skin 1659 joint_hart 0.8000 joint_kata 0.2000 
+skin 1660 joint_hart 0.4800 joint_kata 0.4800 joint_kubi 0.0400 
+skin 1661 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1662 joint_hart 0.1000 joint_kata 0.1000 joint_kubi 0.5900 joint_kao 0.2100 
+skin 1663 joint_hart 0.1300 joint_kao 0.8000 joint_k_B_end 0.0700 
+skin 1664 joint_hart 0.1200 joint_kao 0.8100 joint_k_B_end 0.0700 
+skin 1665 joint_hart 0.7300 joint_kao 0.2700 
+skin 1666 joint_hart 0.1200 joint_kao 0.8100 joint_k_B_end 0.0700 
+skin 1667 joint_hart 0.2300 joint_kubi 0.0800 joint_kao 0.6400 joint_k_B_end 0.0500 
+skin 1668 joint_hart 0.1300 joint_kao 0.8000 joint_k_B_end 0.0700 
+skin 1669 joint_hart 0.0800 joint_kata 0.0800 joint_kubi 0.6200 joint_kao 0.2200 
+skin 1670 joint_hart 0.0800 joint_kata 0.0800 joint_kubi 0.6200 joint_kao 0.2200 
+skin 1671 joint_hart 0.1000 joint_kata 0.1000 joint_kubi 0.5900 joint_kao 0.2100 
+skin 1672 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 1673 joint_hara 0.4500 joint_hart 0.5500 
+skin 1674 joint_hara 0.4500 joint_hart 0.5500 
+skin 1675 joint_base 0.6300 joint_hara 0.3700 
+skin 1676 joint_base 0.6400 joint_hara 0.3600 
+skin 1677 joint_base 0.6400 joint_hara 0.3600 
+skin 1678 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 1679 joint_hara 0.4300 joint_hart 0.5600 joint_kata 0.0100 
+skin 1680 joint_hara 0.5500 joint_hart 0.4500 
+skin 1681 joint_hara 0.5500 joint_hart 0.4500 
+skin 1682 joint_base 0.0200 joint_hara 0.6300 joint_hart 0.3500 
+skin 1683 joint_base 0.5100 joint_hara 0.4900 
+skin 1684 joint_base 0.5100 joint_hara 0.4900 
+skin 1685 joint_base 0.6300 joint_hara 0.3700 
+skin 1686 joint_base 0.6300 joint_hara 0.3700 
+skin 1687 joint_base 0.5100 joint_hara 0.4900 
+skin 1688 joint_hara 0.4800 joint_hart 0.5200 
+skin 1689 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 1690 joint_hara 0.4800 joint_hart 0.5200 
+skin 1691 joint_base 0.6400 joint_hara 0.3600 
+skin 1692 joint_base 0.6300 joint_hara 0.3700 
+skin 1693 joint_base 0.6400 joint_hara 0.3600 
+skin 1694 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 1695 joint_base 0.0100 joint_hara 0.5000 joint_hart 0.4900 
+skin 1696 joint_base 0.0200 joint_hara 0.6300 joint_hart 0.3500 
+skin 1697 joint_hara 0.5500 joint_hart 0.4500 
+skin 1698 joint_base 0.5100 joint_hara 0.4900 
+skin 1699 joint_base 0.5100 joint_hara 0.4900 
+skin 1700 joint_base 0.6300 joint_hara 0.3700 
+skin 1701 joint_base 0.6300 joint_hara 0.3700 
+skin 1702 joint_hart 0.4000 joint_kata 0.6000 
+skin 1703 joint_hart 0.3600 joint_kata 0.6400 
+skin 1704 joint_hart 0.3600 joint_kata 0.6400 
+skin 1705 joint_hart 0.8800 joint_kata 0.1200 
+skin 1706 joint_hart 0.7400 joint_kata 0.2600 
+skin 1707 joint_hart 0.7400 joint_kata 0.2600 
+skin 1708 joint_hart 0.4000 joint_kata 0.6000 
+skin 1709 joint_hart 0.4000 joint_kata 0.6000 
+skin 1710 joint_hart 0.8800 joint_kata 0.1200 
+skin 1711 joint_hart 0.8800 joint_kata 0.1200 
+skin 1712 joint_hart 0.3100 joint_kata 0.6900 
+skin 1713 joint_hart 0.3100 joint_kata 0.6900 
+skin 1714 joint_hart 0.3100 joint_kata 0.6900 
+skin 1715 joint_hart 0.7700 joint_kata 0.2300 
+skin 1716 joint_hart 0.7700 joint_kata 0.2300 
+skin 1717 joint_hara 0.0500 joint_hart 0.7700 joint_kata 0.1800 
+skin 1718 joint_hart 0.3100 joint_kata 0.6900 
+skin 1719 joint_hart 0.3600 joint_kata 0.6400 
+skin 1720 joint_hart 0.3100 joint_kata 0.6900 
+skin 1721 joint_hart 0.8300 joint_kata 0.1700 
+skin 1722 joint_hart 0.8600 joint_kata 0.1400 
+skin 1723 joint_hart 0.8300 joint_kata 0.1700 
+skin 1724 joint_hart 0.3600 joint_kata 0.6400 
+skin 1725 joint_hart 0.3600 joint_kata 0.6400 
+skin 1726 joint_hart 0.8600 joint_kata 0.1400 
+skin 1727 joint_hart 0.8600 joint_kata 0.1400 
+skin 1728 joint_hart 0.3100 joint_kata 0.6900 
+skin 1729 joint_hart 0.3100 joint_kata 0.6900 
+skin 1730 joint_hara 0.0500 joint_hart 0.7700 joint_kata 0.1800 
+skin 1731 joint_hart 0.7700 joint_kata 0.2300 
+skin 1732 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 1733 joint_kao 0.9900 joint_k_B_end 0.0100 
+skin 1734 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1735 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1736 joint_kubi 0.5500 joint_kao 0.4500 
+skin 1737 hat 1.0000 
+skin 1738 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1739 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1740 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1741 joint_kubi 0.5300 joint_kao 0.4700 
+skin 1742 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1743 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1744 joint_kubi 0.5500 joint_kao 0.4500 
+skin 1745 hat 1.0000 
+skin 1746 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1747 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1748 joint_kubi 0.5300 joint_kao 0.4700 
+skin 1749 joint_kata 0.0500 joint_kubi 0.7100 joint_kao 0.2400 
+skin 1750 joint_kata 0.0500 joint_kubi 0.7100 joint_kao 0.2400 
+skin 1751 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1752 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1753 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1754 joint_kata 0.0500 joint_kubi 0.7100 joint_kao 0.2400 
+skin 1755 joint_kata 0.0500 joint_kubi 0.7100 joint_kao 0.2400 
+skin 1756 joint_kata 0.5100 joint_kubi 0.4900 
+skin 1757 joint_kata 0.5400 joint_kubi 0.4600 
+skin 1758 joint_kata 0.5300 joint_kubi 0.4700 
+skin 1759 joint_kata 0.5300 joint_kubi 0.4700 
+skin 1760 joint_kata 0.5300 joint_kubi 0.4700 
+skin 1761 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1762 joint_kata 0.0900 joint_kubi 0.6900 joint_kao 0.2200 
+skin 1763 joint_kata 0.0900 joint_kubi 0.6900 joint_kao 0.2200 
+skin 1764 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1765 joint_kata 0.5200 joint_kubi 0.4800 
+skin 1766 joint_kata 0.5200 joint_kubi 0.4800 
+skin 1767 joint_kata 0.0900 joint_kubi 0.6900 joint_kao 0.2200 
+skin 1768 joint_kata 0.0900 joint_kubi 0.6900 joint_kao 0.2200 
+skin 1769 joint_kata 0.5200 joint_kubi 0.4800 
+skin 1770 joint_kata 0.5400 joint_kubi 0.4600 
+skin 1771 joint_kata 0.5300 joint_kubi 0.4700 
+skin 1772 joint_kata 0.5300 joint_kubi 0.4700 
+skin 1773 joint_kata 0.5000 joint_kubi 0.5000 
+skin 1774 joint_kubi 0.0900 joint_kao 0.8900 joint_k_B_end 0.0200 
+skin 1775 joint_kubi 0.0900 joint_kao 0.8900 joint_k_B_end 0.0200 
+skin 1776 joint_kubi 0.0900 joint_kao 0.8900 joint_k_B_end 0.0200 
+skin 1777 hat 1.0000 
+skin 1778 hat 1.0000 
+skin 1779 joint_kubi 0.1000 joint_kao 0.8700 joint_k_B_end 0.0300 
+skin 1780 joint_kubi 0.1000 joint_kao 0.8700 joint_k_B_end 0.0300 
+skin 1781 joint_kubi 0.1000 joint_kao 0.8700 joint_k_B_end 0.0300 
+skin 1782 hat 1.0000 
+skin 1783 hat 1.0000 
+skin 1784 joint_kata 0.0500 joint_kubi 0.7100 joint_kao 0.2400 
+skin 1785 joint_kata 0.0900 joint_kubi 0.6900 joint_kao 0.2200 
+skin 1786 joint_hart 0.9300 joint_kata 0.0700 
+skin 1787 joint_base 0.5200 joint_hara 0.4800 
+skin 1788 joint_base 0.5200 joint_hara 0.4800 
+skin 1789 joint_base 0.5200 joint_hara 0.4800 
+skin 1790 joint_hart 0.9300 joint_kata 0.0700 
+skin 1791 joint_base 0.5000 joint_hara 0.5000 
+skin 1792 joint_base 0.8000 joint_hara 0.2000 
+skin 1793 joint_base 0.8000 joint_hara 0.2000 
+skin 1794 joint_base 0.8700 joint_hara 0.1300 
+skin 1795 joint_base 0.9900 joint_hara 0.0100 
+skin 1796 joint_base 0.5000 joint_hara 0.5000 
+skin 1797 joint_base 0.8000 joint_hara 0.2000 
+skin 1798 joint_base 0.9900 joint_hara 0.0100 
+skin 1799 joint_base 0.8700 joint_hara 0.1300 
+skin 1800 hat 1.0000 
+skin 1801 hat 1.0000 
+skin 1802 joint_kubi 0.5200 joint_kao 0.4800 
+skin 1803 hat 1.0000 
+skin 1804 hat 1.0000 
+skin 1805 joint_kubi 0.4700 joint_kao 0.5300 
+skin 1806 hat 1.0000 
+skin 1807 joint_kubi 0.4700 joint_kao 0.5300 
+skin 1808 hat 1.0000 
+skin 1809 hat 1.0000 
+skin 1810 hat 1.0000 
+skin 1811 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1812 hat 1.0000 
+skin 1813 hat 1.0000 
+skin 1814 hat 1.0000 
+skin 1815 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 1816 hat 1.0000 
+skin 1817 hat 1.0000 
+skin 1818 hat 1.0000 
+skin 1819 hat 1.0000 
+skin 1820 hat 1.0000 
+skin 1821 hat 1.0000 
+skin 1822 joint_kubi 0.0500 joint_kao 0.9500 
+skin 1823 joint_kubi 0.5000 joint_kao 0.5000 
+skin 1824 hat 1.0000 
+skin 1825 hat 1.0000 
+skin 1826 hat 1.0000 
+skin 1827 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 1828 hat 1.0000 
+skin 1829 hat 1.0000 
+skin 1830 joint_kubi 0.5200 joint_kao 0.4800 
+skin 1831 hat 1.0000 
+skin 1832 hat 1.0000 
+skin 1833 hat 1.0000 
+skin 1834 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1835 hat 1.0000 
+skin 1836 hat 1.0000 
+skin 1837 hat 1.0000 
+skin 1838 hat 1.0000 
+skin 1839 hat 1.0000 
+skin 1840 hat 1.0000 
+skin 1841 hat 1.0000 
+skin 1842 hat 1.0000 
+skin 1843 hat 1.0000 
+skin 1844 hat 1.0000 
+skin 1845 hat 1.0000 
+skin 1846 hat 1.0000 
+skin 1847 hat 1.0000 
+skin 1848 hat 1.0000 
+skin 1849 hat 1.0000 
+skin 1850 hat 1.0000 
+skin 1851 hat 1.0000 
+skin 1852 hat 1.0000 
+skin 1853 hat 1.0000 
+skin 1854 hat 1.0000 
+skin 1855 hat 1.0000 
+skin 1856 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1857 hat 1.0000 
+skin 1858 hat 1.0000 
+skin 1859 hat 1.0000 
+skin 1860 hat 1.0000 
+skin 1861 hat 1.0000 
+skin 1862 hat 1.0000 
+skin 1863 joint_kubi 0.5200 joint_kao 0.4800 
+skin 1864 joint_kubi 0.4700 joint_kao 0.5300 
+skin 1865 hat 1.0000 
+skin 1866 hat 1.0000 
+skin 1867 joint_kubi 0.0500 joint_kao 0.9500 
+skin 1868 joint_kubi 0.4700 joint_kao 0.5300 
+skin 1869 joint_kubi 0.5000 joint_kao 0.5000 
+skin 1870 hat 1.0000 
+skin 1871 hat 1.0000 
+skin 1872 hat 1.0000 
+skin 1873 hat 1.0000 
+skin 1874 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1875 joint_kao 0.9700 joint_k_B_end 0.0300 
+skin 1876 hat 1.0000 
+skin 1877 hat 1.0000 
+skin 1878 hat 1.0000 
+skin 1879 joint_kao 0.9500 joint_k_B_end 0.0500 
+skin 1880 hat 1.0000 
+skin 1881 hat 1.0000 
+skin 1882 hat 1.0000 
+skin 1883 hat 1.0000 
+skin 1884 hat 1.0000 
+skin 1885 joint_kubi 0.5200 joint_kao 0.4800 
+skin 1886 hat 1.0000 
+skin 1887 hat 1.0000 
+skin 1888 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1889 hat 1.0000 
+skin 1890 hat 1.0000 
+skin 1891 hat 1.0000 
+skin 1892 hat 1.0000 
+skin 1893 hat 1.0000 
+skin 1894 hat 1.0000 
+skin 1895 hat 1.0000 
+skin 1896 hat 1.0000 
+skin 1897 hat 1.0000 
+skin 1898 hat 1.0000 
+skin 1899 hat 1.0000 
+skin 1900 hat 1.0000 
+skin 1901 hat 1.0000 
+skin 1902 hat 1.0000 
+skin 1903 hat 1.0000 
+skin 1904 hat 1.0000 
+skin 1905 hat 1.0000 
+skin 1906 hat 1.0000 
+skin 1907 joint_kubi 0.5100 joint_kao 0.4900 
+skin 1908 hat 1.0000 
+skin 1909 hat 1.0000 
+skin 1910 hat 1.0000 
+skin 1911 hat 1.0000 
+skin 1912 hat 1.0000 
+skin 1913 hat 1.0000 
+skin 1914 hat 1.0000 
+skin 1915 joint_kubi 0.0900 joint_kao 0.8900 joint_k_B_end 0.0200 
+skin 1916 hat 1.0000 
+skin 1917 hat 1.0000 
+skin 1918 hat 1.0000 
+skin 1919 hat 1.0000 
+skin 1920 hat 1.0000 
+skin 1921 hat 1.0000 
+skin 1922 hat 1.0000 
+skin 1923 hat 1.0000 
+skin 1924 hat 1.0000 
+skin 1925 hat 1.0000 
+skin 1926 hat 1.0000 
+skin 1927 hat 1.0000 
+skin 1928 hat 1.0000 
+skin 1929 hat 1.0000 
+skin 1930 hat 1.0000 
+skin 1931 hat 1.0000 
+skin 1932 hat 1.0000 
+skin 1933 hat 1.0000 
+skin 1934 hat 1.0000 
+skin 1935 hat 1.0000 
+skin 1936 hat 1.0000 
+skin 1937 hat 1.0000 
+skin 1938 hat 1.0000 
+skin 1939 hat 1.0000 
+skin 1940 hat 1.0000 
+skin 1941 hat 1.0000 
+skin 1942 hat 1.0000 
+skin 1943 hat 1.0000 
+skin 1944 hat 1.0000 
+skin 1945 hat 1.0000 
+skin 1946 hat 1.0000 
+skin 1947 hat 1.0000 
+skin 1948 hat 1.0000 
+skin 1949 hat 1.0000 
+skin 1950 hat 1.0000 
+skin 1951 hat 1.0000 
+skin 1952 hat 1.0000 
+skin 1953 hat 1.0000 
+skin 1954 hat 1.0000 
+skin 1955 hat 1.0000 
+skin 1956 hat 1.0000 
+skin 1957 hat 1.0000 
+skin 1958 hat 1.0000 
+skin 1959 hat 1.0000 
+skin 1960 hat 1.0000 
+skin 1961 hat 1.0000 
+skin 1962 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 1963 hat 1.0000 
+skin 1964 joint_kubi 0.0900 joint_kao 0.8900 joint_k_B_end 0.0200 
+skin 1965 hat 1.0000 
+skin 1966 hat 1.0000 
+skin 1967 hat 1.0000 
+skin 1968 hat 1.0000 
+skin 1969 hat 1.0000 
+skin 1970 hat 1.0000 
+skin 1971 hat 1.0000 
+skin 1972 hat 1.0000 
+skin 1973 hat 1.0000 
+skin 1974 hat 1.0000 
+skin 1975 hat 1.0000 
+skin 1976 hat 1.0000 
+skin 1977 hat 1.0000 
+skin 1978 hat 1.0000 
+skin 1979 hat 1.0000 
+skin 1980 hat 1.0000 
+skin 1981 hat 1.0000 
+skin 1982 hat 1.0000 
+skin 1983 hat 1.0000 
+skin 1984 hat 1.0000 
+skin 1985 hat 1.0000 
+skin 1986 hat 1.0000 
+skin 1987 hat 1.0000 
+skin 1988 hat 1.0000 
+skin 1989 hat 1.0000 
+skin 1990 hat 1.0000 
+skin 1991 hat 1.0000 
+skin 1992 hat 1.0000 
+skin 1993 hat 1.0000 
+skin 1994 hat 1.0000 
+skin 1995 hat 1.0000 
+skin 1996 hat 1.0000 
+skin 1997 hat 1.0000 
+skin 1998 hat 1.0000 
+skin 1999 hat 1.0000 
+skin 2000 hat 1.0000 
+skin 2001 hat 1.0000 
+skin 2002 hat 1.0000 
+skin 2003 hat 1.0000 
+skin 2004 hat 1.0000 
+skin 2005 joint_kubi 0.1000 joint_kao 0.8700 joint_k_B_end 0.0300 
+skin 2006 hat 1.0000 
+skin 2007 hat 1.0000 
+skin 2008 hat 1.0000 
+skin 2009 hat 1.0000 
+skin 2010 hat 1.0000 
+skin 2011 hat 1.0000 
+skin 2012 hat 1.0000 
+skin 2013 hat 1.0000 
+skin 2014 hat 1.0000 
+skin 2015 hat 1.0000 
+skin 2016 hat 1.0000 
+skin 2017 hat 1.0000 
+skin 2018 hat 1.0000 
+skin 2019 hat 1.0000 
+skin 2020 hat 1.0000 
+skin 2021 hat 1.0000 
+skin 2022 hat 1.0000 
+skin 2023 hat 1.0000 
+skin 2024 hat 1.0000 
+skin 2025 hat 1.0000 
+skin 2026 hat 1.0000 
+skin 2027 hat 1.0000 
+skin 2028 hat 1.0000 
+skin 2029 hat 1.0000 
+skin 2030 hat 1.0000 
+skin 2031 hat 1.0000 
+skin 2032 hat 1.0000 
+skin 2033 hat 1.0000 
+skin 2034 hat 1.0000 
+skin 2035 hat 1.0000 
+skin 2036 hat 1.0000 
+skin 2037 hat 1.0000 
+skin 2038 hat 1.0000 
+skin 2039 hat 1.0000 
+skin 2040 hat 1.0000 
+skin 2041 hat 1.0000 
+skin 2042 hat 1.0000 
+skin 2043 hat 1.0000 
+skin 2044 hat 1.0000 
+skin 2045 hat 1.0000 
+skin 2046 hat 1.0000 
+skin 2047 hat 1.0000 
+skin 2048 hat 1.0000 
+skin 2049 hat 1.0000 
+skin 2050 hat 1.0000 
+skin 2051 hat 1.0000 
+skin 2052 hat 1.0000 
+skin 2053 joint_kao 0.9600 joint_k_B_end 0.0400 
+skin 2054 joint_kubi 0.1000 joint_kao 0.8700 joint_k_B_end 0.0300 
+skin 2055 hat 1.0000 
+skin 2056 hat 1.0000 
+skin 2057 hat 1.0000 
+skin 2058 hat 1.0000 
+skin 2059 hat 1.0000 
+skin 2060 hat 1.0000 
+skin 2061 hat 1.0000 
+skin 2062 hat 1.0000 
+skin 2063 hat 1.0000 
+skin 2064 hat 1.0000 
+skin 2065 hat 1.0000 
+skin 2066 hat 1.0000 
+skin 2067 hat 1.0000 
+skin 2068 hat 1.0000 
+skin 2069 hat 1.0000 
+skin 2070 hat 1.0000 
+skin 2071 hat 1.0000 
+skin 2072 hat 1.0000 
+skin 2073 hat 1.0000 
+skin 2074 hat 1.0000 
+skin 2075 hat 1.0000 
+skin 2076 hat 1.0000 
+skin 2077 hat 1.0000 
+skin 2078 hat 1.0000 
+skin 2079 hat 1.0000 
+skin 2080 hat 1.0000 
+skin 2081 hat 1.0000 
+skin 2082 hat 1.0000 
+skin 2083 hat 1.0000 
+skin 2084 hat 1.0000 
+skin 2085 hat 1.0000 
+hier joint_base joint_hara
+hier joint_base joint_momo_L
+hier joint_base joint_momo_R
+hier joint_hara joint_hart
+hier joint_momo_L joint_foot_L
+hier joint_momo_R joint_foot_R
+hier joint_hart joint_kata
+hier joint_hart joint_ude_L
+hier joint_hart joint_ude_R
+hier joint_foot_L joint_too_L
+hier joint_foot_R joint_too_R
+hier joint_kata joint_kubi
+hier joint_ude_L joint_te_L
+hier joint_ude_R joint_te_R
+hier joint_kubi hat
+hier joint_kubi joint_kao
+hier joint_te_L joint_hand_L
+hier joint_te_R joint_hand_R
+hier joint_kao joint_k_B_end
+hier joint_hand_L joint_yubi_L
+hier joint_hand_R joint_yubi_R
+hier joint_yubi_L joint_y_B_L
+hier joint_yubi_R joint_y_B_R

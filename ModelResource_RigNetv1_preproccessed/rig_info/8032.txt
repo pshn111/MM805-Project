@@ -1,0 +1,380 @@
+joints kosi_jnt 0.00002976 0.35103000 -0.15330370
+joints L_momo_jnt 0.09052550 0.31258900 -0.16663780
+joints R_momo_jnt -0.09046600 0.31258900 -0.16663790
+joints L_ude_jnt 0.16004400 0.56888000 -0.08945240
+joints kubi_jnt 0.00002976 0.60761800 -0.02003300
+joints R_ude_jnt -0.15998500 0.56888000 -0.08945240
+joints tie1_jnt 0.00054313 0.53536500 0.03580700
+joints L_sune_jnt 0.17492300 0.21463400 -0.05926080
+joints R_sune_jnt -0.17486300 0.21463400 -0.05926070
+joints L_hiji_jnt 0.26491700 0.45156900 -0.09876170
+joints eff_head 0.00000100 0.83718200 0.04729100
+joints R_hiji_jnt -0.26485800 0.45156900 -0.09876160
+joints L_asi_jnt 0.14192700 0.06698260 -0.14314702
+joints R_asi_jnt -0.14186700 0.06698290 -0.14314680
+joints L_te_jnt 0.36898500 0.33517100 -0.08645470
+joints R_te_jnt -0.36892500 0.33517100 -0.08645460
+joints L_yubi01a_jnt 0.37361000 0.29357400 -0.01669500
+joints L_yubi02a_jnt 0.43965000 0.27888400 -0.03217000
+joints L_yubi04a_jnt 0.44683200 0.26332200 -0.09962220
+joints R_yubi01a_jnt -0.37355100 0.29357400 -0.01669500
+joints R_yubi02a_jnt -0.43959100 0.27888300 -0.03216900
+joints R_yubi04a_jnt -0.44677300 0.26332200 -0.09962210
+joints L_yubi01b_jnt 0.37423700 0.25266600 0.00433100
+joints L_yubi02b_jnt 0.44654400 0.23226100 -0.02509000
+joints L_yubi04b_jnt 0.46194800 0.22533900 -0.10302540
+joints R_yubi01b_jnt -0.37417800 0.25266600 0.00433100
+joints R_yubi02b_jnt -0.44648500 0.23226000 -0.02509000
+joints R_yubi04b_jnt -0.46188900 0.22533900 -0.10302530
+root kosi_jnt
+skin 0 kosi_jnt 0.8000 R_momo_jnt 0.2000 
+skin 1 kosi_jnt 0.2000 R_momo_jnt 0.8000 
+skin 2 kosi_jnt 0.8000 R_momo_jnt 0.2000 
+skin 3 kosi_jnt 0.2000 R_momo_jnt 0.8000 
+skin 4 R_momo_jnt 0.6000 R_sune_jnt 0.4000 
+skin 5 kosi_jnt 0.2000 R_momo_jnt 0.8000 
+skin 6 R_momo_jnt 0.5000 R_sune_jnt 0.5000 
+skin 7 kosi_jnt 0.2000 R_momo_jnt 0.8000 
+skin 8 kosi_jnt 0.1000 R_momo_jnt 0.9000 
+skin 9 kosi_jnt 0.9000 R_momo_jnt 0.1000 
+skin 10 kosi_jnt 0.2000 R_momo_jnt 0.8000 
+skin 11 kosi_jnt 0.9000 R_momo_jnt 0.1000 
+skin 12 kosi_jnt 0.9000 R_momo_jnt 0.1000 
+skin 13 kosi_jnt 1.0000 
+skin 14 kosi_jnt 0.8000 R_momo_jnt 0.2000 
+skin 15 kosi_jnt 1.0000 
+skin 16 kosi_jnt 1.0000 
+skin 17 R_sune_jnt 1.0000 
+skin 18 R_momo_jnt 0.5000 R_sune_jnt 0.5000 
+skin 19 R_sune_jnt 1.0000 
+skin 20 R_sune_jnt 1.0000 
+skin 21 R_momo_jnt 0.5000 R_sune_jnt 0.5000 
+skin 22 R_sune_jnt 1.0000 
+skin 23 R_sune_jnt 1.0000 
+skin 24 kosi_jnt 1.0000 
+skin 25 kosi_jnt 1.0000 
+skin 26 kosi_jnt 0.9000 L_momo_jnt 0.1000 
+skin 27 kosi_jnt 1.0000 
+skin 28 kosi_jnt 1.0000 
+skin 29 kosi_jnt 0.9000 L_momo_jnt 0.1000 
+skin 30 kosi_jnt 0.9000 L_ude_jnt 0.1000 
+skin 31 kosi_jnt 1.0000 
+skin 32 kosi_jnt 1.0000 
+skin 33 kosi_jnt 0.9000 R_ude_jnt 0.1000 
+skin 34 kosi_jnt 0.8000 L_momo_jnt 0.2000 
+skin 35 kosi_jnt 0.8000 L_momo_jnt 0.2000 
+skin 36 kosi_jnt 0.8000 L_momo_jnt 0.2000 
+skin 37 kosi_jnt 1.0000 
+skin 38 kosi_jnt 1.0000 
+skin 39 kosi_jnt 1.0000 
+skin 40 kosi_jnt 0.9000 L_momo_jnt 0.1000 
+skin 41 kosi_jnt 1.0000 
+skin 42 kosi_jnt 1.0000 
+skin 43 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 44 R_ude_jnt 0.5000 R_hiji_jnt 0.5000 
+skin 45 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 46 R_ude_jnt 0.5000 R_hiji_jnt 0.5000 
+skin 47 R_ude_jnt 1.0000 
+skin 48 R_ude_jnt 0.5000 R_hiji_jnt 0.5000 
+skin 49 R_ude_jnt 1.0000 
+skin 50 R_ude_jnt 1.0000 
+skin 51 kosi_jnt 0.3000 R_ude_jnt 0.7000 
+skin 52 R_ude_jnt 1.0000 
+skin 53 kosi_jnt 0.3000 R_ude_jnt 0.7000 
+skin 54 R_ude_jnt 1.0000 
+skin 55 kosi_jnt 0.7000 R_ude_jnt 0.3000 
+skin 56 kosi_jnt 0.8000 R_ude_jnt 0.2000 
+skin 57 kosi_jnt 0.8000 R_ude_jnt 0.2000 
+skin 58 kosi_jnt 0.3000 R_ude_jnt 0.7000 
+skin 59 R_ude_jnt 0.6000 R_hiji_jnt 0.4000 
+skin 60 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 61 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 62 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 63 R_ude_jnt 0.5000 R_hiji_jnt 0.5000 
+skin 64 R_ude_jnt 0.6000 R_hiji_jnt 0.4000 
+skin 65 kosi_jnt 1.0000 
+skin 66 kosi_jnt 1.0000 
+skin 67 kosi_jnt 1.0000 
+skin 68 R_hiji_jnt 0.9000 R_te_jnt 0.1000 
+skin 69 kubi_jnt 1.0000 
+skin 70 kubi_jnt 1.0000 
+skin 71 kubi_jnt 1.0000 
+skin 72 kubi_jnt 1.0000 
+skin 73 kubi_jnt 1.0000 
+skin 74 kubi_jnt 1.0000 
+skin 75 kubi_jnt 1.0000 
+skin 76 kubi_jnt 1.0000 
+skin 77 kubi_jnt 1.0000 
+skin 78 kubi_jnt 1.0000 
+skin 79 kubi_jnt 1.0000 
+skin 80 kubi_jnt 1.0000 
+skin 81 kubi_jnt 1.0000 
+skin 82 kubi_jnt 1.0000 
+skin 83 kubi_jnt 1.0000 
+skin 84 kubi_jnt 1.0000 
+skin 85 kubi_jnt 1.0000 
+skin 86 kubi_jnt 1.0000 
+skin 87 kubi_jnt 1.0000 
+skin 88 kubi_jnt 1.0000 
+skin 89 kubi_jnt 1.0000 
+skin 90 kubi_jnt 1.0000 
+skin 91 kubi_jnt 1.0000 
+skin 92 kubi_jnt 1.0000 
+skin 93 kubi_jnt 1.0000 
+skin 94 kubi_jnt 1.0000 
+skin 95 kubi_jnt 1.0000 
+skin 96 kubi_jnt 1.0000 
+skin 97 kubi_jnt 1.0000 
+skin 98 kubi_jnt 1.0000 
+skin 99 kubi_jnt 1.0000 
+skin 100 kubi_jnt 1.0000 
+skin 101 kubi_jnt 1.0000 
+skin 102 kubi_jnt 1.0000 
+skin 103 kubi_jnt 1.0000 
+skin 104 kubi_jnt 1.0000 
+skin 105 kubi_jnt 1.0000 
+skin 106 kubi_jnt 1.0000 
+skin 107 kubi_jnt 1.0000 
+skin 108 kubi_jnt 1.0000 
+skin 109 kubi_jnt 1.0000 
+skin 110 kubi_jnt 1.0000 
+skin 111 kubi_jnt 1.0000 
+skin 112 kubi_jnt 1.0000 
+skin 113 kubi_jnt 1.0000 
+skin 114 kubi_jnt 1.0000 
+skin 115 kubi_jnt 1.0000 
+skin 116 kubi_jnt 1.0000 
+skin 117 kubi_jnt 1.0000 
+skin 118 kubi_jnt 1.0000 
+skin 119 kubi_jnt 1.0000 
+skin 120 kubi_jnt 1.0000 
+skin 121 kubi_jnt 1.0000 
+skin 122 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 123 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 124 kosi_jnt 1.0000 
+skin 125 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 126 kosi_jnt 1.0000 
+skin 127 kosi_jnt 1.0000 
+skin 128 kubi_jnt 1.0000 
+skin 129 kubi_jnt 1.0000 
+skin 130 kubi_jnt 1.0000 
+skin 131 kosi_jnt 1.0000 
+skin 132 kosi_jnt 1.0000 
+skin 133 kosi_jnt 0.7000 kubi_jnt 0.3000 
+skin 134 tie1_jnt 1.0000 
+skin 135 kosi_jnt 0.7000 kubi_jnt 0.3000 
+skin 136 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 137 kubi_jnt 1.0000 
+skin 138 kubi_jnt 1.0000 
+skin 139 kubi_jnt 1.0000 
+skin 140 kubi_jnt 1.0000 
+skin 141 kubi_jnt 1.0000 
+skin 142 kubi_jnt 1.0000 
+skin 143 kubi_jnt 1.0000 
+skin 144 kubi_jnt 1.0000 
+skin 145 kubi_jnt 1.0000 
+skin 146 kubi_jnt 1.0000 
+skin 147 kubi_jnt 1.0000 
+skin 148 kubi_jnt 1.0000 
+skin 149 kubi_jnt 1.0000 
+skin 150 kubi_jnt 1.0000 
+skin 151 kubi_jnt 1.0000 
+skin 152 kubi_jnt 1.0000 
+skin 153 kubi_jnt 1.0000 
+skin 154 kosi_jnt 1.0000 
+skin 155 kubi_jnt 1.0000 
+skin 156 kubi_jnt 1.0000 
+skin 157 kubi_jnt 1.0000 
+skin 158 kubi_jnt 1.0000 
+skin 159 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 160 kosi_jnt 0.8000 kubi_jnt 0.2000 
+skin 161 kubi_jnt 1.0000 
+skin 162 kubi_jnt 1.0000 
+skin 163 kubi_jnt 1.0000 
+skin 164 kubi_jnt 1.0000 
+skin 165 kubi_jnt 1.0000 
+skin 166 kosi_jnt 1.0000 
+skin 167 kosi_jnt 1.0000 
+skin 168 tie1_jnt 1.0000 
+skin 169 tie1_jnt 1.0000 
+skin 170 kosi_jnt 1.0000 
+skin 171 kubi_jnt 1.0000 
+skin 172 kubi_jnt 1.0000 
+skin 173 L_ude_jnt 1.0000 
+skin 174 kosi_jnt 0.3000 L_ude_jnt 0.7000 
+skin 175 L_ude_jnt 1.0000 
+skin 176 kosi_jnt 0.3000 L_ude_jnt 0.7000 
+skin 177 kosi_jnt 0.8000 L_ude_jnt 0.2000 
+skin 178 kosi_jnt 0.3000 L_ude_jnt 0.7000 
+skin 179 kosi_jnt 0.8000 L_ude_jnt 0.2000 
+skin 180 kosi_jnt 0.7000 L_ude_jnt 0.3000 
+skin 181 L_ude_jnt 1.0000 
+skin 182 L_ude_jnt 1.0000 
+skin 183 L_ude_jnt 1.0000 
+skin 184 L_ude_jnt 0.5000 L_hiji_jnt 0.5000 
+skin 185 L_ude_jnt 0.6000 L_hiji_jnt 0.4000 
+skin 186 L_ude_jnt 0.6000 L_hiji_jnt 0.4000 
+skin 187 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 188 L_ude_jnt 0.5000 L_hiji_jnt 0.5000 
+skin 189 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 190 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 191 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 192 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 193 L_ude_jnt 0.5000 L_hiji_jnt 0.5000 
+skin 194 L_ude_jnt 0.5000 L_hiji_jnt 0.5000 
+skin 195 L_hiji_jnt 0.9000 L_te_jnt 0.1000 
+skin 196 tie1_jnt 1.0000 
+skin 197 tie1_jnt 1.0000 
+skin 198 tie1_jnt 1.0000 
+skin 199 tie1_jnt 1.0000 
+skin 200 tie1_jnt 1.0000 
+skin 201 tie1_jnt 1.0000 
+skin 202 tie1_jnt 1.0000 
+skin 203 kosi_jnt 1.0000 
+skin 204 L_yubi02a_jnt 0.2000 L_yubi02b_jnt 0.8000 
+skin 205 L_yubi02a_jnt 0.2000 L_yubi02b_jnt 0.8000 
+skin 206 L_te_jnt 1.0000 
+skin 207 L_te_jnt 1.0000 
+skin 208 L_te_jnt 1.0000 
+skin 209 L_te_jnt 1.0000 
+skin 210 L_te_jnt 1.0000 
+skin 211 L_te_jnt 1.0000 
+skin 212 L_te_jnt 1.0000 
+skin 213 L_te_jnt 1.0000 
+skin 214 L_te_jnt 1.0000 
+skin 215 L_yubi01a_jnt 0.4000 L_yubi01b_jnt 0.6000 
+skin 216 L_yubi01a_jnt 0.4000 L_yubi01b_jnt 0.6000 
+skin 217 L_yubi01a_jnt 0.4000 L_yubi01b_jnt 0.6000 
+skin 218 L_yubi01a_jnt 0.4000 L_yubi01b_jnt 0.6000 
+skin 219 L_te_jnt 1.0000 
+skin 220 L_te_jnt 1.0000 
+skin 221 L_yubi04a_jnt 0.4000 L_yubi04b_jnt 0.6000 
+skin 222 L_yubi04a_jnt 0.4000 L_yubi04b_jnt 0.6000 
+skin 223 L_yubi04a_jnt 0.4000 L_yubi04b_jnt 0.6000 
+skin 224 L_yubi04a_jnt 0.4000 L_yubi04b_jnt 0.6000 
+skin 225 L_te_jnt 1.0000 
+skin 226 L_te_jnt 1.0000 
+skin 227 L_yubi02a_jnt 0.2000 L_yubi02b_jnt 0.8000 
+skin 228 L_yubi02a_jnt 0.2000 L_yubi02b_jnt 0.8000 
+skin 229 kosi_jnt 0.2000 L_momo_jnt 0.8000 
+skin 230 kosi_jnt 0.2000 L_momo_jnt 0.8000 
+skin 231 L_momo_jnt 0.5000 L_sune_jnt 0.5000 
+skin 232 kosi_jnt 0.1000 L_momo_jnt 0.9000 
+skin 233 L_momo_jnt 0.5000 L_sune_jnt 0.5000 
+skin 234 L_momo_jnt 0.5000 L_sune_jnt 0.5000 
+skin 235 L_sune_jnt 1.0000 
+skin 236 L_sune_jnt 1.0000 
+skin 237 kosi_jnt 0.2000 L_momo_jnt 0.8000 
+skin 238 kosi_jnt 0.2000 L_momo_jnt 0.8000 
+skin 239 kosi_jnt 0.2000 L_momo_jnt 0.8000 
+skin 240 L_momo_jnt 0.6000 L_sune_jnt 0.4000 
+skin 241 L_sune_jnt 1.0000 
+skin 242 L_sune_jnt 1.0000 
+skin 243 L_sune_jnt 1.0000 
+skin 244 R_te_jnt 1.0000 
+skin 245 R_te_jnt 1.0000 
+skin 246 R_te_jnt 1.0000 
+skin 247 R_te_jnt 1.0000 
+skin 248 R_te_jnt 1.0000 
+skin 249 R_te_jnt 1.0000 
+skin 250 R_te_jnt 1.0000 
+skin 251 R_te_jnt 1.0000 
+skin 252 R_te_jnt 1.0000 
+skin 253 R_te_jnt 1.0000 
+skin 254 R_yubi02a_jnt 0.2000 R_yubi02b_jnt 0.8000 
+skin 255 R_te_jnt 1.0000 
+skin 256 R_yubi02a_jnt 0.2000 R_yubi02b_jnt 0.8000 
+skin 257 R_yubi01a_jnt 0.4000 R_yubi01b_jnt 0.6000 
+skin 258 R_yubi01a_jnt 0.4000 R_yubi01b_jnt 0.6000 
+skin 259 R_te_jnt 1.0000 
+skin 260 R_yubi04a_jnt 0.4000 R_yubi04b_jnt 0.6000 
+skin 261 R_yubi04a_jnt 0.4000 R_yubi04b_jnt 0.6000 
+skin 262 R_yubi01a_jnt 0.4000 R_yubi01b_jnt 0.6000 
+skin 263 R_te_jnt 1.0000 
+skin 264 R_yubi01a_jnt 0.4000 R_yubi01b_jnt 0.6000 
+skin 265 R_yubi04a_jnt 0.4000 R_yubi04b_jnt 0.6000 
+skin 266 R_yubi02a_jnt 0.2000 R_yubi02b_jnt 0.8000 
+skin 267 R_yubi04a_jnt 0.4000 R_yubi04b_jnt 0.6000 
+skin 268 R_yubi02a_jnt 0.2000 R_yubi02b_jnt 0.8000 
+skin 269 L_asi_jnt 1.0000 
+skin 270 L_asi_jnt 1.0000 
+skin 271 L_asi_jnt 1.0000 
+skin 272 L_asi_jnt 1.0000 
+skin 273 L_asi_jnt 1.0000 
+skin 274 L_asi_jnt 1.0000 
+skin 275 L_asi_jnt 1.0000 
+skin 276 L_asi_jnt 1.0000 
+skin 277 L_asi_jnt 1.0000 
+skin 278 L_asi_jnt 1.0000 
+skin 279 R_asi_jnt 1.0000 
+skin 280 R_asi_jnt 1.0000 
+skin 281 R_asi_jnt 1.0000 
+skin 282 R_asi_jnt 1.0000 
+skin 283 R_asi_jnt 1.0000 
+skin 284 R_asi_jnt 1.0000 
+skin 285 R_sune_jnt 0.7000 R_asi_jnt 0.3000 
+skin 286 R_sune_jnt 0.7000 R_asi_jnt 0.3000 
+skin 287 R_asi_jnt 1.0000 
+skin 288 R_asi_jnt 1.0000 
+skin 289 R_asi_jnt 1.0000 
+skin 290 R_asi_jnt 1.0000 
+skin 291 R_asi_jnt 1.0000 
+skin 292 R_asi_jnt 1.0000 
+skin 293 R_sune_jnt 0.7000 R_asi_jnt 0.3000 
+skin 294 R_sune_jnt 0.4000 R_asi_jnt 0.6000 
+skin 295 R_sune_jnt 0.4000 R_asi_jnt 0.6000 
+skin 296 R_asi_jnt 1.0000 
+skin 297 R_asi_jnt 1.0000 
+skin 298 R_asi_jnt 1.0000 
+skin 299 L_asi_jnt 1.0000 
+skin 300 L_asi_jnt 1.0000 
+skin 301 L_asi_jnt 1.0000 
+skin 302 L_sune_jnt 0.7000 L_asi_jnt 0.3000 
+skin 303 L_sune_jnt 0.4000 L_asi_jnt 0.6000 
+skin 304 R_asi_jnt 1.0000 
+skin 305 L_sune_jnt 0.4000 L_asi_jnt 0.6000 
+skin 306 L_sune_jnt 0.7000 L_asi_jnt 0.3000 
+skin 307 L_sune_jnt 0.7000 L_asi_jnt 0.3000 
+skin 308 R_asi_jnt 1.0000 
+skin 309 R_asi_jnt 1.0000 
+skin 310 L_asi_jnt 1.0000 
+skin 311 L_asi_jnt 1.0000 
+skin 312 L_asi_jnt 1.0000 
+skin 313 L_asi_jnt 1.0000 
+skin 314 R_asi_jnt 1.0000 
+skin 315 L_asi_jnt 1.0000 
+skin 316 L_asi_jnt 1.0000 
+skin 317 kubi_jnt 1.0000 
+skin 318 kubi_jnt 1.0000 
+skin 319 kubi_jnt 1.0000 
+skin 320 kubi_jnt 1.0000 
+skin 321 kubi_jnt 1.0000 
+skin 322 kubi_jnt 1.0000 
+skin 323 kubi_jnt 1.0000 
+hier kosi_jnt L_momo_jnt
+hier kosi_jnt R_momo_jnt
+hier kosi_jnt L_ude_jnt
+hier kosi_jnt kubi_jnt
+hier kosi_jnt R_ude_jnt
+hier kosi_jnt tie1_jnt
+hier L_momo_jnt L_sune_jnt
+hier R_momo_jnt R_sune_jnt
+hier L_ude_jnt L_hiji_jnt
+hier kubi_jnt eff_head
+hier R_ude_jnt R_hiji_jnt
+hier L_sune_jnt L_asi_jnt
+hier R_sune_jnt R_asi_jnt
+hier L_hiji_jnt L_te_jnt
+hier R_hiji_jnt R_te_jnt
+hier L_te_jnt L_yubi01a_jnt
+hier L_te_jnt L_yubi02a_jnt
+hier L_te_jnt L_yubi04a_jnt
+hier R_te_jnt R_yubi01a_jnt
+hier R_te_jnt R_yubi02a_jnt
+hier R_te_jnt R_yubi04a_jnt
+hier L_yubi01a_jnt L_yubi01b_jnt
+hier L_yubi02a_jnt L_yubi02b_jnt
+hier L_yubi04a_jnt L_yubi04b_jnt
+hier R_yubi01a_jnt R_yubi01b_jnt
+hier R_yubi02a_jnt R_yubi02b_jnt
+hier R_yubi04a_jnt R_yubi04b_jnt

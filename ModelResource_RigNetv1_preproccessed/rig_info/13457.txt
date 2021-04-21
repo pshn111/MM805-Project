@@ -1,0 +1,1370 @@
+joints root 0.00000000 0.32278850 0.11525200
+joints spine1 0.00000000 0.37071050 0.08603988
+joints pelvis 0.00000000 0.23149650 0.12166419
+joints abdomen 0.00000000 0.36868450 -0.07054872
+joints wing_L 0.19899200 0.46683750 0.01672828
+joints wing_R -0.19899200 0.46683750 0.01672828
+joints head 0.00000000 0.35684050 0.25426028
+joints leg_L 0.15711500 0.24703450 0.04868708
+joints leg3_L 0.16177100 0.21036050 0.21245838
+joints leg2_L 0.18663900 0.20708250 0.15577568
+joints leg_R -0.15711500 0.24703450 0.04868708
+joints leg2_R -0.18663900 0.20708250 0.15577568
+joints leg3_R -0.16177100 0.21036050 0.21245838
+joints bee_jaw 0.00000000 0.29499750 0.33626828
+joints bee_eyeLidUpper_L 0.07287180 0.38898650 0.37741328
+joints bee_eyeLidUpper_R -0.07300730 0.38898650 0.37741328
+joints bee_antenna1_L 0.04768300 0.49170850 0.38568928
+joints bee_eyeLidLower_L 0.07287180 0.38898650 0.37741328
+joints bee_eyeLidLower_R -0.07300730 0.38898650 0.37741328
+joints bee_antenna1_R -0.04768300 0.49170850 0.38568928
+joints bee_mouthCorner_R -0.08394130 0.29026350 0.38308428
+joints bee_mouthCorner_L 0.08394130 0.29026350 0.38308428
+joints bee_cheek_R -0.11542300 0.31198050 0.32660528
+joints bee_cheek_L 0.11542300 0.31198050 0.32660528
+joints knee_L 0.31955200 0.25587650 -0.04707272
+joints knee3_L 0.19223500 0.17407550 0.30409528
+joints knee2_L 0.24974300 0.17575050 0.23141728
+joints knee_R -0.31955200 0.25587550 -0.04707272
+joints knee2_R -0.24974300 0.17575050 0.23141728
+joints knee3_R -0.19223500 0.17407550 0.30409528
+joints bee_tongue 0.00000000 0.29003050 0.36839928
+joints bee_mouthLower_R -0.04931150 0.29176650 0.41588528
+joints bee_mouthLower_L 0.04931150 0.29176650 0.41588528
+joints bee_antenna2_L 0.05823540 0.53224250 0.41292528
+joints bee_antenna2_R -0.05823560 0.53224350 0.41292528
+joints ankle_L 0.29400400 0.01757510 0.00978928
+joints ankle3_L 0.12847500 0.01188710 0.24085128
+joints ankle2_L 0.16317600 0.01214620 0.20625478
+joints ankle_R -0.29400400 0.01757510 0.00978928
+joints ankle2_R -0.16317600 0.01214690 0.20625498
+joints ankle3_R -0.12847500 0.01188720 0.24085128
+joints bee_antenna3_L 0.07100610 0.55832750 0.44356028
+joints bee_antenna3_R -0.07100610 0.55832750 0.44356028
+root root
+skin 0 head 1.0000 
+skin 1 head 1.0000 
+skin 2 head 1.0000 
+skin 3 head 1.0000 
+skin 4 head 1.0000 
+skin 5 head 1.0000 
+skin 6 head 1.0000 
+skin 7 head 1.0000 
+skin 8 head 1.0000 
+skin 9 head 1.0000 
+skin 10 head 1.0000 
+skin 11 head 1.0000 
+skin 12 head 1.0000 
+skin 13 head 1.0000 
+skin 14 head 1.0000 
+skin 15 head 1.0000 
+skin 16 head 1.0000 
+skin 17 head 1.0000 
+skin 18 head 1.0000 
+skin 19 head 1.0000 
+skin 20 head 1.0000 
+skin 21 head 1.0000 
+skin 22 head 1.0000 
+skin 23 head 1.0000 
+skin 24 head 1.0000 
+skin 25 head 1.0000 
+skin 26 head 1.0000 
+skin 27 head 1.0000 
+skin 28 head 1.0000 
+skin 29 head 1.0000 
+skin 30 head 1.0000 
+skin 31 head 1.0000 
+skin 32 head 1.0000 
+skin 33 head 1.0000 
+skin 34 head 1.0000 
+skin 35 head 1.0000 
+skin 36 head 0.2500 bee_jaw 0.7500 
+skin 37 head 0.2500 bee_jaw 0.7500 
+skin 38 head 0.2500 bee_jaw 0.7500 
+skin 39 head 0.2500 bee_jaw 0.7500 
+skin 40 head 0.2500 bee_jaw 0.7500 
+skin 41 head 0.2500 bee_jaw 0.7500 
+skin 42 head 0.2500 bee_jaw 0.7500 
+skin 43 head 0.2500 bee_jaw 0.7500 
+skin 44 head 0.2500 bee_jaw 0.7500 
+skin 45 head 0.2500 bee_jaw 0.7500 
+skin 46 head 0.2500 bee_jaw 0.7500 
+skin 47 head 0.2500 bee_jaw 0.7500 
+skin 48 head 0.2500 bee_jaw 0.7500 
+skin 49 head 0.2500 bee_jaw 0.7500 
+skin 50 head 0.2500 bee_jaw 0.7500 
+skin 51 head 0.2500 bee_jaw 0.7500 
+skin 52 head 0.2500 bee_jaw 0.7500 
+skin 53 head 0.2500 bee_jaw 0.7500 
+skin 54 head 0.2500 bee_jaw 0.7500 
+skin 55 head 0.2500 bee_jaw 0.7500 
+skin 56 head 0.2500 bee_jaw 0.7500 
+skin 57 head 0.2500 bee_jaw 0.7500 
+skin 58 head 0.2500 bee_jaw 0.7500 
+skin 59 head 0.2500 bee_jaw 0.7500 
+skin 60 head 0.2500 bee_jaw 0.7500 
+skin 61 head 0.2500 bee_jaw 0.7500 
+skin 62 head 0.2500 bee_jaw 0.7500 
+skin 63 head 0.2500 bee_jaw 0.7500 
+skin 64 head 0.2500 bee_jaw 0.7500 
+skin 65 head 0.2500 bee_jaw 0.7500 
+skin 66 head 0.2500 bee_jaw 0.7500 
+skin 67 head 0.2500 bee_jaw 0.7500 
+skin 68 head 0.2500 bee_jaw 0.7500 
+skin 69 head 0.2500 bee_jaw 0.7500 
+skin 70 head 0.2500 bee_jaw 0.7500 
+skin 71 head 0.2500 bee_jaw 0.7500 
+skin 72 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 73 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 74 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 75 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 76 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 77 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 78 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 79 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 80 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 81 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 82 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 83 head 0.3000 bee_jaw 0.2200 bee_tongue 0.4800 
+skin 84 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 85 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 86 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 87 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 88 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 89 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 90 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 91 head 0.3000 bee_jaw 0.6000 bee_tongue 0.1000 
+skin 92 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 93 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 94 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 95 head 0.3000 bee_jaw 0.3600 bee_tongue 0.3400 
+skin 96 head 0.8500 bee_eyeLidUpper_R 0.1500 
+skin 97 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 98 head 0.9500 bee_eyeLidUpper_R 0.0500 
+skin 99 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 100 head 0.9500 bee_eyeLidUpper_R 0.0500 
+skin 101 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 102 head 0.9500 bee_eyeLidUpper_R 0.0500 
+skin 103 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 104 head 0.9500 bee_eyeLidUpper_R 0.0500 
+skin 105 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 106 head 0.9000 bee_eyeLidUpper_R 0.1000 
+skin 107 head 0.6000 bee_eyeLidUpper_R 0.4000 
+skin 108 head 0.8800 bee_eyeLidUpper_R 0.1200 
+skin 109 head 0.5500 bee_eyeLidUpper_R 0.4500 
+skin 110 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 111 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 112 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 113 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 114 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 115 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 116 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 117 head 0.4000 bee_eyeLidUpper_R 0.6000 
+skin 118 head 0.8500 bee_eyeLidUpper_L 0.1500 
+skin 119 head 0.9500 bee_eyeLidUpper_L 0.0500 
+skin 120 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 121 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 122 head 0.9500 bee_eyeLidUpper_L 0.0500 
+skin 123 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 124 head 0.9500 bee_eyeLidUpper_L 0.0500 
+skin 125 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 126 head 0.9500 bee_eyeLidUpper_L 0.0500 
+skin 127 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 128 head 0.9000 bee_eyeLidUpper_L 0.1000 
+skin 129 head 0.6000 bee_eyeLidUpper_L 0.4000 
+skin 130 head 0.8800 bee_eyeLidUpper_L 0.1200 
+skin 131 head 0.5500 bee_eyeLidUpper_L 0.4500 
+skin 132 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 133 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 134 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 135 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 136 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 137 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 138 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 139 head 0.4000 bee_eyeLidUpper_L 0.6000 
+skin 140 head 0.9500 bee_eyeLidLower_R 0.0500 
+skin 141 head 0.9500 bee_eyeLidLower_R 0.0500 
+skin 142 head 0.6000 bee_eyeLidLower_R 0.4000 
+skin 143 head 0.6000 bee_eyeLidLower_R 0.4000 
+skin 144 head 0.9000 bee_eyeLidLower_R 0.1000 
+skin 145 head 0.6000 bee_eyeLidLower_R 0.4000 
+skin 146 head 0.9500 bee_eyeLidLower_R 0.0500 
+skin 147 head 0.6000 bee_eyeLidLower_R 0.4000 
+skin 148 head 0.9500 bee_eyeLidLower_R 0.0500 
+skin 149 head 0.6000 bee_eyeLidLower_R 0.4000 
+skin 150 head 0.4000 bee_eyeLidLower_R 0.6000 
+skin 151 head 0.4000 bee_eyeLidLower_R 0.6000 
+skin 152 head 0.4000 bee_eyeLidLower_R 0.6000 
+skin 153 head 0.4000 bee_eyeLidLower_R 0.6000 
+skin 154 head 0.4000 bee_eyeLidLower_R 0.6000 
+skin 155 head 0.9500 bee_eyeLidLower_L 0.0500 
+skin 156 head 0.6000 bee_eyeLidLower_L 0.4000 
+skin 157 head 0.9500 bee_eyeLidLower_L 0.0500 
+skin 158 head 0.6000 bee_eyeLidLower_L 0.4000 
+skin 159 head 0.9000 bee_eyeLidLower_L 0.1000 
+skin 160 head 0.6000 bee_eyeLidLower_L 0.4000 
+skin 161 head 0.9500 bee_eyeLidLower_L 0.0500 
+skin 162 head 0.6000 bee_eyeLidLower_L 0.4000 
+skin 163 head 0.9500 bee_eyeLidLower_L 0.0500 
+skin 164 head 0.6000 bee_eyeLidLower_L 0.4000 
+skin 165 head 0.4000 bee_eyeLidLower_L 0.6000 
+skin 166 head 0.4000 bee_eyeLidLower_L 0.6000 
+skin 167 head 0.4000 bee_eyeLidLower_L 0.6000 
+skin 168 head 0.4000 bee_eyeLidLower_L 0.6000 
+skin 169 head 0.4000 bee_eyeLidLower_L 0.6000 
+skin 170 head 0.8000 bee_antenna1_L 0.2000 
+skin 171 head 0.8000 bee_antenna1_L 0.2000 
+skin 172 head 1.0000 
+skin 173 head 1.0000 
+skin 174 head 0.8000 bee_antenna1_R 0.2000 
+skin 175 head 1.0000 
+skin 176 head 0.8000 bee_antenna1_R 0.2000 
+skin 177 head 1.0000 
+skin 178 head 0.8000 bee_antenna1_R 0.2000 
+skin 179 head 1.0000 
+skin 180 bee_antenna1_R 0.3000 bee_antenna2_R 0.3900 bee_antenna3_R 0.3100 
+skin 181 bee_antenna1_R 0.3000 bee_antenna2_R 0.3900 bee_antenna3_R 0.3100 
+skin 182 head 0.1000 bee_antenna1_R 0.4500 bee_antenna2_R 0.4500 
+skin 183 head 0.1000 bee_antenna1_R 0.4500 bee_antenna2_R 0.4500 
+skin 184 head 0.1000 bee_antenna1_R 0.4500 bee_antenna2_R 0.4500 
+skin 185 bee_antenna1_R 0.3000 bee_antenna2_R 0.3900 bee_antenna3_R 0.3100 
+skin 186 root 0.4000 pelvis 0.1200 leg_L 0.4800 
+skin 187 root 0.3000 pelvis 0.1400 leg_L 0.5600 
+skin 188 root 0.1000 leg_L 0.9000 
+skin 189 root 0.1000 leg_L 0.9000 
+skin 190 root 0.4000 pelvis 0.1200 leg_L 0.4800 
+skin 191 root 0.1000 leg_L 0.9000 
+skin 192 root 0.3000 pelvis 0.1400 leg_L 0.5600 
+skin 193 root 0.1000 leg_L 0.9000 
+skin 194 root 0.1000 leg_L 0.9000 
+skin 195 root 0.3000 pelvis 0.1400 leg_L 0.5600 
+skin 196 root 0.1000 leg_L 0.9000 
+skin 197 root 0.3000 pelvis 0.1400 leg_L 0.5600 
+skin 198 leg_L 0.4000 knee_L 0.6000 
+skin 199 leg_L 0.7000 knee_L 0.3000 
+skin 200 leg_L 0.4000 knee_L 0.6000 
+skin 201 leg_L 0.6000 knee_L 0.4000 
+skin 202 leg_L 0.7000 knee_L 0.3000 
+skin 203 leg_L 0.4000 knee_L 0.6000 
+skin 204 leg_L 0.4000 knee_L 0.6000 
+skin 205 leg_L 0.6000 knee_L 0.4000 
+skin 206 leg_L 0.6000 knee_L 0.4000 
+skin 207 leg_L 0.9000 knee_L 0.1000 
+skin 208 leg_L 0.9000 knee_L 0.1000 
+skin 209 leg_L 0.9000 knee_L 0.1000 
+skin 210 leg_L 0.6000 knee_L 0.4000 
+skin 211 leg_L 0.9000 knee_L 0.1000 
+skin 212 leg_L 0.9000 knee_L 0.1000 
+skin 213 leg_L 0.9000 knee_L 0.1000 
+skin 214 leg_L 1.0000 
+skin 215 leg_L 1.0000 
+skin 216 leg_L 1.0000 
+skin 217 leg_L 1.0000 
+skin 218 leg_L 1.0000 
+skin 219 leg_L 1.0000 
+skin 220 knee_L 1.0000 
+skin 221 leg_L 0.2000 knee_L 0.8000 
+skin 222 knee_L 1.0000 
+skin 223 knee_L 1.0000 
+skin 224 leg_L 0.2000 knee_L 0.8000 
+skin 225 knee_L 1.0000 
+skin 226 knee_L 1.0000 
+skin 227 knee_L 1.0000 
+skin 228 knee_L 1.0000 
+skin 229 knee_L 1.0000 
+skin 230 knee_L 1.0000 
+skin 231 knee_L 1.0000 
+skin 232 knee_L 1.0000 
+skin 233 knee_L 1.0000 
+skin 234 knee_L 1.0000 
+skin 235 knee_L 1.0000 
+skin 236 knee_L 1.0000 
+skin 237 knee_L 1.0000 
+skin 238 knee_L 1.0000 
+skin 239 knee_L 1.0000 
+skin 240 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 241 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 242 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 243 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 244 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 245 root 0.4000 pelvis 0.3000 leg_L 0.3000 
+skin 246 head 1.0000 
+skin 247 head 1.0000 
+skin 248 head 1.0000 
+skin 249 head 1.0000 
+skin 250 head 1.0000 
+skin 251 head 1.0000 
+skin 252 head 1.0000 
+skin 253 head 1.0000 
+skin 254 head 1.0000 
+skin 255 head 1.0000 
+skin 256 head 1.0000 
+skin 257 head 1.0000 
+skin 258 head 1.0000 
+skin 259 head 1.0000 
+skin 260 head 1.0000 
+skin 261 head 1.0000 
+skin 262 head 1.0000 
+skin 263 head 1.0000 
+skin 264 head 1.0000 
+skin 265 head 1.0000 
+skin 266 head 1.0000 
+skin 267 head 1.0000 
+skin 268 head 1.0000 
+skin 269 head 1.0000 
+skin 270 head 1.0000 
+skin 271 head 1.0000 
+skin 272 head 1.0000 
+skin 273 head 1.0000 
+skin 274 head 1.0000 
+skin 275 head 1.0000 
+skin 276 head 1.0000 
+skin 277 head 1.0000 
+skin 278 head 1.0000 
+skin 279 head 1.0000 
+skin 280 head 1.0000 
+skin 281 head 1.0000 
+skin 282 head 1.0000 
+skin 283 spine1 0.1000 head 0.9000 
+skin 284 spine1 0.5000 head 0.5000 
+skin 285 head 0.8000 bee_jaw 0.2000 
+skin 286 spine1 0.1000 head 0.9000 
+skin 287 spine1 0.5000 head 0.5000 
+skin 288 spine1 0.1000 head 0.9000 
+skin 289 head 0.3000 bee_jaw 0.7000 
+skin 290 head 0.3000 bee_jaw 0.7000 
+skin 291 head 0.3000 bee_jaw 0.7000 
+skin 292 head 0.3000 bee_jaw 0.7000 
+skin 293 head 0.3200 bee_jaw 0.5800 bee_mouthCorner_L 0.1000 
+skin 294 head 0.3000 bee_jaw 0.7000 
+skin 295 head 0.3000 bee_jaw 0.7000 
+skin 296 head 0.4000 bee_jaw 0.6000 
+skin 297 head 0.7500 bee_jaw 0.2500 
+skin 298 spine1 0.6000 head 0.4000 
+skin 299 head 1.0000 
+skin 300 head 1.0000 
+skin 301 head 1.0000 
+skin 302 head 1.0000 
+skin 303 spine1 0.6000 head 0.4000 
+skin 304 spine1 0.1000 head 0.9000 
+skin 305 spine1 0.6500 head 0.3500 
+skin 306 head 1.0000 
+skin 307 head 1.0000 
+skin 308 spine1 0.2000 head 0.8000 
+skin 309 spine1 0.6500 head 0.3500 
+skin 310 spine1 0.6500 head 0.3500 
+skin 311 spine1 0.2000 head 0.8000 
+skin 312 spine1 0.2000 head 0.8000 
+skin 313 head 1.0000 
+skin 314 head 1.0000 
+skin 315 head 1.0000 
+skin 316 head 0.8000 bee_jaw 0.2000 
+skin 317 head 1.0000 
+skin 318 head 1.0000 
+skin 319 head 1.0000 
+skin 320 head 1.0000 
+skin 321 head 1.0000 
+skin 322 head 1.0000 
+skin 323 head 1.0000 
+skin 324 head 1.0000 
+skin 325 head 1.0000 
+skin 326 head 1.0000 
+skin 327 head 1.0000 
+skin 328 head 0.8000 bee_mouthCorner_L 0.2000 
+skin 329 head 1.0000 
+skin 330 head 1.0000 
+skin 331 head 0.3500 bee_jaw 0.3500 bee_mouthCorner_L 0.3000 
+skin 332 head 0.4500 bee_jaw 0.3500 bee_mouthCorner_L 0.2000 
+skin 333 head 0.2000 bee_jaw 0.8000 
+skin 334 head 0.5900 bee_jaw 0.3200 bee_mouthCorner_L 0.0900 
+skin 335 head 0.3000 bee_jaw 0.7000 
+skin 336 head 0.4200 bee_jaw 0.2800 bee_mouthCorner_L 0.3000 
+skin 337 head 0.6300 bee_jaw 0.0700 bee_mouthCorner_L 0.3000 
+skin 338 head 0.6000 bee_jaw 0.1000 bee_mouthCorner_L 0.3000 
+skin 339 head 0.6300 bee_jaw 0.0700 bee_mouthCorner_L 0.3000 
+skin 340 head 0.7500 bee_mouthCorner_L 0.2500 
+skin 341 head 0.5200 bee_jaw 0.2300 bee_mouthCorner_L 0.2500 
+skin 342 head 0.8000 bee_jaw 0.2000 
+skin 343 head 0.3000 bee_jaw 0.7000 
+skin 344 head 0.3000 bee_jaw 0.7000 
+skin 345 head 0.4500 bee_jaw 0.5500 
+skin 346 head 0.4500 bee_jaw 0.5500 
+skin 347 root 0.6000 pelvis 0.4000 
+skin 348 root 0.6000 pelvis 0.4000 
+skin 349 root 0.4200 spine1 0.3000 pelvis 0.2800 
+skin 350 root 0.4100 spine1 0.2900 pelvis 0.3000 
+skin 351 root 0.6000 pelvis 0.4000 
+skin 352 root 0.6000 pelvis 0.4000 
+skin 353 root 0.5000 spine1 0.5000 
+skin 354 root 0.5800 spine1 0.2200 pelvis 0.2000 
+skin 355 root 0.5000 spine1 0.5000 
+skin 356 root 0.5600 spine1 0.0900 pelvis 0.3500 
+skin 357 root 0.6000 spine1 0.1000 pelvis 0.3000 
+skin 358 root 0.5000 spine1 0.5000 
+skin 359 root 0.6000 spine1 0.4000 
+skin 360 root 0.5000 spine1 0.5000 
+skin 361 root 0.5000 spine1 0.5000 
+skin 362 root 0.5000 spine1 0.5000 
+skin 363 root 0.7000 spine1 0.3000 
+skin 364 root 0.5000 spine1 0.5000 
+skin 365 root 0.2000 spine1 0.8000 
+skin 366 root 0.5000 spine1 0.5000 
+skin 367 root 0.7000 spine1 0.3000 
+skin 368 root 0.5000 spine1 0.5000 
+skin 369 root 0.2000 spine1 0.8000 
+skin 370 root 0.5500 spine1 0.4500 
+skin 371 root 0.7000 spine1 0.3000 
+skin 372 head 1.0000 
+skin 373 head 1.0000 
+skin 374 head 1.0000 
+skin 375 head 1.0000 
+skin 376 head 0.8000 bee_antenna1_L 0.2000 
+skin 377 head 0.8000 bee_antenna1_L 0.2000 
+skin 378 head 1.0000 
+skin 379 head 1.0000 
+skin 380 head 1.0000 
+skin 381 head 1.0000 
+skin 382 head 1.0000 
+skin 383 head 1.0000 
+skin 384 head 1.0000 
+skin 385 head 1.0000 
+skin 386 head 1.0000 
+skin 387 head 1.0000 
+skin 388 head 1.0000 
+skin 389 head 1.0000 
+skin 390 head 1.0000 
+skin 391 head 1.0000 
+skin 392 head 1.0000 
+skin 393 head 1.0000 
+skin 394 head 1.0000 
+skin 395 head 1.0000 
+skin 396 head 1.0000 
+skin 397 head 1.0000 
+skin 398 head 1.0000 
+skin 399 head 1.0000 
+skin 400 head 1.0000 
+skin 401 head 1.0000 
+skin 402 head 1.0000 
+skin 403 head 1.0000 
+skin 404 head 1.0000 
+skin 405 head 1.0000 
+skin 406 head 1.0000 
+skin 407 head 1.0000 
+skin 408 head 1.0000 
+skin 409 head 1.0000 
+skin 410 head 1.0000 
+skin 411 head 1.0000 
+skin 412 head 1.0000 
+skin 413 head 1.0000 
+skin 414 head 1.0000 
+skin 415 head 1.0000 
+skin 416 spine1 0.1000 head 0.9000 
+skin 417 head 0.8000 bee_jaw 0.2000 
+skin 418 spine1 0.5000 head 0.5000 
+skin 419 spine1 0.1000 head 0.9000 
+skin 420 head 0.3000 bee_jaw 0.7000 
+skin 421 head 0.3000 bee_jaw 0.7000 
+skin 422 head 0.3200 bee_jaw 0.5800 bee_mouthCorner_R 0.1000 
+skin 423 head 0.3000 bee_jaw 0.7000 
+skin 424 head 0.3000 bee_jaw 0.7000 
+skin 425 head 0.4000 bee_jaw 0.6000 
+skin 426 head 0.7500 bee_jaw 0.2500 
+skin 427 spine1 0.6000 head 0.4000 
+skin 428 spine1 0.6000 head 0.4000 
+skin 429 spine1 0.6500 head 0.3500 
+skin 430 spine1 0.1000 head 0.9000 
+skin 431 head 1.0000 
+skin 432 head 1.0000 
+skin 433 spine1 0.2000 head 0.8000 
+skin 434 spine1 0.6500 head 0.3500 
+skin 435 spine1 0.2000 head 0.8000 
+skin 436 head 1.0000 
+skin 437 head 1.0000 
+skin 438 head 1.0000 
+skin 439 head 1.0000 
+skin 440 head 0.8000 bee_jaw 0.2000 
+skin 441 head 1.0000 
+skin 442 head 1.0000 
+skin 443 head 1.0000 
+skin 444 head 1.0000 
+skin 445 head 1.0000 
+skin 446 head 1.0000 
+skin 447 head 1.0000 
+skin 448 head 1.0000 
+skin 449 head 0.8000 bee_mouthCorner_R 0.2000 
+skin 450 head 0.3500 bee_jaw 0.3500 bee_mouthCorner_R 0.3000 
+skin 451 head 0.2000 bee_jaw 0.8000 
+skin 452 head 0.4500 bee_jaw 0.3500 bee_mouthCorner_R 0.2000 
+skin 453 head 0.5900 bee_jaw 0.3200 bee_mouthCorner_R 0.0900 
+skin 454 head 0.4200 bee_jaw 0.2800 bee_mouthCorner_R 0.3000 
+skin 455 head 0.6300 bee_jaw 0.0700 bee_mouthCorner_R 0.3000 
+skin 456 head 0.6000 bee_jaw 0.1000 bee_mouthCorner_R 0.3000 
+skin 457 head 0.7500 bee_mouthCorner_R 0.2500 
+skin 458 head 0.6300 bee_jaw 0.0700 bee_mouthCorner_R 0.3000 
+skin 459 head 0.5200 bee_jaw 0.2300 bee_mouthCorner_R 0.2500 
+skin 460 head 0.3000 bee_jaw 0.7000 
+skin 461 head 0.4500 bee_jaw 0.5500 
+skin 462 root 0.6000 pelvis 0.4000 
+skin 463 root 0.4100 spine1 0.2900 pelvis 0.3000 
+skin 464 root 0.6000 pelvis 0.4000 
+skin 465 root 0.5000 spine1 0.5000 
+skin 466 root 0.5000 spine1 0.5000 
+skin 467 root 0.5800 spine1 0.2200 pelvis 0.2000 
+skin 468 root 0.5600 spine1 0.0900 pelvis 0.3500 
+skin 469 root 0.5000 spine1 0.5000 
+skin 470 root 0.6000 spine1 0.1000 pelvis 0.3000 
+skin 471 root 0.6000 spine1 0.4000 
+skin 472 root 0.5000 spine1 0.5000 
+skin 473 root 0.5000 spine1 0.5000 
+skin 474 root 0.5000 spine1 0.5000 
+skin 475 root 0.7000 spine1 0.3000 
+skin 476 root 0.5000 spine1 0.5000 
+skin 477 root 0.2000 spine1 0.8000 
+skin 478 root 0.5000 spine1 0.5000 
+skin 479 root 0.7000 spine1 0.3000 
+skin 480 head 1.0000 
+skin 481 head 0.8000 bee_antenna1_R 0.2000 
+skin 482 head 0.2800 bee_antenna1_R 0.4200 bee_antenna2_R 0.3000 
+skin 483 head 0.2800 bee_antenna1_R 0.4200 bee_antenna2_R 0.3000 
+skin 484 head 0.2800 bee_antenna1_R 0.4200 bee_antenna2_R 0.3000 
+skin 485 head 0.2800 bee_antenna1_R 0.4200 bee_antenna2_R 0.3000 
+skin 486 head 0.1000 bee_antenna1_R 0.4500 bee_antenna2_R 0.4500 
+skin 487 bee_antenna1_R 0.2800 bee_antenna2_R 0.3200 bee_antenna3_R 0.4000 
+skin 488 bee_antenna1_R 0.2800 bee_antenna2_R 0.3200 bee_antenna3_R 0.4000 
+skin 489 bee_antenna1_R 0.3000 bee_antenna2_R 0.3900 bee_antenna3_R 0.3100 
+skin 490 bee_antenna1_R 0.2800 bee_antenna2_R 0.3200 bee_antenna3_R 0.4000 
+skin 491 bee_antenna1_R 0.2800 bee_antenna2_R 0.3200 bee_antenna3_R 0.4000 
+skin 492 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 493 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 494 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 495 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 496 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 497 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 498 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 499 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 500 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 501 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 502 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 503 bee_antenna2_R 0.1800 bee_antenna3_R 0.8200 
+skin 504 knee_L 1.0000 
+skin 505 knee_L 1.0000 
+skin 506 knee_L 1.0000 
+skin 507 knee_L 1.0000 
+skin 508 knee_L 1.0000 
+skin 509 knee_L 1.0000 
+skin 510 knee_L 1.0000 
+skin 511 knee_L 1.0000 
+skin 512 knee_L 1.0000 
+skin 513 knee_L 1.0000 
+skin 514 knee_L 1.0000 
+skin 515 knee_L 1.0000 
+skin 516 knee_L 1.0000 
+skin 517 knee_L 1.0000 
+skin 518 knee_L 1.0000 
+skin 519 knee_L 1.0000 
+skin 520 knee_L 1.0000 
+skin 521 knee_L 1.0000 
+skin 522 knee_L 0.6000 ankle_L 0.4000 
+skin 523 knee_L 0.6000 ankle_L 0.4000 
+skin 524 knee_L 0.4500 ankle_L 0.5500 
+skin 525 knee_L 0.5500 ankle_L 0.4500 
+skin 526 knee_L 0.4500 ankle_L 0.5500 
+skin 527 knee_L 0.6000 ankle_L 0.4000 
+skin 528 root 0.2000 pelvis 0.1600 leg2_L 0.6400 
+skin 529 leg2_L 1.0000 
+skin 530 root 0.2000 pelvis 0.1600 leg2_L 0.6400 
+skin 531 leg2_L 1.0000 
+skin 532 leg2_L 1.0000 
+skin 533 root 0.2000 pelvis 0.1600 leg2_L 0.6400 
+skin 534 root 0.2000 pelvis 0.1600 leg2_L 0.6400 
+skin 535 leg2_L 1.0000 
+skin 536 root 0.2000 pelvis 0.2400 leg2_L 0.5600 
+skin 537 leg2_L 1.0000 
+skin 538 leg2_L 1.0000 
+skin 539 root 0.2000 pelvis 0.1600 leg2_L 0.6400 
+skin 540 leg2_L 0.4000 knee2_L 0.6000 
+skin 541 leg2_L 0.6000 knee2_L 0.4000 
+skin 542 leg2_L 0.3000 knee2_L 0.7000 
+skin 543 leg2_L 0.6000 knee2_L 0.4000 
+skin 544 leg2_L 0.7000 knee2_L 0.3000 
+skin 545 leg2_L 0.3000 knee2_L 0.7000 
+skin 546 leg2_L 0.7000 knee2_L 0.3000 
+skin 547 leg2_L 0.3000 knee2_L 0.7000 
+skin 548 leg2_L 0.6000 knee2_L 0.4000 
+skin 549 leg2_L 1.0000 
+skin 550 leg2_L 1.0000 
+skin 551 leg2_L 1.0000 
+skin 552 leg2_L 0.6000 knee2_L 0.4000 
+skin 553 leg2_L 1.0000 
+skin 554 leg2_L 1.0000 
+skin 555 leg2_L 1.0000 
+skin 556 leg2_L 1.0000 
+skin 557 leg2_L 1.0000 
+skin 558 leg2_L 1.0000 
+skin 559 leg2_L 1.0000 
+skin 560 leg2_L 1.0000 
+skin 561 leg2_L 1.0000 
+skin 562 knee2_L 1.0000 
+skin 563 leg2_L 0.3000 knee2_L 0.7000 
+skin 564 knee2_L 1.0000 
+skin 565 knee2_L 1.0000 
+skin 566 leg2_L 0.3000 knee2_L 0.7000 
+skin 567 knee2_L 1.0000 
+skin 568 knee2_L 1.0000 
+skin 569 knee2_L 1.0000 
+skin 570 knee2_L 0.5000 ankle2_L 0.5000 
+skin 571 knee2_L 0.5000 ankle2_L 0.5000 
+skin 572 knee2_L 1.0000 
+skin 573 knee2_L 1.0000 
+skin 574 knee2_L 1.0000 
+skin 575 knee2_L 0.5000 ankle2_L 0.5000 
+skin 576 knee2_L 1.0000 
+skin 577 knee2_L 0.5000 ankle2_L 0.5000 
+skin 578 knee2_L 1.0000 
+skin 579 knee2_L 0.5000 ankle2_L 0.5000 
+skin 580 knee2_L 1.0000 
+skin 581 knee2_L 0.5000 ankle2_L 0.5000 
+skin 582 knee2_L 1.0000 
+skin 583 knee2_L 1.0000 
+skin 584 knee2_L 1.0000 
+skin 585 knee2_L 1.0000 
+skin 586 knee2_L 1.0000 
+skin 587 knee2_L 1.0000 
+skin 588 ankle2_L 1.0000 
+skin 589 ankle2_L 1.0000 
+skin 590 ankle2_L 1.0000 
+skin 591 knee2_L 0.1000 ankle2_L 0.9000 
+skin 592 ankle2_L 1.0000 
+skin 593 ankle2_L 1.0000 
+skin 594 ankle2_L 1.0000 
+skin 595 ankle2_L 1.0000 
+skin 596 ankle2_L 1.0000 
+skin 597 ankle2_L 1.0000 
+skin 598 ankle2_L 1.0000 
+skin 599 ankle2_L 1.0000 
+skin 600 knee2_L 0.2000 ankle2_L 0.8000 
+skin 601 knee2_L 0.1000 ankle2_L 0.9000 
+skin 602 ankle2_L 1.0000 
+skin 603 ankle2_L 1.0000 
+skin 604 ankle2_L 1.0000 
+skin 605 ankle2_L 1.0000 
+skin 606 ankle2_L 1.0000 
+skin 607 ankle2_L 1.0000 
+skin 608 ankle2_L 1.0000 
+skin 609 ankle2_L 1.0000 
+skin 610 ankle2_L 1.0000 
+skin 611 ankle2_L 1.0000 
+skin 612 ankle2_L 1.0000 
+skin 613 ankle2_L 1.0000 
+skin 614 ankle2_L 1.0000 
+skin 615 ankle2_L 1.0000 
+skin 616 ankle2_L 1.0000 
+skin 617 root 0.4200 pelvis 0.4000 leg2_L 0.1800 
+skin 618 root 0.4200 pelvis 0.4000 leg2_L 0.1800 
+skin 619 root 0.4200 pelvis 0.4000 leg2_L 0.1800 
+skin 620 root 0.4200 pelvis 0.4000 leg2_L 0.1800 
+skin 621 root 0.5600 pelvis 0.2000 leg2_L 0.2400 
+skin 622 root 0.4200 pelvis 0.4000 leg2_L 0.1800 
+skin 623 leg3_L 1.0000 
+skin 624 leg3_L 1.0000 
+skin 625 root 0.2000 pelvis 0.1600 leg3_L 0.6400 
+skin 626 root 0.2000 pelvis 0.1600 leg3_L 0.6400 
+skin 627 root 0.2000 pelvis 0.4000 leg3_L 0.4000 
+skin 628 leg3_L 1.0000 
+skin 629 root 0.2000 pelvis 0.4000 leg3_L 0.4000 
+skin 630 leg3_L 1.0000 
+skin 631 leg3_L 1.0000 
+skin 632 root 0.2000 pelvis 0.1600 leg3_L 0.6400 
+skin 633 leg3_L 1.0000 
+skin 634 root 0.2000 pelvis 0.1600 leg3_L 0.6400 
+skin 635 leg3_L 0.6000 knee3_L 0.4000 
+skin 636 leg3_L 0.2000 knee3_L 0.8000 
+skin 637 leg3_L 0.6000 knee3_L 0.4000 
+skin 638 leg3_L 0.3000 knee3_L 0.7000 
+skin 639 leg3_L 0.3000 knee3_L 0.7000 
+skin 640 leg3_L 0.7000 knee3_L 0.3000 
+skin 641 leg3_L 0.7000 knee3_L 0.3000 
+skin 642 leg3_L 0.3000 knee3_L 0.7000 
+skin 643 leg3_L 0.6000 knee3_L 0.4000 
+skin 644 leg3_L 1.0000 
+skin 645 leg3_L 1.0000 
+skin 646 leg3_L 1.0000 
+skin 647 leg3_L 0.6000 knee3_L 0.4000 
+skin 648 leg3_L 1.0000 
+skin 649 leg3_L 1.0000 
+skin 650 leg3_L 1.0000 
+skin 651 leg3_L 1.0000 
+skin 652 leg3_L 1.0000 
+skin 653 leg3_L 1.0000 
+skin 654 leg3_L 1.0000 
+skin 655 leg3_L 1.0000 
+skin 656 leg3_L 1.0000 
+skin 657 knee3_L 1.0000 
+skin 658 leg3_L 0.2000 knee3_L 0.8000 
+skin 659 knee3_L 1.0000 
+skin 660 knee3_L 1.0000 
+skin 661 leg3_L 0.1500 knee3_L 0.8500 
+skin 662 knee3_L 1.0000 
+skin 663 knee3_L 1.0000 
+skin 664 knee3_L 1.0000 
+skin 665 knee3_L 0.5000 ankle3_L 0.5000 
+skin 666 knee3_L 0.5000 ankle3_L 0.5000 
+skin 667 knee3_L 1.0000 
+skin 668 knee3_L 1.0000 
+skin 669 knee3_L 0.5000 ankle3_L 0.5000 
+skin 670 knee3_L 1.0000 
+skin 671 knee3_L 1.0000 
+skin 672 knee3_L 0.5000 ankle3_L 0.5000 
+skin 673 knee3_L 1.0000 
+skin 674 knee3_L 0.5000 ankle3_L 0.5000 
+skin 675 knee3_L 1.0000 
+skin 676 knee3_L 0.5000 ankle3_L 0.5000 
+skin 677 knee3_L 1.0000 
+skin 678 knee3_L 1.0000 
+skin 679 knee3_L 1.0000 
+skin 680 knee3_L 1.0000 
+skin 681 knee3_L 1.0000 
+skin 682 knee3_L 1.0000 
+skin 683 ankle3_L 1.0000 
+skin 684 ankle3_L 1.0000 
+skin 685 knee3_L 0.1000 ankle3_L 0.9000 
+skin 686 ankle3_L 1.0000 
+skin 687 ankle3_L 1.0000 
+skin 688 ankle3_L 1.0000 
+skin 689 ankle3_L 1.0000 
+skin 690 ankle3_L 1.0000 
+skin 691 ankle3_L 1.0000 
+skin 692 ankle3_L 1.0000 
+skin 693 ankle3_L 1.0000 
+skin 694 ankle3_L 1.0000 
+skin 695 knee3_L 0.2000 ankle3_L 0.8000 
+skin 696 knee3_L 0.1000 ankle3_L 0.9000 
+skin 697 ankle3_L 1.0000 
+skin 698 ankle3_L 1.0000 
+skin 699 ankle3_L 1.0000 
+skin 700 ankle3_L 1.0000 
+skin 701 ankle3_L 1.0000 
+skin 702 ankle3_L 1.0000 
+skin 703 ankle3_L 1.0000 
+skin 704 ankle3_L 1.0000 
+skin 705 ankle3_L 1.0000 
+skin 706 ankle3_L 1.0000 
+skin 707 ankle3_L 1.0000 
+skin 708 ankle3_L 1.0000 
+skin 709 ankle3_L 1.0000 
+skin 710 ankle3_L 1.0000 
+skin 711 ankle3_L 1.0000 
+skin 712 root 0.4500 pelvis 0.4000 leg3_L 0.1500 
+skin 713 root 0.4500 pelvis 0.4000 leg3_L 0.1500 
+skin 714 root 0.3800 pelvis 0.4000 leg3_L 0.2200 
+skin 715 root 0.3800 pelvis 0.4000 leg3_L 0.2200 
+skin 716 root 0.6000 pelvis 0.2900 leg3_L 0.1100 
+skin 717 root 0.4500 pelvis 0.4000 leg3_L 0.1500 
+skin 718 spine1 0.0900 head 0.8100 bee_cheek_L 0.1000 
+skin 719 head 0.9000 bee_mouthLower_L 0.1000 
+skin 720 spine1 0.2000 head 0.7100 bee_cheek_L 0.0900 
+skin 721 head 0.7400 bee_mouthCorner_L 0.2000 bee_mouthLower_L 0.0600 
+skin 722 head 0.6000 bee_mouthLower_L 0.4000 
+skin 723 head 0.5100 bee_mouthCorner_L 0.2000 bee_mouthLower_L 0.2900 
+skin 724 head 0.6000 bee_mouthLower_L 0.4000 
+skin 725 head 0.6800 bee_mouthCorner_L 0.1500 bee_cheek_L 0.1700 
+skin 726 head 0.2100 bee_jaw 0.4900 bee_mouthLower_L 0.3000 
+skin 727 head 0.6300 bee_mouthCorner_L 0.3000 bee_mouthLower_L 0.0700 
+skin 728 head 0.9000 bee_mouthLower_L 0.1000 
+skin 729 head 0.2700 bee_jaw 0.6300 bee_mouthLower_L 0.1000 
+skin 730 head 0.9000 bee_mouthLower_L 0.1000 
+skin 731 head 0.9000 bee_mouthLower_L 0.1000 
+skin 732 head 0.9000 bee_mouthLower_L 0.1000 
+skin 733 root 0.8100 pelvis 0.1000 abdomen 0.0900 
+skin 734 root 0.8100 pelvis 0.1000 abdomen 0.0900 
+skin 735 root 0.8100 pelvis 0.1000 abdomen 0.0900 
+skin 736 root 0.9000 abdomen 0.1000 
+skin 737 root 0.9000 abdomen 0.1000 
+skin 738 root 0.8000 abdomen 0.2000 
+skin 739 root 0.8000 abdomen 0.2000 
+skin 740 root 0.4000 abdomen 0.6000 
+skin 741 root 0.4000 abdomen 0.6000 
+skin 742 root 0.2000 abdomen 0.8000 
+skin 743 root 0.2000 abdomen 0.8000 
+skin 744 root 0.2000 abdomen 0.8000 
+skin 745 root 0.2000 abdomen 0.8000 
+skin 746 root 0.2000 abdomen 0.8000 
+skin 747 root 0.2000 abdomen 0.8000 
+skin 748 root 0.2000 abdomen 0.8000 
+skin 749 root 0.2000 abdomen 0.8000 
+skin 750 root 0.4000 abdomen 0.6000 
+skin 751 root 0.2000 abdomen 0.8000 
+skin 752 root 0.2000 abdomen 0.8000 
+skin 753 root 0.2000 abdomen 0.8000 
+skin 754 root 0.2000 abdomen 0.8000 
+skin 755 root 0.4000 abdomen 0.6000 
+skin 756 root 0.2000 abdomen 0.8000 
+skin 757 root 0.2000 abdomen 0.8000 
+skin 758 root 0.2000 abdomen 0.8000 
+skin 759 root 0.2000 abdomen 0.8000 
+skin 760 root 0.3000 abdomen 0.7000 
+skin 761 root 0.2000 abdomen 0.8000 
+skin 762 root 0.2000 abdomen 0.8000 
+skin 763 root 0.2000 abdomen 0.8000 
+skin 764 root 0.2000 abdomen 0.8000 
+skin 765 root 0.3000 abdomen 0.7000 
+skin 766 root 0.2000 abdomen 0.8000 
+skin 767 root 0.2000 abdomen 0.8000 
+skin 768 root 0.2000 abdomen 0.8000 
+skin 769 root 0.2000 abdomen 0.8000 
+skin 770 root 0.3000 abdomen 0.7000 
+skin 771 root 0.2000 abdomen 0.8000 
+skin 772 root 0.2000 abdomen 0.8000 
+skin 773 root 0.2000 abdomen 0.8000 
+skin 774 root 0.2000 abdomen 0.8000 
+skin 775 root 0.2000 abdomen 0.8000 
+skin 776 root 0.2000 abdomen 0.8000 
+skin 777 root 0.2000 abdomen 0.8000 
+skin 778 root 0.2000 abdomen 0.8000 
+skin 779 root 0.2000 abdomen 0.8000 
+skin 780 root 0.2000 abdomen 0.8000 
+skin 781 root 0.2000 abdomen 0.8000 
+skin 782 root 0.2000 abdomen 0.8000 
+skin 783 ankle_L 1.0000 
+skin 784 ankle_L 1.0000 
+skin 785 knee_L 0.3000 ankle_L 0.7000 
+skin 786 ankle_L 1.0000 
+skin 787 ankle_L 1.0000 
+skin 788 ankle_L 1.0000 
+skin 789 ankle_L 1.0000 
+skin 790 ankle_L 1.0000 
+skin 791 ankle_L 1.0000 
+skin 792 ankle_L 1.0000 
+skin 793 ankle_L 1.0000 
+skin 794 ankle_L 1.0000 
+skin 795 knee_L 0.3000 ankle_L 0.7000 
+skin 796 knee_L 0.3000 ankle_L 0.7000 
+skin 797 ankle_L 1.0000 
+skin 798 ankle_L 1.0000 
+skin 799 ankle_L 1.0000 
+skin 800 ankle_L 1.0000 
+skin 801 ankle_L 1.0000 
+skin 802 ankle_L 1.0000 
+skin 803 ankle_L 1.0000 
+skin 804 ankle_L 1.0000 
+skin 805 ankle_L 1.0000 
+skin 806 ankle_L 1.0000 
+skin 807 ankle_L 1.0000 
+skin 808 ankle_L 1.0000 
+skin 809 ankle_L 1.0000 
+skin 810 ankle_L 1.0000 
+skin 811 ankle_L 1.0000 
+skin 812 root 0.8100 pelvis 0.1000 abdomen 0.0900 
+skin 813 root 0.8100 pelvis 0.1000 abdomen 0.0900 
+skin 814 root 0.9000 abdomen 0.1000 
+skin 815 root 0.9000 abdomen 0.1000 
+skin 816 root 0.9000 abdomen 0.1000 
+skin 817 root 0.4000 abdomen 0.6000 
+skin 818 root 0.4000 abdomen 0.6000 
+skin 819 root 0.2000 abdomen 0.8000 
+skin 820 root 0.2000 abdomen 0.8000 
+skin 821 root 0.2000 abdomen 0.8000 
+skin 822 root 0.2000 abdomen 0.8000 
+skin 823 root 0.2000 abdomen 0.8000 
+skin 824 root 0.2000 abdomen 0.8000 
+skin 825 root 0.2000 abdomen 0.8000 
+skin 826 root 0.2000 abdomen 0.8000 
+skin 827 root 0.4000 abdomen 0.6000 
+skin 828 root 0.2000 abdomen 0.8000 
+skin 829 root 0.2000 abdomen 0.8000 
+skin 830 root 0.2000 abdomen 0.8000 
+skin 831 root 0.2000 abdomen 0.8000 
+skin 832 root 0.3000 abdomen 0.7000 
+skin 833 root 0.2000 abdomen 0.8000 
+skin 834 root 0.2000 abdomen 0.8000 
+skin 835 root 0.2000 abdomen 0.8000 
+skin 836 root 0.2000 abdomen 0.8000 
+skin 837 root 0.3000 abdomen 0.7000 
+skin 838 root 0.2000 abdomen 0.8000 
+skin 839 root 0.2000 abdomen 0.8000 
+skin 840 root 0.2000 abdomen 0.8000 
+skin 841 root 0.2000 abdomen 0.8000 
+skin 842 root 0.2000 abdomen 0.8000 
+skin 843 root 0.2000 abdomen 0.8000 
+skin 844 root 0.2000 abdomen 0.8000 
+skin 845 root 0.2000 abdomen 0.8000 
+skin 846 root 0.2000 abdomen 0.8000 
+skin 847 head 0.2800 bee_antenna1_L 0.4200 bee_antenna2_L 0.3000 
+skin 848 head 0.2800 bee_antenna1_L 0.4200 bee_antenna2_L 0.3000 
+skin 849 head 0.2800 bee_antenna1_L 0.4200 bee_antenna2_L 0.3000 
+skin 850 head 0.2800 bee_antenna1_L 0.4200 bee_antenna2_L 0.3000 
+skin 851 head 0.1000 bee_antenna1_L 0.4500 bee_antenna2_L 0.4500 
+skin 852 head 0.1000 bee_antenna1_L 0.4500 bee_antenna2_L 0.4500 
+skin 853 head 0.1000 bee_antenna1_L 0.4500 bee_antenna2_L 0.4500 
+skin 854 head 0.1000 bee_antenna1_L 0.4500 bee_antenna2_L 0.4500 
+skin 855 bee_antenna1_L 0.3000 bee_antenna2_L 0.3900 bee_antenna3_L 0.3100 
+skin 856 bee_antenna1_L 0.2800 bee_antenna2_L 0.3200 bee_antenna3_L 0.4000 
+skin 857 bee_antenna1_L 0.3000 bee_antenna2_L 0.3900 bee_antenna3_L 0.3100 
+skin 858 bee_antenna1_L 0.2800 bee_antenna2_L 0.3200 bee_antenna3_L 0.4000 
+skin 859 bee_antenna1_L 0.2800 bee_antenna2_L 0.3200 bee_antenna3_L 0.4000 
+skin 860 bee_antenna1_L 0.3000 bee_antenna2_L 0.3900 bee_antenna3_L 0.3100 
+skin 861 bee_antenna1_L 0.2800 bee_antenna2_L 0.3200 bee_antenna3_L 0.4000 
+skin 862 bee_antenna1_L 0.3000 bee_antenna2_L 0.3900 bee_antenna3_L 0.3100 
+skin 863 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 864 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 865 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 866 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 867 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 868 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 869 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 870 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 871 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 872 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 873 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 874 bee_antenna2_L 0.1800 bee_antenna3_L 0.8200 
+skin 875 root 0.4000 pelvis 0.1200 leg_R 0.4800 
+skin 876 root 0.1000 leg_R 0.9000 
+skin 877 root 0.3000 pelvis 0.1400 leg_R 0.5600 
+skin 878 root 0.1000 leg_R 0.9000 
+skin 879 root 0.4000 pelvis 0.1200 leg_R 0.4800 
+skin 880 root 0.1000 leg_R 0.9000 
+skin 881 root 0.3000 pelvis 0.1400 leg_R 0.5600 
+skin 882 root 0.1000 leg_R 0.9000 
+skin 883 root 0.1000 leg_R 0.9000 
+skin 884 root 0.3000 pelvis 0.1400 leg_R 0.5600 
+skin 885 root 0.1000 leg_R 0.9000 
+skin 886 root 0.3000 pelvis 0.1400 leg_R 0.5600 
+skin 887 leg_R 0.4000 knee_R 0.6000 
+skin 888 leg_R 0.4000 knee_R 0.6000 
+skin 889 leg_R 0.7000 knee_R 0.3000 
+skin 890 leg_R 0.6000 knee_R 0.4000 
+skin 891 leg_R 0.7000 knee_R 0.3000 
+skin 892 leg_R 0.4000 knee_R 0.6000 
+skin 893 leg_R 0.4000 knee_R 0.6000 
+skin 894 leg_R 0.6000 knee_R 0.4000 
+skin 895 leg_R 0.6000 knee_R 0.4000 
+skin 896 leg_R 0.9000 knee_R 0.1000 
+skin 897 leg_R 0.9000 knee_R 0.1000 
+skin 898 leg_R 0.9000 knee_R 0.1000 
+skin 899 leg_R 0.6000 knee_R 0.4000 
+skin 900 leg_R 0.9000 knee_R 0.1000 
+skin 901 leg_R 0.9000 knee_R 0.1000 
+skin 902 leg_R 0.9000 knee_R 0.1000 
+skin 903 leg_R 1.0000 
+skin 904 leg_R 1.0000 
+skin 905 leg_R 1.0000 
+skin 906 leg_R 1.0000 
+skin 907 leg_R 1.0000 
+skin 908 leg_R 1.0000 
+skin 909 knee_R 1.0000 
+skin 910 knee_R 1.0000 
+skin 911 leg_R 0.2000 knee_R 0.8000 
+skin 912 knee_R 1.0000 
+skin 913 leg_R 0.2000 knee_R 0.8000 
+skin 914 knee_R 1.0000 
+skin 915 knee_R 1.0000 
+skin 916 knee_R 1.0000 
+skin 917 knee_R 0.6000 ankle_R 0.4000 
+skin 918 knee_R 1.0000 
+skin 919 knee_R 0.6000 ankle_R 0.4000 
+skin 920 knee_R 1.0000 
+skin 921 knee_R 0.4500 ankle_R 0.5500 
+skin 922 knee_R 1.0000 
+skin 923 knee_R 1.0000 
+skin 924 knee_R 0.5500 ankle_R 0.4500 
+skin 925 knee_R 1.0000 
+skin 926 knee_R 0.4500 ankle_R 0.5500 
+skin 927 knee_R 0.6000 ankle_R 0.4000 
+skin 928 knee_R 1.0000 
+skin 929 knee_R 1.0000 
+skin 930 knee_R 1.0000 
+skin 931 knee_R 1.0000 
+skin 932 knee_R 1.0000 
+skin 933 knee_R 1.0000 
+skin 934 knee_R 1.0000 
+skin 935 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 936 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 937 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 938 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 939 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 940 root 0.4000 pelvis 0.3000 leg_R 0.3000 
+skin 941 root 0.2000 pelvis 0.1600 leg2_R 0.6400 
+skin 942 root 0.2000 pelvis 0.1600 leg2_R 0.6400 
+skin 943 leg2_R 1.0000 
+skin 944 leg2_R 1.0000 
+skin 945 leg2_R 1.0000 
+skin 946 root 0.2000 pelvis 0.1600 leg2_R 0.6400 
+skin 947 root 0.2000 pelvis 0.1600 leg2_R 0.6400 
+skin 948 leg2_R 1.0000 
+skin 949 root 0.2000 pelvis 0.2400 leg2_R 0.5600 
+skin 950 leg2_R 1.0000 
+skin 951 leg2_R 1.0000 
+skin 952 root 0.2000 pelvis 0.1600 leg2_R 0.6400 
+skin 953 leg2_R 0.4000 knee2_R 0.6000 
+skin 954 leg2_R 0.3000 knee2_R 0.7000 
+skin 955 leg2_R 0.6000 knee2_R 0.4000 
+skin 956 leg2_R 0.6000 knee2_R 0.4000 
+skin 957 leg2_R 0.7000 knee2_R 0.3000 
+skin 958 leg2_R 0.3000 knee2_R 0.7000 
+skin 959 leg2_R 0.7000 knee2_R 0.3000 
+skin 960 leg2_R 0.3000 knee2_R 0.7000 
+skin 961 leg2_R 0.6000 knee2_R 0.4000 
+skin 962 leg2_R 1.0000 
+skin 963 leg2_R 1.0000 
+skin 964 leg2_R 1.0000 
+skin 965 leg2_R 0.6000 knee2_R 0.4000 
+skin 966 leg2_R 1.0000 
+skin 967 leg2_R 1.0000 
+skin 968 leg2_R 1.0000 
+skin 969 leg2_R 1.0000 
+skin 970 leg2_R 1.0000 
+skin 971 leg2_R 1.0000 
+skin 972 leg2_R 1.0000 
+skin 973 leg2_R 1.0000 
+skin 974 leg2_R 1.0000 
+skin 975 knee2_R 1.0000 
+skin 976 knee2_R 1.0000 
+skin 977 leg2_R 0.3000 knee2_R 0.7000 
+skin 978 knee2_R 1.0000 
+skin 979 leg2_R 0.3000 knee2_R 0.7000 
+skin 980 knee2_R 1.0000 
+skin 981 knee2_R 1.0000 
+skin 982 knee2_R 1.0000 
+skin 983 knee2_R 0.5000 ankle2_R 0.5000 
+skin 984 knee2_R 1.0000 
+skin 985 knee2_R 0.5000 ankle2_R 0.5000 
+skin 986 knee2_R 1.0000 
+skin 987 knee2_R 1.0000 
+skin 988 knee2_R 0.5000 ankle2_R 0.5000 
+skin 989 knee2_R 1.0000 
+skin 990 knee2_R 0.5000 ankle2_R 0.5000 
+skin 991 knee2_R 1.0000 
+skin 992 knee2_R 0.5000 ankle2_R 0.5000 
+skin 993 knee2_R 1.0000 
+skin 994 knee2_R 0.5000 ankle2_R 0.5000 
+skin 995 knee2_R 1.0000 
+skin 996 knee2_R 1.0000 
+skin 997 knee2_R 1.0000 
+skin 998 knee2_R 1.0000 
+skin 999 knee2_R 1.0000 
+skin 1000 knee2_R 1.0000 
+skin 1001 ankle2_R 1.0000 
+skin 1002 ankle2_R 1.0000 
+skin 1003 ankle2_R 1.0000 
+skin 1004 knee2_R 0.1000 ankle2_R 0.9000 
+skin 1005 ankle2_R 1.0000 
+skin 1006 ankle2_R 1.0000 
+skin 1007 ankle2_R 1.0000 
+skin 1008 ankle2_R 1.0000 
+skin 1009 ankle2_R 1.0000 
+skin 1010 ankle2_R 1.0000 
+skin 1011 ankle2_R 1.0000 
+skin 1012 ankle2_R 1.0000 
+skin 1013 knee2_R 0.2000 ankle2_R 0.8000 
+skin 1014 ankle2_R 1.0000 
+skin 1015 knee2_R 0.1000 ankle2_R 0.9000 
+skin 1016 ankle2_R 1.0000 
+skin 1017 ankle2_R 1.0000 
+skin 1018 ankle2_R 1.0000 
+skin 1019 ankle2_R 1.0000 
+skin 1020 ankle2_R 1.0000 
+skin 1021 ankle2_R 1.0000 
+skin 1022 ankle2_R 1.0000 
+skin 1023 ankle2_R 1.0000 
+skin 1024 ankle2_R 1.0000 
+skin 1025 ankle2_R 1.0000 
+skin 1026 ankle2_R 1.0000 
+skin 1027 ankle2_R 1.0000 
+skin 1028 ankle2_R 1.0000 
+skin 1029 ankle2_R 1.0000 
+skin 1030 root 0.4200 pelvis 0.4000 leg2_R 0.1800 
+skin 1031 root 0.4200 pelvis 0.4000 leg2_R 0.1800 
+skin 1032 root 0.4200 pelvis 0.4000 leg2_R 0.1800 
+skin 1033 root 0.4200 pelvis 0.4000 leg2_R 0.1800 
+skin 1034 root 0.5600 pelvis 0.2000 leg2_R 0.2400 
+skin 1035 root 0.4200 pelvis 0.4000 leg2_R 0.1800 
+skin 1036 leg3_R 1.0000 
+skin 1037 root 0.2000 pelvis 0.1600 leg3_R 0.6400 
+skin 1038 leg3_R 1.0000 
+skin 1039 root 0.2000 pelvis 0.1600 leg3_R 0.6400 
+skin 1040 root 0.2000 pelvis 0.4000 leg3_R 0.4000 
+skin 1041 leg3_R 1.0000 
+skin 1042 root 0.2000 pelvis 0.4000 leg3_R 0.4000 
+skin 1043 leg3_R 1.0000 
+skin 1044 leg3_R 1.0000 
+skin 1045 root 0.2000 pelvis 0.1600 leg3_R 0.6400 
+skin 1046 leg3_R 1.0000 
+skin 1047 root 0.2000 pelvis 0.1600 leg3_R 0.6400 
+skin 1048 leg3_R 0.6000 knee3_R 0.4000 
+skin 1049 leg3_R 0.6000 knee3_R 0.4000 
+skin 1050 leg3_R 0.2000 knee3_R 0.8000 
+skin 1051 leg3_R 0.3000 knee3_R 0.7000 
+skin 1052 leg3_R 0.3000 knee3_R 0.7000 
+skin 1053 leg3_R 0.7000 knee3_R 0.3000 
+skin 1054 leg3_R 0.7000 knee3_R 0.3000 
+skin 1055 leg3_R 0.3000 knee3_R 0.7000 
+skin 1056 leg3_R 0.6000 knee3_R 0.4000 
+skin 1057 leg3_R 1.0000 
+skin 1058 leg3_R 1.0000 
+skin 1059 leg3_R 1.0000 
+skin 1060 leg3_R 0.6000 knee3_R 0.4000 
+skin 1061 leg3_R 1.0000 
+skin 1062 leg3_R 1.0000 
+skin 1063 leg3_R 1.0000 
+skin 1064 leg3_R 1.0000 
+skin 1065 leg3_R 1.0000 
+skin 1066 leg3_R 1.0000 
+skin 1067 leg3_R 1.0000 
+skin 1068 leg3_R 1.0000 
+skin 1069 leg3_R 1.0000 
+skin 1070 knee3_R 1.0000 
+skin 1071 knee3_R 1.0000 
+skin 1072 leg3_R 0.2000 knee3_R 0.8000 
+skin 1073 knee3_R 1.0000 
+skin 1074 leg3_R 0.1500 knee3_R 0.8500 
+skin 1075 knee3_R 1.0000 
+skin 1076 knee3_R 1.0000 
+skin 1077 knee3_R 1.0000 
+skin 1078 knee3_R 1.0000 
+skin 1079 knee3_R 1.0000 
+skin 1080 knee3_R 1.0000 
+skin 1081 knee3_R 1.0000 
+skin 1082 knee3_R 1.0000 
+skin 1083 knee3_R 1.0000 
+skin 1084 knee3_R 1.0000 
+skin 1085 knee3_R 1.0000 
+skin 1086 knee3_R 1.0000 
+skin 1087 knee3_R 1.0000 
+skin 1088 knee3_R 1.0000 
+skin 1089 knee3_R 1.0000 
+skin 1090 root 0.4500 pelvis 0.4000 leg3_R 0.1500 
+skin 1091 root 0.4500 pelvis 0.4000 leg3_R 0.1500 
+skin 1092 root 0.3800 pelvis 0.4000 leg3_R 0.2200 
+skin 1093 root 0.3800 pelvis 0.4000 leg3_R 0.2200 
+skin 1094 root 0.6000 pelvis 0.2900 leg3_R 0.1100 
+skin 1095 root 0.4500 pelvis 0.4000 leg3_R 0.1500 
+skin 1096 ankle_R 1.0000 
+skin 1097 knee_R 0.3000 ankle_R 0.7000 
+skin 1098 ankle_R 1.0000 
+skin 1099 ankle_R 1.0000 
+skin 1100 ankle_R 1.0000 
+skin 1101 ankle_R 1.0000 
+skin 1102 ankle_R 1.0000 
+skin 1103 ankle_R 1.0000 
+skin 1104 ankle_R 1.0000 
+skin 1105 ankle_R 1.0000 
+skin 1106 ankle_R 1.0000 
+skin 1107 ankle_R 1.0000 
+skin 1108 ankle_R 1.0000 
+skin 1109 ankle_R 1.0000 
+skin 1110 knee_R 0.3000 ankle_R 0.7000 
+skin 1111 knee_R 0.3000 ankle_R 0.7000 
+skin 1112 ankle_R 1.0000 
+skin 1113 ankle_R 1.0000 
+skin 1114 ankle_R 1.0000 
+skin 1115 ankle_R 1.0000 
+skin 1116 ankle_R 1.0000 
+skin 1117 ankle_R 1.0000 
+skin 1118 ankle_R 1.0000 
+skin 1119 ankle_R 1.0000 
+skin 1120 ankle_R 1.0000 
+skin 1121 ankle_R 1.0000 
+skin 1122 ankle_R 1.0000 
+skin 1123 ankle_R 1.0000 
+skin 1124 ankle_R 1.0000 
+skin 1125 knee_R 1.0000 
+skin 1126 knee_R 1.0000 
+skin 1127 knee_R 1.0000 
+skin 1128 knee_R 1.0000 
+skin 1129 knee_R 1.0000 
+skin 1130 knee_R 1.0000 
+skin 1131 knee_R 1.0000 
+skin 1132 knee_R 1.0000 
+skin 1133 knee_R 1.0000 
+skin 1134 knee_R 1.0000 
+skin 1135 knee_R 1.0000 
+skin 1136 knee_R 1.0000 
+skin 1137 knee_R 1.0000 
+skin 1138 knee_R 1.0000 
+skin 1139 knee_R 1.0000 
+skin 1140 knee_R 1.0000 
+skin 1141 knee_R 1.0000 
+skin 1142 knee_R 1.0000 
+skin 1143 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1144 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1145 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1146 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1147 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1148 knee3_R 0.5000 ankle3_R 0.5000 
+skin 1149 ankle3_R 1.0000 
+skin 1150 knee3_R 0.1000 ankle3_R 0.9000 
+skin 1151 ankle3_R 1.0000 
+skin 1152 ankle3_R 1.0000 
+skin 1153 ankle3_R 1.0000 
+skin 1154 ankle3_R 1.0000 
+skin 1155 ankle3_R 1.0000 
+skin 1156 ankle3_R 1.0000 
+skin 1157 ankle3_R 1.0000 
+skin 1158 ankle3_R 1.0000 
+skin 1159 ankle3_R 1.0000 
+skin 1160 ankle3_R 1.0000 
+skin 1161 knee3_R 0.2000 ankle3_R 0.8000 
+skin 1162 ankle3_R 1.0000 
+skin 1163 knee3_R 0.1000 ankle3_R 0.9000 
+skin 1164 ankle3_R 1.0000 
+skin 1165 ankle3_R 1.0000 
+skin 1166 ankle3_R 1.0000 
+skin 1167 ankle3_R 1.0000 
+skin 1168 ankle3_R 1.0000 
+skin 1169 ankle3_R 1.0000 
+skin 1170 ankle3_R 1.0000 
+skin 1171 ankle3_R 1.0000 
+skin 1172 ankle3_R 1.0000 
+skin 1173 ankle3_R 1.0000 
+skin 1174 ankle3_R 1.0000 
+skin 1175 ankle3_R 1.0000 
+skin 1176 ankle3_R 1.0000 
+skin 1177 ankle3_R 1.0000 
+skin 1178 spine1 0.0900 head 0.8100 bee_cheek_R 0.1000 
+skin 1179 head 0.9000 bee_mouthLower_R 0.1000 
+skin 1180 spine1 0.2000 head 0.7100 bee_cheek_R 0.0900 
+skin 1181 head 0.7400 bee_mouthCorner_R 0.2000 bee_mouthLower_R 0.0600 
+skin 1182 head 0.5100 bee_mouthCorner_R 0.2000 bee_mouthLower_R 0.2900 
+skin 1183 head 0.6000 bee_mouthLower_R 0.4000 
+skin 1184 head 0.6000 bee_mouthLower_R 0.4000 
+skin 1185 head 0.6800 bee_mouthCorner_R 0.1500 bee_cheek_R 0.1700 
+skin 1186 head 0.2100 bee_jaw 0.4900 bee_mouthLower_R 0.3000 
+skin 1187 head 0.5400 bee_mouthCorner_R 0.4000 bee_mouthLower_R 0.0600 
+skin 1188 head 0.9000 bee_mouthLower_R 0.1000 
+skin 1189 root 0.6000 spine1 0.4000 
+skin 1190 root 0.6000 spine1 0.4000 
+skin 1191 root 0.3000 spine1 0.7000 
+skin 1192 root 0.3000 spine1 0.7000 
+skin 1193 root 0.5400 spine1 0.3600 pelvis 0.1000 
+skin 1194 root 0.5000 spine1 0.5000 
+skin 1195 root 0.5000 spine1 0.5000 
+skin 1196 head 1.0000 
+skin 1197 head 1.0000 
+skin 1198 head 1.0000 
+skin 1199 head 1.0000 
+skin 1200 head 0.3000 bee_jaw 0.7000 
+skin 1201 head 0.3000 bee_jaw 0.7000 
+skin 1202 head 0.3000 bee_jaw 0.7000 
+skin 1203 root 0.6000 spine1 0.4000 
+skin 1204 root 0.5000 spine1 0.5000 
+skin 1205 root 0.4000 spine1 0.6000 
+skin 1206 root 0.4000 spine1 0.6000 
+skin 1207 root 0.4000 spine1 0.6000 
+skin 1208 root 0.6000 spine1 0.4000 
+skin 1209 root 0.5000 spine1 0.5000 
+skin 1210 root 0.5000 spine1 0.5000 
+skin 1211 root 0.6500 spine1 0.3500 
+skin 1212 root 0.6000 spine1 0.4000 
+skin 1213 root 0.6000 spine1 0.4000 
+skin 1214 root 0.9000 spine1 0.1000 
+skin 1215 root 0.9000 spine1 0.1000 
+skin 1216 root 0.8500 spine1 0.1500 
+skin 1217 root 0.6000 spine1 0.4000 
+skin 1218 root 0.3000 spine1 0.7000 
+skin 1219 root 0.6000 spine1 0.4000 
+skin 1220 root 0.5000 spine1 0.5000 
+skin 1221 root 0.5000 spine1 0.5000 
+skin 1222 head 1.0000 
+skin 1223 head 1.0000 
+skin 1224 head 0.3000 bee_jaw 0.7000 
+skin 1225 head 0.3000 bee_jaw 0.7000 
+skin 1226 root 0.6000 spine1 0.4000 
+skin 1227 root 0.5000 spine1 0.5000 
+skin 1228 root 0.4000 spine1 0.6000 
+skin 1229 root 0.4000 spine1 0.6000 
+skin 1230 root 0.6000 spine1 0.4000 
+skin 1231 root 0.5000 spine1 0.5000 
+skin 1232 root 0.6500 spine1 0.3500 
+skin 1233 root 0.6000 spine1 0.4000 
+skin 1234 root 0.9000 spine1 0.1000 
+skin 1235 root 0.9000 spine1 0.1000 
+skin 1236 head 1.0000 
+skin 1237 head 1.0000 
+skin 1238 head 1.0000 
+skin 1239 head 1.0000 
+skin 1240 head 1.0000 
+skin 1241 head 1.0000 
+skin 1242 head 1.0000 
+skin 1243 head 1.0000 
+skin 1244 head 1.0000 
+skin 1245 head 1.0000 
+skin 1246 head 1.0000 
+skin 1247 head 1.0000 
+skin 1248 head 1.0000 
+skin 1249 head 1.0000 
+skin 1250 head 1.0000 
+skin 1251 head 1.0000 
+skin 1252 head 1.0000 
+skin 1253 head 0.2800 bee_jaw 0.4200 bee_mouthCorner_L 0.3000 
+skin 1254 head 0.2800 bee_jaw 0.4200 bee_mouthCorner_R 0.3000 
+skin 1255 head 0.2700 bee_jaw 0.6300 bee_mouthLower_L 0.1000 
+skin 1256 head 0.2100 bee_jaw 0.4900 bee_mouthLower_L 0.3000 
+skin 1257 head 0.2100 bee_jaw 0.4900 bee_mouthLower_R 0.3000 
+skin 1258 wing_L 1.0000 
+skin 1259 wing_L 1.0000 
+skin 1260 wing_L 1.0000 
+skin 1261 wing_L 1.0000 
+skin 1262 root 0.1000 wing_L 0.9000 
+skin 1263 wing_L 1.0000 
+skin 1264 root 0.1000 wing_L 0.9000 
+skin 1265 wing_L 1.0000 
+skin 1266 wing_L 1.0000 
+skin 1267 wing_L 1.0000 
+skin 1268 wing_L 1.0000 
+skin 1269 root 0.8000 wing_L 0.2000 
+skin 1270 root 0.8000 wing_L 0.2000 
+skin 1271 wing_R 1.0000 
+skin 1272 wing_R 1.0000 
+skin 1273 wing_R 1.0000 
+skin 1274 wing_R 1.0000 
+skin 1275 wing_R 1.0000 
+skin 1276 root 0.1000 wing_R 0.9000 
+skin 1277 root 0.1000 wing_R 0.9000 
+skin 1278 wing_R 1.0000 
+skin 1279 wing_R 1.0000 
+skin 1280 wing_R 1.0000 
+skin 1281 wing_R 1.0000 
+skin 1282 root 0.8000 wing_R 0.2000 
+skin 1283 root 0.8000 wing_R 0.2000 
+hier root spine1
+hier root pelvis
+hier root abdomen
+hier root wing_L
+hier root wing_R
+hier spine1 head
+hier pelvis leg_L
+hier pelvis leg3_L
+hier pelvis leg2_L
+hier pelvis leg_R
+hier pelvis leg2_R
+hier pelvis leg3_R
+hier head bee_jaw
+hier head bee_eyeLidUpper_L
+hier head bee_eyeLidUpper_R
+hier head bee_antenna1_L
+hier head bee_eyeLidLower_L
+hier head bee_eyeLidLower_R
+hier head bee_antenna1_R
+hier head bee_mouthCorner_R
+hier head bee_mouthCorner_L
+hier head bee_cheek_R
+hier head bee_cheek_L
+hier leg_L knee_L
+hier leg3_L knee3_L
+hier leg2_L knee2_L
+hier leg_R knee_R
+hier leg2_R knee2_R
+hier leg3_R knee3_R
+hier bee_jaw bee_tongue
+hier bee_jaw bee_mouthLower_R
+hier bee_jaw bee_mouthLower_L
+hier bee_antenna1_L bee_antenna2_L
+hier bee_antenna1_R bee_antenna2_R
+hier knee_L ankle_L
+hier knee3_L ankle3_L
+hier knee2_L ankle2_L
+hier knee_R ankle_R
+hier knee2_R ankle2_R
+hier knee3_R ankle3_R
+hier bee_antenna2_L bee_antenna3_L
+hier bee_antenna2_R bee_antenna3_R

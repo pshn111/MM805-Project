@@ -1,0 +1,906 @@
+joints Hips 0.00035000 0.40355000 0.04195450
+joints LeftUpLeg 0.05072550 0.39705300 0.03891460
+joints RightUpLeg -0.05002550 0.39705300 0.03891460
+joints Spine 0.00035000 0.43501000 0.04210710
+joints LeftLeg 0.05072550 0.21975700 0.03195500
+joints RightLeg -0.05002550 0.21975700 0.03195500
+joints Spine1 0.00229533 0.55041200 0.04321840
+joints LeftFoot 0.05072550 0.09665380 0.03195500
+joints RightFoot -0.05002550 0.09665380 0.03195500
+joints LeftShoulder 0.06184770 0.63866700 0.02009198
+joints Neck 0.00229533 0.67370600 0.02416503
+joints RightShoulder -0.05725700 0.63866700 0.02009198
+joints LeftArm 0.09152850 0.63382700 0.02009198
+joints Head 0.00229533 0.70154100 0.03301930
+joints RightArm -0.08693780 0.63382700 0.02009198
+joints LeftForeArm 0.21352600 0.63382700 0.02009198
+joints RightForeArm -0.20891700 0.63382700 0.02009198
+joints LeftHand 0.31934900 0.63382700 0.02009198
+joints RightHand -0.31476000 0.63382700 0.02009198
+joints LeftFinger 0.38678800 0.63382700 0.02009198
+joints RightFinger -0.38219800 0.63382700 0.02009198
+root Hips
+skin 0 Head 1.0000 
+skin 1 Head 1.0000 
+skin 2 Head 1.0000 
+skin 3 Head 1.0000 
+skin 4 Head 1.0000 
+skin 5 Head 1.0000 
+skin 6 Head 1.0000 
+skin 7 Head 1.0000 
+skin 8 Head 1.0000 
+skin 9 Head 1.0000 
+skin 10 Head 1.0000 
+skin 11 Head 1.0000 
+skin 12 Head 1.0000 
+skin 13 Head 1.0000 
+skin 14 Head 1.0000 
+skin 15 Head 1.0000 
+skin 16 Head 1.0000 
+skin 17 Head 1.0000 
+skin 18 Head 1.0000 
+skin 19 Head 1.0000 
+skin 20 Head 1.0000 
+skin 21 Head 1.0000 
+skin 22 Head 1.0000 
+skin 23 Head 1.0000 
+skin 24 Head 1.0000 
+skin 25 Head 1.0000 
+skin 26 Head 1.0000 
+skin 27 Head 1.0000 
+skin 28 Head 1.0000 
+skin 29 Head 1.0000 
+skin 30 Head 1.0000 
+skin 31 Head 1.0000 
+skin 32 Head 1.0000 
+skin 33 Head 1.0000 
+skin 34 LeftArm 1.0000 
+skin 35 LeftArm 1.0000 
+skin 36 LeftArm 1.0000 
+skin 37 LeftArm 0.9600 LeftForeArm 0.0400 
+skin 38 Spine1 0.0100 LeftArm 0.9300 LeftForeArm 0.0600 
+skin 39 LeftArm 0.7500 LeftForeArm 0.2500 
+skin 40 LeftForeArm 1.0000 
+skin 41 LeftArm 0.0800 LeftForeArm 0.9200 
+skin 42 LeftForeArm 1.0000 
+skin 43 LeftForeArm 1.0000 
+skin 44 LeftForeArm 1.0000 
+skin 45 LeftArm 0.2000 LeftForeArm 0.8000 
+skin 46 RightShoulder 0.0200 RightArm 0.9800 
+skin 47 RightArm 0.9700 RightForeArm 0.0300 
+skin 48 RightArm 0.8400 RightForeArm 0.1600 
+skin 49 RightArm 1.0000 
+skin 50 Spine1 0.0100 RightShoulder 0.0200 RightArm 0.9200 RightForeArm 0.0500 
+skin 51 RightShoulder 0.0200 RightArm 0.9800 
+skin 52 RightFinger 1.0000 
+skin 53 RightFinger 1.0000 
+skin 54 RightFinger 1.0000 
+skin 55 RightFinger 1.0000 
+skin 56 RightFinger 1.0000 
+skin 57 RightFinger 1.0000 
+skin 58 RightHand 0.2000 RightFinger 0.8000 
+skin 59 RightFinger 1.0000 
+skin 60 RightFinger 1.0000 
+skin 61 RightHand 1.0000 
+skin 62 RightHand 1.0000 
+skin 63 RightHand 0.9900 RightFinger 0.0100 
+skin 64 RightHand 1.0000 
+skin 65 RightHand 1.0000 
+skin 66 RightHand 0.2100 RightFinger 0.7900 
+skin 67 RightHand 0.2000 RightFinger 0.8000 
+skin 68 RightHand 1.0000 
+skin 69 RightForeArm 0.4700 RightHand 0.5300 
+skin 70 RightForeArm 0.4900 RightHand 0.5100 
+skin 71 RightHand 1.0000 
+skin 72 RightForeArm 0.3500 RightHand 0.6500 
+skin 73 RightHand 1.0000 
+skin 74 Spine1 1.0000 
+skin 75 Spine 0.0300 Spine1 0.9700 
+skin 76 Spine1 0.9400 LeftShoulder 0.0400 LeftArm 0.0200 
+skin 77 Spine 0.0300 Spine1 0.9700 
+skin 78 Spine1 1.0000 
+skin 79 Spine1 0.2500 Neck 0.3800 Head 0.3700 
+skin 80 Spine1 0.2400 Neck 0.3800 Head 0.3800 
+skin 81 Spine1 0.2200 Neck 0.3900 Head 0.3900 
+skin 82 Spine1 0.9900 RightShoulder 0.0100 
+skin 83 Spine1 1.0000 
+skin 84 Spine1 1.0000 
+skin 85 Spine1 1.0000 
+skin 86 Spine1 0.8800 RightShoulder 0.0700 RightArm 0.0500 
+skin 87 Head 1.0000 
+skin 88 Head 1.0000 
+skin 89 Head 1.0000 
+skin 90 Head 1.0000 
+skin 91 Head 1.0000 
+skin 92 Head 1.0000 
+skin 93 Head 1.0000 
+skin 94 RightHand 1.0000 
+skin 95 RightForeArm 0.0100 RightHand 0.9900 
+skin 96 RightForeArm 0.4600 RightHand 0.5400 
+skin 97 RightForeArm 0.4200 RightHand 0.5800 
+skin 98 RightHand 1.0000 
+skin 99 RightHand 0.7900 RightFinger 0.2100 
+skin 100 RightHand 0.7900 RightFinger 0.2100 
+skin 101 RightForeArm 0.3300 RightHand 0.6700 
+skin 102 RightForeArm 0.3300 RightHand 0.6700 
+skin 103 RightHand 0.1900 RightFinger 0.8100 
+skin 104 Head 1.0000 
+skin 105 Head 1.0000 
+skin 106 Head 1.0000 
+skin 107 Head 1.0000 
+skin 108 Head 1.0000 
+skin 109 Head 1.0000 
+skin 110 Head 1.0000 
+skin 111 Head 1.0000 
+skin 112 Head 1.0000 
+skin 113 Head 1.0000 
+skin 114 Head 1.0000 
+skin 115 Head 1.0000 
+skin 116 Head 1.0000 
+skin 117 Head 1.0000 
+skin 118 Head 1.0000 
+skin 119 Head 1.0000 
+skin 120 Head 1.0000 
+skin 121 Head 1.0000 
+skin 122 Head 1.0000 
+skin 123 Head 1.0000 
+skin 124 Head 1.0000 
+skin 125 Head 1.0000 
+skin 126 Head 1.0000 
+skin 127 Head 1.0000 
+skin 128 Head 1.0000 
+skin 129 Head 1.0000 
+skin 130 Head 1.0000 
+skin 131 Head 1.0000 
+skin 132 Head 1.0000 
+skin 133 Head 1.0000 
+skin 134 Head 1.0000 
+skin 135 Head 1.0000 
+skin 136 Spine1 1.0000 
+skin 137 Spine 0.0400 Spine1 0.9600 
+skin 138 Spine 0.1200 Spine1 0.8800 
+skin 139 Spine1 0.9400 LeftShoulder 0.0400 LeftArm 0.0200 
+skin 140 Spine1 0.4900 LeftShoulder 0.3100 LeftArm 0.2000 
+skin 141 Spine1 1.0000 
+skin 142 Spine1 0.9500 RightShoulder 0.0400 RightArm 0.0100 
+skin 143 Spine1 1.0000 
+skin 144 Head 1.0000 
+skin 145 Head 1.0000 
+skin 146 Head 1.0000 
+skin 147 Head 1.0000 
+skin 148 Head 1.0000 
+skin 149 Head 1.0000 
+skin 150 Head 1.0000 
+skin 151 Head 1.0000 
+skin 152 Head 1.0000 
+skin 153 Head 1.0000 
+skin 154 Head 1.0000 
+skin 155 Head 1.0000 
+skin 156 Head 1.0000 
+skin 157 Head 1.0000 
+skin 158 Head 1.0000 
+skin 159 Head 1.0000 
+skin 160 Head 1.0000 
+skin 161 Head 1.0000 
+skin 162 Head 1.0000 
+skin 163 Head 1.0000 
+skin 164 Head 1.0000 
+skin 165 Head 1.0000 
+skin 166 Head 1.0000 
+skin 167 Head 1.0000 
+skin 168 Head 1.0000 
+skin 169 Head 1.0000 
+skin 170 Head 1.0000 
+skin 171 Head 1.0000 
+skin 172 Head 1.0000 
+skin 173 Head 1.0000 
+skin 174 Head 1.0000 
+skin 175 Head 1.0000 
+skin 176 Head 1.0000 
+skin 177 Head 1.0000 
+skin 178 Head 1.0000 
+skin 179 Head 1.0000 
+skin 180 Head 1.0000 
+skin 181 Head 1.0000 
+skin 182 Head 1.0000 
+skin 183 Head 1.0000 
+skin 184 Head 1.0000 
+skin 185 Head 1.0000 
+skin 186 Head 1.0000 
+skin 187 Head 1.0000 
+skin 188 Head 1.0000 
+skin 189 Head 1.0000 
+skin 190 Head 1.0000 
+skin 191 Head 1.0000 
+skin 192 Spine1 1.0000 
+skin 193 Spine1 0.9900 LeftShoulder 0.0100 
+skin 194 Spine1 1.0000 
+skin 195 Spine1 0.9900 RightShoulder 0.0100 
+skin 196 Spine1 1.0000 
+skin 197 Spine1 0.9700 LeftShoulder 0.0200 RightShoulder 0.0100 
+skin 198 Spine1 1.0000 
+skin 199 Spine1 1.0000 
+skin 200 Spine1 1.0000 
+skin 201 Spine1 1.0000 
+skin 202 Spine1 0.9500 RightShoulder 0.0400 RightArm 0.0100 
+skin 203 Spine1 1.0000 
+skin 204 Spine1 1.0000 
+skin 205 Head 1.0000 
+skin 206 Head 1.0000 
+skin 207 Head 1.0000 
+skin 208 Head 1.0000 
+skin 209 Head 1.0000 
+skin 210 Head 1.0000 
+skin 211 Head 1.0000 
+skin 212 Head 1.0000 
+skin 213 Head 1.0000 
+skin 214 Head 1.0000 
+skin 215 Head 1.0000 
+skin 216 Head 1.0000 
+skin 217 Head 1.0000 
+skin 218 Head 1.0000 
+skin 219 Head 1.0000 
+skin 220 Head 1.0000 
+skin 221 Spine1 1.0000 
+skin 222 Spine1 1.0000 
+skin 223 Head 1.0000 
+skin 224 Head 1.0000 
+skin 225 Head 1.0000 
+skin 226 Head 1.0000 
+skin 227 Head 1.0000 
+skin 228 Head 1.0000 
+skin 229 Head 1.0000 
+skin 230 Head 1.0000 
+skin 231 Head 1.0000 
+skin 232 Head 1.0000 
+skin 233 Head 1.0000 
+skin 234 Head 1.0000 
+skin 235 Head 1.0000 
+skin 236 Hips 1.0000 
+skin 237 Hips 0.0200 Spine 0.3800 Spine1 0.6000 
+skin 238 Spine 0.4500 Spine1 0.5500 
+skin 239 Hips 0.0300 Spine 0.6000 Spine1 0.3700 
+skin 240 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 241 Hips 1.0000 
+skin 242 Hips 0.0200 Spine 0.3700 Spine1 0.6100 
+skin 243 Hips 0.0200 Spine 0.8200 Spine1 0.1600 
+skin 244 LeftHand 1.0000 
+skin 245 LeftHand 1.0000 
+skin 246 LeftHand 1.0000 
+skin 247 LeftHand 1.0000 
+skin 248 LeftHand 1.0000 
+skin 249 LeftForeArm 0.0100 LeftHand 0.9900 
+skin 250 LeftHand 0.8100 LeftFinger 0.1900 
+skin 251 LeftHand 0.8000 LeftFinger 0.2000 
+skin 252 LeftHand 0.8100 LeftFinger 0.1900 
+skin 253 LeftHand 1.0000 
+skin 254 LeftHand 1.0000 
+skin 255 LeftForeArm 0.3400 LeftHand 0.6600 
+skin 256 LeftForeArm 0.4500 LeftHand 0.5500 
+skin 257 LeftForeArm 0.3400 LeftHand 0.6600 
+skin 258 LeftFinger 1.0000 
+skin 259 LeftHand 0.1900 LeftFinger 0.8100 
+skin 260 LeftFinger 1.0000 
+skin 261 LeftFinger 1.0000 
+skin 262 LeftFinger 1.0000 
+skin 263 LeftHand 0.1900 LeftFinger 0.8100 
+skin 264 LeftFinger 1.0000 
+skin 265 LeftFinger 1.0000 
+skin 266 LeftHand 0.2000 LeftFinger 0.8000 
+skin 267 LeftFinger 1.0000 
+skin 268 LeftFinger 1.0000 
+skin 269 LeftHand 0.2000 LeftFinger 0.8000 
+skin 270 LeftHand 0.2000 LeftFinger 0.8000 
+skin 271 LeftFinger 1.0000 
+skin 272 LeftHand 0.0100 LeftFinger 0.9900 
+skin 273 LeftHand 1.0000 
+skin 274 LeftHand 1.0000 
+skin 275 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 276 LeftHand 0.7800 LeftFinger 0.2200 
+skin 277 LeftHand 0.8000 LeftFinger 0.2000 
+skin 278 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 279 LeftHand 0.9900 LeftFinger 0.0100 
+skin 280 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 281 LeftHand 0.7400 LeftFinger 0.2600 
+skin 282 LeftForeArm 0.0200 LeftHand 0.9000 LeftFinger 0.0800 
+skin 283 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 284 LeftHand 1.0000 
+skin 285 LeftHand 1.0000 
+skin 286 LeftForeArm 0.4900 LeftHand 0.5100 
+skin 287 LeftForeArm 0.3700 LeftHand 0.6300 
+skin 288 RightForeArm 0.9100 RightHand 0.0900 
+skin 289 RightForeArm 0.6800 RightHand 0.3200 
+skin 290 RightForeArm 0.7800 RightHand 0.2200 
+skin 291 RightForeArm 0.7400 RightHand 0.2600 
+skin 292 RightForeArm 0.7700 RightHand 0.2300 
+skin 293 RightForeArm 0.8200 RightHand 0.1800 
+skin 294 RightForeArm 0.7600 RightHand 0.2400 
+skin 295 RightForeArm 0.8200 RightHand 0.1800 
+skin 296 RightForeArm 0.7600 RightHand 0.2400 
+skin 297 RightForeArm 0.7500 RightHand 0.2500 
+skin 298 RightForeArm 0.7500 RightHand 0.2500 
+skin 299 RightForeArm 0.8100 RightHand 0.1900 
+skin 300 RightForeArm 0.7400 RightHand 0.2600 
+skin 301 RightForeArm 0.7800 RightHand 0.2200 
+skin 302 RightForeArm 0.7400 RightHand 0.2600 
+skin 303 RightForeArm 0.6800 RightHand 0.3200 
+skin 304 RightForeArm 0.8200 RightHand 0.1800 
+skin 305 RightForeArm 0.7600 RightHand 0.2400 
+skin 306 RightForeArm 0.7700 RightHand 0.2300 
+skin 307 RightForeArm 0.8100 RightHand 0.1900 
+skin 308 RightForeArm 0.8200 RightHand 0.1800 
+skin 309 RightForeArm 0.7500 RightHand 0.2500 
+skin 310 RightForeArm 0.7800 RightHand 0.2200 
+skin 311 RightForeArm 0.7800 RightHand 0.2200 
+skin 312 RightForeArm 0.7800 RightHand 0.2200 
+skin 313 LeftShoulder 0.1900 LeftArm 0.8100 
+skin 314 LeftShoulder 0.1000 LeftArm 0.9000 
+skin 315 Spine1 0.0100 LeftShoulder 0.2500 LeftArm 0.7400 
+skin 316 LeftShoulder 0.0900 LeftArm 0.9100 
+skin 317 LeftShoulder 0.1100 LeftArm 0.8900 
+skin 318 LeftShoulder 0.1000 LeftArm 0.9000 
+skin 319 Spine1 0.0100 LeftShoulder 0.0300 LeftArm 0.8600 LeftForeArm 0.1000 
+skin 320 LeftArm 0.9100 LeftForeArm 0.0900 
+skin 321 LeftShoulder 0.1000 LeftArm 0.9000 
+skin 322 LeftArm 0.9500 LeftForeArm 0.0500 
+skin 323 LeftArm 0.7000 LeftForeArm 0.3000 
+skin 324 LeftArm 0.7500 LeftForeArm 0.2500 
+skin 325 LeftArm 0.4000 LeftForeArm 0.6000 
+skin 326 LeftArm 0.4700 LeftForeArm 0.5300 
+skin 327 LeftArm 0.8600 LeftForeArm 0.1400 
+skin 328 LeftArm 0.2100 LeftForeArm 0.7900 
+skin 329 LeftArm 0.8200 LeftForeArm 0.1800 
+skin 330 LeftArm 0.2000 LeftForeArm 0.8000 
+skin 331 LeftArm 0.1500 LeftForeArm 0.8500 
+skin 332 LeftForeArm 1.0000 
+skin 333 RightShoulder 0.2100 RightArm 0.7900 
+skin 334 Spine1 0.0200 RightShoulder 0.1300 RightArm 0.8500 
+skin 335 RightShoulder 0.1100 RightArm 0.8900 
+skin 336 Spine1 0.0400 RightShoulder 0.2500 RightArm 0.7100 
+skin 337 RightShoulder 0.1500 RightArm 0.8500 
+skin 338 Spine1 0.0400 RightShoulder 0.1600 RightArm 0.8000 
+skin 339 RightShoulder 0.1100 RightArm 0.8900 
+skin 340 Spine 0.0100 Spine1 0.9900 
+skin 341 Spine1 0.5900 RightShoulder 0.2500 RightArm 0.1600 
+skin 342 Spine1 0.3300 RightShoulder 0.2500 RightArm 0.4200 
+skin 343 Spine1 0.0100 RightShoulder 0.0400 RightArm 0.8700 RightForeArm 0.0800 
+skin 344 RightShoulder 0.0100 RightArm 0.9100 RightForeArm 0.0800 
+skin 345 RightArm 0.8700 RightForeArm 0.1300 
+skin 346 RightArm 0.3300 RightForeArm 0.6700 
+skin 347 RightArm 0.2900 RightForeArm 0.7100 
+skin 348 RightArm 0.7800 RightForeArm 0.2200 
+skin 349 RightArm 0.5100 RightForeArm 0.4900 
+skin 350 RightArm 0.7200 RightForeArm 0.2800 
+skin 351 RightArm 0.5700 RightForeArm 0.4300 
+skin 352 RightArm 0.8900 RightForeArm 0.1100 
+skin 353 RightArm 0.9400 RightForeArm 0.0600 
+skin 354 RightArm 0.0100 RightForeArm 0.9900 
+skin 355 RightArm 0.0100 RightForeArm 0.9900 
+skin 356 RightArm 0.3100 RightForeArm 0.6900 
+skin 357 RightArm 0.3800 RightForeArm 0.6200 
+skin 358 RightArm 0.2600 RightForeArm 0.7400 
+skin 359 RightForeArm 0.9800 RightHand 0.0200 
+skin 360 RightForeArm 0.9800 RightHand 0.0200 
+skin 361 RightArm 0.0200 RightForeArm 0.9800 
+skin 362 RightArm 0.0300 RightForeArm 0.9700 
+skin 363 RightForeArm 0.9700 RightHand 0.0300 
+skin 364 RightForeArm 0.9700 RightHand 0.0300 
+skin 365 RightArm 0.0200 RightForeArm 0.9800 
+skin 366 RightForeArm 0.9500 RightHand 0.0500 
+skin 367 RightHand 0.7900 RightFinger 0.2100 
+skin 368 RightHand 0.1900 RightFinger 0.8100 
+skin 369 RightHand 0.7800 RightFinger 0.2200 
+skin 370 RightHand 0.2000 RightFinger 0.8000 
+skin 371 RightHand 0.1300 RightFinger 0.8700 
+skin 372 RightHand 0.2000 RightFinger 0.8000 
+skin 373 RightHand 0.2000 RightFinger 0.8000 
+skin 374 RightHand 0.7500 RightFinger 0.2500 
+skin 375 RightHand 0.2100 RightFinger 0.7900 
+skin 376 RightHand 0.9900 RightFinger 0.0100 
+skin 377 RightHand 0.7700 RightFinger 0.2300 
+skin 378 RightFinger 1.0000 
+skin 379 RightHand 0.0100 RightFinger 0.9900 
+skin 380 RightHand 0.9900 RightFinger 0.0100 
+skin 381 RightHand 0.7300 RightFinger 0.2700 
+skin 382 RightHand 0.0100 RightFinger 0.9900 
+skin 383 RightHand 0.2200 RightFinger 0.7800 
+skin 384 RightHand 0.0100 RightFinger 0.9900 
+skin 385 RightForeArm 0.5000 RightHand 0.5000 
+skin 386 RightForeArm 0.5000 RightHand 0.5000 
+skin 387 RightForeArm 0.0200 RightHand 0.8900 RightFinger 0.0900 
+skin 388 RightHand 0.7600 RightFinger 0.2400 
+skin 389 RightForeArm 0.7800 RightHand 0.2200 
+skin 390 RightForeArm 0.5000 RightHand 0.5000 
+skin 391 RightForeArm 0.7700 RightHand 0.2300 
+skin 392 RightForeArm 0.5000 RightHand 0.5000 
+skin 393 RightForeArm 0.6800 RightHand 0.3200 
+skin 394 RightForeArm 0.7600 RightHand 0.2400 
+skin 395 RightForeArm 0.0600 RightHand 0.7000 RightFinger 0.2400 
+skin 396 RightHand 0.7500 RightFinger 0.2500 
+skin 397 RightForeArm 0.7600 RightHand 0.2400 
+skin 398 RightForeArm 0.5000 RightHand 0.5000 
+skin 399 RightForeArm 0.5100 RightHand 0.4900 
+skin 400 RightForeArm 0.7500 RightHand 0.2500 
+skin 401 RightForeArm 0.7400 RightHand 0.2600 
+skin 402 RightForeArm 0.7400 RightHand 0.2600 
+skin 403 RightForeArm 0.8200 RightHand 0.1800 
+skin 404 RightForeArm 0.8200 RightHand 0.1800 
+skin 405 RightForeArm 0.7800 RightHand 0.2200 
+skin 406 Spine 0.4900 Spine1 0.5100 
+skin 407 Spine 0.0300 Spine1 0.9700 
+skin 408 Spine 0.0100 Spine1 0.9900 
+skin 409 Spine 0.1000 Spine1 0.8400 LeftShoulder 0.0300 LeftArm 0.0300 
+skin 410 Spine 0.3700 Spine1 0.6300 
+skin 411 Spine 0.0900 Spine1 0.8300 RightShoulder 0.0400 RightArm 0.0400 
+skin 412 Spine 0.0100 Spine1 0.9900 
+skin 413 Spine 0.3700 Spine1 0.6300 
+skin 414 RightForeArm 0.8100 RightHand 0.1900 
+skin 415 RightForeArm 0.7500 RightHand 0.2500 
+skin 416 Spine 0.2700 Spine1 0.7300 
+skin 417 Spine 0.0600 Spine1 0.8000 LeftShoulder 0.0700 LeftArm 0.0700 
+skin 418 Spine 0.2200 Spine1 0.7800 
+skin 419 Spine 0.1400 Spine1 0.8600 
+skin 420 Spine 0.3600 Spine1 0.6400 
+skin 421 Spine 0.2000 Spine1 0.8000 
+skin 422 Spine 0.1800 Spine1 0.8200 
+skin 423 Spine 0.4000 Spine1 0.6000 
+skin 424 Spine 0.3700 Spine1 0.6300 
+skin 425 Spine 0.2200 Spine1 0.7800 
+skin 426 Spine 0.1000 Spine1 0.9000 
+skin 427 Spine 0.2800 Spine1 0.7200 
+skin 428 Spine 0.2300 Spine1 0.7700 
+skin 429 Spine 0.3700 Spine1 0.6300 
+skin 430 Spine 0.2800 Spine1 0.7200 
+skin 431 Spine 0.1300 Spine1 0.8700 
+skin 432 Spine 0.2200 Spine1 0.7800 
+skin 433 Spine 0.0800 Spine1 0.8200 RightShoulder 0.0500 RightArm 0.0500 
+skin 434 Spine 0.2200 Spine1 0.7800 
+skin 435 Spine 0.6200 Spine1 0.3800 
+skin 436 Spine 0.0400 Spine1 0.9600 
+skin 437 Spine 0.0900 Spine1 0.9100 
+skin 438 Spine 0.1800 Spine1 0.8200 
+skin 439 Spine 0.3600 Spine1 0.6400 
+skin 440 Spine1 0.8800 RightShoulder 0.0700 RightArm 0.0500 
+skin 441 RightForeArm 0.9900 RightHand 0.0100 
+skin 442 RightForeArm 0.9900 RightHand 0.0100 
+skin 443 RightForeArm 0.9800 RightHand 0.0200 
+skin 444 RightForeArm 0.9800 RightHand 0.0200 
+skin 445 RightForeArm 0.9800 RightHand 0.0200 
+skin 446 RightForeArm 0.9900 RightHand 0.0100 
+skin 447 RightForeArm 0.9800 RightHand 0.0200 
+skin 448 RightForeArm 0.9800 RightHand 0.0200 
+skin 449 RightForeArm 0.9900 RightHand 0.0100 
+skin 450 RightForeArm 0.9600 RightHand 0.0400 
+skin 451 RightForeArm 0.9800 RightHand 0.0200 
+skin 452 RightForeArm 0.8300 RightHand 0.1700 
+skin 453 RightForeArm 0.7900 RightHand 0.2100 
+skin 454 RightForeArm 0.9200 RightHand 0.0800 
+skin 455 RightForeArm 0.8300 RightHand 0.1700 
+skin 456 Spine 0.3700 Spine1 0.6300 
+skin 457 Spine 0.3800 Spine1 0.6200 
+skin 458 Spine 0.1900 Spine1 0.8100 
+skin 459 Spine 0.0900 Spine1 0.9100 
+skin 460 Spine 0.2600 Spine1 0.7400 
+skin 461 Spine 0.1100 Spine1 0.8900 
+skin 462 Spine 0.0400 Spine1 0.9600 
+skin 463 Spine 0.0200 Spine1 0.9800 
+skin 464 Spine 0.3700 Spine1 0.6300 
+skin 465 Spine 0.1900 Spine1 0.8100 
+skin 466 Spine 0.2600 Spine1 0.7400 
+skin 467 Spine 0.4200 Spine1 0.5800 
+skin 468 Spine 0.1100 Spine1 0.8900 
+skin 469 Spine 0.4000 Spine1 0.6000 
+skin 470 Spine 0.0900 Spine1 0.9100 
+skin 471 Spine 0.0200 Spine1 0.9800 
+skin 472 Spine 0.0400 Spine1 0.9600 
+skin 473 Spine 0.4000 Spine1 0.6000 
+skin 474 Spine 0.2000 Spine1 0.8000 
+skin 475 Spine 0.0600 Spine1 0.9400 
+skin 476 Spine 0.0700 Spine1 0.9300 
+skin 477 Spine 0.2500 Spine1 0.7500 
+skin 478 Spine 0.2500 Spine1 0.7500 
+skin 479 Spine 0.2400 Spine1 0.7600 
+skin 480 Spine 0.0200 Spine1 0.6300 RightShoulder 0.1900 RightArm 0.1600 
+skin 481 Spine 0.0200 Spine1 0.9800 
+skin 482 Spine 0.0800 Spine1 0.6000 LeftShoulder 0.1600 LeftArm 0.1600 
+skin 483 Spine 0.0800 Spine1 0.6400 RightShoulder 0.1400 RightArm 0.1400 
+skin 484 Spine 0.0200 Spine1 0.4500 LeftShoulder 0.2700 LeftArm 0.2600 
+skin 485 Spine 0.0600 Spine1 0.6900 LeftShoulder 0.1500 LeftArm 0.1000 
+skin 486 Spine1 0.9900 LeftShoulder 0.0100 
+skin 487 Spine1 1.0000 
+skin 488 Spine1 1.0000 
+skin 489 Spine 0.6200 Spine1 0.3800 
+skin 490 LeftForeArm 0.9100 LeftHand 0.0900 
+skin 491 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 492 LeftForeArm 0.7000 LeftHand 0.3000 
+skin 493 LeftForeArm 0.7500 LeftHand 0.2500 
+skin 494 LeftForeArm 0.7000 LeftHand 0.3000 
+skin 495 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 496 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 497 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 498 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 499 LeftForeArm 0.7100 LeftHand 0.2900 
+skin 500 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 501 LeftForeArm 0.5400 LeftHand 0.4600 
+skin 502 LeftForeArm 0.7700 LeftHand 0.2300 
+skin 503 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 504 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 505 LeftForeArm 0.7000 LeftHand 0.3000 
+skin 506 LeftForeArm 0.7300 LeftHand 0.2700 
+skin 507 LeftForeArm 0.7500 LeftHand 0.2500 
+skin 508 LeftForeArm 0.7700 LeftHand 0.2300 
+skin 509 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 510 LeftForeArm 0.7100 LeftHand 0.2900 
+skin 511 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 512 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 513 LeftForeArm 0.7000 LeftHand 0.3000 
+skin 514 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 515 Hips 0.0500 Spine 0.5900 Spine1 0.3600 
+skin 516 Spine 0.6200 Spine1 0.3800 
+skin 517 Hips 0.0100 Spine 0.3600 Spine1 0.6300 
+skin 518 Spine 0.2700 Spine1 0.7300 
+skin 519 Hips 0.0100 Spine 0.1000 Spine1 0.8900 
+skin 520 Hips 0.0100 Spine 0.1000 Spine1 0.8900 
+skin 521 Spine 0.2800 Spine1 0.7200 
+skin 522 Hips 0.0100 Spine 0.3600 Spine1 0.6300 
+skin 523 Spine 0.6200 Spine1 0.3800 
+skin 524 Hips 0.0600 Spine 0.5800 Spine1 0.3600 
+skin 525 Spine 0.9300 Spine1 0.0700 
+skin 526 Hips 1.0000 
+skin 527 Hips 0.2400 Spine 0.5800 Spine1 0.1800 
+skin 528 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 529 LeftForeArm 0.9000 LeftHand 0.1000 
+skin 530 LeftForeArm 0.9400 LeftHand 0.0600 
+skin 531 LeftForeArm 0.9700 LeftHand 0.0300 
+skin 532 Spine 0.6100 Spine1 0.3900 
+skin 533 Hips 0.4900 Spine 0.3500 Spine1 0.1600 
+skin 534 Hips 0.0100 Spine 0.9000 Spine1 0.0900 
+skin 535 Hips 0.1400 Spine 0.5700 Spine1 0.2900 
+skin 536 Spine 0.1700 Spine1 0.8300 
+skin 537 Hips 0.0100 Spine 0.6000 Spine1 0.3900 
+skin 538 Spine 0.6100 Spine1 0.3900 
+skin 539 Hips 0.0200 RightUpLeg 0.4300 Spine 0.4400 Spine1 0.1100 
+skin 540 Hips 0.0100 Spine 0.9000 Spine1 0.0900 
+skin 541 Spine 0.1700 Spine1 0.8300 
+skin 542 Spine 0.4900 Spine1 0.5100 
+skin 543 Spine 0.9400 Spine1 0.0600 
+skin 544 Hips 0.2200 Spine 0.6100 Spine1 0.1700 
+skin 545 LeftLeg 0.4900 LeftFoot 0.5100 
+skin 546 LeftLeg 0.3100 LeftFoot 0.6900 
+skin 547 LeftLeg 0.3800 LeftFoot 0.6200 
+skin 548 LeftLeg 0.2900 LeftFoot 0.7100 
+skin 549 LeftLeg 0.2800 LeftFoot 0.7200 
+skin 550 LeftLeg 0.2700 LeftFoot 0.7300 
+skin 551 LeftLeg 0.2700 LeftFoot 0.7300 
+skin 552 LeftLeg 0.2300 LeftFoot 0.7700 
+skin 553 LeftLeg 0.2300 LeftFoot 0.7700 
+skin 554 LeftLeg 0.2400 LeftFoot 0.7600 
+skin 555 LeftLeg 0.2400 LeftFoot 0.7600 
+skin 556 LeftLeg 0.2300 LeftFoot 0.7700 
+skin 557 LeftLeg 0.2600 LeftFoot 0.7400 
+skin 558 LeftLeg 0.2200 LeftFoot 0.7800 
+skin 559 LeftLeg 0.2000 LeftFoot 0.8000 
+skin 560 LeftLeg 0.2100 LeftFoot 0.7900 
+skin 561 LeftLeg 0.2800 LeftFoot 0.7200 
+skin 562 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 563 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 564 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 565 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 566 LeftLeg 0.6300 LeftFoot 0.3700 
+skin 567 LeftLeg 0.6300 LeftFoot 0.3700 
+skin 568 LeftLeg 0.2800 LeftFoot 0.7200 
+skin 569 LeftLeg 0.7300 LeftFoot 0.2700 
+skin 570 LeftLeg 0.7300 LeftFoot 0.2700 
+skin 571 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 572 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 573 LeftLeg 0.9300 LeftFoot 0.0700 
+skin 574 LeftLeg 0.9300 LeftFoot 0.0700 
+skin 575 LeftLeg 0.6000 LeftFoot 0.4000 
+skin 576 LeftLeg 0.4000 LeftFoot 0.6000 
+skin 577 LeftUpLeg 0.1300 LeftLeg 0.8700 
+skin 578 LeftUpLeg 0.1300 LeftLeg 0.8700 
+skin 579 LeftLeg 0.6000 LeftFoot 0.4000 
+skin 580 LeftLeg 0.8000 LeftFoot 0.2000 
+skin 581 LeftLeg 0.8000 LeftFoot 0.2000 
+skin 582 LeftLeg 0.2900 LeftFoot 0.7100 
+skin 583 LeftUpLeg 0.4300 LeftLeg 0.5700 
+skin 584 LeftUpLeg 0.4300 LeftLeg 0.5700 
+skin 585 LeftUpLeg 0.2400 LeftLeg 0.7500 LeftFoot 0.0100 
+skin 586 LeftLeg 0.6000 LeftFoot 0.4000 
+skin 587 LeftLeg 0.8000 LeftFoot 0.2000 
+skin 588 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 589 LeftUpLeg 0.3700 LeftLeg 0.6300 
+skin 590 LeftUpLeg 0.2400 LeftLeg 0.7500 LeftFoot 0.0100 
+skin 591 LeftUpLeg 0.6900 LeftLeg 0.3100 
+skin 592 LeftUpLeg 0.2400 LeftLeg 0.7500 LeftFoot 0.0100 
+skin 593 LeftUpLeg 0.5500 LeftLeg 0.4500 
+skin 594 LeftUpLeg 0.3600 LeftLeg 0.6400 
+skin 595 LeftUpLeg 0.5400 LeftLeg 0.4600 
+skin 596 LeftUpLeg 0.6900 LeftLeg 0.3100 
+skin 597 LeftUpLeg 0.8900 LeftLeg 0.1100 
+skin 598 LeftUpLeg 0.8800 LeftLeg 0.1200 
+skin 599 LeftUpLeg 0.3700 LeftLeg 0.6300 
+skin 600 Hips 0.0400 LeftUpLeg 0.9400 Spine1 0.0200 
+skin 601 LeftUpLeg 0.7400 LeftLeg 0.2600 
+skin 602 Hips 0.0200 LeftUpLeg 0.9600 Spine1 0.0200 
+skin 603 LeftUpLeg 0.5500 LeftLeg 0.4500 
+skin 604 Hips 0.0500 LeftUpLeg 0.9000 LeftLeg 0.0200 Spine1 0.0300 
+skin 605 LeftUpLeg 0.7400 LeftLeg 0.2600 
+skin 606 Hips 0.0500 LeftUpLeg 0.9100 LeftLeg 0.0100 Spine1 0.0300 
+skin 607 Hips 0.0400 LeftUpLeg 0.9500 Spine1 0.0100 
+skin 608 RightUpLeg 0.8800 RightLeg 0.1200 
+skin 609 RightUpLeg 0.6900 RightLeg 0.3100 
+skin 610 RightUpLeg 0.8900 RightLeg 0.1100 
+skin 611 RightUpLeg 0.6900 RightLeg 0.3100 
+skin 612 RightUpLeg 0.4300 RightLeg 0.5700 
+skin 613 RightUpLeg 0.4300 RightLeg 0.5700 
+skin 614 Spine 0.8100 Spine1 0.1900 
+skin 615 Hips 0.6100 Spine 0.1500 Spine1 0.2400 
+skin 616 Hips 0.0400 LeftUpLeg 0.9600 
+skin 617 Hips 0.0400 RightUpLeg 0.9600 
+skin 618 Hips 0.0500 RightUpLeg 0.9100 RightLeg 0.0100 Spine1 0.0300 
+skin 619 Hips 0.0500 RightUpLeg 0.9000 RightLeg 0.0200 Spine1 0.0300 
+skin 620 Hips 0.4600 LeftUpLeg 0.2300 RightUpLeg 0.2300 Spine 0.0800 
+skin 621 RightUpLeg 0.5500 RightLeg 0.4500 
+skin 622 RightUpLeg 0.7400 RightLeg 0.2600 
+skin 623 RightUpLeg 0.1300 RightLeg 0.8700 
+skin 624 RightUpLeg 0.5400 RightLeg 0.4600 
+skin 625 RightUpLeg 0.1300 RightLeg 0.8700 
+skin 626 RightLeg 0.9300 RightFoot 0.0700 
+skin 627 RightUpLeg 0.7400 RightLeg 0.2600 
+skin 628 RightUpLeg 0.5500 RightLeg 0.4500 
+skin 629 RightUpLeg 0.3700 RightLeg 0.6300 
+skin 630 RightLeg 0.9300 RightFoot 0.0700 
+skin 631 RightLeg 0.7300 RightFoot 0.2700 
+skin 632 RightUpLeg 0.3700 RightLeg 0.6300 
+skin 633 RightUpLeg 0.2400 RightLeg 0.7500 RightFoot 0.0100 
+skin 634 RightUpLeg 0.3600 RightLeg 0.6400 
+skin 635 RightUpLeg 0.2400 RightLeg 0.7500 RightFoot 0.0100 
+skin 636 RightLeg 0.7300 RightFoot 0.2700 
+skin 637 RightLeg 0.6300 RightFoot 0.3700 
+skin 638 RightLeg 0.8000 RightFoot 0.2000 
+skin 639 RightLeg 0.6300 RightFoot 0.3700 
+skin 640 RightLeg 0.5000 RightFoot 0.5000 
+skin 641 RightUpLeg 0.2400 RightLeg 0.7500 RightFoot 0.0100 
+skin 642 RightLeg 0.6000 RightFoot 0.4000 
+skin 643 RightLeg 0.5000 RightFoot 0.5000 
+skin 644 RightLeg 0.5000 RightFoot 0.5000 
+skin 645 RightLeg 0.5000 RightFoot 0.5000 
+skin 646 RightLeg 0.8000 RightFoot 0.2000 
+skin 647 RightLeg 0.8000 RightFoot 0.2000 
+skin 648 RightLeg 0.5000 RightFoot 0.5000 
+skin 649 RightLeg 0.2800 RightFoot 0.7200 
+skin 650 RightLeg 0.2600 RightFoot 0.7400 
+skin 651 RightLeg 0.6000 RightFoot 0.4000 
+skin 652 RightLeg 0.6000 RightFoot 0.4000 
+skin 653 RightLeg 0.2500 RightFoot 0.7500 
+skin 654 RightLeg 0.2200 RightFoot 0.7800 
+skin 655 RightLeg 0.4000 RightFoot 0.6000 
+skin 656 RightLeg 0.2800 RightFoot 0.7200 
+skin 657 RightLeg 0.5000 RightFoot 0.5000 
+skin 658 RightLeg 0.2900 RightFoot 0.7100 
+skin 659 RightLeg 0.4900 RightFoot 0.5100 
+skin 660 RightLeg 0.3800 RightFoot 0.6200 
+skin 661 RightLeg 0.3100 RightFoot 0.6900 
+skin 662 RightLeg 0.2900 RightFoot 0.7100 
+skin 663 RightLeg 0.2800 RightFoot 0.7200 
+skin 664 RightLeg 0.2700 RightFoot 0.7300 
+skin 665 RightLeg 0.2700 RightFoot 0.7300 
+skin 666 RightLeg 0.2300 RightFoot 0.7700 
+skin 667 RightLeg 0.2400 RightFoot 0.7600 
+skin 668 RightLeg 0.2300 RightFoot 0.7700 
+skin 669 RightLeg 0.2400 RightFoot 0.7600 
+skin 670 RightLeg 0.2300 RightFoot 0.7700 
+skin 671 RightLeg 0.2000 RightFoot 0.8000 
+skin 672 RightLeg 0.2100 RightFoot 0.7900 
+skin 673 LeftHand 0.8100 LeftFinger 0.1900 
+skin 674 LeftForeArm 0.4700 LeftHand 0.5300 
+skin 675 LeftHand 0.1300 LeftFinger 0.8700 
+skin 676 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 677 LeftHand 0.2200 LeftFinger 0.7800 
+skin 678 LeftHand 0.0100 LeftFinger 0.9900 
+skin 679 LeftHand 0.0100 LeftFinger 0.9900 
+skin 680 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 681 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 682 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 683 LeftForeArm 0.8200 LeftHand 0.1800 
+skin 684 LeftForeArm 0.9900 LeftHand 0.0100 
+skin 685 LeftForeArm 0.9000 LeftHand 0.1000 
+skin 686 LeftForeArm 0.9000 LeftHand 0.1000 
+skin 687 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 688 LeftForeArm 0.9900 LeftHand 0.0100 
+skin 689 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 690 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 691 LeftForeArm 0.9900 LeftHand 0.0100 
+skin 692 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 693 LeftForeArm 0.9800 LeftHand 0.0200 
+skin 694 LeftForeArm 0.9900 LeftHand 0.0100 
+skin 695 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 696 LeftForeArm 0.9000 LeftHand 0.1000 
+skin 697 LeftForeArm 0.8200 LeftHand 0.1800 
+skin 698 Hips 0.0200 Spine 0.2300 Spine1 0.7500 
+skin 699 Hips 0.0100 Spine 0.4100 Spine1 0.5800 
+skin 700 Hips 0.0100 Spine 0.2400 Spine1 0.7500 
+skin 701 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 702 LeftLeg 0.2300 LeftFoot 0.7700 
+skin 703 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 704 LeftLeg 0.3500 LeftFoot 0.6500 
+skin 705 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 706 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 707 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 708 LeftLeg 0.5000 LeftFoot 0.5000 
+skin 709 LeftLeg 0.3300 LeftFoot 0.6700 
+skin 710 LeftLeg 0.2500 LeftFoot 0.7500 
+skin 711 RightLeg 0.2500 RightFoot 0.7500 
+skin 712 RightLeg 0.2300 RightFoot 0.7700 
+skin 713 RightLeg 0.2500 RightFoot 0.7500 
+skin 714 RightLeg 0.3500 RightFoot 0.6500 
+skin 715 RightLeg 0.2500 RightFoot 0.7500 
+skin 716 RightLeg 0.2500 RightFoot 0.7500 
+skin 717 RightLeg 0.5000 RightFoot 0.5000 
+skin 718 RightLeg 0.2500 RightFoot 0.7500 
+skin 719 RightLeg 0.3300 RightFoot 0.6700 
+skin 720 RightLeg 0.5000 RightFoot 0.5000 
+skin 721 LeftHand 0.2000 LeftFinger 0.8000 
+skin 722 LeftHand 0.7500 LeftFinger 0.2500 
+skin 723 LeftHand 0.2000 LeftFinger 0.8000 
+skin 724 LeftHand 0.2200 LeftFinger 0.7800 
+skin 725 LeftHand 0.2100 LeftFinger 0.7900 
+skin 726 LeftForeArm 0.0100 LeftHand 0.8000 LeftFinger 0.1900 
+skin 727 LeftForeArm 0.0600 LeftHand 0.7000 LeftFinger 0.2400 
+skin 728 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 729 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 730 LeftForeArm 0.7600 LeftHand 0.2400 
+skin 731 LeftForeArm 0.5100 LeftHand 0.4900 
+skin 732 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 733 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 734 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 735 LeftForeArm 0.5000 LeftHand 0.5000 
+skin 736 LeftForeArm 0.7000 LeftHand 0.3000 
+skin 737 LeftForeArm 0.7800 LeftHand 0.2200 
+skin 738 LeftForeArm 0.7500 LeftHand 0.2500 
+skin 739 LeftForeArm 0.7400 LeftHand 0.2600 
+skin 740 Spine1 0.6200 Neck 0.1900 Head 0.1900 
+skin 741 Spine1 0.0400 LeftShoulder 0.3400 LeftArm 0.6200 
+skin 742 Spine1 0.0300 LeftShoulder 0.2500 LeftArm 0.7200 
+skin 743 Spine1 0.1800 LeftShoulder 0.2300 LeftArm 0.5900 
+skin 744 Spine1 0.1100 LeftShoulder 0.4100 LeftArm 0.4800 
+skin 745 Spine1 0.1200 LeftShoulder 0.4400 LeftArm 0.4400 
+skin 746 Spine 0.0200 Spine1 0.2600 LeftShoulder 0.2900 LeftArm 0.4300 
+skin 747 Spine1 0.0100 LeftShoulder 0.1200 LeftArm 0.8700 
+skin 748 Spine1 0.1200 LeftShoulder 0.3300 LeftArm 0.5500 
+skin 749 Spine1 0.0700 LeftShoulder 0.2400 LeftArm 0.6900 
+skin 750 Spine1 0.2300 LeftShoulder 0.3700 LeftArm 0.4000 
+skin 751 Spine1 0.2700 LeftShoulder 0.2200 LeftArm 0.5100 
+skin 752 Spine1 0.2400 LeftShoulder 0.3300 LeftArm 0.4300 
+skin 753 Spine 0.0100 Spine1 0.1500 LeftShoulder 0.2800 LeftArm 0.5600 
+skin 754 Spine1 0.3600 LeftShoulder 0.2100 LeftArm 0.4300 
+skin 755 Spine1 0.4700 LeftShoulder 0.3900 LeftArm 0.1400 
+skin 756 Spine 0.0100 Spine1 0.5000 LeftShoulder 0.2600 LeftArm 0.2300 
+skin 757 Spine 0.0200 Spine1 0.3600 LeftShoulder 0.3400 LeftArm 0.2800 
+skin 758 Spine 0.0200 Spine1 0.4000 LeftShoulder 0.2700 LeftArm 0.3100 
+skin 759 Spine1 0.1000 RightShoulder 0.3500 RightArm 0.5500 
+skin 760 Spine1 0.2200 RightShoulder 0.2300 RightArm 0.5500 
+skin 761 Spine1 0.0900 RightShoulder 0.2400 RightArm 0.6700 
+skin 762 Spine1 0.3600 RightShoulder 0.3000 RightArm 0.3400 
+skin 763 Spine 0.0200 Spine1 0.5600 RightShoulder 0.2100 RightArm 0.2100 
+skin 764 Spine 0.0300 Spine1 0.3200 RightShoulder 0.2700 RightArm 0.3800 
+skin 765 Spine1 0.1000 RightShoulder 0.2800 RightArm 0.6200 
+skin 766 Spine1 0.1700 RightShoulder 0.3300 RightArm 0.5000 
+skin 767 Spine1 0.3800 RightShoulder 0.2600 RightArm 0.3600 
+skin 768 Spine 0.0100 Spine1 0.2900 RightShoulder 0.3100 RightArm 0.3900 
+skin 769 Spine1 0.4800 RightShoulder 0.2500 RightArm 0.2700 
+skin 770 Spine 0.0100 Spine1 0.2100 RightShoulder 0.3000 RightArm 0.4800 
+skin 771 Spine1 0.5800 RightShoulder 0.3100 RightArm 0.1100 
+skin 772 Spine 0.0200 Spine1 0.4600 RightShoulder 0.2500 RightArm 0.2700 
+skin 773 Spine1 0.0200 RightShoulder 0.1300 RightArm 0.8500 
+skin 774 Spine1 0.2400 Neck 0.3800 Head 0.3800 
+skin 775 Hips 0.0100 Spine 0.3500 Spine1 0.6400 
+skin 776 Hips 0.0100 Spine 0.3500 Spine1 0.6400 
+skin 777 Hips 0.1900 Spine 0.5000 Spine1 0.3100 
+skin 778 Hips 0.0200 Spine 0.6100 Spine1 0.3700 
+skin 779 Hips 0.0100 Spine 0.3500 Spine1 0.6400 
+skin 780 Hips 0.6300 RightUpLeg 0.1900 RightLeg 0.1800 
+skin 781 Hips 0.3500 LeftUpLeg 0.5500 Spine1 0.1000 
+skin 782 Hips 0.1400 RightUpLeg 0.0200 Spine 0.6300 Spine1 0.2100 
+skin 783 Hips 0.3500 RightUpLeg 0.5500 Spine1 0.1000 
+skin 784 Hips 0.0200 RightUpLeg 0.9600 Spine1 0.0200 
+skin 785 Hips 0.0400 RightUpLeg 0.9400 Spine1 0.0200 
+skin 786 Hips 0.0800 LeftUpLeg 0.0700 Spine 0.5900 Spine1 0.2600 
+skin 787 Hips 0.0800 RightUpLeg 0.0700 Spine 0.5900 Spine1 0.2600 
+skin 788 Hips 0.0400 RightUpLeg 0.9500 Spine1 0.0100 
+skin 789 Spine 0.8100 Spine1 0.1900 
+skin 790 Spine 0.1200 Spine1 0.7600 RightShoulder 0.0700 RightArm 0.0500 
+skin 791 Spine 0.0400 Spine1 0.4500 RightShoulder 0.2700 RightArm 0.2400 
+skin 792 Hips 0.0200 LeftUpLeg 0.4300 Spine 0.4400 Spine1 0.1100 
+skin 793 Head 1.0000 
+skin 794 Spine1 0.6000 Neck 0.2000 Head 0.2000 
+skin 795 Head 1.0000 
+skin 796 Head 1.0000 
+skin 797 Head 1.0000 
+skin 798 Head 1.0000 
+skin 799 Spine1 0.6100 Neck 0.2000 Head 0.1900 
+skin 800 Spine1 0.6100 Neck 0.2000 Head 0.1900 
+skin 801 Head 1.0000 
+skin 802 Head 1.0000 
+skin 803 Head 1.0000 
+skin 804 Head 1.0000 
+skin 805 Head 1.0000 
+skin 806 Head 1.0000 
+skin 807 Head 1.0000 
+skin 808 Head 1.0000 
+skin 809 Head 1.0000 
+skin 810 Head 1.0000 
+skin 811 Head 1.0000 
+skin 812 Head 1.0000 
+skin 813 Head 1.0000 
+skin 814 Head 1.0000 
+skin 815 Head 1.0000 
+skin 816 Head 1.0000 
+skin 817 Head 1.0000 
+skin 818 Head 1.0000 
+skin 819 Head 1.0000 
+skin 820 Head 1.0000 
+skin 821 Head 1.0000 
+skin 822 Head 1.0000 
+skin 823 Head 1.0000 
+skin 824 Head 1.0000 
+skin 825 Head 1.0000 
+skin 826 Head 1.0000 
+skin 827 Head 1.0000 
+skin 828 Head 1.0000 
+skin 829 Head 1.0000 
+skin 830 Head 1.0000 
+skin 831 Head 1.0000 
+skin 832 Head 1.0000 
+skin 833 Head 1.0000 
+skin 834 Head 1.0000 
+skin 835 Head 1.0000 
+skin 836 Head 1.0000 
+skin 837 Head 1.0000 
+skin 838 Head 1.0000 
+skin 839 Head 1.0000 
+skin 840 Head 1.0000 
+skin 841 Head 1.0000 
+skin 842 Head 1.0000 
+skin 843 Head 1.0000 
+skin 844 Head 1.0000 
+skin 845 Head 1.0000 
+skin 846 Head 1.0000 
+skin 847 Head 1.0000 
+skin 848 Head 1.0000 
+skin 849 Head 1.0000 
+skin 850 Head 1.0000 
+skin 851 Head 1.0000 
+skin 852 Head 1.0000 
+skin 853 Head 1.0000 
+skin 854 Head 1.0000 
+skin 855 Head 1.0000 
+skin 856 Head 1.0000 
+skin 857 Head 1.0000 
+skin 858 Head 1.0000 
+skin 859 Head 1.0000 
+skin 860 Head 1.0000 
+skin 861 Head 1.0000 
+skin 862 Head 1.0000 
+skin 863 Head 1.0000 
+hier Hips LeftUpLeg
+hier Hips RightUpLeg
+hier Hips Spine
+hier LeftUpLeg LeftLeg
+hier RightUpLeg RightLeg
+hier Spine Spine1
+hier LeftLeg LeftFoot
+hier RightLeg RightFoot
+hier Spine1 LeftShoulder
+hier Spine1 Neck
+hier Spine1 RightShoulder
+hier LeftShoulder LeftArm
+hier Neck Head
+hier RightShoulder RightArm
+hier LeftArm LeftForeArm
+hier RightArm RightForeArm
+hier LeftForeArm LeftHand
+hier RightForeArm RightHand
+hier LeftHand LeftFinger
+hier RightHand RightFinger

@@ -1,0 +1,2871 @@
+joints Hips 0.00000100 0.37757300 -0.04259300
+joints DB_noitail00_00 0.00000094 0.37122900 -0.10631800
+joints Lupleg 0.06046860 0.34525800 -0.04548900
+joints Rupleg -0.06046670 0.34525800 -0.04548900
+joints Spine 0.00000105 0.38656600 0.01859000
+joints DB_noitail00_01 0.00000092 0.37175100 -0.21430000
+joints Lleg 0.07322530 0.21940400 -0.06607800
+joints Rleg -0.07322350 0.21940500 -0.06607800
+joints Spine1 0.00000105 0.36996400 0.06141860
+joints NW_AB_noitail00_02 0.00000103 0.37007200 -0.50148200
+joints Lfoot 0.07699220 0.07140200 -0.10095500
+joints Rfoot -0.07699030 0.07140190 -0.10095500
+joints Spine2 0.00000106 0.36483600 0.12497824
+joints Ltoebase 0.08182150 0.02225670 -0.07275600
+joints Rtoebase -0.08181940 0.02225680 -0.07275600
+joints Spine3 0.00000108 0.38259100 0.27355200
+joints Lshoulder 0.06038030 0.39226500 0.22960000
+joints Neck 0.00000109 0.41842000 0.30515900
+joints Rshoulder1 -0.06037800 0.39226400 0.22960000
+joints Larm 0.08426580 0.30890100 0.24714000
+joints Neck1 0.00000106 0.45307300 0.32308900
+joints Rarm -0.08426380 0.30890000 0.24714100
+joints Lforearm 0.07819730 0.19228800 0.23035000
+joints Head 0.00000102 0.50084700 0.37850600
+joints Rforearm -0.07819480 0.19228700 0.23035000
+joints Lhand 0.07414790 0.06683050 0.23882700
+joints AB_noiear00_00_L 0.03507980 0.49838100 0.36893900
+joints AB_noiear00_00_R -0.03507690 0.49838300 0.36893900
+joints Rhand -0.07414500 0.06682930 0.23882700
+joints Lfingerbase 0.07066150 0.01849180 0.27003800
+joints DB_noiear00_01_L 0.08661960 0.55862800 0.30115600
+joints DB_noiear00_01_R -0.08661800 0.55862700 0.30115600
+joints Rfingerbase -0.07065860 0.01849030 0.27003800
+joints Nw_AB_noiear00_02_L 0.24691000 0.64750700 0.24900200
+joints Nw_AB_noiear00_02_R -0.24691000 0.64750600 0.24900100
+root Hips
+skin 0 Ltoebase 1.0000 
+skin 1 Lfoot 0.5000 Ltoebase 0.5000 
+skin 2 Ltoebase 1.0000 
+skin 3 Ltoebase 1.0000 
+skin 4 Head 1.0000 
+skin 5 Head 1.0000 
+skin 6 Head 1.0000 
+skin 7 Head 1.0000 
+skin 8 AB_noiear00_00_L 1.0000 
+skin 9 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 10 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 11 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 12 Head 1.0000 
+skin 13 Head 1.0000 
+skin 14 Head 1.0000 
+skin 15 Head 1.0000 
+skin 16 Lfingerbase 1.0000 
+skin 17 Lfingerbase 1.0000 
+skin 18 Lfingerbase 1.0000 
+skin 19 Lfingerbase 1.0000 
+skin 20 Lhand 1.0000 
+skin 21 Lhand 1.0000 
+skin 22 Lhand 1.0000 
+skin 23 Lhand 1.0000 
+skin 24 AB_noiear00_00_L 1.0000 
+skin 25 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 26 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 27 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 28 AB_noiear00_00_L 1.0000 
+skin 29 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 30 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 31 AB_noiear00_00_L 1.0000 
+skin 32 AB_noiear00_00_L 1.0000 
+skin 33 AB_noiear00_00_L 1.0000 
+skin 34 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 35 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 36 AB_noiear00_00_L 1.0000 
+skin 37 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 38 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 39 Head 1.0000 
+skin 40 Head 1.0000 
+skin 41 Head 1.0000 
+skin 42 Neck1 0.3500 Head 0.6500 
+skin 43 Head 1.0000 
+skin 44 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 45 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 46 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 47 Head 1.0000 
+skin 48 Neck1 0.3500 Head 0.6500 
+skin 49 Neck1 0.3500 Head 0.6500 
+skin 50 Neck1 0.3500 Head 0.6500 
+skin 51 AB_noiear00_00_L 1.0000 
+skin 52 AB_noiear00_00_L 1.0000 
+skin 53 AB_noiear00_00_L 1.0000 
+skin 54 Head 1.0000 
+skin 55 Head 1.0000 
+skin 56 Head 1.0000 
+skin 57 Head 1.0000 
+skin 58 Head 1.0000 
+skin 59 Head 1.0000 
+skin 60 Head 1.0000 
+skin 61 Head 1.0000 
+skin 62 Head 1.0000 
+skin 63 Head 1.0000 
+skin 64 Head 1.0000 
+skin 65 Head 1.0000 
+skin 66 Head 1.0000 
+skin 67 Head 1.0000 
+skin 68 Head 1.0000 
+skin 69 Head 1.0000 
+skin 70 Head 1.0000 
+skin 71 Head 1.0000 
+skin 72 Head 1.0000 
+skin 73 Head 1.0000 
+skin 74 Head 1.0000 
+skin 75 Head 1.0000 
+skin 76 Head 1.0000 
+skin 77 Head 1.0000 
+skin 78 Head 1.0000 
+skin 79 Head 1.0000 
+skin 80 Head 1.0000 
+skin 81 Head 1.0000 
+skin 82 Head 1.0000 
+skin 83 Head 1.0000 
+skin 84 Head 1.0000 
+skin 85 Head 1.0000 
+skin 86 Head 1.0000 
+skin 87 Head 1.0000 
+skin 88 Head 1.0000 
+skin 89 Head 1.0000 
+skin 90 Head 1.0000 
+skin 91 DB_noiear00_01_L 1.0000 
+skin 92 DB_noiear00_01_L 1.0000 
+skin 93 DB_noiear00_01_L 1.0000 
+skin 94 DB_noiear00_01_L 1.0000 
+skin 95 DB_noiear00_01_L 1.0000 
+skin 96 DB_noiear00_01_L 1.0000 
+skin 97 DB_noiear00_01_L 1.0000 
+skin 98 DB_noiear00_01_L 1.0000 
+skin 99 Head 1.0000 
+skin 100 Head 1.0000 
+skin 101 Head 1.0000 
+skin 102 Head 1.0000 
+skin 103 Head 1.0000 
+skin 104 Head 1.0000 
+skin 105 Head 1.0000 
+skin 106 Head 1.0000 
+skin 107 Head 1.0000 
+skin 108 Head 1.0000 
+skin 109 Head 1.0000 
+skin 110 Head 1.0000 
+skin 111 Head 1.0000 
+skin 112 Head 1.0000 
+skin 113 Head 1.0000 
+skin 114 Head 1.0000 
+skin 115 Head 1.0000 
+skin 116 Head 1.0000 
+skin 117 Head 1.0000 
+skin 118 Head 1.0000 
+skin 119 Head 1.0000 
+skin 120 Head 1.0000 
+skin 121 Head 1.0000 
+skin 122 Head 1.0000 
+skin 123 Head 1.0000 
+skin 124 Head 1.0000 
+skin 125 DB_noiear00_01_L 1.0000 
+skin 126 DB_noiear00_01_L 1.0000 
+skin 127 DB_noiear00_01_L 1.0000 
+skin 128 DB_noiear00_01_L 1.0000 
+skin 129 DB_noiear00_01_L 1.0000 
+skin 130 DB_noiear00_01_L 1.0000 
+skin 131 Head 1.0000 
+skin 132 Head 1.0000 
+skin 133 DB_noiear00_01_L 1.0000 
+skin 134 DB_noiear00_01_L 1.0000 
+skin 135 DB_noiear00_01_L 1.0000 
+skin 136 DB_noiear00_01_L 1.0000 
+skin 137 DB_noiear00_01_L 1.0000 
+skin 138 DB_noiear00_01_L 1.0000 
+skin 139 DB_noiear00_01_L 1.0000 
+skin 140 DB_noiear00_01_L 1.0000 
+skin 141 DB_noiear00_01_L 1.0000 
+skin 142 DB_noiear00_01_L 1.0000 
+skin 143 DB_noiear00_01_L 1.0000 
+skin 144 DB_noiear00_01_L 1.0000 
+skin 145 DB_noiear00_01_L 1.0000 
+skin 146 DB_noiear00_01_L 1.0000 
+skin 147 Head 1.0000 
+skin 148 Head 1.0000 
+skin 149 DB_noiear00_01_L 1.0000 
+skin 150 DB_noiear00_01_L 1.0000 
+skin 151 Head 1.0000 
+skin 152 Head 1.0000 
+skin 153 Head 1.0000 
+skin 154 Head 1.0000 
+skin 155 Head 1.0000 
+skin 156 Head 1.0000 
+skin 157 Head 1.0000 
+skin 158 Head 1.0000 
+skin 159 Head 1.0000 
+skin 160 Head 1.0000 
+skin 161 Head 1.0000 
+skin 162 Head 1.0000 
+skin 163 Head 1.0000 
+skin 164 Head 1.0000 
+skin 165 Head 1.0000 
+skin 166 Head 1.0000 
+skin 167 DB_noiear00_01_L 1.0000 
+skin 168 Neck1 0.3500 Head 0.6500 
+skin 169 Neck1 0.3500 Head 0.6500 
+skin 170 Head 1.0000 
+skin 171 Head 1.0000 
+skin 172 Head 1.0000 
+skin 173 Head 1.0000 
+skin 174 Head 1.0000 
+skin 175 Head 1.0000 
+skin 176 Head 1.0000 
+skin 177 DB_noiear00_01_L 1.0000 
+skin 178 Head 1.0000 
+skin 179 Head 1.0000 
+skin 180 Head 1.0000 
+skin 181 Head 1.0000 
+skin 182 Head 1.0000 
+skin 183 Head 1.0000 
+skin 184 Head 1.0000 
+skin 185 Head 1.0000 
+skin 186 Head 1.0000 
+skin 187 Head 1.0000 
+skin 188 Head 1.0000 
+skin 189 Head 1.0000 
+skin 190 Head 1.0000 
+skin 191 Head 1.0000 
+skin 192 DB_noiear00_01_L 1.0000 
+skin 193 Head 1.0000 
+skin 194 Head 1.0000 
+skin 195 Head 1.0000 
+skin 196 Head 1.0000 
+skin 197 Head 1.0000 
+skin 198 Head 1.0000 
+skin 199 DB_noiear00_01_L 1.0000 
+skin 200 Head 1.0000 
+skin 201 Head 1.0000 
+skin 202 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 203 DB_noiear00_01_L 1.0000 
+skin 204 DB_noiear00_01_L 1.0000 
+skin 205 DB_noiear00_01_L 1.0000 
+skin 206 DB_noiear00_01_L 1.0000 
+skin 207 DB_noiear00_01_L 1.0000 
+skin 208 DB_noiear00_01_L 1.0000 
+skin 209 Head 1.0000 
+skin 210 Head 1.0000 
+skin 211 Head 1.0000 
+skin 212 Head 1.0000 
+skin 213 Head 1.0000 
+skin 214 Head 1.0000 
+skin 215 Head 1.0000 
+skin 216 Head 1.0000 
+skin 217 Head 1.0000 
+skin 218 Head 1.0000 
+skin 219 Head 1.0000 
+skin 220 Head 1.0000 
+skin 221 Head 1.0000 
+skin 222 Head 1.0000 
+skin 223 Head 1.0000 
+skin 224 Head 1.0000 
+skin 225 Head 1.0000 
+skin 226 Head 1.0000 
+skin 227 Head 1.0000 
+skin 228 Head 1.0000 
+skin 229 Head 1.0000 
+skin 230 Head 1.0000 
+skin 231 Head 1.0000 
+skin 232 Head 1.0000 
+skin 233 Head 1.0000 
+skin 234 Head 1.0000 
+skin 235 Head 1.0000 
+skin 236 Head 1.0000 
+skin 237 Head 1.0000 
+skin 238 Head 1.0000 
+skin 239 Head 1.0000 
+skin 240 Head 1.0000 
+skin 241 Head 1.0000 
+skin 242 Neck1 0.3500 Head 0.6500 
+skin 243 Head 1.0000 
+skin 244 DB_noiear00_01_L 1.0000 
+skin 245 DB_noiear00_01_L 1.0000 
+skin 246 DB_noiear00_01_L 1.0000 
+skin 247 Head 1.0000 
+skin 248 Head 1.0000 
+skin 249 Head 1.0000 
+skin 250 Head 1.0000 
+skin 251 Head 1.0000 
+skin 252 Head 1.0000 
+skin 253 Head 1.0000 
+skin 254 Head 1.0000 
+skin 255 Head 1.0000 
+skin 256 Head 1.0000 
+skin 257 Head 1.0000 
+skin 258 Head 1.0000 
+skin 259 Head 1.0000 
+skin 260 Head 1.0000 
+skin 261 Neck1 0.3500 Head 0.6500 
+skin 262 Neck1 0.3500 Head 0.6500 
+skin 263 Neck1 0.3500 Head 0.6500 
+skin 264 Head 1.0000 
+skin 265 Head 1.0000 
+skin 266 Head 1.0000 
+skin 267 Head 1.0000 
+skin 268 Head 1.0000 
+skin 269 Head 1.0000 
+skin 270 Head 1.0000 
+skin 271 Head 1.0000 
+skin 272 DB_noiear00_01_L 1.0000 
+skin 273 DB_noiear00_01_L 1.0000 
+skin 274 Head 1.0000 
+skin 275 Head 1.0000 
+skin 276 Head 1.0000 
+skin 277 Head 1.0000 
+skin 278 Head 1.0000 
+skin 279 Head 1.0000 
+skin 280 Head 1.0000 
+skin 281 Neck1 0.3500 Head 0.6500 
+skin 282 Head 1.0000 
+skin 283 DB_noiear00_01_L 1.0000 
+skin 284 DB_noiear00_01_L 1.0000 
+skin 285 DB_noiear00_01_L 1.0000 
+skin 286 DB_noiear00_01_L 1.0000 
+skin 287 DB_noiear00_01_L 1.0000 
+skin 288 Head 1.0000 
+skin 289 Neck1 0.3500 Head 0.6500 
+skin 290 Neck1 1.0000 
+skin 291 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 292 Neck1 1.0000 
+skin 293 Neck1 1.0000 
+skin 294 DB_noiear00_01_L 1.0000 
+skin 295 DB_noiear00_01_L 1.0000 
+skin 296 AB_noiear00_00_L 1.0000 
+skin 297 AB_noiear00_00_L 1.0000 
+skin 298 AB_noiear00_00_L 1.0000 
+skin 299 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 300 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 301 AB_noiear00_00_L 1.0000 
+skin 302 AB_noiear00_00_L 1.0000 
+skin 303 AB_noiear00_00_L 1.0000 
+skin 304 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 305 Neck 0.7000 Neck1 0.3000 
+skin 306 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 307 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 308 Head 1.0000 
+skin 309 Head 1.0000 
+skin 310 Head 1.0000 
+skin 311 Neck1 0.2000 Head 0.8000 
+skin 312 Head 1.0000 
+skin 313 Head 1.0000 
+skin 314 Neck1 0.2000 Head 0.8000 
+skin 315 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 316 AB_noiear00_00_L 1.0000 
+skin 317 AB_noiear00_00_L 1.0000 
+skin 318 Head 1.0000 
+skin 319 Head 1.0000 
+skin 320 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 321 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 322 Head 1.0000 
+skin 323 Head 1.0000 
+skin 324 Head 1.0000 
+skin 325 Head 1.0000 
+skin 326 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 327 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 328 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 329 Head 1.0000 
+skin 330 Head 1.0000 
+skin 331 Head 1.0000 
+skin 332 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 333 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 334 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 335 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 336 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 337 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 338 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 339 DB_noiear00_01_L 1.0000 
+skin 340 DB_noiear00_01_L 1.0000 
+skin 341 Neck1 0.3500 Head 0.6500 
+skin 342 Head 1.0000 
+skin 343 DB_noiear00_01_L 1.0000 
+skin 344 Head 1.0000 
+skin 345 Head 1.0000 
+skin 346 Head 1.0000 
+skin 347 Head 1.0000 
+skin 348 DB_noiear00_01_L 1.0000 
+skin 349 DB_noiear00_01_L 1.0000 
+skin 350 DB_noiear00_01_L 1.0000 
+skin 351 DB_noiear00_01_L 1.0000 
+skin 352 DB_noiear00_01_L 1.0000 
+skin 353 DB_noiear00_01_L 1.0000 
+skin 354 DB_noiear00_01_L 1.0000 
+skin 355 DB_noiear00_01_L 1.0000 
+skin 356 DB_noiear00_01_L 1.0000 
+skin 357 DB_noiear00_01_L 1.0000 
+skin 358 Head 1.0000 
+skin 359 Head 1.0000 
+skin 360 DB_noiear00_01_L 1.0000 
+skin 361 DB_noiear00_01_L 1.0000 
+skin 362 DB_noiear00_01_L 1.0000 
+skin 363 DB_noiear00_01_L 1.0000 
+skin 364 Head 1.0000 
+skin 365 Neck1 0.3500 Head 0.6500 
+skin 366 Neck1 0.3500 Head 0.6500 
+skin 367 DB_noiear00_01_L 1.0000 
+skin 368 Lhand 1.0000 
+skin 369 Lhand 0.5000 Lfingerbase 0.5000 
+skin 370 Lhand 0.7000 Lfingerbase 0.3000 
+skin 371 Lhand 0.7000 Lfingerbase 0.3000 
+skin 372 DB_noiear00_01_L 1.0000 
+skin 373 Neck1 0.2000 Head 0.8000 
+skin 374 Neck1 0.2000 Head 0.8000 
+skin 375 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 376 Lhand 0.8000 Lfingerbase 0.2000 
+skin 377 Lhand 0.8000 Lfingerbase 0.2000 
+skin 378 Lhand 1.0000 
+skin 379 Lhand 0.8000 Lfingerbase 0.2000 
+skin 380 Lhand 0.8000 Lfingerbase 0.2000 
+skin 381 DB_noiear00_01_L 1.0000 
+skin 382 Lfingerbase 1.0000 
+skin 383 Lfingerbase 1.0000 
+skin 384 Lfingerbase 1.0000 
+skin 385 Lfingerbase 1.0000 
+skin 386 Lfingerbase 1.0000 
+skin 387 Lfingerbase 1.0000 
+skin 388 Lfingerbase 1.0000 
+skin 389 Lfingerbase 1.0000 
+skin 390 Lfingerbase 1.0000 
+skin 391 Lfingerbase 1.0000 
+skin 392 Lfingerbase 1.0000 
+skin 393 Lfingerbase 1.0000 
+skin 394 Lfingerbase 1.0000 
+skin 395 Lfingerbase 1.0000 
+skin 396 Lhand 1.0000 
+skin 397 Lhand 0.7000 Lfingerbase 0.3000 
+skin 398 Lhand 0.7000 Lfingerbase 0.3000 
+skin 399 Lfingerbase 1.0000 
+skin 400 Lfingerbase 1.0000 
+skin 401 Lfingerbase 1.0000 
+skin 402 Lfingerbase 1.0000 
+skin 403 Lfingerbase 1.0000 
+skin 404 Lhand 0.7000 Lfingerbase 0.3000 
+skin 405 Lhand 0.7000 Lfingerbase 0.3000 
+skin 406 Lfingerbase 1.0000 
+skin 407 Head 1.0000 
+skin 408 Head 1.0000 
+skin 409 Head 1.0000 
+skin 410 Lfingerbase 1.0000 
+skin 411 Lfingerbase 1.0000 
+skin 412 Lfingerbase 1.0000 
+skin 413 Lfingerbase 1.0000 
+skin 414 Head 1.0000 
+skin 415 Head 1.0000 
+skin 416 Head 1.0000 
+skin 417 Head 1.0000 
+skin 418 Head 1.0000 
+skin 419 Head 1.0000 
+skin 420 Head 1.0000 
+skin 421 Head 1.0000 
+skin 422 Head 1.0000 
+skin 423 Head 1.0000 
+skin 424 Head 1.0000 
+skin 425 Head 1.0000 
+skin 426 Head 1.0000 
+skin 427 Head 1.0000 
+skin 428 Head 1.0000 
+skin 429 Head 1.0000 
+skin 430 Head 1.0000 
+skin 431 Head 1.0000 
+skin 432 Head 1.0000 
+skin 433 Head 1.0000 
+skin 434 Head 1.0000 
+skin 435 Head 1.0000 
+skin 436 Head 1.0000 
+skin 437 Head 1.0000 
+skin 438 Head 1.0000 
+skin 439 Head 1.0000 
+skin 440 Head 1.0000 
+skin 441 Head 1.0000 
+skin 442 Head 1.0000 
+skin 443 Head 1.0000 
+skin 444 Head 1.0000 
+skin 445 Head 1.0000 
+skin 446 Head 1.0000 
+skin 447 Head 1.0000 
+skin 448 Head 1.0000 
+skin 449 Head 1.0000 
+skin 450 Head 1.0000 
+skin 451 Head 1.0000 
+skin 452 Head 1.0000 
+skin 453 Head 1.0000 
+skin 454 Head 1.0000 
+skin 455 Head 1.0000 
+skin 456 Head 1.0000 
+skin 457 Head 1.0000 
+skin 458 Head 1.0000 
+skin 459 Head 1.0000 
+skin 460 Head 1.0000 
+skin 461 Head 1.0000 
+skin 462 Head 1.0000 
+skin 463 Head 1.0000 
+skin 464 Head 1.0000 
+skin 465 Head 1.0000 
+skin 466 Head 1.0000 
+skin 467 Head 1.0000 
+skin 468 Head 1.0000 
+skin 469 Head 1.0000 
+skin 470 Head 1.0000 
+skin 471 Head 1.0000 
+skin 472 Head 1.0000 
+skin 473 Head 1.0000 
+skin 474 Head 1.0000 
+skin 475 Head 1.0000 
+skin 476 Head 1.0000 
+skin 477 Head 1.0000 
+skin 478 Head 1.0000 
+skin 479 Head 1.0000 
+skin 480 Head 1.0000 
+skin 481 Head 1.0000 
+skin 482 Head 1.0000 
+skin 483 Head 1.0000 
+skin 484 Head 1.0000 
+skin 485 Head 1.0000 
+skin 486 Head 1.0000 
+skin 487 Head 1.0000 
+skin 488 Head 1.0000 
+skin 489 Head 1.0000 
+skin 490 Head 1.0000 
+skin 491 Head 1.0000 
+skin 492 Head 1.0000 
+skin 493 Lfingerbase 1.0000 
+skin 494 Lfingerbase 1.0000 
+skin 495 Head 1.0000 
+skin 496 Head 1.0000 
+skin 497 Head 1.0000 
+skin 498 Head 1.0000 
+skin 499 Head 1.0000 
+skin 500 Head 1.0000 
+skin 501 Head 1.0000 
+skin 502 Head 1.0000 
+skin 503 Head 1.0000 
+skin 504 Head 1.0000 
+skin 505 Head 1.0000 
+skin 506 Head 1.0000 
+skin 507 Head 1.0000 
+skin 508 Head 1.0000 
+skin 509 Head 1.0000 
+skin 510 Head 1.0000 
+skin 511 Head 1.0000 
+skin 512 Head 1.0000 
+skin 513 Head 1.0000 
+skin 514 Head 1.0000 
+skin 515 Head 1.0000 
+skin 516 Head 1.0000 
+skin 517 Head 1.0000 
+skin 518 Head 1.0000 
+skin 519 Head 1.0000 
+skin 520 Head 1.0000 
+skin 521 Head 1.0000 
+skin 522 Head 1.0000 
+skin 523 Head 1.0000 
+skin 524 Head 1.0000 
+skin 525 Head 1.0000 
+skin 526 Head 1.0000 
+skin 527 Head 1.0000 
+skin 528 Head 1.0000 
+skin 529 Head 1.0000 
+skin 530 Head 1.0000 
+skin 531 Head 1.0000 
+skin 532 Head 1.0000 
+skin 533 Head 1.0000 
+skin 534 Head 1.0000 
+skin 535 Head 1.0000 
+skin 536 Head 1.0000 
+skin 537 Head 1.0000 
+skin 538 Head 1.0000 
+skin 539 Head 1.0000 
+skin 540 Head 1.0000 
+skin 541 Head 1.0000 
+skin 542 Head 1.0000 
+skin 543 Head 1.0000 
+skin 544 Head 1.0000 
+skin 545 Head 1.0000 
+skin 546 Head 1.0000 
+skin 547 Head 1.0000 
+skin 548 Head 1.0000 
+skin 549 Lfingerbase 1.0000 
+skin 550 Lfingerbase 1.0000 
+skin 551 Lfingerbase 1.0000 
+skin 552 Lfingerbase 1.0000 
+skin 553 Lfingerbase 1.0000 
+skin 554 Lfingerbase 1.0000 
+skin 555 Lfingerbase 1.0000 
+skin 556 Lfingerbase 1.0000 
+skin 557 Lfingerbase 1.0000 
+skin 558 Lfingerbase 1.0000 
+skin 559 Lfingerbase 1.0000 
+skin 560 Lfingerbase 1.0000 
+skin 561 Lfingerbase 1.0000 
+skin 562 Lfingerbase 1.0000 
+skin 563 Lfingerbase 1.0000 
+skin 564 Lfingerbase 1.0000 
+skin 565 Lhand 0.3000 Lfingerbase 0.7000 
+skin 566 Lhand 1.0000 
+skin 567 Lhand 0.7000 Lfingerbase 0.3000 
+skin 568 Lhand 1.0000 
+skin 569 Lhand 1.0000 
+skin 570 Lhand 0.3000 Lfingerbase 0.7000 
+skin 571 Lhand 0.3000 Lfingerbase 0.7000 
+skin 572 Lhand 0.3000 Lfingerbase 0.7000 
+skin 573 Lhand 1.0000 
+skin 574 DB_noiear00_01_R 1.0000 
+skin 575 DB_noiear00_01_R 1.0000 
+skin 576 DB_noiear00_01_R 1.0000 
+skin 577 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 578 Rtoebase 1.0000 
+skin 579 Rtoebase 1.0000 
+skin 580 Rtoebase 1.0000 
+skin 581 Rtoebase 1.0000 
+skin 582 Rtoebase 1.0000 
+skin 583 Rtoebase 1.0000 
+skin 584 Rtoebase 1.0000 
+skin 585 Rtoebase 1.0000 
+skin 586 Rtoebase 1.0000 
+skin 587 Rtoebase 1.0000 
+skin 588 Rtoebase 1.0000 
+skin 589 Rtoebase 1.0000 
+skin 590 Rtoebase 1.0000 
+skin 591 Rtoebase 1.0000 
+skin 592 Rtoebase 1.0000 
+skin 593 Rtoebase 1.0000 
+skin 594 Rtoebase 1.0000 
+skin 595 Rtoebase 1.0000 
+skin 596 Rtoebase 1.0000 
+skin 597 Rtoebase 1.0000 
+skin 598 Rtoebase 1.0000 
+skin 599 Rtoebase 1.0000 
+skin 600 Lhand 0.3000 Lfingerbase 0.7000 
+skin 601 Lhand 0.3000 Lfingerbase 0.7000 
+skin 602 Lhand 0.3000 Lfingerbase 0.7000 
+skin 603 Lhand 0.3000 Lfingerbase 0.7000 
+skin 604 Lhand 0.3000 Lfingerbase 0.7000 
+skin 605 Lhand 0.3000 Lfingerbase 0.7000 
+skin 606 Rtoebase 1.0000 
+skin 607 Rtoebase 1.0000 
+skin 608 Rtoebase 1.0000 
+skin 609 Rtoebase 1.0000 
+skin 610 Rtoebase 1.0000 
+skin 611 Rtoebase 1.0000 
+skin 612 Rtoebase 1.0000 
+skin 613 Rtoebase 1.0000 
+skin 614 Rtoebase 1.0000 
+skin 615 Rtoebase 1.0000 
+skin 616 Rtoebase 1.0000 
+skin 617 Rtoebase 1.0000 
+skin 618 Rtoebase 1.0000 
+skin 619 Rtoebase 1.0000 
+skin 620 Rtoebase 1.0000 
+skin 621 Rtoebase 1.0000 
+skin 622 Rtoebase 1.0000 
+skin 623 Rtoebase 1.0000 
+skin 624 Rtoebase 1.0000 
+skin 625 Rtoebase 1.0000 
+skin 626 Rtoebase 1.0000 
+skin 627 Rtoebase 1.0000 
+skin 628 Lhand 1.0000 
+skin 629 Lhand 1.0000 
+skin 630 Lhand 0.8000 Lfingerbase 0.2000 
+skin 631 Lhand 1.0000 
+skin 632 Lhand 1.0000 
+skin 633 Lfingerbase 1.0000 
+skin 634 Lfingerbase 1.0000 
+skin 635 Lfingerbase 1.0000 
+skin 636 Lhand 1.0000 
+skin 637 Lfingerbase 1.0000 
+skin 638 Head 1.0000 
+skin 639 Lfingerbase 1.0000 
+skin 640 Lfingerbase 1.0000 
+skin 641 Lfingerbase 1.0000 
+skin 642 Lfingerbase 1.0000 
+skin 643 Lfingerbase 1.0000 
+skin 644 Lfingerbase 1.0000 
+skin 645 Lfingerbase 1.0000 
+skin 646 Lfingerbase 1.0000 
+skin 647 Lfingerbase 1.0000 
+skin 648 Lfingerbase 1.0000 
+skin 649 Lfingerbase 1.0000 
+skin 650 Lfingerbase 1.0000 
+skin 651 Lfingerbase 1.0000 
+skin 652 Lfingerbase 1.0000 
+skin 653 Lfingerbase 1.0000 
+skin 654 Lfingerbase 1.0000 
+skin 655 Rtoebase 1.0000 
+skin 656 Rtoebase 1.0000 
+skin 657 Rtoebase 1.0000 
+skin 658 Rtoebase 1.0000 
+skin 659 Rtoebase 1.0000 
+skin 660 Rtoebase 1.0000 
+skin 661 Rtoebase 1.0000 
+skin 662 Rtoebase 1.0000 
+skin 663 Rtoebase 1.0000 
+skin 664 Rtoebase 1.0000 
+skin 665 Rtoebase 1.0000 
+skin 666 Rtoebase 1.0000 
+skin 667 Rtoebase 1.0000 
+skin 668 Rtoebase 1.0000 
+skin 669 Rtoebase 1.0000 
+skin 670 Rtoebase 1.0000 
+skin 671 Rtoebase 1.0000 
+skin 672 Rtoebase 1.0000 
+skin 673 DB_noitail00_01 1.0000 
+skin 674 DB_noitail00_01 1.0000 
+skin 675 DB_noitail00_01 1.0000 
+skin 676 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 677 DB_noitail00_01 1.0000 
+skin 678 DB_noitail00_01 1.0000 
+skin 679 Lfingerbase 1.0000 
+skin 680 Lfingerbase 1.0000 
+skin 681 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 682 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 683 DB_noitail00_01 1.0000 
+skin 684 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 685 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 686 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 687 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 688 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 689 DB_noiear00_01_R 1.0000 
+skin 690 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 691 DB_noiear00_01_R 1.0000 
+skin 692 DB_noiear00_01_R 1.0000 
+skin 693 Lfingerbase 1.0000 
+skin 694 AB_noiear00_00_R 1.0000 
+skin 695 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 696 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 697 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 698 AB_noiear00_00_R 1.0000 
+skin 699 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 700 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 701 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 702 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 703 DB_noiear00_01_R 1.0000 
+skin 704 DB_noiear00_01_R 1.0000 
+skin 705 DB_noiear00_01_R 1.0000 
+skin 706 DB_noiear00_01_R 1.0000 
+skin 707 DB_noiear00_01_R 1.0000 
+skin 708 DB_noiear00_01_R 1.0000 
+skin 709 DB_noiear00_01_R 1.0000 
+skin 710 DB_noiear00_01_R 1.0000 
+skin 711 DB_noiear00_01_R 1.0000 
+skin 712 DB_noiear00_01_R 1.0000 
+skin 713 DB_noiear00_01_R 1.0000 
+skin 714 DB_noiear00_01_R 1.0000 
+skin 715 DB_noiear00_01_R 1.0000 
+skin 716 DB_noiear00_01_R 1.0000 
+skin 717 DB_noiear00_01_R 1.0000 
+skin 718 DB_noiear00_01_R 1.0000 
+skin 719 DB_noiear00_01_R 1.0000 
+skin 720 DB_noiear00_01_R 1.0000 
+skin 721 DB_noiear00_01_R 1.0000 
+skin 722 DB_noiear00_01_R 1.0000 
+skin 723 DB_noiear00_01_R 1.0000 
+skin 724 DB_noiear00_01_R 1.0000 
+skin 725 DB_noiear00_01_R 1.0000 
+skin 726 Lfingerbase 1.0000 
+skin 727 Lfingerbase 1.0000 
+skin 728 AB_noiear00_00_R 1.0000 
+skin 729 AB_noiear00_00_R 1.0000 
+skin 730 Lfingerbase 1.0000 
+skin 731 AB_noiear00_00_R 1.0000 
+skin 732 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 733 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 734 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 735 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 736 AB_noiear00_00_R 1.0000 
+skin 737 Rhand 1.0000 
+skin 738 Rhand 1.0000 
+skin 739 Rhand 1.0000 
+skin 740 Rhand 0.5000 Rfingerbase 0.5000 
+skin 741 Rfingerbase 1.0000 
+skin 742 Rfingerbase 1.0000 
+skin 743 Rfingerbase 1.0000 
+skin 744 Rfingerbase 1.0000 
+skin 745 Rfingerbase 1.0000 
+skin 746 Rfingerbase 1.0000 
+skin 747 Rfingerbase 1.0000 
+skin 748 Rfingerbase 1.0000 
+skin 749 Rfingerbase 1.0000 
+skin 750 Rfingerbase 1.0000 
+skin 751 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 752 DB_noitail00_01 1.0000 
+skin 753 DB_noitail00_01 1.0000 
+skin 754 AB_noiear00_00_R 1.0000 
+skin 755 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 756 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 757 DB_noiear00_01_R 1.0000 
+skin 758 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 759 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 760 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 761 DB_noiear00_01_R 1.0000 
+skin 762 DB_noiear00_01_R 1.0000 
+skin 763 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 764 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 765 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 766 DB_noiear00_01_R 1.0000 
+skin 767 DB_noitail00_01 1.0000 
+skin 768 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 769 DB_noitail00_01 1.0000 
+skin 770 DB_noitail00_01 1.0000 
+skin 771 Rfingerbase 1.0000 
+skin 772 Rfingerbase 1.0000 
+skin 773 Rfingerbase 1.0000 
+skin 774 Rfingerbase 1.0000 
+skin 775 Rfingerbase 1.0000 
+skin 776 Rfingerbase 1.0000 
+skin 777 Rfingerbase 1.0000 
+skin 778 Rfingerbase 1.0000 
+skin 779 Rfingerbase 1.0000 
+skin 780 Rfingerbase 1.0000 
+skin 781 Rfingerbase 1.0000 
+skin 782 Rhand 0.3000 Rfingerbase 0.7000 
+skin 783 Rhand 0.5000 Rfingerbase 0.5000 
+skin 784 Rfingerbase 1.0000 
+skin 785 Rhand 0.3000 Rfingerbase 0.7000 
+skin 786 Rfingerbase 1.0000 
+skin 787 Rhand 0.3000 Rfingerbase 0.7000 
+skin 788 DB_noitail00_01 1.0000 
+skin 789 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 790 DB_noitail00_01 1.0000 
+skin 791 AB_noiear00_00_R 1.0000 
+skin 792 AB_noiear00_00_R 1.0000 
+skin 793 AB_noiear00_00_R 1.0000 
+skin 794 DB_noitail00_01 1.0000 
+skin 795 DB_noitail00_01 1.0000 
+skin 796 AB_noiear00_00_R 1.0000 
+skin 797 AB_noiear00_00_R 1.0000 
+skin 798 AB_noiear00_00_R 1.0000 
+skin 799 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 800 AB_noiear00_00_R 1.0000 
+skin 801 AB_noiear00_00_R 1.0000 
+skin 802 Rfingerbase 1.0000 
+skin 803 Rfingerbase 1.0000 
+skin 804 Rfingerbase 1.0000 
+skin 805 Rfingerbase 1.0000 
+skin 806 Rfingerbase 1.0000 
+skin 807 Rfingerbase 1.0000 
+skin 808 Rfingerbase 1.0000 
+skin 809 Rfingerbase 1.0000 
+skin 810 Rfingerbase 1.0000 
+skin 811 Rfingerbase 1.0000 
+skin 812 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 813 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 814 DB_noitail00_01 1.0000 
+skin 815 DB_noitail00_01 1.0000 
+skin 816 DB_noitail00_01 1.0000 
+skin 817 DB_noitail00_01 1.0000 
+skin 818 DB_noitail00_01 1.0000 
+skin 819 DB_noitail00_01 1.0000 
+skin 820 DB_noitail00_01 1.0000 
+skin 821 DB_noitail00_01 1.0000 
+skin 822 DB_noitail00_01 1.0000 
+skin 823 DB_noitail00_01 1.0000 
+skin 824 DB_noitail00_01 1.0000 
+skin 825 DB_noitail00_01 1.0000 
+skin 826 DB_noitail00_01 1.0000 
+skin 827 DB_noitail00_01 1.0000 
+skin 828 DB_noitail00_01 1.0000 
+skin 829 DB_noitail00_01 1.0000 
+skin 830 DB_noitail00_01 1.0000 
+skin 831 DB_noitail00_01 1.0000 
+skin 832 DB_noitail00_01 1.0000 
+skin 833 DB_noitail00_01 1.0000 
+skin 834 DB_noitail00_01 1.0000 
+skin 835 DB_noitail00_01 1.0000 
+skin 836 DB_noitail00_01 1.0000 
+skin 837 Rfingerbase 1.0000 
+skin 838 AB_noiear00_00_R 1.0000 
+skin 839 AB_noiear00_00_R 1.0000 
+skin 840 DB_noitail00_01 1.0000 
+skin 841 Rfingerbase 1.0000 
+skin 842 Rfingerbase 1.0000 
+skin 843 AB_noiear00_00_R 1.0000 
+skin 844 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 845 AB_noiear00_00_R 1.0000 
+skin 846 Rfingerbase 1.0000 
+skin 847 Rhand 0.3000 Rfingerbase 0.7000 
+skin 848 AB_noiear00_00_R 1.0000 
+skin 849 Rfingerbase 1.0000 
+skin 850 Rfingerbase 1.0000 
+skin 851 Rfingerbase 1.0000 
+skin 852 Rfingerbase 1.0000 
+skin 853 Rfingerbase 1.0000 
+skin 854 Hips 1.0000 
+skin 855 Hips 0.7500 Lupleg 0.2500 
+skin 856 Hips 0.7500 Lupleg 0.2500 
+skin 857 Hips 0.8500 Lupleg 0.1500 
+skin 858 Rfingerbase 1.0000 
+skin 859 Rhand 0.7000 Rfingerbase 0.3000 
+skin 860 Rhand 0.7000 Rfingerbase 0.3000 
+skin 861 Rhand 0.7000 Rfingerbase 0.3000 
+skin 862 AB_noiear00_00_R 1.0000 
+skin 863 AB_noiear00_00_R 1.0000 
+skin 864 Rfingerbase 1.0000 
+skin 865 Rhand 0.7000 Rfingerbase 0.3000 
+skin 866 Rhand 0.7000 Rfingerbase 0.3000 
+skin 867 Rhand 0.7000 Rfingerbase 0.3000 
+skin 868 Rfingerbase 1.0000 
+skin 869 Rhand 0.7000 Rfingerbase 0.3000 
+skin 870 Rhand 0.7000 Rfingerbase 0.3000 
+skin 871 Rhand 0.7000 Rfingerbase 0.3000 
+skin 872 Lupleg 1.0000 
+skin 873 Hips 0.7500 Lupleg 0.2500 
+skin 874 Lupleg 1.0000 
+skin 875 Hips 0.5000 Lupleg 0.5000 
+skin 876 Rfingerbase 1.0000 
+skin 877 Rfingerbase 1.0000 
+skin 878 Lupleg 1.0000 
+skin 879 Hips 0.2500 Lupleg 0.7500 
+skin 880 Lupleg 1.0000 
+skin 881 Hips 0.6000 Lupleg 0.4000 
+skin 882 Rfoot 1.0000 
+skin 883 Rfoot 1.0000 
+skin 884 Rfoot 1.0000 
+skin 885 Rleg 0.2500 Rfoot 0.7500 
+skin 886 Rfoot 1.0000 
+skin 887 Rleg 0.2500 Rfoot 0.7500 
+skin 888 Rleg 0.2500 Rfoot 0.7500 
+skin 889 Rleg 0.2500 Rfoot 0.7500 
+skin 890 Rleg 0.2500 Rfoot 0.7500 
+skin 891 Rleg 0.2500 Rfoot 0.7500 
+skin 892 Rfoot 0.7500 Rtoebase 0.2500 
+skin 893 Rfoot 0.7500 Rtoebase 0.2500 
+skin 894 Rfoot 0.7500 Rtoebase 0.2500 
+skin 895 Rfoot 0.5000 Rtoebase 0.5000 
+skin 896 Rfoot 0.7500 Rtoebase 0.2500 
+skin 897 Rfoot 0.7500 Rtoebase 0.2500 
+skin 898 Rtoebase 1.0000 
+skin 899 Rfoot 0.5000 Rtoebase 0.5000 
+skin 900 Rhand 1.0000 
+skin 901 Rhand 1.0000 
+skin 902 Rhand 1.0000 
+skin 903 Rtoebase 1.0000 
+skin 904 Rfoot 0.5000 Rtoebase 0.5000 
+skin 905 Rtoebase 1.0000 
+skin 906 Rfoot 0.5000 Rtoebase 0.5000 
+skin 907 Rfoot 0.7500 Rtoebase 0.2500 
+skin 908 Rfoot 0.7500 Rtoebase 0.2500 
+skin 909 Rfoot 0.7500 Rtoebase 0.2500 
+skin 910 Rfoot 0.7500 Rtoebase 0.2500 
+skin 911 Rfoot 0.7500 Rtoebase 0.2500 
+skin 912 Rfoot 0.7500 Rtoebase 0.2500 
+skin 913 Rfingerbase 1.0000 
+skin 914 Rleg 1.0000 
+skin 915 Rleg 1.0000 
+skin 916 Rleg 1.0000 
+skin 917 Rupleg 0.5000 Rleg 0.5000 
+skin 918 Rfingerbase 1.0000 
+skin 919 Rfingerbase 1.0000 
+skin 920 Rfingerbase 1.0000 
+skin 921 DB_noiear00_01_R 1.0000 
+skin 922 DB_noiear00_01_R 1.0000 
+skin 923 DB_noiear00_01_R 1.0000 
+skin 924 DB_noiear00_01_R 1.0000 
+skin 925 DB_noiear00_01_R 1.0000 
+skin 926 DB_noiear00_01_R 1.0000 
+skin 927 DB_noiear00_01_R 1.0000 
+skin 928 DB_noiear00_01_R 1.0000 
+skin 929 DB_noiear00_01_R 1.0000 
+skin 930 DB_noiear00_01_R 1.0000 
+skin 931 DB_noiear00_01_R 1.0000 
+skin 932 DB_noiear00_01_R 1.0000 
+skin 933 DB_noiear00_01_R 1.0000 
+skin 934 DB_noiear00_01_R 1.0000 
+skin 935 DB_noiear00_01_R 1.0000 
+skin 936 DB_noiear00_01_R 1.0000 
+skin 937 DB_noiear00_01_R 1.0000 
+skin 938 DB_noiear00_01_R 1.0000 
+skin 939 DB_noiear00_01_R 1.0000 
+skin 940 DB_noiear00_01_R 1.0000 
+skin 941 DB_noiear00_01_R 1.0000 
+skin 942 DB_noiear00_01_R 1.0000 
+skin 943 DB_noiear00_01_R 1.0000 
+skin 944 DB_noiear00_01_R 1.0000 
+skin 945 DB_noiear00_01_R 1.0000 
+skin 946 DB_noiear00_01_R 1.0000 
+skin 947 DB_noiear00_01_R 1.0000 
+skin 948 DB_noiear00_01_R 1.0000 
+skin 949 DB_noiear00_01_R 1.0000 
+skin 950 DB_noiear00_01_R 1.0000 
+skin 951 DB_noiear00_01_R 1.0000 
+skin 952 DB_noiear00_01_R 1.0000 
+skin 953 DB_noiear00_01_R 1.0000 
+skin 954 DB_noiear00_01_R 1.0000 
+skin 955 DB_noiear00_01_R 1.0000 
+skin 956 DB_noiear00_01_R 1.0000 
+skin 957 Rfingerbase 1.0000 
+skin 958 Rleg 1.0000 
+skin 959 Rleg 1.0000 
+skin 960 Rupleg 0.5000 Rleg 0.5000 
+skin 961 Rfingerbase 1.0000 
+skin 962 Rfingerbase 1.0000 
+skin 963 Rleg 1.0000 
+skin 964 Rleg 1.0000 
+skin 965 Rupleg 0.5000 Rleg 0.5000 
+skin 966 Rfingerbase 1.0000 
+skin 967 Rleg 1.0000 
+skin 968 Rleg 1.0000 
+skin 969 Rupleg 0.5000 Rleg 0.5000 
+skin 970 Rfingerbase 1.0000 
+skin 971 Rfingerbase 1.0000 
+skin 972 Rfingerbase 1.0000 
+skin 973 Rleg 1.0000 
+skin 974 Rleg 1.0000 
+skin 975 Rupleg 0.5000 Rleg 0.5000 
+skin 976 Rfingerbase 1.0000 
+skin 977 Rfingerbase 1.0000 
+skin 978 Rfingerbase 1.0000 
+skin 979 Rfingerbase 1.0000 
+skin 980 Rupleg 0.5000 Rleg 0.5000 
+skin 981 Rupleg 0.5000 Rleg 0.5000 
+skin 982 Rupleg 0.5000 Rleg 0.5000 
+skin 983 Rfingerbase 1.0000 
+skin 984 Rfingerbase 1.0000 
+skin 985 Rleg 1.0000 
+skin 986 Rupleg 0.5000 Rleg 0.5000 
+skin 987 Rupleg 0.5000 Rleg 0.5000 
+skin 988 Rleg 1.0000 
+skin 989 Rupleg 0.5000 Rleg 0.5000 
+skin 990 Rforearm 1.0000 
+skin 991 Rarm 0.5000 Rforearm 0.5000 
+skin 992 Rarm 0.5000 Rforearm 0.5000 
+skin 993 Rarm 0.5000 Rforearm 0.5000 
+skin 994 Rforearm 1.0000 
+skin 995 Rarm 0.7500 Rforearm 0.2500 
+skin 996 Rarm 0.7500 Rforearm 0.2500 
+skin 997 Rarm 0.5000 Rforearm 0.5000 
+skin 998 Rarm 1.0000 
+skin 999 Spine2 0.6000 Rarm 0.4000 
+skin 1000 Spine2 0.6000 Rarm 0.4000 
+skin 1001 Spine2 0.6000 Rarm 0.4000 
+skin 1002 Hips 1.0000 
+skin 1003 Hips 0.7500 Lupleg 0.2500 
+skin 1004 Hips 1.0000 
+skin 1005 Rforearm 1.0000 
+skin 1006 Rarm 0.5000 Rforearm 0.5000 
+skin 1007 Rfingerbase 1.0000 
+skin 1008 Rfingerbase 1.0000 
+skin 1009 Rfingerbase 1.0000 
+skin 1010 Rfoot 1.0000 
+skin 1011 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1012 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1013 Rfoot 1.0000 
+skin 1014 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1015 Rfoot 1.0000 
+skin 1016 Lupleg 1.0000 
+skin 1017 Lupleg 0.5000 Lleg 0.5000 
+skin 1018 Lupleg 1.0000 
+skin 1019 Rforearm 1.0000 
+skin 1020 Rarm 0.5000 Rforearm 0.5000 
+skin 1021 Rarm 0.5000 Rforearm 0.5000 
+skin 1022 Lupleg 0.7500 Lleg 0.2500 
+skin 1023 Lupleg 1.0000 
+skin 1024 Rhand 1.0000 
+skin 1025 Rhand 0.8000 Rfingerbase 0.2000 
+skin 1026 Rhand 1.0000 
+skin 1027 Rhand 1.0000 
+skin 1028 Rfoot 1.0000 
+skin 1029 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1030 Rfoot 1.0000 
+skin 1031 Rfingerbase 1.0000 
+skin 1032 Rfingerbase 1.0000 
+skin 1033 Rforearm 1.0000 
+skin 1034 Rarm 0.5000 Rforearm 0.5000 
+skin 1035 Rarm 0.5000 Rforearm 0.5000 
+skin 1036 Rfingerbase 1.0000 
+skin 1037 Rhand 0.3000 Rfingerbase 0.7000 
+skin 1038 Rfingerbase 1.0000 
+skin 1039 Rfoot 1.0000 
+skin 1040 Rfoot 1.0000 
+skin 1041 Rleg 0.2500 Rfoot 0.7500 
+skin 1042 Rfingerbase 1.0000 
+skin 1043 Rfoot 1.0000 
+skin 1044 Rfingerbase 1.0000 
+skin 1045 Lhand 1.0000 
+skin 1046 Lhand 1.0000 
+skin 1047 Lhand 1.0000 
+skin 1048 Lhand 1.0000 
+skin 1049 Lhand 1.0000 
+skin 1050 Lhand 1.0000 
+skin 1051 Lhand 1.0000 
+skin 1052 Lhand 1.0000 
+skin 1053 Lforearm 0.7000 Lhand 0.3000 
+skin 1054 Lhand 1.0000 
+skin 1055 Lhand 1.0000 
+skin 1056 Lhand 1.0000 
+skin 1057 Lforearm 0.7000 Lhand 0.3000 
+skin 1058 Lhand 1.0000 
+skin 1059 Lhand 1.0000 
+skin 1060 Rforearm 1.0000 
+skin 1061 Rforearm 1.0000 
+skin 1062 Rforearm 1.0000 
+skin 1063 Rhand 1.0000 
+skin 1064 Rhand 1.0000 
+skin 1065 Rhand 1.0000 
+skin 1066 Rhand 1.0000 
+skin 1067 Rhand 1.0000 
+skin 1068 Rhand 1.0000 
+skin 1069 Rhand 1.0000 
+skin 1070 Rhand 1.0000 
+skin 1071 Lhand 1.0000 
+skin 1072 Lhand 1.0000 
+skin 1073 Lhand 1.0000 
+skin 1074 Lhand 1.0000 
+skin 1075 Lhand 1.0000 
+skin 1076 Lhand 1.0000 
+skin 1077 Lhand 1.0000 
+skin 1078 Lhand 1.0000 
+skin 1079 Lhand 1.0000 
+skin 1080 Lhand 1.0000 
+skin 1081 Lforearm 0.7000 Lhand 0.3000 
+skin 1082 Lhand 1.0000 
+skin 1083 Rarm 0.7500 Rforearm 0.2500 
+skin 1084 Rforearm 1.0000 
+skin 1085 Lforearm 0.7000 Lhand 0.3000 
+skin 1086 Lhand 1.0000 
+skin 1087 AB_noiear00_00_L 1.0000 
+skin 1088 Rarm 1.0000 
+skin 1089 Rarm 0.7500 Rforearm 0.2500 
+skin 1090 Rarm 0.7500 Rforearm 0.2500 
+skin 1091 Rarm 0.7500 Rforearm 0.2500 
+skin 1092 Rarm 1.0000 
+skin 1093 Rshoulder1 0.7500 Rarm 0.2500 
+skin 1094 Rshoulder1 0.7500 Rarm 0.2500 
+skin 1095 Rshoulder1 0.7500 Rarm 0.2500 
+skin 1096 Lupleg 1.0000 
+skin 1097 Rarm 1.0000 
+skin 1098 Rarm 1.0000 
+skin 1099 Rshoulder1 0.5000 Rarm 0.5000 
+skin 1100 Hips 0.5000 Lupleg 0.5000 
+skin 1101 Lupleg 1.0000 
+skin 1102 Rfoot 1.0000 
+skin 1103 Lforearm 0.7000 Lhand 0.3000 
+skin 1104 Lhand 1.0000 
+skin 1105 Rfoot 1.0000 
+skin 1106 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1107 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1108 Lhand 1.0000 
+skin 1109 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1110 Spine2 1.0000 
+skin 1111 Spine2 0.7500 Rshoulder1 0.2500 
+skin 1112 Spine2 1.0000 
+skin 1113 Spine3 0.7500 Rshoulder1 0.2500 
+skin 1114 Lforearm 0.7000 Lhand 0.3000 
+skin 1115 Lhand 1.0000 
+skin 1116 Spine2 1.0000 
+skin 1117 Spine2 1.0000 
+skin 1118 Spine2 0.6000 Rshoulder1 0.3000 Rarm 0.1000 
+skin 1119 Spine2 0.6000 Rarm 0.4000 
+skin 1120 Lhand 1.0000 
+skin 1121 AB_noiear00_00_L 1.0000 
+skin 1122 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 1123 Lfoot 1.0000 
+skin 1124 Lfoot 1.0000 
+skin 1125 Lfoot 1.0000 
+skin 1126 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1127 Rtoebase 1.0000 
+skin 1128 Lforearm 1.0000 
+skin 1129 Lforearm 1.0000 
+skin 1130 Lforearm 1.0000 
+skin 1131 Lfoot 1.0000 
+skin 1132 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1133 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1134 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1135 Lforearm 1.0000 
+skin 1136 Lforearm 1.0000 
+skin 1137 Spine2 1.0000 
+skin 1138 Spine3 0.9000 Rshoulder1 0.1000 
+skin 1139 Spine2 0.3500 Rarm 0.6500 
+skin 1140 Spine2 0.3500 Rarm 0.6500 
+skin 1141 Lforearm 1.0000 
+skin 1142 Lforearm 1.0000 
+skin 1143 Spine3 1.0000 
+skin 1144 Spine2 1.0000 
+skin 1145 Spine3 1.0000 
+skin 1146 Spine3 0.9000 Lshoulder 0.1000 
+skin 1147 Spine2 1.0000 
+skin 1148 Spine2 1.0000 
+skin 1149 Rfoot 1.0000 
+skin 1150 Rfoot 1.0000 
+skin 1151 Rfoot 1.0000 
+skin 1152 Rfoot 1.0000 
+skin 1153 Lforearm 1.0000 
+skin 1154 Lforearm 1.0000 
+skin 1155 Rfoot 1.0000 
+skin 1156 Spine3 1.0000 
+skin 1157 Spine3 1.0000 
+skin 1158 Spine3 0.9000 Rshoulder1 0.1000 
+skin 1159 Rfoot 1.0000 
+skin 1160 Rfoot 1.0000 
+skin 1161 Rfoot 1.0000 
+skin 1162 Rfoot 1.0000 
+skin 1163 Rfoot 1.0000 
+skin 1164 Rfoot 1.0000 
+skin 1165 Rfoot 1.0000 
+skin 1166 Rfoot 1.0000 
+skin 1167 Rfoot 1.0000 
+skin 1168 Rfoot 1.0000 
+skin 1169 Rfoot 1.0000 
+skin 1170 Rfoot 1.0000 
+skin 1171 Rfoot 1.0000 
+skin 1172 Rfoot 1.0000 
+skin 1173 Lforearm 1.0000 
+skin 1174 Lforearm 1.0000 
+skin 1175 Spine3 1.0000 
+skin 1176 Spine3 1.0000 
+skin 1177 Rtoebase 1.0000 
+skin 1178 Spine3 1.0000 
+skin 1179 Spine3 1.0000 
+skin 1180 Spine3 0.9000 Lshoulder 0.1000 
+skin 1181 Rtoebase 1.0000 
+skin 1182 Lforearm 1.0000 
+skin 1183 Spine3 1.0000 
+skin 1184 Spine3 0.9000 Lshoulder 0.1000 
+skin 1185 Spine3 1.0000 
+skin 1186 Spine3 1.0000 
+skin 1187 Spine2 0.6000 Rarm 0.4000 
+skin 1188 Spine1 0.2500 Spine2 0.7500 
+skin 1189 Spine2 1.0000 
+skin 1190 Spine2 1.0000 
+skin 1191 Spine1 0.2500 Spine2 0.7500 
+skin 1192 Spine2 1.0000 
+skin 1193 Spine1 0.2500 Spine2 0.7500 
+skin 1194 Spine1 0.2500 Spine2 0.7500 
+skin 1195 Spine2 0.3500 Larm 0.6500 
+skin 1196 Spine2 0.3500 Larm 0.6500 
+skin 1197 Lleg 1.0000 
+skin 1198 Lupleg 0.5000 Lleg 0.5000 
+skin 1199 Lupleg 0.5000 Lleg 0.5000 
+skin 1200 Lleg 1.0000 
+skin 1201 Lupleg 0.5000 Lleg 0.5000 
+skin 1202 Lupleg 0.5000 Lleg 0.5000 
+skin 1203 Lupleg 0.5000 Lleg 0.5000 
+skin 1204 Lleg 1.0000 
+skin 1205 Lupleg 0.5000 Lleg 0.5000 
+skin 1206 Lupleg 0.5000 Lleg 0.5000 
+skin 1207 Lleg 1.0000 
+skin 1208 Lupleg 0.5000 Lleg 0.5000 
+skin 1209 Lhand 1.0000 
+skin 1210 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 1211 Rtoebase 1.0000 
+skin 1212 Rtoebase 1.0000 
+skin 1213 Lhand 1.0000 
+skin 1214 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 1215 Rtoebase 1.0000 
+skin 1216 Rtoebase 1.0000 
+skin 1217 Lhand 1.0000 
+skin 1218 Spine2 1.0000 
+skin 1219 Spine1 0.5000 Spine2 0.5000 
+skin 1220 Spine1 0.5000 Spine2 0.5000 
+skin 1221 Spine1 0.5000 Spine2 0.5000 
+skin 1222 Rtoebase 1.0000 
+skin 1223 Lhand 1.0000 
+skin 1224 Lhand 1.0000 
+skin 1225 Lhand 1.0000 
+skin 1226 Lhand 1.0000 
+skin 1227 Rhand 1.0000 
+skin 1228 Rhand 1.0000 
+skin 1229 Rhand 1.0000 
+skin 1230 Rhand 1.0000 
+skin 1231 Rhand 1.0000 
+skin 1232 Rhand 1.0000 
+skin 1233 Spine3 0.7500 Neck 0.2500 
+skin 1234 Spine3 0.7500 Lshoulder 0.2500 
+skin 1235 Spine3 0.7500 Lshoulder 0.2500 
+skin 1236 Rleg 1.0000 
+skin 1237 Rleg 0.7500 Rfoot 0.2500 
+skin 1238 Rleg 1.0000 
+skin 1239 Rleg 1.0000 
+skin 1240 Lleg 1.0000 
+skin 1241 Lleg 1.0000 
+skin 1242 Lleg 1.0000 
+skin 1243 Rleg 0.7500 Rfoot 0.2500 
+skin 1244 Rleg 1.0000 
+skin 1245 Rleg 1.0000 
+skin 1246 Lleg 1.0000 
+skin 1247 Lleg 1.0000 
+skin 1248 Lupleg 0.5000 Lleg 0.5000 
+skin 1249 Rleg 0.7500 Rfoot 0.2500 
+skin 1250 Rleg 1.0000 
+skin 1251 Rleg 1.0000 
+skin 1252 Lleg 1.0000 
+skin 1253 Lleg 1.0000 
+skin 1254 Lupleg 0.5000 Lleg 0.5000 
+skin 1255 Rleg 0.7500 Rfoot 0.2500 
+skin 1256 Rleg 1.0000 
+skin 1257 Rleg 1.0000 
+skin 1258 Lleg 1.0000 
+skin 1259 Lupleg 0.5000 Lleg 0.5000 
+skin 1260 Rleg 1.0000 
+skin 1261 Rleg 0.7500 Rfoot 0.2500 
+skin 1262 Rleg 1.0000 
+skin 1263 Rhand 1.0000 
+skin 1264 Spine2 1.0000 
+skin 1265 Spine2 0.7500 Lshoulder 0.2500 
+skin 1266 Rhand 1.0000 
+skin 1267 Rhand 1.0000 
+skin 1268 Rhand 1.0000 
+skin 1269 Rhand 1.0000 
+skin 1270 Rhand 1.0000 
+skin 1271 Rhand 1.0000 
+skin 1272 Rhand 1.0000 
+skin 1273 Rhand 1.0000 
+skin 1274 Rhand 1.0000 
+skin 1275 Rleg 1.0000 
+skin 1276 Rleg 1.0000 
+skin 1277 Rleg 1.0000 
+skin 1278 Rleg 1.0000 
+skin 1279 Rleg 1.0000 
+skin 1280 Rleg 1.0000 
+skin 1281 Rleg 1.0000 
+skin 1282 Rleg 1.0000 
+skin 1283 Rleg 1.0000 
+skin 1284 Rleg 1.0000 
+skin 1285 Rleg 1.0000 
+skin 1286 Rleg 1.0000 
+skin 1287 Rleg 1.0000 
+skin 1288 Rleg 1.0000 
+skin 1289 Rleg 1.0000 
+skin 1290 Rleg 1.0000 
+skin 1291 Rleg 1.0000 
+skin 1292 Rhand 1.0000 
+skin 1293 Rhand 1.0000 
+skin 1294 Rhand 1.0000 
+skin 1295 Rhand 1.0000 
+skin 1296 Rhand 1.0000 
+skin 1297 Rhand 1.0000 
+skin 1298 Ltoebase 1.0000 
+skin 1299 Ltoebase 1.0000 
+skin 1300 Ltoebase 1.0000 
+skin 1301 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1302 Ltoebase 1.0000 
+skin 1303 Ltoebase 1.0000 
+skin 1304 Ltoebase 1.0000 
+skin 1305 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1306 Ltoebase 1.0000 
+skin 1307 Ltoebase 1.0000 
+skin 1308 Ltoebase 1.0000 
+skin 1309 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1310 Rleg 1.0000 
+skin 1311 Lfoot 1.0000 
+skin 1312 Lleg 0.2500 Lfoot 0.7500 
+skin 1313 Lleg 0.2500 Lfoot 0.7500 
+skin 1314 Lleg 0.2500 Lfoot 0.7500 
+skin 1315 Rleg 1.0000 
+skin 1316 Larm 1.0000 
+skin 1317 Lshoulder 0.5000 Larm 0.5000 
+skin 1318 Lshoulder 0.2500 Larm 0.7500 
+skin 1319 Lshoulder 0.2500 Larm 0.7500 
+skin 1320 Rleg 1.0000 
+skin 1321 Larm 1.0000 
+skin 1322 Larm 1.0000 
+skin 1323 Larm 1.0000 
+skin 1324 Lshoulder 0.7500 Larm 0.2500 
+skin 1325 Rleg 1.0000 
+skin 1326 Rleg 1.0000 
+skin 1327 Rleg 1.0000 
+skin 1328 Rleg 1.0000 
+skin 1329 Rleg 1.0000 
+skin 1330 Rleg 1.0000 
+skin 1331 Rleg 1.0000 
+skin 1332 Rleg 1.0000 
+skin 1333 Rleg 1.0000 
+skin 1334 Rleg 1.0000 
+skin 1335 Rleg 1.0000 
+skin 1336 Rleg 1.0000 
+skin 1337 Rleg 1.0000 
+skin 1338 Rleg 1.0000 
+skin 1339 Rleg 1.0000 
+skin 1340 Rleg 1.0000 
+skin 1341 Rleg 1.0000 
+skin 1342 Rleg 1.0000 
+skin 1343 Rleg 1.0000 
+skin 1344 Rleg 1.0000 
+skin 1345 Rleg 1.0000 
+skin 1346 Rleg 1.0000 
+skin 1347 Rleg 1.0000 
+skin 1348 Larm 1.0000 
+skin 1349 Larm 1.0000 
+skin 1350 Spine2 0.6000 Larm 0.4000 
+skin 1351 Rarm 1.0000 
+skin 1352 Lfoot 1.0000 
+skin 1353 Lfoot 1.0000 
+skin 1354 Lleg 0.2500 Lfoot 0.7500 
+skin 1355 Rforearm 1.0000 
+skin 1356 Rforearm 1.0000 
+skin 1357 Rforearm 1.0000 
+skin 1358 Lfoot 1.0000 
+skin 1359 Lfoot 1.0000 
+skin 1360 Lleg 0.2500 Lfoot 0.7500 
+skin 1361 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1362 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1363 Lforearm 1.0000 
+skin 1364 Larm 0.5000 Lforearm 0.5000 
+skin 1365 Lforearm 1.0000 
+skin 1366 Larm 0.5000 Lforearm 0.5000 
+skin 1367 Lforearm 1.0000 
+skin 1368 Lforearm 1.0000 
+skin 1369 Larm 0.5000 Lforearm 0.5000 
+skin 1370 Rfoot 1.0000 
+skin 1371 Rforearm 1.0000 
+skin 1372 Rforearm 1.0000 
+skin 1373 Rforearm 1.0000 
+skin 1374 Rforearm 1.0000 
+skin 1375 Rforearm 1.0000 
+skin 1376 Rfoot 1.0000 
+skin 1377 Rfoot 1.0000 
+skin 1378 Rfoot 1.0000 
+skin 1379 Rfoot 1.0000 
+skin 1380 Rfoot 1.0000 
+skin 1381 Rforearm 1.0000 
+skin 1382 Rforearm 1.0000 
+skin 1383 Ltoebase 1.0000 
+skin 1384 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1385 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1386 Rarm 1.0000 
+skin 1387 Rarm 1.0000 
+skin 1388 Rarm 1.0000 
+skin 1389 Rarm 1.0000 
+skin 1390 Lforearm 1.0000 
+skin 1391 Larm 0.5000 Lforearm 0.5000 
+skin 1392 Lforearm 1.0000 
+skin 1393 Rfoot 1.0000 
+skin 1394 Ltoebase 1.0000 
+skin 1395 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1396 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1397 Larm 0.5000 Lforearm 0.5000 
+skin 1398 Ltoebase 1.0000 
+skin 1399 Ltoebase 1.0000 
+skin 1400 Ltoebase 1.0000 
+skin 1401 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1402 Spine3 0.7500 Neck 0.2500 
+skin 1403 Spine3 1.0000 
+skin 1404 Spine3 1.0000 
+skin 1405 Lforearm 1.0000 
+skin 1406 Larm 0.5000 Lforearm 0.5000 
+skin 1407 Rleg 1.0000 
+skin 1408 Rleg 1.0000 
+skin 1409 Lforearm 1.0000 
+skin 1410 Rleg 1.0000 
+skin 1411 Rleg 1.0000 
+skin 1412 Rleg 1.0000 
+skin 1413 Rleg 1.0000 
+skin 1414 Ltoebase 1.0000 
+skin 1415 Ltoebase 1.0000 
+skin 1416 Ltoebase 1.0000 
+skin 1417 Ltoebase 1.0000 
+skin 1418 Ltoebase 1.0000 
+skin 1419 Ltoebase 1.0000 
+skin 1420 Lleg 1.0000 
+skin 1421 Lleg 0.7500 Lfoot 0.2500 
+skin 1422 Lleg 1.0000 
+skin 1423 Lleg 1.0000 
+skin 1424 Lleg 1.0000 
+skin 1425 Lleg 0.7500 Lfoot 0.2500 
+skin 1426 Lleg 1.0000 
+skin 1427 Lleg 1.0000 
+skin 1428 Ltoebase 1.0000 
+skin 1429 Lleg 1.0000 
+skin 1430 Lleg 1.0000 
+skin 1431 Rleg 1.0000 
+skin 1432 Rleg 1.0000 
+skin 1433 Lleg 1.0000 
+skin 1434 Lleg 1.0000 
+skin 1435 Lleg 1.0000 
+skin 1436 Lleg 1.0000 
+skin 1437 Lleg 1.0000 
+skin 1438 Lleg 1.0000 
+skin 1439 Lleg 1.0000 
+skin 1440 Lleg 1.0000 
+skin 1441 Lleg 1.0000 
+skin 1442 Lleg 1.0000 
+skin 1443 Lleg 1.0000 
+skin 1444 Lleg 1.0000 
+skin 1445 Lleg 1.0000 
+skin 1446 Lleg 1.0000 
+skin 1447 Lfoot 1.0000 
+skin 1448 Lfoot 1.0000 
+skin 1449 Larm 1.0000 
+skin 1450 Larm 0.7500 Lforearm 0.2500 
+skin 1451 Larm 1.0000 
+skin 1452 Spine2 0.6000 Larm 0.4000 
+skin 1453 Lfoot 1.0000 
+skin 1454 Lfoot 1.0000 
+skin 1455 Hips 1.0000 
+skin 1456 Hips 1.0000 
+skin 1457 Hips 0.6000 Lupleg 0.4000 
+skin 1458 Hips 0.6000 Lupleg 0.4000 
+skin 1459 Lfoot 1.0000 
+skin 1460 Lfoot 1.0000 
+skin 1461 Lfoot 1.0000 
+skin 1462 Lfoot 1.0000 
+skin 1463 Lfoot 1.0000 
+skin 1464 Lfoot 1.0000 
+skin 1465 Lfoot 1.0000 
+skin 1466 Lfoot 1.0000 
+skin 1467 Lfoot 1.0000 
+skin 1468 Lfoot 1.0000 
+skin 1469 Hips 1.0000 
+skin 1470 Hips 0.3000 Lupleg 0.7000 
+skin 1471 Hips 0.7000 Lupleg 0.3000 
+skin 1472 Lfoot 1.0000 
+skin 1473 Rupleg 1.0000 
+skin 1474 Hips 0.5000 Rupleg 0.5000 
+skin 1475 Rupleg 1.0000 
+skin 1476 Hips 0.7500 Rupleg 0.2500 
+skin 1477 Lfoot 1.0000 
+skin 1478 Lfoot 1.0000 
+skin 1479 Ltoebase 1.0000 
+skin 1480 Ltoebase 1.0000 
+skin 1481 Ltoebase 1.0000 
+skin 1482 Ltoebase 1.0000 
+skin 1483 Ltoebase 1.0000 
+skin 1484 Spine3 1.0000 
+skin 1485 Spine3 1.0000 
+skin 1486 Ltoebase 1.0000 
+skin 1487 Ltoebase 1.0000 
+skin 1488 Ltoebase 1.0000 
+skin 1489 Ltoebase 1.0000 
+skin 1490 Ltoebase 1.0000 
+skin 1491 Ltoebase 1.0000 
+skin 1492 Spine2 1.0000 
+skin 1493 Spine2 1.0000 
+skin 1494 Spine3 1.0000 
+skin 1495 Spine3 1.0000 
+skin 1496 Spine2 1.0000 
+skin 1497 Spine2 1.0000 
+skin 1498 Spine2 1.0000 
+skin 1499 Spine3 1.0000 
+skin 1500 Spine2 1.0000 
+skin 1501 Spine2 1.0000 
+skin 1502 Spine2 0.3500 Rarm 0.6500 
+skin 1503 Ltoebase 1.0000 
+skin 1504 Ltoebase 1.0000 
+skin 1505 Ltoebase 1.0000 
+skin 1506 Ltoebase 1.0000 
+skin 1507 Ltoebase 1.0000 
+skin 1508 Spine3 1.0000 
+skin 1509 Ltoebase 1.0000 
+skin 1510 Ltoebase 1.0000 
+skin 1511 Ltoebase 1.0000 
+skin 1512 Ltoebase 1.0000 
+skin 1513 Ltoebase 1.0000 
+skin 1514 Spine3 1.0000 
+skin 1515 Spine3 1.0000 
+skin 1516 Spine3 1.0000 
+skin 1517 Ltoebase 1.0000 
+skin 1518 Spine3 1.0000 
+skin 1519 Spine3 1.0000 
+skin 1520 Spine3 1.0000 
+skin 1521 Spine3 1.0000 
+skin 1522 Hips 1.0000 
+skin 1523 Hips 0.8500 Lupleg 0.1500 
+skin 1524 Hips 0.8500 Lupleg 0.1500 
+skin 1525 Ltoebase 1.0000 
+skin 1526 Ltoebase 1.0000 
+skin 1527 Spine3 1.0000 
+skin 1528 Spine3 1.0000 
+skin 1529 Spine3 1.0000 
+skin 1530 Spine3 1.0000 
+skin 1531 Spine3 1.0000 
+skin 1532 Spine3 1.0000 
+skin 1533 Spine3 1.0000 
+skin 1534 Ltoebase 1.0000 
+skin 1535 Hips 1.0000 
+skin 1536 Hips 0.8000 Lupleg 0.2000 
+skin 1537 Hips 0.8000 Lupleg 0.2000 
+skin 1538 Rupleg 1.0000 
+skin 1539 Hips 0.6000 Rupleg 0.4000 
+skin 1540 Rupleg 1.0000 
+skin 1541 Hips 0.2500 Rupleg 0.7500 
+skin 1542 Hips 1.0000 
+skin 1543 Hips 0.4000 Spine1 0.6000 
+skin 1544 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 1545 Spine2 1.0000 
+skin 1546 Hips 1.0000 
+skin 1547 Hips 1.0000 
+skin 1548 Hips 1.0000 
+skin 1549 Hips 0.5000 Spine1 0.5000 
+skin 1550 Lleg 1.0000 
+skin 1551 Lleg 1.0000 
+skin 1552 Lleg 1.0000 
+skin 1553 Lleg 1.0000 
+skin 1554 Lleg 1.0000 
+skin 1555 Lleg 1.0000 
+skin 1556 Lleg 1.0000 
+skin 1557 Lleg 1.0000 
+skin 1558 Lleg 1.0000 
+skin 1559 Lleg 1.0000 
+skin 1560 Lleg 1.0000 
+skin 1561 Lleg 1.0000 
+skin 1562 Lleg 1.0000 
+skin 1563 Lleg 1.0000 
+skin 1564 Lleg 1.0000 
+skin 1565 Lleg 1.0000 
+skin 1566 Lleg 1.0000 
+skin 1567 Lleg 1.0000 
+skin 1568 Lleg 1.0000 
+skin 1569 Lleg 1.0000 
+skin 1570 Lleg 1.0000 
+skin 1571 Lleg 1.0000 
+skin 1572 Lleg 1.0000 
+skin 1573 Lleg 1.0000 
+skin 1574 Lleg 1.0000 
+skin 1575 Lleg 1.0000 
+skin 1576 Lleg 1.0000 
+skin 1577 Hips 1.0000 
+skin 1578 Hips 0.5000 Spine1 0.5000 
+skin 1579 Hips 0.5000 Spine1 0.5000 
+skin 1580 Hips 0.7500 Rupleg 0.2500 
+skin 1581 Hips 0.7500 Rupleg 0.2500 
+skin 1582 Lleg 1.0000 
+skin 1583 Lleg 1.0000 
+skin 1584 Hips 1.0000 
+skin 1585 Hips 0.6000 Rupleg 0.4000 
+skin 1586 Hips 0.8500 Rupleg 0.1500 
+skin 1587 Hips 0.8500 Rupleg 0.1500 
+skin 1588 Lleg 1.0000 
+skin 1589 Lleg 1.0000 
+skin 1590 Hips 1.0000 
+skin 1591 Hips 1.0000 
+skin 1592 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1593 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1594 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1595 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1596 Lleg 1.0000 
+skin 1597 Lleg 1.0000 
+skin 1598 Lleg 1.0000 
+skin 1599 Lleg 1.0000 
+skin 1600 Lleg 1.0000 
+skin 1601 Lleg 1.0000 
+skin 1602 Lleg 1.0000 
+skin 1603 Lleg 1.0000 
+skin 1604 Ltoebase 1.0000 
+skin 1605 Ltoebase 1.0000 
+skin 1606 Ltoebase 1.0000 
+skin 1607 Ltoebase 1.0000 
+skin 1608 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1609 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1610 Spine2 1.0000 
+skin 1611 Ltoebase 1.0000 
+skin 1612 Ltoebase 1.0000 
+skin 1613 Hips 0.6000 Rupleg 0.4000 
+skin 1614 Hips 1.0000 
+skin 1615 Hips 1.0000 
+skin 1616 Hips 0.7000 Rupleg 0.3000 
+skin 1617 Lfoot 1.0000 
+skin 1618 Lleg 0.2500 Lfoot 0.7500 
+skin 1619 Lfoot 1.0000 
+skin 1620 Hips 1.0000 
+skin 1621 Hips 0.8000 Rupleg 0.2000 
+skin 1622 AB_noiear00_00_L 1.0000 
+skin 1623 Larm 1.0000 
+skin 1624 Lfoot 1.0000 
+skin 1625 Larm 1.0000 
+skin 1626 Larm 1.0000 
+skin 1627 AB_noiear00_00_L 1.0000 
+skin 1628 Lfoot 1.0000 
+skin 1629 Lfoot 1.0000 
+skin 1630 AB_noiear00_00_L 1.0000 
+skin 1631 Lfoot 1.0000 
+skin 1632 Lfoot 1.0000 
+skin 1633 Lfoot 1.0000 
+skin 1634 Lfoot 1.0000 
+skin 1635 Lfoot 1.0000 
+skin 1636 Lfoot 1.0000 
+skin 1637 Lfoot 1.0000 
+skin 1638 Lleg 1.0000 
+skin 1639 Hips 0.8500 Rupleg 0.1500 
+skin 1640 Hips 1.0000 
+skin 1641 AB_noiear00_00_L 1.0000 
+skin 1642 Ltoebase 1.0000 
+skin 1643 Hips 1.0000 
+skin 1644 Hips 1.0000 
+skin 1645 Ltoebase 1.0000 
+skin 1646 Lforearm 1.0000 
+skin 1647 Hips 1.0000 
+skin 1648 Ltoebase 1.0000 
+skin 1649 Hips 1.0000 
+skin 1650 Ltoebase 1.0000 
+skin 1651 Hips 1.0000 
+skin 1652 Lforearm 1.0000 
+skin 1653 Ltoebase 1.0000 
+skin 1654 Hips 1.0000 
+skin 1655 Hips 1.0000 
+skin 1656 Ltoebase 1.0000 
+skin 1657 Ltoebase 1.0000 
+skin 1658 Ltoebase 1.0000 
+skin 1659 Ltoebase 1.0000 
+skin 1660 Ltoebase 1.0000 
+skin 1661 Ltoebase 1.0000 
+skin 1662 Ltoebase 1.0000 
+skin 1663 Ltoebase 1.0000 
+skin 1664 Ltoebase 1.0000 
+skin 1665 Ltoebase 1.0000 
+skin 1666 Ltoebase 1.0000 
+skin 1667 Ltoebase 1.0000 
+skin 1668 Hips 1.0000 
+skin 1669 Hips 1.0000 
+skin 1670 Hips 1.0000 
+skin 1671 Hips 1.0000 
+skin 1672 Hips 1.0000 
+skin 1673 Hips 1.0000 
+skin 1674 Hips 1.0000 
+skin 1675 Hips 1.0000 
+skin 1676 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1677 Hips 1.0000 
+skin 1678 Hips 1.0000 
+skin 1679 Hips 1.0000 
+skin 1680 Hips 1.0000 
+skin 1681 Hips 1.0000 
+skin 1682 Hips 1.0000 
+skin 1683 Hips 1.0000 
+skin 1684 Hips 1.0000 
+skin 1685 Hips 1.0000 
+skin 1686 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1687 Hips 1.0000 
+skin 1688 Hips 1.0000 
+skin 1689 Hips 1.0000 
+skin 1690 Larm 0.7500 Lforearm 0.2500 
+skin 1691 Larm 0.5000 Lforearm 0.5000 
+skin 1692 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1693 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1694 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1695 Hips 1.0000 
+skin 1696 Hips 0.7500 Rupleg 0.2500 
+skin 1697 Hips 0.4500 Rupleg 0.1000 Spine1 0.4500 
+skin 1698 Hips 0.7500 Rupleg 0.2500 
+skin 1699 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1700 Lfoot 1.0000 
+skin 1701 Lforearm 1.0000 
+skin 1702 Rupleg 1.0000 
+skin 1703 Rupleg 1.0000 
+skin 1704 Ltoebase 1.0000 
+skin 1705 Hips 0.5000 Rupleg 0.5000 
+skin 1706 Rupleg 1.0000 
+skin 1707 Hips 1.0000 
+skin 1708 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1709 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1710 Hips 0.4500 Lupleg 0.1000 Spine1 0.4500 
+skin 1711 Hips 0.5000 Spine1 0.5000 
+skin 1712 Hips 0.5000 Spine1 0.5000 
+skin 1713 Hips 1.0000 
+skin 1714 Rupleg 0.7500 Rleg 0.2500 
+skin 1715 Rupleg 1.0000 
+skin 1716 Lforearm 1.0000 
+skin 1717 Hips 0.7500 Lupleg 0.2500 
+skin 1718 Hips 0.2500 Lupleg 0.7500 
+skin 1719 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1720 Hips 0.8500 Rupleg 0.1500 
+skin 1721 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1722 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1723 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1724 Hips 0.7500 Rupleg 0.2500 
+skin 1725 Hips 1.0000 
+skin 1726 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1727 Lleg 0.7500 Lfoot 0.2500 
+skin 1728 Hips 1.0000 
+skin 1729 Rupleg 0.7500 Rleg 0.2500 
+skin 1730 Rupleg 1.0000 
+skin 1731 Rupleg 1.0000 
+skin 1732 Rupleg 1.0000 
+skin 1733 Larm 1.0000 
+skin 1734 Rupleg 0.5000 Rleg 0.5000 
+skin 1735 Rupleg 0.7500 Rleg 0.2500 
+skin 1736 Hips 0.7500 Rupleg 0.2500 
+skin 1737 Rupleg 0.5000 Rleg 0.5000 
+skin 1738 Rupleg 0.7500 Rleg 0.2500 
+skin 1739 Hips 0.3000 Rupleg 0.7000 
+skin 1740 Hips 0.3000 Rupleg 0.7000 
+skin 1741 Rupleg 0.7500 Rleg 0.2500 
+skin 1742 Rupleg 0.7500 Rleg 0.2500 
+skin 1743 Hips 0.3000 Rupleg 0.7000 
+skin 1744 Rupleg 0.5000 Rleg 0.5000 
+skin 1745 Rupleg 0.5000 Rleg 0.5000 
+skin 1746 Rupleg 0.5000 Rleg 0.5000 
+skin 1747 Rupleg 0.7500 Rleg 0.2500 
+skin 1748 Rupleg 0.5000 Rleg 0.5000 
+skin 1749 Hips 0.6000 Rupleg 0.4000 
+skin 1750 Hips 0.8500 Rupleg 0.1500 
+skin 1751 Hips 0.7500 Rupleg 0.2500 
+skin 1752 Rupleg 0.5000 Rleg 0.5000 
+skin 1753 Rupleg 0.5000 Rleg 0.5000 
+skin 1754 Rupleg 0.5000 Rleg 0.5000 
+skin 1755 Rupleg 0.5000 Rleg 0.5000 
+skin 1756 Rupleg 0.7500 Rleg 0.2500 
+skin 1757 Rupleg 0.5000 Rleg 0.5000 
+skin 1758 Rupleg 0.5000 Rleg 0.5000 
+skin 1759 Rupleg 0.5000 Rleg 0.5000 
+skin 1760 Rupleg 0.5000 Rleg 0.5000 
+skin 1761 Rupleg 0.5000 Rleg 0.5000 
+skin 1762 Rupleg 0.5000 Rleg 0.5000 
+skin 1763 Rupleg 0.5000 Rleg 0.5000 
+skin 1764 Hips 0.8000 Rupleg 0.2000 
+skin 1765 Hips 0.7000 Rupleg 0.3000 
+skin 1766 Larm 1.0000 
+skin 1767 Hips 0.4500 Lupleg 0.1000 Spine1 0.4500 
+skin 1768 Hips 0.4000 Spine1 0.6000 
+skin 1769 Hips 0.8000 Rupleg 0.2000 
+skin 1770 Hips 0.4000 Spine1 0.6000 
+skin 1771 Hips 0.4000 Spine1 0.6000 
+skin 1772 Lleg 0.2500 Lfoot 0.7500 
+skin 1773 Lleg 0.2500 Lfoot 0.7500 
+skin 1774 Hips 0.4000 Spine1 0.6000 
+skin 1775 Ltoebase 1.0000 
+skin 1776 Hips 0.8000 Rupleg 0.2000 
+skin 1777 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1778 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1779 Hips 0.8500 Rupleg 0.1500 
+skin 1780 Rupleg 0.5000 Rleg 0.5000 
+skin 1781 Hips 0.8500 Rupleg 0.1500 
+skin 1782 Ltoebase 1.0000 
+skin 1783 Hips 0.3000 Rupleg 0.7000 
+skin 1784 Hips 0.7500 Rupleg 0.2500 
+skin 1785 Hips 0.7500 Rupleg 0.2500 
+skin 1786 Ltoebase 1.0000 
+skin 1787 Hips 0.3000 Rupleg 0.7000 
+skin 1788 Spine2 0.7500 Rshoulder1 0.2500 
+skin 1789 Spine2 0.6000 Rshoulder1 0.3000 Rarm 0.1000 
+skin 1790 Spine2 0.7500 Lshoulder 0.2500 
+skin 1791 Spine2 0.7500 Lshoulder 0.2500 
+skin 1792 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1793 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1794 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1795 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1796 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1797 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1798 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1799 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1800 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1801 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1802 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1803 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1804 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1805 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1806 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1807 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 1808 Hips 0.7500 Rupleg 0.2500 
+skin 1809 Spine3 0.7500 Neck 0.2500 
+skin 1810 Spine3 0.7500 Neck 0.2500 
+skin 1811 Hips 0.7500 Rupleg 0.2500 
+skin 1812 Spine2 0.7500 Rshoulder1 0.2500 
+skin 1813 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1814 Hips 0.7500 Rupleg 0.2500 
+skin 1815 Spine1 0.5000 Spine2 0.5000 
+skin 1816 Spine2 0.7500 Lshoulder 0.2500 
+skin 1817 Lshoulder 0.7500 Larm 0.2500 
+skin 1818 Spine2 0.6000 Lshoulder 0.3000 Larm 0.1000 
+skin 1819 Spine2 0.6000 Lshoulder 0.3000 Larm 0.1000 
+skin 1820 Hips 0.4000 Spine1 0.6000 
+skin 1821 Hips 0.2000 Spine1 0.8000 
+skin 1822 Hips 0.2000 Spine1 0.8000 
+skin 1823 Lshoulder 0.7500 Larm 0.2500 
+skin 1824 Hips 0.4000 Spine1 0.6000 
+skin 1825 Hips 0.2000 Spine1 0.8000 
+skin 1826 Hips 0.2000 Spine1 0.8000 
+skin 1827 Spine1 0.2500 Spine2 0.7500 
+skin 1828 Spine1 0.2500 Spine2 0.7500 
+skin 1829 Spine1 0.2500 Spine2 0.7500 
+skin 1830 Spine1 0.2500 Spine2 0.7500 
+skin 1831 Lleg 0.7500 Lfoot 0.2500 
+skin 1832 Lleg 1.0000 
+skin 1833 Hips 0.5000 Spine1 0.5000 
+skin 1834 Spine1 0.7500 Spine2 0.2500 
+skin 1835 Spine1 0.7500 Spine2 0.2500 
+skin 1836 Spine1 0.7500 Spine2 0.2500 
+skin 1837 Hips 0.2000 Spine1 0.8000 
+skin 1838 Spine1 0.7500 Spine2 0.2500 
+skin 1839 Spine1 0.7500 Spine2 0.2500 
+skin 1840 Spine1 0.7500 Spine2 0.2500 
+skin 1841 Hips 0.4000 Spine1 0.6000 
+skin 1842 Hips 0.4000 Spine1 0.6000 
+skin 1843 Hips 0.4000 Spine1 0.6000 
+skin 1844 Hips 0.4000 Spine1 0.6000 
+skin 1845 Spine1 0.7500 Spine2 0.2500 
+skin 1846 Spine1 0.7500 Spine2 0.2500 
+skin 1847 Hips 0.4000 Spine1 0.6000 
+skin 1848 Spine1 0.7500 Spine2 0.2500 
+skin 1849 Spine1 0.7500 Spine2 0.2500 
+skin 1850 Spine1 0.7500 Spine2 0.2500 
+skin 1851 Hips 0.2000 Spine1 0.8000 
+skin 1852 Spine1 0.7500 Spine2 0.2500 
+skin 1853 Hips 0.4000 Spine1 0.6000 
+skin 1854 Spine1 0.7500 Spine2 0.2500 
+skin 1855 Spine1 0.7500 Spine2 0.2500 
+skin 1856 Hips 0.4000 Spine1 0.6000 
+skin 1857 Hips 0.4000 Spine1 0.6000 
+skin 1858 Hips 0.4000 Spine1 0.6000 
+skin 1859 Hips 0.4000 Spine1 0.6000 
+skin 1860 Hips 0.4000 Spine1 0.6000 
+skin 1861 Spine1 0.7500 Spine2 0.2500 
+skin 1862 Hips 0.4000 Spine1 0.6000 
+skin 1863 Spine1 0.7500 Spine2 0.2500 
+skin 1864 Spine1 0.7500 Spine2 0.2500 
+skin 1865 Hips 0.2000 Spine1 0.8000 
+skin 1866 Hips 0.2000 Spine1 0.8000 
+skin 1867 Spine1 0.7500 Spine2 0.2500 
+skin 1868 Hips 0.2000 Spine1 0.8000 
+skin 1869 Hips 0.5000 Spine1 0.5000 
+skin 1870 Hips 0.2000 Spine1 0.8000 
+skin 1871 Hips 0.5000 Spine1 0.5000 
+skin 1872 Hips 0.2000 Spine1 0.8000 
+skin 1873 Hips 0.4000 Spine1 0.6000 
+skin 1874 Hips 0.5000 Rupleg 0.5000 
+skin 1875 Hips 0.5000 Rupleg 0.5000 
+skin 1876 Rupleg 0.7500 Rleg 0.2500 
+skin 1877 Lleg 0.7500 Lfoot 0.2500 
+skin 1878 Lleg 1.0000 
+skin 1879 Hips 0.4000 Spine1 0.6000 
+skin 1880 Hips 0.4000 Spine1 0.6000 
+skin 1881 Hips 0.8000 Lupleg 0.2000 
+skin 1882 Hips 0.4000 Spine1 0.6000 
+skin 1883 Hips 0.4000 Spine1 0.6000 
+skin 1884 Hips 0.4000 Spine1 0.6000 
+skin 1885 Hips 0.8000 Lupleg 0.2000 
+skin 1886 Hips 0.3000 Lupleg 0.7000 
+skin 1887 Hips 0.7000 Lupleg 0.3000 
+skin 1888 Lleg 0.7500 Lfoot 0.2500 
+skin 1889 Lleg 1.0000 
+skin 1890 Hips 0.4000 Spine1 0.6000 
+skin 1891 Lleg 1.0000 
+skin 1892 Lleg 0.7500 Lfoot 0.2500 
+skin 1893 Lleg 1.0000 
+skin 1894 Hips 0.7500 Rupleg 0.2500 
+skin 1895 Spine3 1.0000 
+skin 1896 Hips 0.8500 Lupleg 0.1500 
+skin 1897 Hips 1.0000 
+skin 1898 Lfoot 0.5000 Ltoebase 0.5000 
+skin 1899 Hips 0.5000 Rupleg 0.5000 
+skin 1900 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1901 Lfoot 1.0000 
+skin 1902 Hips 0.2500 Rupleg 0.7500 
+skin 1903 Rshoulder1 0.7500 Rarm 0.2500 
+skin 1904 Hips 0.7500 Rupleg 0.2500 
+skin 1905 Hips 0.5000 Rupleg 0.5000 
+skin 1906 Hips 0.2500 Rupleg 0.7500 
+skin 1907 Larm 0.7500 Lforearm 0.2500 
+skin 1908 Larm 0.7500 Lforearm 0.2500 
+skin 1909 Larm 0.7500 Lforearm 0.2500 
+skin 1910 Larm 0.7500 Lforearm 0.2500 
+skin 1911 Larm 0.5000 Lforearm 0.5000 
+skin 1912 Spine2 1.0000 
+skin 1913 Larm 0.7500 Lforearm 0.2500 
+skin 1914 Spine2 0.3500 Larm 0.6500 
+skin 1915 Larm 0.7500 Lforearm 0.2500 
+skin 1916 Spine2 1.0000 
+skin 1917 Hips 0.3000 Lupleg 0.7000 
+skin 1918 Hips 0.8500 Lupleg 0.1500 
+skin 1919 Larm 0.7500 Lforearm 0.2500 
+skin 1920 Spine2 0.3500 Larm 0.6500 
+skin 1921 Hips 0.7500 DB_noitail00_00 0.2500 
+skin 1922 Larm 0.7500 Lforearm 0.2500 
+skin 1923 Larm 0.7500 Lforearm 0.2500 
+skin 1924 Larm 0.7500 Lforearm 0.2500 
+skin 1925 Larm 0.7500 Lforearm 0.2500 
+skin 1926 Larm 0.7500 Lforearm 0.2500 
+skin 1927 Larm 0.7500 Lforearm 0.2500 
+skin 1928 Larm 0.7500 Lforearm 0.2500 
+skin 1929 Larm 0.7500 Lforearm 0.2500 
+skin 1930 Larm 0.7500 Lforearm 0.2500 
+skin 1931 Larm 0.7500 Lforearm 0.2500 
+skin 1932 Larm 0.7500 Lforearm 0.2500 
+skin 1933 Larm 0.7500 Lforearm 0.2500 
+skin 1934 Larm 0.7500 Lforearm 0.2500 
+skin 1935 Larm 0.7500 Lforearm 0.2500 
+skin 1936 Lleg 0.2500 Lfoot 0.7500 
+skin 1937 Larm 0.7500 Lforearm 0.2500 
+skin 1938 Larm 0.5000 Lforearm 0.5000 
+skin 1939 Larm 0.7500 Lforearm 0.2500 
+skin 1940 Larm 0.7500 Lforearm 0.2500 
+skin 1941 Larm 0.7500 Lforearm 0.2500 
+skin 1942 Larm 0.7500 Lforearm 0.2500 
+skin 1943 Larm 0.7500 Lforearm 0.2500 
+skin 1944 Larm 0.7500 Lforearm 0.2500 
+skin 1945 Spine2 0.7500 Rshoulder1 0.2500 
+skin 1946 Larm 0.7500 Lforearm 0.2500 
+skin 1947 Larm 0.7500 Lforearm 0.2500 
+skin 1948 Larm 0.5000 Lforearm 0.5000 
+skin 1949 Spine3 0.7500 Neck 0.2500 
+skin 1950 Spine3 0.9000 Lshoulder 0.1000 
+skin 1951 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1952 Spine3 0.7500 Neck 0.2500 
+skin 1953 Rfoot 1.0000 
+skin 1954 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1955 Spine3 1.0000 
+skin 1956 Spine3 0.7500 Neck 0.2500 
+skin 1957 Spine3 0.9000 Rshoulder1 0.1000 
+skin 1958 Spine3 0.9000 Rshoulder1 0.1000 
+skin 1959 Larm 0.5000 Lforearm 0.5000 
+skin 1960 Rshoulder1 0.2500 Rarm 0.7500 
+skin 1961 Rarm 1.0000 
+skin 1962 Rarm 1.0000 
+skin 1963 Rarm 0.5000 Rforearm 0.5000 
+skin 1964 Rleg 0.7500 Rfoot 0.2500 
+skin 1965 Rleg 1.0000 
+skin 1966 Larm 0.7500 Lforearm 0.2500 
+skin 1967 Rleg 1.0000 
+skin 1968 Larm 0.7500 Lforearm 0.2500 
+skin 1969 Larm 0.5000 Lforearm 0.5000 
+skin 1970 Rfoot 1.0000 
+skin 1971 Lforearm 1.0000 
+skin 1972 Rfoot 0.5000 Rtoebase 0.5000 
+skin 1973 Lleg 0.2500 Lfoot 0.7500 
+skin 1974 Rfoot 1.0000 
+skin 1975 Lleg 0.2500 Lfoot 0.7500 
+skin 1976 Lshoulder 0.2500 Larm 0.7500 
+skin 1977 Larm 0.5000 Lforearm 0.5000 
+skin 1978 Spine2 0.6000 Larm 0.4000 
+skin 1979 Rarm 0.5000 Rforearm 0.5000 
+skin 1980 Spine3 0.8000 Lshoulder 0.2000 
+skin 1981 Lshoulder 0.5000 Larm 0.5000 
+skin 1982 Lshoulder 0.7500 Larm 0.2500 
+skin 1983 Rforearm 0.7000 Rhand 0.3000 
+skin 1984 Rhand 1.0000 
+skin 1985 Lshoulder 0.7500 Larm 0.2500 
+skin 1986 Lshoulder 0.7500 Larm 0.2500 
+skin 1987 Hips 0.4500 Rupleg 0.1000 Spine1 0.4500 
+skin 1988 Rforearm 0.7000 Rhand 0.3000 
+skin 1989 Rhand 1.0000 
+skin 1990 Larm 0.5000 Lforearm 0.5000 
+skin 1991 Lshoulder 0.7500 Larm 0.2500 
+skin 1992 Spine3 0.8000 Lshoulder 0.2000 
+skin 1993 Spine3 0.8000 Lshoulder 0.2000 
+skin 1994 Rforearm 0.7000 Rhand 0.3000 
+skin 1995 Rhand 1.0000 
+skin 1996 Lfoot 0.7500 Ltoebase 0.2500 
+skin 1997 Spine2 0.5000 Lshoulder 0.5000 
+skin 1998 Spine2 0.5000 Lshoulder 0.5000 
+skin 1999 Spine3 0.5000 Lshoulder 0.5000 
+skin 2000 Rforearm 0.7000 Rhand 0.3000 
+skin 2001 Rhand 1.0000 
+skin 2002 Rhand 1.0000 
+skin 2003 Rhand 1.0000 
+skin 2004 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2005 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2006 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2007 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2008 Spine2 0.5000 Lshoulder 0.5000 
+skin 2009 Spine2 0.5000 Lshoulder 0.5000 
+skin 2010 Rforearm 0.7000 Rhand 0.3000 
+skin 2011 Rhand 1.0000 
+skin 2012 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2013 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2014 Spine2 0.5000 Lshoulder 0.5000 
+skin 2015 Rforearm 0.7000 Rhand 0.3000 
+skin 2016 Rhand 1.0000 
+skin 2017 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2018 Spine3 0.5000 Lshoulder 0.5000 
+skin 2019 Rleg 1.0000 
+skin 2020 Spine2 1.0000 
+skin 2021 Spine2 0.5000 Lshoulder 0.5000 
+skin 2022 Lshoulder 0.7500 Larm 0.2500 
+skin 2023 Lshoulder 0.7500 Larm 0.2500 
+skin 2024 Spine3 0.5000 Lshoulder 0.5000 
+skin 2025 Rleg 0.7500 Rfoot 0.2500 
+skin 2026 Rleg 0.7500 Rfoot 0.2500 
+skin 2027 Lupleg 0.5000 Lleg 0.5000 
+skin 2028 Rleg 0.7500 Rfoot 0.2500 
+skin 2029 Lupleg 0.5000 Lleg 0.5000 
+skin 2030 Rleg 0.7500 Rfoot 0.2500 
+skin 2031 Lupleg 0.5000 Lleg 0.5000 
+skin 2032 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2033 Spine2 0.5000 Lshoulder 0.5000 
+skin 2034 Spine3 0.7500 Lshoulder 0.2500 
+skin 2035 Spine3 0.8000 Lshoulder 0.2000 
+skin 2036 Spine3 0.7500 Neck 0.2500 
+skin 2037 Spine3 0.7500 Neck 0.2500 
+skin 2038 Spine3 0.7500 Lshoulder 0.2500 
+skin 2039 Rleg 0.7500 Rfoot 0.2500 
+skin 2040 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2041 Spine1 0.5000 Spine2 0.5000 
+skin 2042 Spine2 0.6000 Larm 0.4000 
+skin 2043 Spine1 0.2500 Spine2 0.7500 
+skin 2044 Spine1 0.2500 Spine2 0.7500 
+skin 2045 Spine2 0.6000 Larm 0.4000 
+skin 2046 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2047 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2048 Spine1 0.2500 Spine2 0.7500 
+skin 2049 Spine1 0.5000 Spine2 0.5000 
+skin 2050 Spine1 0.5000 Spine2 0.5000 
+skin 2051 Spine1 0.2500 Spine2 0.7500 
+skin 2052 Spine1 0.5000 Spine2 0.5000 
+skin 2053 Spine1 0.2500 Spine2 0.7500 
+skin 2054 Spine1 0.5000 Spine2 0.5000 
+skin 2055 Spine1 0.5000 Spine2 0.5000 
+skin 2056 Spine1 0.5000 Spine2 0.5000 
+skin 2057 Spine1 0.2500 Spine2 0.7500 
+skin 2058 Spine1 0.5000 Spine2 0.5000 
+skin 2059 Spine1 0.5000 Spine2 0.5000 
+skin 2060 Rtoebase 1.0000 
+skin 2061 Spine1 0.2500 Spine2 0.7500 
+skin 2062 Rforearm 1.0000 
+skin 2063 Spine1 0.2500 Spine2 0.7500 
+skin 2064 Rtoebase 1.0000 
+skin 2065 Spine1 0.5000 Spine2 0.5000 
+skin 2066 Spine1 0.5000 Spine2 0.5000 
+skin 2067 Rforearm 1.0000 
+skin 2068 Spine1 0.5000 Spine2 0.5000 
+skin 2069 Spine1 0.2500 Spine2 0.7500 
+skin 2070 Spine1 0.5000 Spine2 0.5000 
+skin 2071 Spine1 0.5000 Spine2 0.5000 
+skin 2072 Spine1 0.5000 Spine2 0.5000 
+skin 2073 Spine1 0.2500 Spine2 0.7500 
+skin 2074 Spine1 0.5000 Spine2 0.5000 
+skin 2075 Spine1 0.2500 Spine2 0.7500 
+skin 2076 Spine2 1.0000 
+skin 2077 Rforearm 1.0000 
+skin 2078 Lleg 0.7500 Lfoot 0.2500 
+skin 2079 Rforearm 1.0000 
+skin 2080 Lleg 0.7500 Lfoot 0.2500 
+skin 2081 Spine1 0.2500 Spine2 0.7500 
+skin 2082 Lleg 0.7500 Lfoot 0.2500 
+skin 2083 Rtoebase 1.0000 
+skin 2084 Lleg 0.7500 Lfoot 0.2500 
+skin 2085 Spine2 0.6000 Rarm 0.4000 
+skin 2086 Lleg 0.7500 Lfoot 0.2500 
+skin 2087 Spine1 0.2500 Spine2 0.7500 
+skin 2088 Lleg 0.7500 Lfoot 0.2500 
+skin 2089 Lleg 0.2500 Lfoot 0.7500 
+skin 2090 Lleg 0.7500 Lfoot 0.2500 
+skin 2091 Lleg 0.2500 Lfoot 0.7500 
+skin 2092 Lleg 0.7500 Lfoot 0.2500 
+skin 2093 Lleg 0.2500 Lfoot 0.7500 
+skin 2094 Lleg 0.7500 Lfoot 0.2500 
+skin 2095 Lleg 0.2500 Lfoot 0.7500 
+skin 2096 Lleg 0.2500 Lfoot 0.7500 
+skin 2097 Lleg 0.2500 Lfoot 0.7500 
+skin 2098 Lleg 0.7500 Lfoot 0.2500 
+skin 2099 Lleg 0.2500 Lfoot 0.7500 
+skin 2100 Lleg 0.7500 Lfoot 0.2500 
+skin 2101 Lleg 0.2500 Lfoot 0.7500 
+skin 2102 Rforearm 1.0000 
+skin 2103 Rforearm 1.0000 
+skin 2104 Lforearm 0.7000 Lhand 0.3000 
+skin 2105 Lforearm 0.7000 Lhand 0.3000 
+skin 2106 Spine3 1.0000 
+skin 2107 Rfoot 1.0000 
+skin 2108 Lforearm 0.7000 Lhand 0.3000 
+skin 2109 Rleg 0.2500 Rfoot 0.7500 
+skin 2110 Rleg 0.2500 Rfoot 0.7500 
+skin 2111 Spine2 0.3500 Larm 0.6500 
+skin 2112 Lforearm 0.7000 Lhand 0.3000 
+skin 2113 Lforearm 0.7000 Lhand 0.3000 
+skin 2114 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2115 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2116 Spine3 0.5000 Rshoulder1 0.5000 
+skin 2117 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2118 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2119 Lfoot 1.0000 
+skin 2120 Lfoot 0.5000 Ltoebase 0.5000 
+skin 2121 Spine2 0.6000 Rshoulder1 0.3000 Rarm 0.1000 
+skin 2122 Lfoot 0.5000 Ltoebase 0.5000 
+skin 2123 Lforearm 0.7000 Lhand 0.3000 
+skin 2124 Spine2 0.6000 Rshoulder1 0.3000 Rarm 0.1000 
+skin 2125 Lfoot 0.5000 Ltoebase 0.5000 
+skin 2126 Lfoot 0.5000 Ltoebase 0.5000 
+skin 2127 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2128 Rshoulder1 0.7500 Rarm 0.2500 
+skin 2129 Rshoulder1 0.7500 Rarm 0.2500 
+skin 2130 Rshoulder1 0.7500 Rarm 0.2500 
+skin 2131 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2132 Lfoot 1.0000 
+skin 2133 Lfoot 1.0000 
+skin 2134 Spine3 0.5000 Rshoulder1 0.5000 
+skin 2135 Lforearm 0.7000 Lhand 0.3000 
+skin 2136 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2137 Lforearm 0.7000 Lhand 0.3000 
+skin 2138 Lupleg 0.7500 Lleg 0.2500 
+skin 2139 Lupleg 1.0000 
+skin 2140 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2141 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2142 Lleg 0.2500 Lfoot 0.7500 
+skin 2143 Spine3 0.5000 Rshoulder1 0.5000 
+skin 2144 Spine3 0.7500 Neck 0.2500 
+skin 2145 Spine3 0.7500 Neck 0.2500 
+skin 2146 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2147 Spine3 0.7500 Neck 0.2500 
+skin 2148 Spine3 0.7500 Rshoulder1 0.2500 
+skin 2149 Spine3 0.7500 Rshoulder1 0.2500 
+skin 2150 Spine3 0.7500 Neck 0.2500 
+skin 2151 Spine3 0.7500 Rshoulder1 0.2500 
+skin 2152 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2153 Rupleg 0.5000 Rleg 0.5000 
+skin 2154 Rupleg 0.5000 Rleg 0.5000 
+skin 2155 Rupleg 0.5000 Rleg 0.5000 
+skin 2156 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2157 Lleg 0.2500 Lfoot 0.7500 
+skin 2158 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2159 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2160 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2161 Rupleg 0.5000 Rleg 0.5000 
+skin 2162 Rupleg 0.5000 Rleg 0.5000 
+skin 2163 Rupleg 0.5000 Rleg 0.5000 
+skin 2164 Lleg 0.2500 Lfoot 0.7500 
+skin 2165 Lfoot 0.7500 Ltoebase 0.2500 
+skin 2166 Rupleg 0.5000 Rleg 0.5000 
+skin 2167 Rupleg 0.5000 Rleg 0.5000 
+skin 2168 Rupleg 0.5000 Rleg 0.5000 
+skin 2169 Lleg 0.2500 Lfoot 0.7500 
+skin 2170 Lleg 0.2500 Lfoot 0.7500 
+skin 2171 Spine3 0.7500 Neck 0.2500 
+skin 2172 Spine3 0.7500 Neck 0.2500 
+skin 2173 Rupleg 0.5000 Rleg 0.5000 
+skin 2174 Rleg 0.2500 Rfoot 0.7500 
+skin 2175 Lforearm 0.7000 Lhand 0.3000 
+skin 2176 Spine3 0.7500 Neck 0.2500 
+skin 2177 Lforearm 0.7000 Lhand 0.3000 
+skin 2178 Spine3 0.8000 Lshoulder 0.2000 
+skin 2179 Spine3 0.7500 Neck 0.2500 
+skin 2180 Spine3 0.7500 Neck 0.2500 
+skin 2181 Spine3 0.7500 Neck 0.2500 
+skin 2182 Lforearm 0.7000 Lhand 0.3000 
+skin 2183 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2184 Spine3 0.7500 Neck 0.2500 
+skin 2185 Neck 0.7000 Neck1 0.3000 
+skin 2186 Neck 0.7000 Neck1 0.3000 
+skin 2187 Neck 0.7000 Neck1 0.3000 
+skin 2188 Spine3 0.7500 Neck 0.2500 
+skin 2189 Neck 0.7000 Neck1 0.3000 
+skin 2190 Neck 0.7000 Neck1 0.3000 
+skin 2191 Spine3 0.7500 Neck 0.2500 
+skin 2192 Neck 0.7000 Neck1 0.3000 
+skin 2193 Neck 0.7000 Neck1 0.3000 
+skin 2194 Spine3 0.7500 Neck 0.2500 
+skin 2195 Neck 0.7000 Neck1 0.3000 
+skin 2196 Spine3 0.7500 Neck 0.2500 
+skin 2197 Neck 0.7000 Neck1 0.3000 
+skin 2198 Neck 0.7000 Neck1 0.3000 
+skin 2199 Spine3 0.7500 Neck 0.2500 
+skin 2200 Neck 0.7000 Neck1 0.3000 
+skin 2201 Spine3 0.7500 Neck 0.2500 
+skin 2202 Neck 0.7000 Neck1 0.3000 
+skin 2203 Neck 0.7000 Neck1 0.3000 
+skin 2204 Spine3 0.7500 Neck 0.2500 
+skin 2205 Neck 0.7000 Neck1 0.3000 
+skin 2206 Neck 0.7000 Neck1 0.3000 
+skin 2207 Spine3 0.7500 Neck 0.2500 
+skin 2208 Neck 0.7000 Neck1 0.3000 
+skin 2209 Spine3 0.7500 Neck 0.2500 
+skin 2210 Neck 0.7000 Neck1 0.3000 
+skin 2211 Neck 0.7000 Neck1 0.3000 
+skin 2212 Spine3 0.7500 Neck 0.2500 
+skin 2213 Spine3 0.9000 Lshoulder 0.1000 
+skin 2214 Spine3 0.8000 Lshoulder 0.2000 
+skin 2215 Lshoulder 0.2500 Larm 0.7500 
+skin 2216 Spine3 0.9000 Rshoulder1 0.1000 
+skin 2217 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2218 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2219 Rarm 0.5000 Rforearm 0.5000 
+skin 2220 Rshoulder1 0.2500 Rarm 0.7500 
+skin 2221 Hips 0.5000 Lupleg 0.5000 
+skin 2222 Rshoulder1 0.2500 Rarm 0.7500 
+skin 2223 Rarm 0.5000 Rforearm 0.5000 
+skin 2224 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2225 Spine3 0.8000 Rshoulder1 0.2000 
+skin 2226 Rshoulder1 0.7500 Rarm 0.2500 
+skin 2227 Rshoulder1 0.7500 Rarm 0.2500 
+skin 2228 Rleg 0.2500 Rfoot 0.7500 
+skin 2229 Rleg 0.2500 Rfoot 0.7500 
+skin 2230 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2231 Hips 0.2500 Lupleg 0.7500 
+skin 2232 Rshoulder1 0.2500 Rarm 0.7500 
+skin 2233 Rshoulder1 0.5000 Rarm 0.5000 
+skin 2234 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2235 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2236 Rleg 0.2500 Rfoot 0.7500 
+skin 2237 Rleg 0.2500 Rfoot 0.7500 
+skin 2238 Hips 0.4000 Spine1 0.6000 
+skin 2239 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2240 Lforearm 0.7000 Lhand 0.3000 
+skin 2241 Rarm 0.7500 Rforearm 0.2500 
+skin 2242 Rarm 0.5000 Rforearm 0.5000 
+skin 2243 Rarm 0.7500 Rforearm 0.2500 
+skin 2244 Rarm 0.7500 Rforearm 0.2500 
+skin 2245 Rhand 1.0000 
+skin 2246 Rarm 0.7500 Rforearm 0.2500 
+skin 2247 Rleg 0.2500 Rfoot 0.7500 
+skin 2248 Rhand 1.0000 
+skin 2249 Rfoot 0.7500 Rtoebase 0.2500 
+skin 2250 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2251 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2252 Rhand 0.5000 Rfingerbase 0.5000 
+skin 2253 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2254 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2255 Lupleg 0.7500 Lleg 0.2500 
+skin 2256 Lupleg 0.7500 Lleg 0.2500 
+skin 2257 Hips 0.7500 Lupleg 0.2500 
+skin 2258 Lupleg 1.0000 
+skin 2259 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2260 Rfingerbase 1.0000 
+skin 2261 Rarm 0.7500 Rforearm 0.2500 
+skin 2262 Rarm 0.7500 Rforearm 0.2500 
+skin 2263 Rarm 0.7500 Rforearm 0.2500 
+skin 2264 Rarm 0.7500 Rforearm 0.2500 
+skin 2265 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2266 Hips 0.7500 Lupleg 0.2500 
+skin 2267 Rfingerbase 1.0000 
+skin 2268 Hips 0.7500 Lupleg 0.2500 
+skin 2269 Rarm 0.7500 Rforearm 0.2500 
+skin 2270 Rarm 1.0000 
+skin 2271 Rarm 0.7500 Rforearm 0.2500 
+skin 2272 Rarm 0.7500 Rforearm 0.2500 
+skin 2273 Rarm 0.7500 Rforearm 0.2500 
+skin 2274 Rarm 0.7500 Rforearm 0.2500 
+skin 2275 Rarm 0.7500 Rforearm 0.2500 
+skin 2276 Rarm 0.7500 Rforearm 0.2500 
+skin 2277 Rarm 0.7500 Rforearm 0.2500 
+skin 2278 Rarm 0.7500 Rforearm 0.2500 
+skin 2279 Rarm 0.7500 Rforearm 0.2500 
+skin 2280 Rarm 0.7500 Rforearm 0.2500 
+skin 2281 Rarm 0.7500 Rforearm 0.2500 
+skin 2282 Rarm 0.7500 Rforearm 0.2500 
+skin 2283 Rarm 0.7500 Rforearm 0.2500 
+skin 2284 Rarm 0.7500 Rforearm 0.2500 
+skin 2285 Rarm 0.7500 Rforearm 0.2500 
+skin 2286 Rarm 0.7500 Rforearm 0.2500 
+skin 2287 Rarm 0.7500 Rforearm 0.2500 
+skin 2288 Rarm 0.7500 Rforearm 0.2500 
+skin 2289 Spine2 0.3500 Rarm 0.6500 
+skin 2290 Spine2 1.0000 
+skin 2291 Rarm 0.5000 Rforearm 0.5000 
+skin 2292 Rleg 0.2500 Rfoot 0.7500 
+skin 2293 Spine2 0.3500 Rarm 0.6500 
+skin 2294 Rforearm 0.7000 Rhand 0.3000 
+skin 2295 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2296 AB_noiear00_00_R 1.0000 
+skin 2297 Rforearm 0.7000 Rhand 0.3000 
+skin 2298 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2299 Rforearm 0.7000 Rhand 0.3000 
+skin 2300 AB_noiear00_00_R 1.0000 
+skin 2301 Rforearm 0.7000 Rhand 0.3000 
+skin 2302 Rleg 1.0000 
+skin 2303 Rforearm 0.7000 Rhand 0.3000 
+skin 2304 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2305 AB_noiear00_00_R 1.0000 
+skin 2306 Rforearm 0.7000 Rhand 0.3000 
+skin 2307 Rupleg 0.5000 Rleg 0.5000 
+skin 2308 Rupleg 0.5000 Rleg 0.5000 
+skin 2309 Rupleg 0.5000 Rleg 0.5000 
+skin 2310 Rupleg 0.5000 Rleg 0.5000 
+skin 2311 Rupleg 0.5000 Rleg 0.5000 
+skin 2312 Rupleg 0.5000 Rleg 0.5000 
+skin 2313 Rupleg 0.5000 Rleg 0.5000 
+skin 2314 AB_noiear00_00_R 1.0000 
+skin 2315 Rupleg 0.5000 Rleg 0.5000 
+skin 2316 AB_noiear00_00_R 1.0000 
+skin 2317 Rupleg 0.5000 Rleg 0.5000 
+skin 2318 AB_noiear00_00_R 1.0000 
+skin 2319 Rupleg 0.5000 Rleg 0.5000 
+skin 2320 Rfingerbase 1.0000 
+skin 2321 Rleg 0.7500 Rfoot 0.2500 
+skin 2322 Rleg 0.2500 Rfoot 0.7500 
+skin 2323 Rleg 0.7500 Rfoot 0.2500 
+skin 2324 Rleg 0.2500 Rfoot 0.7500 
+skin 2325 Rleg 0.7500 Rfoot 0.2500 
+skin 2326 Rleg 0.2500 Rfoot 0.7500 
+skin 2327 Rleg 0.7500 Rfoot 0.2500 
+skin 2328 Rleg 0.2500 Rfoot 0.7500 
+skin 2329 Rleg 0.7500 Rfoot 0.2500 
+skin 2330 Rhand 1.0000 
+skin 2331 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2332 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2333 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2334 Rforearm 0.7000 Rhand 0.3000 
+skin 2335 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2336 Rforearm 0.7000 Rhand 0.3000 
+skin 2337 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2338 Rforearm 0.7000 Rhand 0.3000 
+skin 2339 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2340 Rforearm 0.7000 Rhand 0.3000 
+skin 2341 Rhand 1.0000 
+skin 2342 Rforearm 0.7000 Rhand 0.3000 
+skin 2343 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2344 Rforearm 0.7000 Rhand 0.3000 
+skin 2345 Rfoot 0.5000 Rtoebase 0.5000 
+skin 2346 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2347 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2348 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2349 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2350 Rleg 0.2500 Rfoot 0.7500 
+skin 2351 Rhand 1.0000 
+skin 2352 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2353 Rhand 1.0000 
+skin 2354 Rleg 0.2500 Rfoot 0.7500 
+skin 2355 Rleg 0.7500 Rfoot 0.2500 
+skin 2356 Rleg 0.2500 Rfoot 0.7500 
+skin 2357 Rleg 0.7500 Rfoot 0.2500 
+skin 2358 Rleg 0.2500 Rfoot 0.7500 
+skin 2359 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2360 Hips 0.5000 Lupleg 0.5000 
+skin 2361 Hips 0.5000 Lupleg 0.5000 
+skin 2362 Hips 0.7500 Lupleg 0.2500 
+skin 2363 Lupleg 0.7500 Lleg 0.2500 
+skin 2364 Lupleg 0.7500 Lleg 0.2500 
+skin 2365 Rhand 1.0000 
+skin 2366 Hips 0.7500 Lupleg 0.2500 
+skin 2367 Hips 0.5000 Lupleg 0.5000 
+skin 2368 Hips 0.7500 Lupleg 0.2500 
+skin 2369 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2370 Lupleg 0.5000 Lleg 0.5000 
+skin 2371 Lupleg 0.5000 Lleg 0.5000 
+skin 2372 Lupleg 0.5000 Lleg 0.5000 
+skin 2373 Lupleg 0.5000 Lleg 0.5000 
+skin 2374 Lupleg 0.5000 Lleg 0.5000 
+skin 2375 Lupleg 0.5000 Lleg 0.5000 
+skin 2376 Lupleg 0.5000 Lleg 0.5000 
+skin 2377 Lupleg 0.5000 Lleg 0.5000 
+skin 2378 Lupleg 0.5000 Lleg 0.5000 
+skin 2379 Lupleg 0.5000 Lleg 0.5000 
+skin 2380 Lupleg 0.5000 Lleg 0.5000 
+skin 2381 Lupleg 0.5000 Lleg 0.5000 
+skin 2382 Lupleg 0.5000 Lleg 0.5000 
+skin 2383 Lupleg 0.5000 Lleg 0.5000 
+skin 2384 Lupleg 0.5000 Lleg 0.5000 
+skin 2385 Lupleg 0.5000 Lleg 0.5000 
+skin 2386 Lupleg 0.5000 Lleg 0.5000 
+skin 2387 Lupleg 0.5000 Lleg 0.5000 
+skin 2388 Lupleg 0.7500 Lleg 0.2500 
+skin 2389 Lupleg 0.5000 Lleg 0.5000 
+skin 2390 Lupleg 0.7500 Lleg 0.2500 
+skin 2391 Lupleg 0.5000 Lleg 0.5000 
+skin 2392 Lupleg 0.5000 Lleg 0.5000 
+skin 2393 Lupleg 0.5000 Lleg 0.5000 
+skin 2394 Lupleg 0.5000 Lleg 0.5000 
+skin 2395 Hips 0.8500 Lupleg 0.1500 
+skin 2396 Hips 0.7500 Lupleg 0.2500 
+skin 2397 Hips 0.6000 Lupleg 0.4000 
+skin 2398 Lupleg 0.5000 Lleg 0.5000 
+skin 2399 Lupleg 0.5000 Lleg 0.5000 
+skin 2400 Lupleg 0.5000 Lleg 0.5000 
+skin 2401 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2402 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2403 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2404 Lupleg 0.5000 Lleg 0.5000 
+skin 2405 Lupleg 0.5000 Lleg 0.5000 
+skin 2406 Lupleg 0.5000 Lleg 0.5000 
+skin 2407 Lupleg 0.5000 Lleg 0.5000 
+skin 2408 Lupleg 0.7500 Lleg 0.2500 
+skin 2409 AB_noiear00_00_R 1.0000 
+skin 2410 Lupleg 0.5000 Lleg 0.5000 
+skin 2411 Hips 0.3000 Lupleg 0.7000 
+skin 2412 Lupleg 0.7500 Lleg 0.2500 
+skin 2413 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2414 Hips 0.3000 Lupleg 0.7000 
+skin 2415 Lupleg 0.5000 Lleg 0.5000 
+skin 2416 Lupleg 0.5000 Lleg 0.5000 
+skin 2417 Hips 0.7500 Lupleg 0.2500 
+skin 2418 Lupleg 0.5000 Lleg 0.5000 
+skin 2419 Hips 0.8500 Lupleg 0.1500 
+skin 2420 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2421 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2422 Hips 0.7500 Lupleg 0.2500 
+skin 2423 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2424 AB_noiear00_00_R 1.0000 
+skin 2425 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2426 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2427 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2428 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2429 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2430 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2431 DB_noitail00_01 1.0000 
+skin 2432 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2433 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2434 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2435 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2436 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2437 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2438 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2439 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2440 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2441 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2442 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2443 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2444 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2445 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2446 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2447 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2448 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2449 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2450 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2451 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2452 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2453 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2454 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2455 DB_noitail00_01 1.0000 
+skin 2456 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2457 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2458 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2459 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2460 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2461 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2462 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2463 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2464 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2465 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2466 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2467 DB_noitail00_01 1.0000 
+skin 2468 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2469 DB_noitail00_01 1.0000 
+skin 2470 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2471 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2472 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2473 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2474 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2475 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2476 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2477 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2478 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2479 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2480 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2481 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2482 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2483 Rhand 0.3000 Rfingerbase 0.7000 
+skin 2484 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2485 Rhand 0.8000 Rfingerbase 0.2000 
+skin 2486 Rhand 0.7000 Rfingerbase 0.3000 
+skin 2487 Lfingerbase 1.0000 
+skin 2488 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2489 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2490 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2491 Lfingerbase 1.0000 
+skin 2492 Lfingerbase 1.0000 
+skin 2493 Lfingerbase 1.0000 
+skin 2494 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2495 DB_noiear00_01_R 1.0000 
+skin 2496 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2497 DB_noiear00_01_R 1.0000 
+skin 2498 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2499 DB_noiear00_01_R 1.0000 
+skin 2500 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2501 DB_noiear00_01_R 1.0000 
+skin 2502 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2503 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2504 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2505 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2506 Lhand 1.0000 
+skin 2507 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2508 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2509 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2510 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2511 Lhand 0.5000 Lfingerbase 0.5000 
+skin 2512 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2513 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2514 Lhand 1.0000 
+skin 2515 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2516 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2517 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2518 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2519 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2520 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2521 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2522 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2523 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2524 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2525 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2526 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2527 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2528 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2529 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2530 Neck1 0.2000 Head 0.8000 
+skin 2531 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2532 DB_noitail00_00 0.2000 DB_noitail00_01 0.8000 
+skin 2533 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2534 Neck1 0.2000 Head 0.8000 
+skin 2535 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2536 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2537 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2538 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2539 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2540 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2541 Lhand 0.7000 Lfingerbase 0.3000 
+skin 2542 Lhand 0.5000 Lfingerbase 0.5000 
+skin 2543 Spine1 0.7500 Spine2 0.2500 
+skin 2544 Spine1 0.5000 Spine2 0.5000 
+skin 2545 Spine1 0.7500 Spine2 0.2500 
+skin 2546 Spine1 0.5000 Spine2 0.5000 
+skin 2547 Spine1 0.7500 Spine2 0.2500 
+skin 2548 Spine1 0.5000 Spine2 0.5000 
+skin 2549 Spine1 0.7500 Spine2 0.2500 
+skin 2550 Spine1 0.5000 Spine2 0.5000 
+skin 2551 Spine1 0.7500 Spine2 0.2500 
+skin 2552 Spine1 0.5000 Spine2 0.5000 
+skin 2553 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2554 AB_noiear00_00_R 0.5000 DB_noiear00_01_R 0.5000 
+skin 2555 Spine1 0.7500 Spine2 0.2500 
+skin 2556 Spine1 0.5000 Spine2 0.5000 
+skin 2557 Spine1 0.7500 Spine2 0.2500 
+skin 2558 Spine1 0.5000 Spine2 0.5000 
+skin 2559 Spine1 0.7500 Spine2 0.2500 
+skin 2560 Spine1 0.5000 Spine2 0.5000 
+skin 2561 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2562 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2563 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2564 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2565 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2566 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2567 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2568 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2569 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2570 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2571 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2572 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2573 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2574 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2575 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2576 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2577 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2578 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2579 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2580 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2581 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2582 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2583 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2584 DB_noitail00_00 0.4000 DB_noitail00_01 0.6000 
+skin 2585 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2586 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2587 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2588 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2589 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2590 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2591 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2592 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2593 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2594 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2595 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2596 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2597 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2598 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2599 DB_noitail00_00 0.8000 DB_noitail00_01 0.2000 
+skin 2600 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2601 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2602 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2603 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2604 Neck 0.7000 Neck1 0.3000 
+skin 2605 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2606 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2607 Head 1.0000 
+skin 2608 Head 1.0000 
+skin 2609 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2610 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2611 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2612 Neck 0.7000 Neck1 0.3000 
+skin 2613 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2614 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2615 Head 1.0000 
+skin 2616 Neck 0.7000 Neck1 0.3000 
+skin 2617 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2618 Neck1 0.3500 Head 0.6500 
+skin 2619 Head 1.0000 
+skin 2620 Spine1 0.5000 Spine2 0.5000 
+skin 2621 Spine1 0.7500 Spine2 0.2500 
+skin 2622 Spine1 0.7500 Spine2 0.2500 
+skin 2623 Spine1 0.5000 Spine2 0.5000 
+skin 2624 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2625 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2626 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2627 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2628 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2629 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2630 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2631 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2632 Lhand 0.3000 Lfingerbase 0.7000 
+skin 2633 Neck 0.7000 Neck1 0.3000 
+skin 2634 Neck1 0.3500 Head 0.6500 
+skin 2635 Neck1 0.2000 Head 0.8000 
+skin 2636 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2637 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2638 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2639 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2640 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2641 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2642 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2643 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2644 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2645 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2646 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2647 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2648 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2649 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2650 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2651 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2652 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2653 Neck1 0.3500 Head 0.6500 
+skin 2654 Head 1.0000 
+skin 2655 Head 1.0000 
+skin 2656 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2657 Lhand 0.8000 Lfingerbase 0.2000 
+skin 2658 Head 1.0000 
+skin 2659 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2660 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2661 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2662 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2663 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2664 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2665 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2666 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2667 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2668 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2669 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2670 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2671 Neck1 0.3500 Head 0.6500 
+skin 2672 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2673 Neck1 0.3500 Head 0.6500 
+skin 2674 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2675 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2676 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2677 Head 1.0000 
+skin 2678 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2679 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2680 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2681 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2682 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2683 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2684 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2685 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2686 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2687 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2688 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2689 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2690 DB_noiear00_01_L 1.0000 
+skin 2691 Neck1 0.3500 Head 0.6500 
+skin 2692 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2693 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2694 Neck1 0.3500 Head 0.6500 
+skin 2695 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2696 Neck1 0.3500 Head 0.6500 
+skin 2697 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2698 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2699 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2700 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2701 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2702 AB_noiear00_00_L 1.0000 
+skin 2703 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2704 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2705 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2706 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2707 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2708 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2709 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2710 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2711 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2712 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2713 AB_noiear00_00_L 1.0000 
+skin 2714 AB_noiear00_00_L 1.0000 
+skin 2715 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2716 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2717 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2718 AB_noiear00_00_L 1.0000 
+skin 2719 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2720 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2721 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2722 Neck 0.7000 Neck1 0.3000 
+skin 2723 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2724 Neck 0.7000 Neck1 0.3000 
+skin 2725 Neck1 0.3500 Head 0.6500 
+skin 2726 Neck 0.7000 Neck1 0.3000 
+skin 2727 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2728 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2729 Neck1 0.3500 Head 0.6500 
+skin 2730 Neck 0.7000 Neck1 0.3000 
+skin 2731 Neck1 0.3500 Head 0.6500 
+skin 2732 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2733 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2734 Neck1 1.0000 
+skin 2735 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2736 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2737 AB_noiear00_00_L 1.0000 
+skin 2738 Neck 0.7000 Neck1 0.3000 
+skin 2739 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2740 Neck 0.7000 Neck1 0.3000 
+skin 2741 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2742 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2743 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2744 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2745 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2746 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2747 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2748 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2749 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2750 Neck1 0.3500 Head 0.6500 
+skin 2751 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2752 Neck1 0.3500 Head 0.6500 
+skin 2753 Neck1 0.3500 Head 0.6500 
+skin 2754 Neck1 0.3500 Head 0.6500 
+skin 2755 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2756 Neck1 0.3500 Head 0.6500 
+skin 2757 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2758 Neck1 0.5000 AB_noiear00_00_R 0.5000 
+skin 2759 Head 0.5000 AB_noiear00_00_R 0.5000 
+skin 2760 Head 1.0000 
+skin 2761 Neck1 0.3500 Head 0.6500 
+skin 2762 Neck1 0.3500 Head 0.6500 
+skin 2763 Neck1 0.3500 Head 0.6500 
+skin 2764 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2765 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2766 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2767 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2768 AB_noiear00_00_L 1.0000 
+skin 2769 Neck1 0.3500 Head 0.6500 
+skin 2770 Rarm 0.7500 Rforearm 0.2500 
+skin 2771 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2772 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2773 Neck 0.7000 Neck1 0.3000 
+skin 2774 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2775 Lfoot 1.0000 
+skin 2776 Spine2 0.5000 Rshoulder1 0.5000 
+skin 2777 Neck1 0.5000 AB_noiear00_00_L 0.5000 
+skin 2778 Larm 0.5000 Lforearm 0.5000 
+skin 2779 Rupleg 0.7500 Rleg 0.2500 
+skin 2780 Hips 0.5000 DB_noitail00_00 0.5000 
+skin 2781 AB_noiear00_00_L 0.5000 DB_noiear00_01_L 0.5000 
+skin 2782 Head 1.0000 
+skin 2783 Head 0.5000 AB_noiear00_00_L 0.5000 
+skin 2784 Spine2 0.6000 Lshoulder 0.3000 Larm 0.1000 
+skin 2785 Spine2 0.6000 Lshoulder 0.3000 Larm 0.1000 
+skin 2786 Spine2 0.6000 Larm 0.4000 
+skin 2787 Hips 0.4500 Lupleg 0.1000 Spine1 0.4500 
+skin 2788 Hips 0.4500 Rupleg 0.1000 Spine1 0.4500 
+skin 2789 Hips 0.4000 Spine1 0.6000 
+skin 2790 Hips 0.4000 Spine1 0.6000 
+skin 2791 Hips 0.5000 Spine1 0.5000 
+skin 2792 Hips 0.7500 Lupleg 0.2500 
+skin 2793 Head 1.0000 
+skin 2794 Head 1.0000 
+skin 2795 Head 1.0000 
+skin 2796 Head 1.0000 
+skin 2797 Head 1.0000 
+skin 2798 Head 1.0000 
+skin 2799 Head 1.0000 
+skin 2800 Head 1.0000 
+hier Hips DB_noitail00_00
+hier Hips Lupleg
+hier Hips Rupleg
+hier Hips Spine
+hier DB_noitail00_00 DB_noitail00_01
+hier Lupleg Lleg
+hier Rupleg Rleg
+hier Spine Spine1
+hier DB_noitail00_01 NW_AB_noitail00_02
+hier Lleg Lfoot
+hier Rleg Rfoot
+hier Spine1 Spine2
+hier Lfoot Ltoebase
+hier Rfoot Rtoebase
+hier Spine2 Spine3
+hier Spine3 Lshoulder
+hier Spine3 Neck
+hier Spine3 Rshoulder1
+hier Lshoulder Larm
+hier Neck Neck1
+hier Rshoulder1 Rarm
+hier Larm Lforearm
+hier Neck1 Head
+hier Rarm Rforearm
+hier Lforearm Lhand
+hier Head AB_noiear00_00_L
+hier Head AB_noiear00_00_R
+hier Rforearm Rhand
+hier Lhand Lfingerbase
+hier AB_noiear00_00_L DB_noiear00_01_L
+hier AB_noiear00_00_R DB_noiear00_01_R
+hier Rhand Rfingerbase
+hier DB_noiear00_01_L Nw_AB_noiear00_02_L
+hier DB_noiear00_01_R Nw_AB_noiear00_02_R

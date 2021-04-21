@@ -1,0 +1,2813 @@
+joints root 0.00000000 0.23273300 -0.06148600
+joints spine1 0.00000000 0.31890700 0.18017270
+joints pelvis 0.00000000 0.14609700 -0.08400260
+joints spine2 0.00000000 0.44692400 -0.19751020
+joints head 0.00000000 0.42625100 0.26107170
+joints leg2_L 0.02155320 0.06591530 -0.00335830
+joints leg_L 0.03154400 0.19920500 -0.15753540
+joints leg_R -0.03154400 0.19920500 -0.15753540
+joints leg2_R -0.02155320 0.06591530 -0.00335830
+joints spine3 0.00000000 0.65606400 -0.36940830
+joints tedsBigBrother_jaw 0.00000000 0.43401500 0.31778870
+joints tedsBigBrother_mouthCorner_L 0.03612100 0.42902300 0.37361670
+joints tedsBigBrother_cheek_L 0.05055410 0.45363800 0.34645170
+joints tedsBigBrother_eyeLidUpper_L 0.03085110 0.51936200 0.38936870
+joints tedsBigBrother_eyeLidUpper_R -0.03085110 0.51936200 0.38936870
+joints tedsBigBrother_cheek_R -0.05055410 0.45363800 0.34645170
+joints tedsBigBrother_mouthCorner_R -0.03612100 0.42902300 0.37361670
+joints tedsBigBrother_antenna1_L 0.02702820 0.62628200 0.39022670
+joints tedsBigBrother_antenna1_R -0.02702820 0.62628300 0.39022670
+joints tedsBigBrother_eyeLidLower_L 0.03085110 0.51936200 0.38936870
+joints tedsBigBrother_eyeLidLower_R -0.03085110 0.51936200 0.38936870
+joints knee2_L 0.07037210 0.05934140 -0.00257530
+joints knee_L 0.28561900 0.35396900 -0.29875830
+joints knee_R -0.28561900 0.35396900 -0.29875830
+joints knee2_R -0.07037150 0.05934160 -0.00257530
+joints tedsBigBrother_mouthLower_L 0.01448820 0.42040800 0.39536670
+joints tedsBigBrother_tongue 0.00000000 0.42519500 0.35462870
+joints tedsBigBrother_mouthLower_R -0.01448820 0.42040800 0.39536670
+joints tedsBigBrother_antenna2_L 0.04218950 0.66762900 0.41182170
+joints tedsBigBrother_antenna2_R -0.04218950 0.66762700 0.41182170
+joints ankle2_L 0.04829730 0.00047195 -0.00497130
+joints ankle_L 0.10690200 0.00799654 -0.22276330
+joints ankle_R -0.10690100 0.00799710 -0.22276330
+joints ankle2_R -0.04829690 0.00047205 -0.00497130
+joints tedsBigBrother_antenna3_L 0.06096350 0.69934100 0.44690370
+joints tedsBigBrother_antenna3_R -0.06096350 0.69933800 0.44690370
+joints tedsBigBrother_antenna4_L 0.07969170 0.68286400 0.48364970
+joints tedsBigBrother_antenna4_R -0.07969180 0.68286200 0.48364870
+root root
+skin 0 root 0.1100 spine2 0.5500 spine3 0.3400 
+skin 1 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 2 root 0.1100 spine2 0.5500 spine3 0.3400 
+skin 3 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 4 spine2 0.5000 spine3 0.5000 
+skin 5 spine2 0.5000 spine3 0.5000 
+skin 6 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 7 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 8 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 9 tedsBigBrother_jaw 0.7500 tedsBigBrother_mouthLower_L 0.1300 tedsBigBrother_mouthLower_R 0.1200 
+skin 10 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_L 0.2000 
+skin 11 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_L 0.2000 
+skin 12 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 13 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 14 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 15 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 16 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 17 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 18 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 19 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 20 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 21 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 22 root 0.4700 spine1 0.4700 head 0.0600 
+skin 23 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 24 root 0.4800 spine1 0.4800 head 0.0400 
+skin 25 root 0.4800 spine1 0.4800 head 0.0400 
+skin 26 root 0.6000 spine1 0.2300 pelvis 0.1700 
+skin 27 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 28 root 0.6000 spine1 0.2300 pelvis 0.1700 
+skin 29 root 0.4800 spine1 0.4800 head 0.0400 
+skin 30 root 0.4900 pelvis 0.5100 
+skin 31 root 0.6000 spine1 0.2300 pelvis 0.1700 
+skin 32 root 0.4900 pelvis 0.5100 
+skin 33 root 0.4900 pelvis 0.5100 
+skin 34 root 0.1000 pelvis 0.9000 
+skin 35 root 0.1000 pelvis 0.8100 leg2_L 0.0900 
+skin 36 root 0.1000 pelvis 0.8100 leg2_L 0.0900 
+skin 37 root 0.4900 pelvis 0.5100 
+skin 38 pelvis 1.0000 
+skin 39 pelvis 0.9000 leg2_L 0.1000 
+skin 40 pelvis 0.9000 leg2_L 0.1000 
+skin 41 root 0.1000 pelvis 0.8100 leg2_L 0.0900 
+skin 42 root 0.3000 pelvis 0.7000 
+skin 43 pelvis 0.9000 leg_L 0.1000 
+skin 44 pelvis 0.9000 leg_L 0.1000 
+skin 45 pelvis 1.0000 
+skin 46 pelvis 1.0000 
+skin 47 pelvis 1.0000 
+skin 48 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 49 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 50 root 0.4300 pelvis 0.5200 spine2 0.0500 
+skin 51 root 0.3000 pelvis 0.7000 
+skin 52 root 0.4000 spine2 0.4700 spine3 0.1300 
+skin 53 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 54 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 55 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 56 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 57 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 58 root 0.1200 spine2 0.5400 spine3 0.3400 
+skin 59 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 60 root 0.1200 spine2 0.5400 spine3 0.3400 
+skin 61 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 62 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 63 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 64 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 65 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 66 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 67 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 68 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 69 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 70 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 71 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 72 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 73 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 74 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 75 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 76 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 77 spine1 0.6400 spine2 0.3200 spine3 0.0400 
+skin 78 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 79 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 80 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 81 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 82 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 83 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 84 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 85 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 86 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 87 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 88 spine1 0.4000 head 0.6000 
+skin 89 spine1 0.4000 head 0.6000 
+skin 90 spine1 0.4000 head 0.6000 
+skin 91 spine1 0.1000 head 0.9000 
+skin 92 spine1 0.1000 head 0.9000 
+skin 93 spine1 0.1000 head 0.9000 
+skin 94 head 1.0000 
+skin 95 spine1 0.1000 head 0.9000 
+skin 96 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 97 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 98 head 1.0000 
+skin 99 head 1.0000 
+skin 100 head 1.0000 
+skin 101 head 1.0000 
+skin 102 head 1.0000 
+skin 103 head 1.0000 
+skin 104 head 1.0000 
+skin 105 head 1.0000 
+skin 106 head 1.0000 
+skin 107 head 1.0000 
+skin 108 head 1.0000 
+skin 109 head 1.0000 
+skin 110 head 1.0000 
+skin 111 head 1.0000 
+skin 112 head 1.0000 
+skin 113 head 1.0000 
+skin 114 head 1.0000 
+skin 115 head 1.0000 
+skin 116 tedsBigBrother_jaw 0.6200 tedsBigBrother_mouthCorner_L 0.2100 tedsBigBrother_mouthLower_L 0.1700 
+skin 117 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 118 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 119 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 120 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 121 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 122 root 0.8300 spine1 0.1400 pelvis 0.0300 
+skin 123 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 124 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 125 root 0.1900 spine1 0.5100 head 0.3000 
+skin 126 root 0.1300 spine1 0.5700 head 0.3000 
+skin 127 root 0.1900 spine1 0.5100 head 0.3000 
+skin 128 head 1.0000 
+skin 129 head 1.0000 
+skin 130 head 1.0000 
+skin 131 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 132 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 133 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_L 0.2000 
+skin 134 head 0.5500 tedsBigBrother_mouthCorner_L 0.3300 tedsBigBrother_mouthLower_L 0.1200 
+skin 135 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 136 head 0.5500 tedsBigBrother_mouthCorner_L 0.3300 tedsBigBrother_mouthLower_L 0.1200 
+skin 137 head 0.6800 tedsBigBrother_mouthCorner_L 0.2900 tedsBigBrother_cheek_L 0.0300 
+skin 138 head 0.6800 tedsBigBrother_mouthCorner_L 0.2900 tedsBigBrother_cheek_L 0.0300 
+skin 139 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_L 0.3000 
+skin 140 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 141 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_L 0.3000 
+skin 142 head 0.6400 tedsBigBrother_mouthCorner_L 0.2000 tedsBigBrother_mouthLower_L 0.1600 
+skin 143 head 0.8000 tedsBigBrother_mouthLower_L 0.2000 
+skin 144 head 0.6400 tedsBigBrother_mouthCorner_L 0.2000 tedsBigBrother_mouthLower_L 0.1600 
+skin 145 head 0.5500 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.2100 
+skin 146 head 0.6500 tedsBigBrother_mouthLower_L 0.3500 
+skin 147 head 0.6500 tedsBigBrother_mouthLower_L 0.3500 
+skin 148 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_L 0.2000 
+skin 149 tedsBigBrother_jaw 0.6000 tedsBigBrother_mouthLower_L 0.2000 tedsBigBrother_mouthLower_R 0.2000 
+skin 150 tedsBigBrother_jaw 0.6000 tedsBigBrother_mouthLower_L 0.2000 tedsBigBrother_mouthLower_R 0.2000 
+skin 151 head 0.7700 tedsBigBrother_mouthLower_L 0.1200 tedsBigBrother_mouthLower_R 0.1100 
+skin 152 head 0.6500 tedsBigBrother_mouthLower_L 0.3500 
+skin 153 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 154 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 155 head 1.0000 
+skin 156 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 157 head 1.0000 
+skin 158 head 1.0000 
+skin 159 head 0.8000 tedsBigBrother_cheek_L 0.2000 
+skin 160 head 0.9000 tedsBigBrother_cheek_L 0.1000 
+skin 161 head 0.7200 tedsBigBrother_mouthCorner_L 0.1000 tedsBigBrother_cheek_L 0.1800 
+skin 162 head 0.7200 tedsBigBrother_mouthCorner_L 0.1000 tedsBigBrother_cheek_L 0.1800 
+skin 163 head 0.7200 tedsBigBrother_mouthCorner_L 0.1000 tedsBigBrother_cheek_L 0.1800 
+skin 164 head 0.7200 tedsBigBrother_mouthCorner_L 0.1000 tedsBigBrother_cheek_L 0.1800 
+skin 165 tedsBigBrother_jaw 0.6200 tedsBigBrother_mouthCorner_L 0.2100 tedsBigBrother_mouthLower_L 0.1700 
+skin 166 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_L 0.3000 
+skin 167 head 1.0000 
+skin 168 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 169 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 170 head 1.0000 
+skin 171 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 172 root 0.4300 spine1 0.5500 head 0.0200 
+skin 173 head 1.0000 
+skin 174 head 0.8000 tedsBigBrother_cheek_L 0.2000 
+skin 175 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 176 head 1.0000 
+skin 177 head 1.0000 
+skin 178 head 1.0000 
+skin 179 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 180 head 1.0000 
+skin 181 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 182 root 0.4000 spine1 0.6000 
+skin 183 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 184 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 185 root 0.6000 spine1 0.2400 spine2 0.1600 
+skin 186 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 187 root 0.0600 spine1 0.7200 spine2 0.2200 
+skin 188 root 0.2500 spine2 0.7500 
+skin 189 root 0.2500 spine2 0.7500 
+skin 190 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 191 spine1 0.1300 spine2 0.4500 spine3 0.4200 
+skin 192 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 193 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 194 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 195 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 196 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 197 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 198 pelvis 0.9000 leg2_L 0.1000 
+skin 199 pelvis 0.9000 leg2_L 0.1000 
+skin 200 pelvis 0.9000 leg2_L 0.1000 
+skin 201 pelvis 1.0000 
+skin 202 pelvis 1.0000 
+skin 203 root 0.4300 spine1 0.5500 head 0.0200 
+skin 204 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 205 root 0.4800 spine1 0.4800 head 0.0400 
+skin 206 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 207 spine1 0.4000 head 0.6000 
+skin 208 spine1 0.1000 head 0.9000 
+skin 209 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 210 root 0.1900 spine1 0.5100 head 0.3000 
+skin 211 root 0.0600 spine1 0.7200 spine2 0.2200 
+skin 212 root 0.4300 spine1 0.5500 head 0.0200 
+skin 213 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 214 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 215 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 216 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 217 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 218 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 219 head 1.0000 
+skin 220 head 0.7700 tedsBigBrother_mouthLower_L 0.1200 tedsBigBrother_mouthLower_R 0.1100 
+skin 221 head 1.0000 
+skin 222 head 0.8000 tedsBigBrother_mouthLower_L 0.2000 
+skin 223 head 0.7200 tedsBigBrother_mouthCorner_L 0.1000 tedsBigBrother_cheek_L 0.1800 
+skin 224 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_L 0.3000 
+skin 225 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 226 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 227 head 1.0000 
+skin 228 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 229 head 1.0000 
+skin 230 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 231 head 1.0000 
+skin 232 head 0.8000 tedsBigBrother_cheek_L 0.2000 
+skin 233 head 0.9000 tedsBigBrother_cheek_L 0.1000 
+skin 234 head 1.0000 
+skin 235 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 236 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 237 head 1.0000 
+skin 238 head 1.0000 
+skin 239 head 1.0000 
+skin 240 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 241 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 242 head 1.0000 
+skin 243 head 1.0000 
+skin 244 head 1.0000 
+skin 245 head 1.0000 
+skin 246 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 247 head 1.0000 
+skin 248 head 1.0000 
+skin 249 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 250 head 1.0000 
+skin 251 head 1.0000 
+skin 252 head 1.0000 
+skin 253 head 1.0000 
+skin 254 head 1.0000 
+skin 255 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 256 head 1.0000 
+skin 257 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 258 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 259 head 0.9000 tedsBigBrother_cheek_L 0.1000 
+skin 260 head 1.0000 
+skin 261 head 0.6800 tedsBigBrother_mouthCorner_L 0.2900 tedsBigBrother_cheek_L 0.0300 
+skin 262 head 0.6400 tedsBigBrother_mouthCorner_L 0.2000 tedsBigBrother_mouthLower_L 0.1600 
+skin 263 head 0.5500 tedsBigBrother_mouthCorner_L 0.3300 tedsBigBrother_mouthLower_L 0.1200 
+skin 264 head 0.5500 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.2100 
+skin 265 head 1.0000 
+skin 266 head 1.0000 
+skin 267 head 1.0000 
+skin 268 head 1.0000 
+skin 269 head 1.0000 
+skin 270 head 1.0000 
+skin 271 head 1.0000 
+skin 272 head 1.0000 
+skin 273 head 1.0000 
+skin 274 head 1.0000 
+skin 275 head 1.0000 
+skin 276 head 1.0000 
+skin 277 head 1.0000 
+skin 278 head 1.0000 
+skin 279 head 1.0000 
+skin 280 head 1.0000 
+skin 281 head 1.0000 
+skin 282 head 1.0000 
+skin 283 head 1.0000 
+skin 284 head 1.0000 
+skin 285 head 1.0000 
+skin 286 head 1.0000 
+skin 287 head 1.0000 
+skin 288 head 1.0000 
+skin 289 head 1.0000 
+skin 290 head 1.0000 
+skin 291 head 1.0000 
+skin 292 head 1.0000 
+skin 293 head 1.0000 
+skin 294 head 1.0000 
+skin 295 head 1.0000 
+skin 296 head 1.0000 
+skin 297 head 1.0000 
+skin 298 head 1.0000 
+skin 299 head 1.0000 
+skin 300 head 1.0000 
+skin 301 head 1.0000 
+skin 302 head 1.0000 
+skin 303 head 1.0000 
+skin 304 head 1.0000 
+skin 305 head 1.0000 
+skin 306 head 1.0000 
+skin 307 head 1.0000 
+skin 308 head 1.0000 
+skin 309 head 1.0000 
+skin 310 head 1.0000 
+skin 311 head 1.0000 
+skin 312 head 1.0000 
+skin 313 head 1.0000 
+skin 314 head 1.0000 
+skin 315 head 1.0000 
+skin 316 head 1.0000 
+skin 317 head 1.0000 
+skin 318 head 1.0000 
+skin 319 head 1.0000 
+skin 320 head 1.0000 
+skin 321 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 322 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 323 head 1.0000 
+skin 324 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 325 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 326 head 1.0000 
+skin 327 pelvis 0.9000 leg2_L 0.1000 
+skin 328 pelvis 0.9000 leg2_L 0.1000 
+skin 329 pelvis 0.9000 leg2_L 0.1000 
+skin 330 pelvis 0.9000 leg2_L 0.1000 
+skin 331 pelvis 1.0000 
+skin 332 pelvis 1.0000 
+skin 333 pelvis 1.0000 
+skin 334 pelvis 0.9000 leg2_L 0.1000 
+skin 335 pelvis 0.9000 leg2_L 0.1000 
+skin 336 pelvis 0.7000 leg2_L 0.3000 
+skin 337 pelvis 0.7000 leg2_L 0.3000 
+skin 338 pelvis 0.7000 leg2_L 0.3000 
+skin 339 leg2_L 1.0000 
+skin 340 leg2_L 1.0000 
+skin 341 leg2_L 1.0000 
+skin 342 pelvis 0.7000 leg2_L 0.3000 
+skin 343 pelvis 0.7000 leg2_L 0.3000 
+skin 344 leg2_L 1.0000 
+skin 345 leg2_L 1.0000 
+skin 346 pelvis 0.7000 leg2_L 0.3000 
+skin 347 leg2_L 1.0000 
+skin 348 pelvis 0.7000 leg2_L 0.3000 
+skin 349 leg2_L 1.0000 
+skin 350 pelvis 0.7000 leg2_L 0.3000 
+skin 351 leg2_L 1.0000 
+skin 352 pelvis 0.7000 leg2_L 0.3000 
+skin 353 leg2_L 1.0000 
+skin 354 pelvis 0.7000 leg2_L 0.3000 
+skin 355 leg2_L 1.0000 
+skin 356 pelvis 0.7000 leg2_L 0.3000 
+skin 357 leg2_L 1.0000 
+skin 358 leg2_L 1.0000 
+skin 359 pelvis 0.7000 leg2_L 0.3000 
+skin 360 leg2_L 0.5500 knee2_L 0.4500 
+skin 361 leg2_L 0.0500 knee2_L 0.9500 
+skin 362 leg2_L 0.0500 knee2_L 0.9500 
+skin 363 leg2_L 0.5000 knee2_L 0.5000 
+skin 364 leg2_L 0.5000 knee2_L 0.5000 
+skin 365 leg2_L 0.0500 knee2_L 0.9500 
+skin 366 leg2_L 0.5500 knee2_L 0.4500 
+skin 367 leg2_L 0.0500 knee2_L 0.9500 
+skin 368 leg2_L 0.5500 knee2_L 0.4500 
+skin 369 leg2_L 0.0500 knee2_L 0.9500 
+skin 370 leg2_L 0.0500 knee2_L 0.9500 
+skin 371 leg2_L 0.0500 knee2_L 0.9500 
+skin 372 leg2_L 0.5000 knee2_L 0.5000 
+skin 373 leg2_L 0.5000 knee2_L 0.5000 
+skin 374 leg2_L 0.0500 knee2_L 0.9500 
+skin 375 leg2_L 0.1000 knee2_L 0.9000 
+skin 376 leg2_L 0.5000 knee2_L 0.5000 
+skin 377 leg2_L 0.5000 knee2_L 0.5000 
+skin 378 leg2_L 0.5000 knee2_L 0.5000 
+skin 379 leg2_L 0.1000 knee2_L 0.9000 
+skin 380 leg2_L 0.5000 knee2_L 0.5000 
+skin 381 leg2_L 0.1000 knee2_L 0.9000 
+skin 382 leg2_L 0.0500 knee2_L 0.9500 
+skin 383 leg2_L 0.5000 knee2_L 0.5000 
+skin 384 ankle2_L 1.0000 
+skin 385 ankle2_L 1.0000 
+skin 386 ankle2_L 1.0000 
+skin 387 ankle2_L 1.0000 
+skin 388 ankle2_L 1.0000 
+skin 389 ankle2_L 1.0000 
+skin 390 ankle2_L 1.0000 
+skin 391 ankle2_L 1.0000 
+skin 392 ankle2_L 1.0000 
+skin 393 ankle2_L 1.0000 
+skin 394 ankle2_L 1.0000 
+skin 395 ankle2_L 1.0000 
+skin 396 ankle2_L 1.0000 
+skin 397 ankle2_L 1.0000 
+skin 398 ankle2_L 1.0000 
+skin 399 ankle2_L 1.0000 
+skin 400 ankle2_L 1.0000 
+skin 401 ankle2_L 1.0000 
+skin 402 ankle2_L 1.0000 
+skin 403 ankle2_L 1.0000 
+skin 404 ankle2_L 1.0000 
+skin 405 ankle2_L 1.0000 
+skin 406 ankle2_L 1.0000 
+skin 407 ankle2_L 1.0000 
+skin 408 ankle2_L 1.0000 
+skin 409 ankle2_L 1.0000 
+skin 410 ankle2_L 1.0000 
+skin 411 ankle2_L 1.0000 
+skin 412 ankle2_L 1.0000 
+skin 413 ankle2_L 1.0000 
+skin 414 ankle2_L 1.0000 
+skin 415 ankle2_L 1.0000 
+skin 416 ankle2_L 1.0000 
+skin 417 ankle2_L 1.0000 
+skin 418 ankle2_L 1.0000 
+skin 419 ankle2_L 1.0000 
+skin 420 ankle2_L 1.0000 
+skin 421 ankle2_L 1.0000 
+skin 422 ankle2_L 1.0000 
+skin 423 ankle2_L 1.0000 
+skin 424 ankle2_L 1.0000 
+skin 425 ankle2_L 1.0000 
+skin 426 ankle2_L 1.0000 
+skin 427 ankle2_L 1.0000 
+skin 428 ankle2_L 1.0000 
+skin 429 ankle2_L 1.0000 
+skin 430 ankle2_L 1.0000 
+skin 431 ankle2_L 1.0000 
+skin 432 ankle2_L 1.0000 
+skin 433 ankle2_L 1.0000 
+skin 434 ankle2_L 1.0000 
+skin 435 ankle2_L 1.0000 
+skin 436 ankle2_L 1.0000 
+skin 437 ankle2_L 1.0000 
+skin 438 ankle2_L 1.0000 
+skin 439 ankle2_L 1.0000 
+skin 440 ankle2_L 1.0000 
+skin 441 ankle2_L 1.0000 
+skin 442 ankle2_L 1.0000 
+skin 443 ankle2_L 1.0000 
+skin 444 ankle2_L 1.0000 
+skin 445 ankle2_L 1.0000 
+skin 446 ankle2_L 1.0000 
+skin 447 ankle2_L 1.0000 
+skin 448 ankle2_L 1.0000 
+skin 449 ankle2_L 1.0000 
+skin 450 ankle2_L 1.0000 
+skin 451 ankle2_L 1.0000 
+skin 452 ankle2_L 1.0000 
+skin 453 ankle2_L 1.0000 
+skin 454 ankle2_L 1.0000 
+skin 455 ankle2_L 1.0000 
+skin 456 ankle2_L 1.0000 
+skin 457 knee2_L 0.3500 ankle2_L 0.6500 
+skin 458 ankle2_L 1.0000 
+skin 459 knee2_L 0.3500 ankle2_L 0.6500 
+skin 460 knee2_L 0.3500 ankle2_L 0.6500 
+skin 461 knee2_L 0.3500 ankle2_L 0.6500 
+skin 462 knee2_L 0.3500 ankle2_L 0.6500 
+skin 463 knee2_L 0.3500 ankle2_L 0.6500 
+skin 464 knee2_L 0.3500 ankle2_L 0.6500 
+skin 465 ankle2_L 1.0000 
+skin 466 knee2_L 0.3500 ankle2_L 0.6500 
+skin 467 knee2_L 0.3500 ankle2_L 0.6500 
+skin 468 knee2_L 0.3500 ankle2_L 0.6500 
+skin 469 ankle2_L 1.0000 
+skin 470 knee2_L 0.3500 ankle2_L 0.6500 
+skin 471 knee2_L 0.3500 ankle2_L 0.6500 
+skin 472 ankle2_L 1.0000 
+skin 473 knee2_L 0.3500 ankle2_L 0.6500 
+skin 474 knee2_L 0.3500 ankle2_L 0.6500 
+skin 475 ankle2_L 1.0000 
+skin 476 knee2_L 0.3500 ankle2_L 0.6500 
+skin 477 leg2_L 0.8000 knee2_L 0.2000 
+skin 478 leg2_L 0.8000 knee2_L 0.2000 
+skin 479 leg2_L 0.9500 knee2_L 0.0500 
+skin 480 leg2_L 0.5000 knee2_L 0.5000 
+skin 481 leg2_L 0.8000 knee2_L 0.2000 
+skin 482 leg2_L 0.8000 knee2_L 0.2000 
+skin 483 leg2_L 0.5500 knee2_L 0.4500 
+skin 484 leg2_L 0.9500 knee2_L 0.0500 
+skin 485 leg2_L 0.8000 knee2_L 0.2000 
+skin 486 leg2_L 0.5000 knee2_L 0.5000 
+skin 487 leg2_L 0.8000 knee2_L 0.2000 
+skin 488 leg2_L 0.9500 knee2_L 0.0500 
+skin 489 leg2_L 0.5000 knee2_L 0.5000 
+skin 490 leg2_L 0.8000 knee2_L 0.2000 
+skin 491 leg2_L 0.8000 knee2_L 0.2000 
+skin 492 leg2_L 0.5000 knee2_L 0.5000 
+skin 493 leg2_L 0.9500 knee2_L 0.0500 
+skin 494 leg2_L 0.5000 knee2_L 0.5000 
+skin 495 leg2_L 1.0000 
+skin 496 leg2_L 0.9500 knee2_L 0.0500 
+skin 497 leg2_L 1.0000 
+skin 498 leg2_L 0.9500 knee2_L 0.0500 
+skin 499 leg2_L 1.0000 
+skin 500 leg2_L 0.9500 knee2_L 0.0500 
+skin 501 leg2_L 1.0000 
+skin 502 leg2_L 0.8000 knee2_L 0.2000 
+skin 503 leg2_L 1.0000 
+skin 504 leg2_L 0.8000 knee2_L 0.2000 
+skin 505 leg2_L 1.0000 
+skin 506 leg2_L 0.8000 knee2_L 0.2000 
+skin 507 pelvis 0.9000 leg2_L 0.1000 
+skin 508 pelvis 0.7000 leg2_L 0.3000 
+skin 509 pelvis 0.7000 leg2_L 0.3000 
+skin 510 pelvis 0.7000 leg2_L 0.3000 
+skin 511 pelvis 0.7000 leg2_L 0.3000 
+skin 512 pelvis 0.7000 leg2_L 0.3000 
+skin 513 pelvis 0.7000 leg2_L 0.3000 
+skin 514 pelvis 0.7000 leg2_L 0.3000 
+skin 515 pelvis 0.7000 leg2_L 0.3000 
+skin 516 pelvis 0.7000 leg2_L 0.3000 
+skin 517 pelvis 0.7000 leg2_L 0.3000 
+skin 518 pelvis 0.7000 leg2_L 0.3000 
+skin 519 pelvis 0.7000 leg2_L 0.3000 
+skin 520 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 521 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 522 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 523 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 524 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 525 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 526 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 527 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 528 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 529 root 0.1000 pelvis 0.8100 leg_L 0.0900 
+skin 530 root 0.1000 pelvis 0.8100 leg_L 0.0900 
+skin 531 pelvis 0.9000 leg_L 0.1000 
+skin 532 pelvis 1.0000 
+skin 533 pelvis 1.0000 
+skin 534 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 535 root 0.3000 pelvis 0.6300 leg_L 0.0700 
+skin 536 root 0.2000 pelvis 0.5600 leg_L 0.2400 
+skin 537 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 538 root 0.2000 pelvis 0.5600 leg_L 0.2400 
+skin 539 leg_L 1.0000 
+skin 540 leg_L 1.0000 
+skin 541 leg_L 1.0000 
+skin 542 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 543 leg_L 1.0000 
+skin 544 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 545 leg_L 1.0000 
+skin 546 root 0.1000 pelvis 0.6300 leg_L 0.2700 
+skin 547 leg_L 1.0000 
+skin 548 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 549 leg_L 1.0000 
+skin 550 pelvis 0.7000 leg_L 0.3000 
+skin 551 leg_L 1.0000 
+skin 552 root 0.1000 pelvis 0.6300 leg_L 0.2700 
+skin 553 leg_L 1.0000 
+skin 554 pelvis 0.7000 leg_L 0.3000 
+skin 555 pelvis 0.7000 leg_L 0.3000 
+skin 556 leg_L 1.0000 
+skin 557 leg_L 1.0000 
+skin 558 root 0.2000 pelvis 0.5600 leg_L 0.2400 
+skin 559 leg_L 1.0000 
+skin 560 leg_L 1.0000 
+skin 561 leg_L 1.0000 
+skin 562 leg_L 1.0000 
+skin 563 leg_L 1.0000 
+skin 564 leg_L 1.0000 
+skin 565 leg_L 1.0000 
+skin 566 leg_L 1.0000 
+skin 567 leg_L 1.0000 
+skin 568 leg_L 1.0000 
+skin 569 leg_L 1.0000 
+skin 570 leg_L 1.0000 
+skin 571 leg_L 1.0000 
+skin 572 leg_L 1.0000 
+skin 573 leg_L 1.0000 
+skin 574 leg_L 1.0000 
+skin 575 leg_L 1.0000 
+skin 576 leg_L 1.0000 
+skin 577 leg_L 1.0000 
+skin 578 leg_L 1.0000 
+skin 579 leg_L 1.0000 
+skin 580 leg_L 1.0000 
+skin 581 leg_L 1.0000 
+skin 582 leg_L 1.0000 
+skin 583 leg_L 1.0000 
+skin 584 leg_L 1.0000 
+skin 585 leg_L 1.0000 
+skin 586 leg_L 1.0000 
+skin 587 leg_L 1.0000 
+skin 588 leg_L 1.0000 
+skin 589 leg_L 1.0000 
+skin 590 leg_L 1.0000 
+skin 591 leg_L 1.0000 
+skin 592 leg_L 1.0000 
+skin 593 leg_L 1.0000 
+skin 594 leg_L 1.0000 
+skin 595 leg_L 1.0000 
+skin 596 leg_L 1.0000 
+skin 597 leg_L 1.0000 
+skin 598 leg_L 1.0000 
+skin 599 leg_L 1.0000 
+skin 600 leg_L 1.0000 
+skin 601 leg_L 1.0000 
+skin 602 leg_L 1.0000 
+skin 603 leg_L 1.0000 
+skin 604 leg_L 1.0000 
+skin 605 leg_L 1.0000 
+skin 606 leg_L 1.0000 
+skin 607 leg_L 1.0000 
+skin 608 leg_L 1.0000 
+skin 609 leg_L 1.0000 
+skin 610 leg_L 1.0000 
+skin 611 leg_L 1.0000 
+skin 612 leg_L 1.0000 
+skin 613 leg_L 1.0000 
+skin 614 pelvis 0.7000 leg_L 0.3000 
+skin 615 pelvis 0.7000 leg_L 0.3000 
+skin 616 pelvis 0.7000 leg_L 0.3000 
+skin 617 root 0.1000 pelvis 0.6300 leg_L 0.2700 
+skin 618 root 0.1000 pelvis 0.6300 leg_L 0.2700 
+skin 619 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 620 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 621 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 622 root 0.3000 pelvis 0.4900 leg_L 0.2100 
+skin 623 root 0.2000 pelvis 0.5600 leg_L 0.2400 
+skin 624 pelvis 0.7000 leg_L 0.3000 
+skin 625 root 0.2000 pelvis 0.5600 leg_L 0.2400 
+skin 626 pelvis 0.9000 leg_L 0.1000 
+skin 627 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 628 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 629 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 630 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 631 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 632 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 633 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 634 spine2 0.5000 spine3 0.5000 
+skin 635 spine2 0.5000 spine3 0.5000 
+skin 636 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 637 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 638 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 639 spine2 0.5000 spine3 0.5000 
+skin 640 spine2 0.5000 spine3 0.5000 
+skin 641 spine2 0.5000 spine3 0.5000 
+skin 642 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 643 root 0.2500 spine2 0.7500 
+skin 644 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 645 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 646 root 0.1200 spine2 0.5400 spine3 0.3400 
+skin 647 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 648 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 649 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 650 root 0.2500 spine2 0.7500 
+skin 651 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 652 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 653 root 0.2500 spine2 0.7500 
+skin 654 root 0.4000 spine1 0.6000 
+skin 655 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 656 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 657 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 658 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 659 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 660 tedsBigBrother_jaw 0.6400 tedsBigBrother_mouthLower_L 0.1700 tedsBigBrother_mouthLower_R 0.1900 
+skin 661 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 662 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 663 head 0.6000 tedsBigBrother_mouthCorner_L 0.3500 tedsBigBrother_mouthLower_L 0.0500 
+skin 664 head 0.9000 tedsBigBrother_mouthCorner_L 0.1000 
+skin 665 head 0.5600 tedsBigBrother_mouthCorner_L 0.2200 tedsBigBrother_mouthLower_L 0.2200 
+skin 666 head 0.5500 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.2100 
+skin 667 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 668 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 669 head 1.0000 
+skin 670 head 0.6500 tedsBigBrother_mouthLower_L 0.3500 
+skin 671 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 672 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 673 head 0.5500 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.2100 
+skin 674 head 0.6500 tedsBigBrother_mouthLower_L 0.3500 
+skin 675 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 676 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 677 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 678 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 679 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 680 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 681 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 682 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 683 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 684 head 0.7000 tedsBigBrother_mouthCorner_L 0.3000 
+skin 685 head 0.6000 tedsBigBrother_mouthCorner_L 0.3500 tedsBigBrother_mouthLower_L 0.0500 
+skin 686 head 0.6900 tedsBigBrother_mouthCorner_L 0.1100 tedsBigBrother_mouthLower_L 0.2000 
+skin 687 head 0.5600 tedsBigBrother_mouthCorner_L 0.2200 tedsBigBrother_mouthLower_L 0.2200 
+skin 688 head 1.0000 
+skin 689 head 1.0000 
+skin 690 head 1.0000 
+skin 691 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 692 head 0.5600 tedsBigBrother_mouthCorner_L 0.2200 tedsBigBrother_mouthLower_L 0.2200 
+skin 693 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_L 0.3535 
+skin 694 head 1.0000 
+skin 695 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 696 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 697 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 698 head 0.3000 tedsBigBrother_jaw 0.7000 
+skin 699 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 700 head 1.0000 
+skin 701 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 702 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 703 head 1.0000 
+skin 704 head 1.0000 
+skin 705 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 706 head 0.3000 tedsBigBrother_jaw 0.7000 
+skin 707 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 708 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 709 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 710 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 711 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 712 spine1 0.6400 spine2 0.3200 spine3 0.0400 
+skin 713 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 714 spine1 0.4000 head 0.6000 
+skin 715 spine1 0.4000 head 0.6000 
+skin 716 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 717 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 718 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 719 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 720 spine2 0.5000 spine3 0.5000 
+skin 721 spine2 0.5000 spine3 0.5000 
+skin 722 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 723 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 724 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 725 root 0.1100 spine2 0.5500 spine3 0.3400 
+skin 726 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 727 root 0.1100 spine2 0.5500 spine3 0.3400 
+skin 728 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 729 spine2 0.5000 spine3 0.5000 
+skin 730 spine2 0.5000 spine3 0.5000 
+skin 731 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 732 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 733 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_R 0.2000 
+skin 734 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_R 0.2000 
+skin 735 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 736 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 737 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 738 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 739 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 740 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 741 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 742 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 743 root 0.4800 spine1 0.4800 head 0.0400 
+skin 744 root 0.4800 spine1 0.4800 head 0.0400 
+skin 745 root 0.6000 spine1 0.2300 pelvis 0.1700 
+skin 746 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 747 root 0.4800 spine1 0.4800 head 0.0400 
+skin 748 root 0.6000 spine1 0.2300 pelvis 0.1700 
+skin 749 root 0.4900 pelvis 0.5100 
+skin 750 root 0.4900 pelvis 0.5100 
+skin 751 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 752 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 753 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 754 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 755 root 0.1200 spine2 0.5400 spine3 0.3400 
+skin 756 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 757 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 758 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 759 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 760 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 761 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 762 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 763 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 764 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 765 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 766 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 767 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 768 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 769 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 770 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 771 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 772 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 773 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 774 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 775 spine1 0.4000 head 0.6000 
+skin 776 spine1 0.1000 head 0.9000 
+skin 777 spine1 0.4000 head 0.6000 
+skin 778 spine1 0.1000 head 0.9000 
+skin 779 spine1 0.1000 head 0.9000 
+skin 780 head 1.0000 
+skin 781 head 1.0000 
+skin 782 head 1.0000 
+skin 783 head 1.0000 
+skin 784 head 1.0000 
+skin 785 head 1.0000 
+skin 786 head 1.0000 
+skin 787 head 1.0000 
+skin 788 head 1.0000 
+skin 789 head 1.0000 
+skin 790 head 1.0000 
+skin 791 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 792 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 793 root 0.8300 spine1 0.1400 pelvis 0.0300 
+skin 794 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 795 root 0.1900 spine1 0.5100 head 0.3000 
+skin 796 head 1.0000 
+skin 797 root 0.1900 spine1 0.5100 head 0.3000 
+skin 798 root 0.1300 spine1 0.5700 head 0.3000 
+skin 799 head 1.0000 
+skin 800 head 1.0000 
+skin 801 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_R 0.2000 
+skin 802 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 803 tedsBigBrother_jaw 0.6000 tedsBigBrother_mouthLower_L 0.2000 tedsBigBrother_mouthLower_R 0.2000 
+skin 804 head 0.8000 tedsBigBrother_mouthLower_R 0.2000 
+skin 805 head 0.6500 tedsBigBrother_mouthLower_R 0.3500 
+skin 806 head 0.6500 tedsBigBrother_mouthLower_R 0.3500 
+skin 807 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 808 head 1.0000 
+skin 809 head 1.0000 
+skin 810 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 811 head 1.0000 
+skin 812 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 813 head 1.0000 
+skin 814 head 1.0000 
+skin 815 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 816 root 0.4300 spine1 0.5500 head 0.0200 
+skin 817 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 818 head 1.0000 
+skin 819 head 1.0000 
+skin 820 head 1.0000 
+skin 821 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 822 head 1.0000 
+skin 823 head 1.0000 
+skin 824 spine1 0.4040 head 0.5455 tedsBigBrother_jaw 0.0505 
+skin 825 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 826 root 0.2500 spine2 0.7500 
+skin 827 root 0.2500 spine2 0.7500 
+skin 828 root 0.0600 spine1 0.7200 spine2 0.2200 
+skin 829 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 830 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 831 spine1 0.1300 spine2 0.4500 spine3 0.4200 
+skin 832 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 833 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 834 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 835 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 836 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 837 root 0.4000 spine1 0.6000 
+skin 838 root 0.4300 spine1 0.5500 head 0.0200 
+skin 839 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 840 root 0.6000 spine1 0.2400 pelvis 0.1600 
+skin 841 root 0.4800 spine1 0.4800 head 0.0400 
+skin 842 head 1.0000 
+skin 843 spine1 0.4000 head 0.6000 
+skin 844 spine1 0.1000 head 0.9000 
+skin 845 spine1 0.6000 spine2 0.2700 spine3 0.1300 
+skin 846 root 0.1900 spine1 0.5100 head 0.3000 
+skin 847 root 0.0600 spine1 0.7200 spine2 0.2200 
+skin 848 root 0.4300 spine1 0.5500 head 0.0200 
+skin 849 head 0.2000 tedsBigBrother_jaw 0.8000 
+skin 850 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 851 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 852 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 853 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 854 head 1.0000 
+skin 855 head 0.7700 tedsBigBrother_mouthLower_L 0.1200 tedsBigBrother_mouthLower_R 0.1100 
+skin 856 head 1.0000 
+skin 857 head 1.0000 
+skin 858 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 859 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 860 head 1.0000 
+skin 861 head 1.0000 
+skin 862 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 863 head 1.0000 
+skin 864 head 1.0000 
+skin 865 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 866 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 867 head 1.0000 
+skin 868 head 1.0000 
+skin 869 head 1.0000 
+skin 870 head 1.0000 
+skin 871 head 1.0000 
+skin 872 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 873 head 1.0000 
+skin 874 head 1.0000 
+skin 875 head 1.0000 
+skin 876 head 1.0000 
+skin 877 head 1.0000 
+skin 878 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 879 head 1.0000 
+skin 880 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 881 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 882 head 1.0000 
+skin 883 head 1.0000 
+skin 884 head 1.0000 
+skin 885 head 1.0000 
+skin 886 head 1.0000 
+skin 887 head 1.0000 
+skin 888 head 1.0000 
+skin 889 head 1.0000 
+skin 890 head 1.0000 
+skin 891 head 1.0000 
+skin 892 head 1.0000 
+skin 893 head 1.0000 
+skin 894 head 1.0000 
+skin 895 head 1.0000 
+skin 896 head 1.0000 
+skin 897 head 1.0000 
+skin 898 head 1.0000 
+skin 899 head 1.0000 
+skin 900 head 1.0000 
+skin 901 head 1.0000 
+skin 902 head 1.0000 
+skin 903 head 1.0000 
+skin 904 head 1.0000 
+skin 905 head 1.0000 
+skin 906 head 1.0000 
+skin 907 head 1.0000 
+skin 908 head 1.0000 
+skin 909 head 1.0000 
+skin 910 head 1.0000 
+skin 911 head 1.0000 
+skin 912 head 1.0000 
+skin 913 head 1.0000 
+skin 914 head 1.0000 
+skin 915 head 1.0000 
+skin 916 head 1.0000 
+skin 917 head 1.0000 
+skin 918 head 1.0000 
+skin 919 head 1.0000 
+skin 920 head 1.0000 
+skin 921 head 1.0000 
+skin 922 head 1.0000 
+skin 923 head 1.0000 
+skin 924 head 1.0000 
+skin 925 head 1.0000 
+skin 926 head 1.0000 
+skin 927 head 1.0000 
+skin 928 head 1.0000 
+skin 929 head 1.0000 
+skin 930 head 1.0000 
+skin 931 head 1.0000 
+skin 932 head 1.0000 
+skin 933 head 1.0000 
+skin 934 head 1.0000 
+skin 935 head 1.0000 
+skin 936 head 1.0000 
+skin 937 head 1.0000 
+skin 938 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 939 head 1.0000 
+skin 940 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 941 head 1.0000 
+skin 942 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 943 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 944 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 945 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 946 root 0.4000 pelvis 0.4500 spine2 0.1500 
+skin 947 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 948 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 949 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 950 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 951 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 952 spine1 0.0300 spine2 0.5000 spine3 0.4700 
+skin 953 spine1 0.4000 spine2 0.4100 spine3 0.1900 
+skin 954 spine1 0.1000 spine2 0.8700 spine3 0.0300 
+skin 955 spine2 0.5000 spine3 0.5000 
+skin 956 spine2 0.5000 spine3 0.5000 
+skin 957 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 958 spine2 0.5000 spine3 0.5000 
+skin 959 spine2 0.5000 spine3 0.5000 
+skin 960 spine2 0.5000 spine3 0.5000 
+skin 961 spine1 0.0099 spine2 0.4950 spine3 0.4950 
+skin 962 root 0.2500 spine2 0.7500 
+skin 963 root 0.3000 spine2 0.6500 spine3 0.0500 
+skin 964 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 965 root 0.1200 spine2 0.5400 spine3 0.3400 
+skin 966 root 0.3000 spine2 0.5900 spine3 0.1100 
+skin 967 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 968 root 0.6000 spine1 0.2400 spine2 0.1600 
+skin 969 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 970 root 0.2500 spine2 0.7500 
+skin 971 root 0.1000 spine2 0.6000 spine3 0.3000 
+skin 972 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 973 root 0.4000 spine1 0.6000 
+skin 974 root 0.2500 spine2 0.7500 
+skin 975 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 976 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 977 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 978 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 979 head 0.6500 tedsBigBrother_mouthLower_R 0.3500 
+skin 980 head 1.0000 
+skin 981 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 982 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 983 head 1.0000 
+skin 984 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 985 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 986 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 987 head 1.0000 
+skin 988 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 989 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 990 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 991 head 1.0000 
+skin 992 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 993 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 994 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 995 spine1 0.6300 spine2 0.3200 spine3 0.0500 
+skin 996 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 997 spine1 0.4000 head 0.6000 
+skin 998 spine1 0.4000 head 0.6000 
+skin 999 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 1000 spine1 0.6100 spine2 0.0900 head 0.3000 
+skin 1001 spine1 0.7600 spine2 0.2000 head 0.0400 
+skin 1002 spine1 0.1500 spine2 0.4900 spine3 0.3600 
+skin 1003 spine2 0.5000 spine3 0.5000 
+skin 1004 spine2 0.5000 spine3 0.5000 
+skin 1005 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 1006 spine1 0.0101 spine2 0.4949 spine3 0.4949 
+skin 1007 spine1 0.0200 spine2 0.4900 spine3 0.4900 
+skin 1008 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1009 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1010 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1011 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1012 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1013 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1014 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1015 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1016 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1017 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1018 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1019 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1020 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1021 head 0.9000 tedsBigBrother_antenna1_L 0.1000 
+skin 1022 leg2_L 0.1000 knee2_L 0.9000 
+skin 1023 knee2_L 0.3500 ankle2_L 0.6500 
+skin 1024 ankle2_L 1.0000 
+skin 1025 leg2_L 0.1000 knee2_L 0.9000 
+skin 1026 ankle2_L 1.0000 
+skin 1027 leg2_L 0.1000 knee2_L 0.9000 
+skin 1028 knee2_L 0.3500 ankle2_L 0.6500 
+skin 1029 leg2_L 0.1000 knee2_L 0.9000 
+skin 1030 leg2_L 0.1000 knee2_L 0.9000 
+skin 1031 knee2_L 0.3500 ankle2_L 0.6500 
+skin 1032 leg2_L 0.1000 knee2_L 0.9000 
+skin 1033 knee2_L 0.3500 ankle2_L 0.6500 
+skin 1034 knee_L 1.0000 
+skin 1035 knee_L 1.0000 
+skin 1036 knee_L 1.0000 
+skin 1037 knee_L 1.0000 
+skin 1038 knee_L 1.0000 
+skin 1039 knee_L 1.0000 
+skin 1040 knee_L 1.0000 
+skin 1041 knee_L 1.0000 
+skin 1042 knee_L 1.0000 
+skin 1043 knee_L 1.0000 
+skin 1044 knee_L 1.0000 
+skin 1045 knee_L 1.0000 
+skin 1046 knee_L 1.0000 
+skin 1047 knee_L 1.0000 
+skin 1048 knee_L 1.0000 
+skin 1049 knee_L 1.0000 
+skin 1050 knee_L 1.0000 
+skin 1051 knee_L 1.0000 
+skin 1052 knee_L 1.0000 
+skin 1053 knee_L 1.0000 
+skin 1054 knee_L 1.0000 
+skin 1055 knee_L 1.0000 
+skin 1056 knee_L 1.0000 
+skin 1057 knee_L 1.0000 
+skin 1058 knee_L 1.0000 
+skin 1059 knee_L 1.0000 
+skin 1060 knee_L 1.0000 
+skin 1061 knee_L 1.0000 
+skin 1062 knee_L 1.0000 
+skin 1063 knee_L 1.0000 
+skin 1064 knee_L 1.0000 
+skin 1065 leg_L 1.0000 
+skin 1066 knee_L 1.0000 
+skin 1067 knee_L 1.0000 
+skin 1068 knee_L 1.0000 
+skin 1069 leg_L 1.0000 
+skin 1070 knee_L 1.0000 
+skin 1071 knee_L 1.0000 
+skin 1072 knee_L 1.0000 
+skin 1073 knee_L 1.0000 
+skin 1074 knee_L 1.0000 
+skin 1075 knee_L 1.0000 
+skin 1076 knee_L 1.0000 
+skin 1077 knee_L 1.0000 
+skin 1078 knee_L 1.0000 
+skin 1079 knee_L 1.0000 
+skin 1080 knee_L 1.0000 
+skin 1081 knee_L 1.0000 
+skin 1082 knee_L 1.0000 
+skin 1083 knee_L 1.0000 
+skin 1084 knee_L 1.0000 
+skin 1085 knee_L 1.0000 
+skin 1086 knee_L 1.0000 
+skin 1087 knee_L 1.0000 
+skin 1088 knee_L 1.0000 
+skin 1089 knee_L 1.0000 
+skin 1090 knee_L 1.0000 
+skin 1091 knee_L 1.0000 
+skin 1092 knee_L 1.0000 
+skin 1093 knee_L 1.0000 
+skin 1094 knee_L 0.3500 ankle_L 0.6500 
+skin 1095 knee_L 1.0000 
+skin 1096 ankle_L 1.0000 
+skin 1097 knee_L 0.3500 ankle_L 0.6500 
+skin 1098 knee_L 1.0000 
+skin 1099 knee_L 1.0000 
+skin 1100 ankle_L 1.0000 
+skin 1101 knee_L 0.3500 ankle_L 0.6500 
+skin 1102 knee_L 1.0000 
+skin 1103 knee_L 1.0000 
+skin 1104 knee_L 1.0000 
+skin 1105 knee_L 0.3500 ankle_L 0.6500 
+skin 1106 knee_L 1.0000 
+skin 1107 ankle_L 1.0000 
+skin 1108 knee_L 1.0000 
+skin 1109 knee_L 0.3500 ankle_L 0.6500 
+skin 1110 knee_L 1.0000 
+skin 1111 ankle_L 1.0000 
+skin 1112 knee_L 1.0000 
+skin 1113 knee_L 0.3500 ankle_L 0.6500 
+skin 1114 knee_L 1.0000 
+skin 1115 knee_L 0.3500 ankle_L 0.6500 
+skin 1116 knee_L 0.3500 ankle_L 0.6500 
+skin 1117 knee_L 1.0000 
+skin 1118 leg_L 1.0000 
+skin 1119 knee_L 1.0000 
+skin 1120 leg_L 1.0000 
+skin 1121 leg_L 1.0000 
+skin 1122 knee_L 1.0000 
+skin 1123 knee_L 1.0000 
+skin 1124 knee_L 1.0000 
+skin 1125 knee_L 1.0000 
+skin 1126 knee_L 1.0000 
+skin 1127 knee_L 1.0000 
+skin 1128 knee_L 1.0000 
+skin 1129 knee_L 1.0000 
+skin 1130 knee_L 1.0000 
+skin 1131 knee_L 1.0000 
+skin 1132 knee_L 1.0000 
+skin 1133 knee_L 1.0000 
+skin 1134 knee_L 1.0000 
+skin 1135 knee_L 1.0000 
+skin 1136 knee_L 1.0000 
+skin 1137 knee_L 1.0000 
+skin 1138 knee_L 1.0000 
+skin 1139 knee_L 1.0000 
+skin 1140 knee_L 1.0000 
+skin 1141 knee_L 1.0000 
+skin 1142 knee_L 1.0000 
+skin 1143 knee_L 1.0000 
+skin 1144 knee_L 1.0000 
+skin 1145 knee_L 1.0000 
+skin 1146 knee_L 1.0000 
+skin 1147 knee_L 1.0000 
+skin 1148 knee_L 1.0000 
+skin 1149 knee_L 1.0000 
+skin 1150 knee_L 1.0000 
+skin 1151 knee_L 1.0000 
+skin 1152 knee_L 1.0000 
+skin 1153 knee_L 1.0000 
+skin 1154 knee_L 1.0000 
+skin 1155 knee_L 1.0000 
+skin 1156 knee_L 1.0000 
+skin 1157 knee_L 1.0000 
+skin 1158 knee_L 1.0000 
+skin 1159 knee_L 1.0000 
+skin 1160 knee_L 1.0000 
+skin 1161 knee_L 1.0000 
+skin 1162 knee_L 1.0000 
+skin 1163 knee_L 1.0000 
+skin 1164 knee_L 1.0000 
+skin 1165 knee_L 1.0000 
+skin 1166 knee_L 1.0000 
+skin 1167 knee_L 1.0000 
+skin 1168 knee_L 1.0000 
+skin 1169 knee_L 1.0000 
+skin 1170 knee_L 1.0000 
+skin 1171 knee_L 1.0000 
+skin 1172 knee_L 1.0000 
+skin 1173 knee_L 1.0000 
+skin 1174 knee_L 1.0000 
+skin 1175 knee_L 1.0000 
+skin 1176 knee_L 1.0000 
+skin 1177 knee_L 1.0000 
+skin 1178 knee_L 1.0000 
+skin 1179 knee_L 1.0000 
+skin 1180 knee_L 1.0000 
+skin 1181 ankle_L 1.0000 
+skin 1182 ankle_L 1.0000 
+skin 1183 ankle_L 1.0000 
+skin 1184 ankle_L 1.0000 
+skin 1185 ankle_L 1.0000 
+skin 1186 ankle_L 1.0000 
+skin 1187 ankle_L 1.0000 
+skin 1188 ankle_L 1.0000 
+skin 1189 ankle_L 1.0000 
+skin 1190 ankle_L 1.0000 
+skin 1191 ankle_L 1.0000 
+skin 1192 ankle_L 1.0000 
+skin 1193 ankle_L 1.0000 
+skin 1194 ankle_L 1.0000 
+skin 1195 ankle_L 1.0000 
+skin 1196 ankle_L 1.0000 
+skin 1197 ankle_L 1.0000 
+skin 1198 ankle_L 1.0000 
+skin 1199 ankle_L 1.0000 
+skin 1200 ankle_L 1.0000 
+skin 1201 ankle_L 1.0000 
+skin 1202 ankle_L 1.0000 
+skin 1203 ankle_L 1.0000 
+skin 1204 ankle_L 1.0000 
+skin 1205 ankle_L 1.0000 
+skin 1206 ankle_L 1.0000 
+skin 1207 ankle_L 1.0000 
+skin 1208 ankle_L 1.0000 
+skin 1209 ankle_L 1.0000 
+skin 1210 ankle_L 1.0000 
+skin 1211 ankle_L 1.0000 
+skin 1212 ankle_L 1.0000 
+skin 1213 ankle_L 1.0000 
+skin 1214 ankle_L 1.0000 
+skin 1215 ankle_L 1.0000 
+skin 1216 ankle_L 1.0000 
+skin 1217 ankle_L 1.0000 
+skin 1218 knee_L 0.3500 ankle_L 0.6500 
+skin 1219 ankle_L 1.0000 
+skin 1220 ankle_L 1.0000 
+skin 1221 ankle_L 1.0000 
+skin 1222 ankle_L 1.0000 
+skin 1223 knee_L 0.3500 ankle_L 0.6500 
+skin 1224 ankle_L 1.0000 
+skin 1225 ankle_L 1.0000 
+skin 1226 ankle_L 1.0000 
+skin 1227 ankle_L 1.0000 
+skin 1228 ankle_L 1.0000 
+skin 1229 ankle_L 1.0000 
+skin 1230 ankle_L 1.0000 
+skin 1231 ankle_L 1.0000 
+skin 1232 ankle_L 1.0000 
+skin 1233 ankle_L 1.0000 
+skin 1234 ankle_L 1.0000 
+skin 1235 ankle_L 1.0000 
+skin 1236 ankle_L 1.0000 
+skin 1237 ankle_L 1.0000 
+skin 1238 ankle_L 1.0000 
+skin 1239 ankle_L 1.0000 
+skin 1240 ankle_L 1.0000 
+skin 1241 ankle_L 1.0000 
+skin 1242 ankle_L 1.0000 
+skin 1243 ankle_L 1.0000 
+skin 1244 ankle_L 1.0000 
+skin 1245 ankle_L 1.0000 
+skin 1246 ankle_L 1.0000 
+skin 1247 ankle_L 1.0000 
+skin 1248 ankle_L 1.0000 
+skin 1249 ankle_L 1.0000 
+skin 1250 ankle_L 1.0000 
+skin 1251 ankle_L 1.0000 
+skin 1252 ankle_L 1.0000 
+skin 1253 ankle_L 1.0000 
+skin 1254 ankle_L 1.0000 
+skin 1255 ankle_L 1.0000 
+skin 1256 ankle_L 1.0000 
+skin 1257 ankle_L 1.0000 
+skin 1258 ankle_L 1.0000 
+skin 1259 ankle_L 1.0000 
+skin 1260 root 0.1000 pelvis 0.8100 leg2_R 0.0900 
+skin 1261 root 0.1000 pelvis 0.8100 leg2_R 0.0900 
+skin 1262 root 0.4900 pelvis 0.5100 
+skin 1263 pelvis 0.9000 leg2_R 0.1000 
+skin 1264 pelvis 0.9000 leg2_R 0.1000 
+skin 1265 root 0.1000 pelvis 0.8100 leg2_R 0.0900 
+skin 1266 pelvis 0.9000 leg_R 0.1000 
+skin 1267 pelvis 0.9000 leg_R 0.1000 
+skin 1268 pelvis 1.0000 
+skin 1269 pelvis 1.0000 
+skin 1270 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1271 root 0.3000 pelvis 0.7000 
+skin 1272 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1273 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1274 head 1.0000 
+skin 1275 tedsBigBrother_jaw 0.6200 tedsBigBrother_mouthCorner_R 0.2100 tedsBigBrother_mouthLower_R 0.1700 
+skin 1276 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 1277 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 1278 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 1279 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1280 head 0.0800 tedsBigBrother_jaw 0.7200 tedsBigBrother_mouthLower_R 0.2000 
+skin 1281 head 0.5500 tedsBigBrother_mouthCorner_R 0.3300 tedsBigBrother_mouthLower_R 0.1200 
+skin 1282 head 0.6800 tedsBigBrother_cheek_R 0.0300 tedsBigBrother_mouthCorner_R 0.2900 
+skin 1283 head 0.5500 tedsBigBrother_mouthCorner_R 0.3300 tedsBigBrother_mouthLower_R 0.1200 
+skin 1284 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1285 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_R 0.3000 
+skin 1286 head 0.6800 tedsBigBrother_cheek_R 0.0300 tedsBigBrother_mouthCorner_R 0.2900 
+skin 1287 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1288 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_R 0.3000 
+skin 1289 head 0.6400 tedsBigBrother_mouthCorner_R 0.2000 tedsBigBrother_mouthLower_R 0.1600 
+skin 1290 head 0.5500 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.2100 
+skin 1291 head 0.6400 tedsBigBrother_mouthCorner_R 0.2000 tedsBigBrother_mouthLower_R 0.1600 
+skin 1292 head 0.6500 tedsBigBrother_mouthLower_R 0.3500 
+skin 1293 head 0.8000 tedsBigBrother_cheek_R 0.2000 
+skin 1294 head 0.7200 tedsBigBrother_cheek_R 0.1800 tedsBigBrother_mouthCorner_R 0.1000 
+skin 1295 head 0.7200 tedsBigBrother_cheek_R 0.1800 tedsBigBrother_mouthCorner_R 0.1000 
+skin 1296 head 0.9000 tedsBigBrother_cheek_R 0.1000 
+skin 1297 head 0.7200 tedsBigBrother_cheek_R 0.1800 tedsBigBrother_mouthCorner_R 0.1000 
+skin 1298 head 0.7200 tedsBigBrother_cheek_R 0.1800 tedsBigBrother_mouthCorner_R 0.1000 
+skin 1299 tedsBigBrother_jaw 0.6200 tedsBigBrother_mouthCorner_R 0.2100 tedsBigBrother_mouthLower_R 0.1700 
+skin 1300 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_R 0.3000 
+skin 1301 head 0.8000 tedsBigBrother_cheek_R 0.2000 
+skin 1302 head 0.4000 tedsBigBrother_jaw 0.6000 
+skin 1303 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1304 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1305 pelvis 0.9000 leg2_R 0.1000 
+skin 1306 pelvis 0.9000 leg2_R 0.1000 
+skin 1307 pelvis 0.9000 leg2_R 0.1000 
+skin 1308 pelvis 1.0000 
+skin 1309 pelvis 1.0000 
+skin 1310 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1311 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1312 head 1.0000 
+skin 1313 head 0.8000 tedsBigBrother_mouthLower_R 0.2000 
+skin 1314 head 0.7200 tedsBigBrother_cheek_R 0.1800 tedsBigBrother_mouthCorner_R 0.1000 
+skin 1315 head 0.3500 tedsBigBrother_jaw 0.3500 tedsBigBrother_mouthCorner_R 0.3000 
+skin 1316 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1317 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1318 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 1319 head 0.8000 tedsBigBrother_cheek_R 0.2000 
+skin 1320 head 0.9000 tedsBigBrother_cheek_R 0.1000 
+skin 1321 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1322 head 1.0000 
+skin 1323 head 0.9000 tedsBigBrother_cheek_R 0.1000 
+skin 1324 head 1.0000 
+skin 1325 head 0.6800 tedsBigBrother_cheek_R 0.0300 tedsBigBrother_mouthCorner_R 0.2900 
+skin 1326 head 0.6400 tedsBigBrother_mouthCorner_R 0.2000 tedsBigBrother_mouthLower_R 0.1600 
+skin 1327 head 0.5500 tedsBigBrother_mouthCorner_R 0.3300 tedsBigBrother_mouthLower_R 0.1200 
+skin 1328 head 0.5500 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.2100 
+skin 1329 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 1330 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1331 pelvis 0.9000 leg2_R 0.1000 
+skin 1332 pelvis 0.9000 leg2_R 0.1000 
+skin 1333 pelvis 0.9000 leg2_R 0.1000 
+skin 1334 pelvis 1.0000 
+skin 1335 pelvis 0.9000 leg2_R 0.1000 
+skin 1336 pelvis 1.0000 
+skin 1337 pelvis 1.0000 
+skin 1338 pelvis 0.9000 leg2_R 0.1000 
+skin 1339 pelvis 0.9000 leg2_R 0.1000 
+skin 1340 pelvis 0.7000 leg2_R 0.3000 
+skin 1341 leg2_R 1.0000 
+skin 1342 pelvis 0.7000 leg2_R 0.3000 
+skin 1343 pelvis 0.7000 leg2_R 0.3000 
+skin 1344 leg2_R 1.0000 
+skin 1345 leg2_R 1.0000 
+skin 1346 pelvis 0.7000 leg2_R 0.3000 
+skin 1347 pelvis 0.7000 leg2_R 0.3000 
+skin 1348 leg2_R 1.0000 
+skin 1349 leg2_R 1.0000 
+skin 1350 pelvis 0.7000 leg2_R 0.3000 
+skin 1351 pelvis 0.7000 leg2_R 0.3000 
+skin 1352 leg2_R 1.0000 
+skin 1353 leg2_R 1.0000 
+skin 1354 pelvis 0.7000 leg2_R 0.3000 
+skin 1355 pelvis 0.7000 leg2_R 0.3000 
+skin 1356 leg2_R 1.0000 
+skin 1357 leg2_R 1.0000 
+skin 1358 pelvis 0.7000 leg2_R 0.3000 
+skin 1359 pelvis 0.7000 leg2_R 0.3000 
+skin 1360 leg2_R 1.0000 
+skin 1361 leg2_R 1.0000 
+skin 1362 leg2_R 1.0000 
+skin 1363 pelvis 0.7000 leg2_R 0.3000 
+skin 1364 leg2_R 0.5500 knee2_R 0.4500 
+skin 1365 leg2_R 0.5000 knee2_R 0.5000 
+skin 1366 leg2_R 0.0500 knee2_R 0.9500 
+skin 1367 leg2_R 0.0500 knee2_R 0.9500 
+skin 1368 leg2_R 0.0500 knee2_R 0.9500 
+skin 1369 leg2_R 0.5000 knee2_R 0.5000 
+skin 1370 leg2_R 0.5500 knee2_R 0.4500 
+skin 1371 leg2_R 0.5500 knee2_R 0.4500 
+skin 1372 leg2_R 0.0500 knee2_R 0.9500 
+skin 1373 leg2_R 0.0500 knee2_R 0.9500 
+skin 1374 leg2_R 0.0500 knee2_R 0.9500 
+skin 1375 leg2_R 0.0500 knee2_R 0.9500 
+skin 1376 leg2_R 0.5000 knee2_R 0.5000 
+skin 1377 leg2_R 0.5000 knee2_R 0.5000 
+skin 1378 leg2_R 0.1000 knee2_R 0.9000 
+skin 1379 leg2_R 0.0500 knee2_R 0.9500 
+skin 1380 leg2_R 0.5000 knee2_R 0.5000 
+skin 1381 leg2_R 0.5000 knee2_R 0.5000 
+skin 1382 leg2_R 0.5000 knee2_R 0.5000 
+skin 1383 leg2_R 0.5000 knee2_R 0.5000 
+skin 1384 leg2_R 0.1000 knee2_R 0.9000 
+skin 1385 leg2_R 0.1000 knee2_R 0.9000 
+skin 1386 leg2_R 0.0500 knee2_R 0.9500 
+skin 1387 leg2_R 0.5000 knee2_R 0.5000 
+skin 1388 ankle2_R 1.0000 
+skin 1389 ankle2_R 1.0000 
+skin 1390 ankle2_R 1.0000 
+skin 1391 ankle2_R 1.0000 
+skin 1392 ankle2_R 1.0000 
+skin 1393 ankle2_R 1.0000 
+skin 1394 ankle2_R 1.0000 
+skin 1395 ankle2_R 1.0000 
+skin 1396 ankle2_R 1.0000 
+skin 1397 ankle2_R 1.0000 
+skin 1398 ankle2_R 1.0000 
+skin 1399 ankle2_R 1.0000 
+skin 1400 ankle2_R 1.0000 
+skin 1401 ankle2_R 1.0000 
+skin 1402 ankle2_R 1.0000 
+skin 1403 ankle2_R 1.0000 
+skin 1404 ankle2_R 1.0000 
+skin 1405 ankle2_R 1.0000 
+skin 1406 ankle2_R 1.0000 
+skin 1407 ankle2_R 1.0000 
+skin 1408 ankle2_R 1.0000 
+skin 1409 ankle2_R 1.0000 
+skin 1410 ankle2_R 1.0000 
+skin 1411 ankle2_R 1.0000 
+skin 1412 ankle2_R 1.0000 
+skin 1413 ankle2_R 1.0000 
+skin 1414 ankle2_R 1.0000 
+skin 1415 ankle2_R 1.0000 
+skin 1416 ankle2_R 1.0000 
+skin 1417 ankle2_R 1.0000 
+skin 1418 ankle2_R 1.0000 
+skin 1419 ankle2_R 1.0000 
+skin 1420 ankle2_R 1.0000 
+skin 1421 ankle2_R 1.0000 
+skin 1422 ankle2_R 1.0000 
+skin 1423 ankle2_R 1.0000 
+skin 1424 ankle2_R 1.0000 
+skin 1425 ankle2_R 1.0000 
+skin 1426 ankle2_R 1.0000 
+skin 1427 ankle2_R 1.0000 
+skin 1428 ankle2_R 1.0000 
+skin 1429 ankle2_R 1.0000 
+skin 1430 ankle2_R 1.0000 
+skin 1431 ankle2_R 1.0000 
+skin 1432 ankle2_R 1.0000 
+skin 1433 ankle2_R 1.0000 
+skin 1434 ankle2_R 1.0000 
+skin 1435 ankle2_R 1.0000 
+skin 1436 ankle2_R 1.0000 
+skin 1437 ankle2_R 1.0000 
+skin 1438 ankle2_R 1.0000 
+skin 1439 ankle2_R 1.0000 
+skin 1440 ankle2_R 1.0000 
+skin 1441 ankle2_R 1.0000 
+skin 1442 ankle2_R 1.0000 
+skin 1443 ankle2_R 1.0000 
+skin 1444 ankle2_R 1.0000 
+skin 1445 ankle2_R 1.0000 
+skin 1446 ankle2_R 1.0000 
+skin 1447 ankle2_R 1.0000 
+skin 1448 ankle2_R 1.0000 
+skin 1449 ankle2_R 1.0000 
+skin 1450 ankle2_R 1.0000 
+skin 1451 ankle2_R 1.0000 
+skin 1452 ankle2_R 1.0000 
+skin 1453 ankle2_R 1.0000 
+skin 1454 ankle2_R 1.0000 
+skin 1455 ankle2_R 1.0000 
+skin 1456 ankle2_R 1.0000 
+skin 1457 ankle2_R 1.0000 
+skin 1458 ankle2_R 1.0000 
+skin 1459 ankle2_R 1.0000 
+skin 1460 ankle2_R 1.0000 
+skin 1461 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1462 ankle2_R 1.0000 
+skin 1463 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1464 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1465 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1466 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1467 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1468 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1469 ankle2_R 1.0000 
+skin 1470 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1471 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1472 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1473 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1474 ankle2_R 1.0000 
+skin 1475 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1476 ankle2_R 1.0000 
+skin 1477 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1478 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1479 ankle2_R 1.0000 
+skin 1480 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1481 leg2_R 0.8000 knee2_R 0.2000 
+skin 1482 leg2_R 0.9500 knee2_R 0.0500 
+skin 1483 leg2_R 0.8000 knee2_R 0.2000 
+skin 1484 leg2_R 0.5000 knee2_R 0.5000 
+skin 1485 leg2_R 0.8000 knee2_R 0.2000 
+skin 1486 leg2_R 0.8000 knee2_R 0.2000 
+skin 1487 leg2_R 0.5500 knee2_R 0.4500 
+skin 1488 leg2_R 0.8000 knee2_R 0.2000 
+skin 1489 leg2_R 0.9500 knee2_R 0.0500 
+skin 1490 leg2_R 0.5000 knee2_R 0.5000 
+skin 1491 leg2_R 0.9500 knee2_R 0.0500 
+skin 1492 leg2_R 0.8000 knee2_R 0.2000 
+skin 1493 leg2_R 0.5000 knee2_R 0.5000 
+skin 1494 leg2_R 0.8000 knee2_R 0.2000 
+skin 1495 leg2_R 0.8000 knee2_R 0.2000 
+skin 1496 leg2_R 0.5000 knee2_R 0.5000 
+skin 1497 leg2_R 0.9500 knee2_R 0.0500 
+skin 1498 leg2_R 0.5000 knee2_R 0.5000 
+skin 1499 leg2_R 1.0000 
+skin 1500 leg2_R 0.9500 knee2_R 0.0500 
+skin 1501 leg2_R 1.0000 
+skin 1502 leg2_R 0.9500 knee2_R 0.0500 
+skin 1503 leg2_R 1.0000 
+skin 1504 leg2_R 0.9500 knee2_R 0.0500 
+skin 1505 leg2_R 1.0000 
+skin 1506 leg2_R 0.8000 knee2_R 0.2000 
+skin 1507 leg2_R 1.0000 
+skin 1508 leg2_R 0.8000 knee2_R 0.2000 
+skin 1509 leg2_R 1.0000 
+skin 1510 leg2_R 0.8000 knee2_R 0.2000 
+skin 1511 pelvis 0.9000 leg2_R 0.1000 
+skin 1512 pelvis 0.7000 leg2_R 0.3000 
+skin 1513 pelvis 0.7000 leg2_R 0.3000 
+skin 1514 pelvis 0.7000 leg2_R 0.3000 
+skin 1515 pelvis 0.7000 leg2_R 0.3000 
+skin 1516 pelvis 0.7000 leg2_R 0.3000 
+skin 1517 pelvis 0.7000 leg2_R 0.3000 
+skin 1518 pelvis 0.7000 leg2_R 0.3000 
+skin 1519 pelvis 0.7000 leg2_R 0.3000 
+skin 1520 pelvis 0.7000 leg2_R 0.3000 
+skin 1521 pelvis 0.7000 leg2_R 0.3000 
+skin 1522 pelvis 0.7000 leg2_R 0.3000 
+skin 1523 pelvis 0.7000 leg2_R 0.3000 
+skin 1524 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1525 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1526 root 0.4600 pelvis 0.4900 spine2 0.0500 
+skin 1527 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1528 root 0.4700 pelvis 0.3800 spine2 0.1500 
+skin 1529 root 0.1000 pelvis 0.8100 leg_R 0.0900 
+skin 1530 pelvis 0.9000 leg_R 0.1000 
+skin 1531 root 0.1000 pelvis 0.8100 leg_R 0.0900 
+skin 1532 pelvis 1.0000 
+skin 1533 pelvis 1.0000 
+skin 1534 root 0.6000 spine1 0.0200 pelvis 0.3800 
+skin 1535 root 0.3000 pelvis 0.6300 leg_R 0.0700 
+skin 1536 root 0.2000 pelvis 0.5600 leg_R 0.2400 
+skin 1537 leg_R 1.0000 
+skin 1538 root 0.2000 pelvis 0.5600 leg_R 0.2400 
+skin 1539 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1540 leg_R 1.0000 
+skin 1541 leg_R 1.0000 
+skin 1542 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1543 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1544 leg_R 1.0000 
+skin 1545 leg_R 1.0000 
+skin 1546 root 0.1000 pelvis 0.6300 leg_R 0.2700 
+skin 1547 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1548 leg_R 1.0000 
+skin 1549 leg_R 1.0000 
+skin 1550 pelvis 0.7000 leg_R 0.3000 
+skin 1551 root 0.1000 pelvis 0.6300 leg_R 0.2700 
+skin 1552 leg_R 1.0000 
+skin 1553 leg_R 1.0000 
+skin 1554 pelvis 0.7000 leg_R 0.3000 
+skin 1555 pelvis 0.7000 leg_R 0.3000 
+skin 1556 leg_R 1.0000 
+skin 1557 leg_R 1.0000 
+skin 1558 root 0.2000 pelvis 0.5600 leg_R 0.2400 
+skin 1559 leg_R 1.0000 
+skin 1560 leg_R 1.0000 
+skin 1561 leg_R 1.0000 
+skin 1562 leg_R 1.0000 
+skin 1563 leg_R 1.0000 
+skin 1564 leg_R 1.0000 
+skin 1565 leg_R 1.0000 
+skin 1566 leg_R 1.0000 
+skin 1567 leg_R 1.0000 
+skin 1568 leg_R 1.0000 
+skin 1569 leg_R 1.0000 
+skin 1570 leg_R 1.0000 
+skin 1571 leg_R 1.0000 
+skin 1572 leg_R 1.0000 
+skin 1573 leg_R 1.0000 
+skin 1574 leg_R 1.0000 
+skin 1575 leg_R 1.0000 
+skin 1576 leg_R 1.0000 
+skin 1577 leg_R 1.0000 
+skin 1578 leg_R 1.0000 
+skin 1579 leg_R 1.0000 
+skin 1580 leg_R 1.0000 
+skin 1581 leg_R 1.0000 
+skin 1582 leg_R 1.0000 
+skin 1583 leg_R 1.0000 
+skin 1584 leg_R 1.0000 
+skin 1585 leg_R 1.0000 
+skin 1586 leg_R 1.0000 
+skin 1587 leg_R 1.0000 
+skin 1588 leg_R 1.0000 
+skin 1589 leg_R 1.0000 
+skin 1590 leg_R 1.0000 
+skin 1591 leg_R 1.0000 
+skin 1592 leg_R 1.0000 
+skin 1593 leg_R 1.0000 
+skin 1594 leg_R 1.0000 
+skin 1595 leg_R 1.0000 
+skin 1596 leg_R 1.0000 
+skin 1597 leg_R 1.0000 
+skin 1598 leg_R 1.0000 
+skin 1599 leg_R 1.0000 
+skin 1600 leg_R 1.0000 
+skin 1601 leg_R 1.0000 
+skin 1602 leg_R 1.0000 
+skin 1603 leg_R 1.0000 
+skin 1604 leg_R 1.0000 
+skin 1605 leg_R 1.0000 
+skin 1606 leg_R 1.0000 
+skin 1607 leg_R 1.0000 
+skin 1608 leg_R 1.0000 
+skin 1609 leg_R 1.0000 
+skin 1610 leg_R 1.0000 
+skin 1611 leg_R 1.0000 
+skin 1612 leg_R 1.0000 
+skin 1613 leg_R 1.0000 
+skin 1614 pelvis 0.7000 leg_R 0.3000 
+skin 1615 pelvis 0.7000 leg_R 0.3000 
+skin 1616 pelvis 0.7000 leg_R 0.3000 
+skin 1617 root 0.1000 pelvis 0.6300 leg_R 0.2700 
+skin 1618 root 0.1000 pelvis 0.6300 leg_R 0.2700 
+skin 1619 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1620 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1621 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1622 root 0.3000 pelvis 0.4900 leg_R 0.2100 
+skin 1623 root 0.2000 pelvis 0.5600 leg_R 0.2400 
+skin 1624 pelvis 0.7000 leg_R 0.3000 
+skin 1625 root 0.2000 pelvis 0.5600 leg_R 0.2400 
+skin 1626 pelvis 0.9000 leg_R 0.1000 
+skin 1627 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 1628 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1629 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1630 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1631 head 0.6000 tedsBigBrother_mouthCorner_R 0.3500 tedsBigBrother_mouthLower_R 0.0500 
+skin 1632 head 0.5600 tedsBigBrother_mouthCorner_R 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 1633 head 1.0000 
+skin 1634 head 0.5500 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.2100 
+skin 1635 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 1636 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 1637 head 0.5500 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.2100 
+skin 1638 head 0.6500 tedsBigBrother_mouthLower_R 0.3500 
+skin 1639 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1640 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1641 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1642 head 0.7000 tedsBigBrother_mouthCorner_R 0.3000 
+skin 1643 head 0.6900 tedsBigBrother_mouthCorner_R 0.1100 tedsBigBrother_mouthLower_R 0.2000 
+skin 1644 head 0.6000 tedsBigBrother_mouthCorner_R 0.3500 tedsBigBrother_mouthLower_R 0.0500 
+skin 1645 head 0.5600 tedsBigBrother_mouthCorner_R 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 1646 head 1.0000 
+skin 1647 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 1648 head 0.5600 tedsBigBrother_mouthCorner_R 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 1649 head 0.3232 tedsBigBrother_jaw 0.3232 tedsBigBrother_mouthCorner_R 0.3535 
+skin 1650 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1651 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 1652 head 1.0000 
+skin 1653 head 1.0000 
+skin 1654 head 1.0000 
+skin 1655 head 1.0000 
+skin 1656 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 1657 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1658 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1659 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1660 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1661 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1662 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1663 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1664 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1665 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1666 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1667 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1668 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 1669 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1670 head 0.9000 tedsBigBrother_antenna1_R 0.1000 
+skin 1671 leg2_R 0.1000 knee2_R 0.9000 
+skin 1672 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1673 ankle2_R 1.0000 
+skin 1674 leg2_R 0.1000 knee2_R 0.9000 
+skin 1675 ankle2_R 1.0000 
+skin 1676 leg2_R 0.1000 knee2_R 0.9000 
+skin 1677 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1678 leg2_R 0.1000 knee2_R 0.9000 
+skin 1679 leg2_R 0.1000 knee2_R 0.9000 
+skin 1680 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1681 leg2_R 0.1000 knee2_R 0.9000 
+skin 1682 knee2_R 0.3500 ankle2_R 0.6500 
+skin 1683 ankle_L 1.0000 
+skin 1684 knee_L 0.3500 ankle_L 0.6500 
+skin 1685 knee_L 0.3500 ankle_L 0.6500 
+skin 1686 ankle_L 1.0000 
+skin 1687 ankle_L 1.0000 
+skin 1688 ankle_L 1.0000 
+skin 1689 ankle_L 1.0000 
+skin 1690 knee_L 0.3500 ankle_L 0.6500 
+skin 1691 ankle_L 1.0000 
+skin 1692 knee_L 0.3500 ankle_L 0.6500 
+skin 1693 knee_L 0.3500 ankle_L 0.6500 
+skin 1694 ankle_L 1.0000 
+skin 1695 knee_R 1.0000 
+skin 1696 knee_R 1.0000 
+skin 1697 knee_R 1.0000 
+skin 1698 knee_R 1.0000 
+skin 1699 knee_R 1.0000 
+skin 1700 knee_R 1.0000 
+skin 1701 knee_R 1.0000 
+skin 1702 knee_R 1.0000 
+skin 1703 knee_R 1.0000 
+skin 1704 knee_R 1.0000 
+skin 1705 knee_R 1.0000 
+skin 1706 knee_R 1.0000 
+skin 1707 knee_R 1.0000 
+skin 1708 knee_R 1.0000 
+skin 1709 knee_R 1.0000 
+skin 1710 knee_R 1.0000 
+skin 1711 knee_R 1.0000 
+skin 1712 knee_R 1.0000 
+skin 1713 knee_R 1.0000 
+skin 1714 knee_R 1.0000 
+skin 1715 knee_R 1.0000 
+skin 1716 knee_R 1.0000 
+skin 1717 knee_R 1.0000 
+skin 1718 knee_R 1.0000 
+skin 1719 knee_R 1.0000 
+skin 1720 knee_R 1.0000 
+skin 1721 knee_R 1.0000 
+skin 1722 knee_R 1.0000 
+skin 1723 knee_R 1.0000 
+skin 1724 knee_R 1.0000 
+skin 1725 knee_R 1.0000 
+skin 1726 leg_R 1.0000 
+skin 1727 knee_R 1.0000 
+skin 1728 knee_R 1.0000 
+skin 1729 knee_R 1.0000 
+skin 1730 leg_R 1.0000 
+skin 1731 knee_R 1.0000 
+skin 1732 knee_R 1.0000 
+skin 1733 knee_R 1.0000 
+skin 1734 knee_R 1.0000 
+skin 1735 knee_R 1.0000 
+skin 1736 knee_R 1.0000 
+skin 1737 knee_R 1.0000 
+skin 1738 knee_R 1.0000 
+skin 1739 knee_R 1.0000 
+skin 1740 knee_R 1.0000 
+skin 1741 knee_R 1.0000 
+skin 1742 knee_R 1.0000 
+skin 1743 knee_R 1.0000 
+skin 1744 knee_R 1.0000 
+skin 1745 knee_R 1.0000 
+skin 1746 knee_R 1.0000 
+skin 1747 knee_R 1.0000 
+skin 1748 knee_R 1.0000 
+skin 1749 knee_R 1.0000 
+skin 1750 knee_R 1.0000 
+skin 1751 knee_R 1.0000 
+skin 1752 knee_R 1.0000 
+skin 1753 knee_R 1.0000 
+skin 1754 knee_R 1.0000 
+skin 1755 knee_R 0.3500 ankle_R 0.6500 
+skin 1756 knee_R 0.3500 ankle_R 0.6500 
+skin 1757 ankle_R 1.0000 
+skin 1758 knee_R 1.0000 
+skin 1759 knee_R 1.0000 
+skin 1760 knee_R 1.0000 
+skin 1761 knee_R 0.3500 ankle_R 0.6500 
+skin 1762 ankle_R 1.0000 
+skin 1763 knee_R 1.0000 
+skin 1764 knee_R 1.0000 
+skin 1765 knee_R 1.0000 
+skin 1766 knee_R 1.0000 
+skin 1767 knee_R 0.3500 ankle_R 0.6500 
+skin 1768 ankle_R 1.0000 
+skin 1769 knee_R 1.0000 
+skin 1770 knee_R 1.0000 
+skin 1771 knee_R 0.3500 ankle_R 0.6500 
+skin 1772 ankle_R 1.0000 
+skin 1773 knee_R 1.0000 
+skin 1774 knee_R 1.0000 
+skin 1775 knee_R 0.3500 ankle_R 0.6500 
+skin 1776 knee_R 0.3500 ankle_R 0.6500 
+skin 1777 knee_R 0.3500 ankle_R 0.6500 
+skin 1778 knee_R 1.0000 
+skin 1779 leg_R 1.0000 
+skin 1780 knee_R 1.0000 
+skin 1781 leg_R 1.0000 
+skin 1782 leg_R 1.0000 
+skin 1783 knee_R 1.0000 
+skin 1784 knee_R 1.0000 
+skin 1785 knee_R 1.0000 
+skin 1786 knee_R 1.0000 
+skin 1787 knee_R 1.0000 
+skin 1788 knee_R 1.0000 
+skin 1789 knee_R 1.0000 
+skin 1790 knee_R 1.0000 
+skin 1791 knee_R 1.0000 
+skin 1792 knee_R 1.0000 
+skin 1793 knee_R 1.0000 
+skin 1794 knee_R 1.0000 
+skin 1795 knee_R 1.0000 
+skin 1796 knee_R 1.0000 
+skin 1797 knee_R 1.0000 
+skin 1798 knee_R 1.0000 
+skin 1799 knee_R 1.0000 
+skin 1800 knee_R 1.0000 
+skin 1801 knee_R 1.0000 
+skin 1802 knee_R 1.0000 
+skin 1803 knee_R 1.0000 
+skin 1804 knee_R 1.0000 
+skin 1805 knee_R 1.0000 
+skin 1806 knee_R 1.0000 
+skin 1807 knee_R 1.0000 
+skin 1808 knee_R 1.0000 
+skin 1809 knee_R 1.0000 
+skin 1810 knee_R 1.0000 
+skin 1811 knee_R 1.0000 
+skin 1812 knee_R 1.0000 
+skin 1813 knee_R 1.0000 
+skin 1814 knee_R 1.0000 
+skin 1815 knee_R 1.0000 
+skin 1816 knee_R 1.0000 
+skin 1817 knee_R 1.0000 
+skin 1818 knee_R 1.0000 
+skin 1819 knee_R 1.0000 
+skin 1820 knee_R 1.0000 
+skin 1821 knee_R 1.0000 
+skin 1822 knee_R 1.0000 
+skin 1823 knee_R 1.0000 
+skin 1824 knee_R 1.0000 
+skin 1825 knee_R 1.0000 
+skin 1826 knee_R 1.0000 
+skin 1827 knee_R 1.0000 
+skin 1828 knee_R 1.0000 
+skin 1829 knee_R 1.0000 
+skin 1830 knee_R 1.0000 
+skin 1831 knee_R 1.0000 
+skin 1832 knee_R 1.0000 
+skin 1833 knee_R 1.0000 
+skin 1834 knee_R 1.0000 
+skin 1835 knee_R 1.0000 
+skin 1836 knee_R 1.0000 
+skin 1837 knee_R 1.0000 
+skin 1838 knee_R 1.0000 
+skin 1839 knee_R 1.0000 
+skin 1840 knee_R 1.0000 
+skin 1841 knee_R 1.0000 
+skin 1842 ankle_R 1.0000 
+skin 1843 ankle_R 1.0000 
+skin 1844 ankle_R 1.0000 
+skin 1845 ankle_R 1.0000 
+skin 1846 ankle_R 1.0000 
+skin 1847 ankle_R 1.0000 
+skin 1848 ankle_R 1.0000 
+skin 1849 ankle_R 1.0000 
+skin 1850 ankle_R 1.0000 
+skin 1851 ankle_R 1.0000 
+skin 1852 ankle_R 1.0000 
+skin 1853 ankle_R 1.0000 
+skin 1854 ankle_R 1.0000 
+skin 1855 ankle_R 1.0000 
+skin 1856 ankle_R 1.0000 
+skin 1857 ankle_R 1.0000 
+skin 1858 ankle_R 1.0000 
+skin 1859 ankle_R 1.0000 
+skin 1860 ankle_R 1.0000 
+skin 1861 ankle_R 1.0000 
+skin 1862 ankle_R 1.0000 
+skin 1863 ankle_R 1.0000 
+skin 1864 ankle_R 1.0000 
+skin 1865 ankle_R 1.0000 
+skin 1866 ankle_R 1.0000 
+skin 1867 ankle_R 1.0000 
+skin 1868 ankle_R 1.0000 
+skin 1869 ankle_R 1.0000 
+skin 1870 ankle_R 1.0000 
+skin 1871 ankle_R 1.0000 
+skin 1872 ankle_R 1.0000 
+skin 1873 ankle_R 1.0000 
+skin 1874 ankle_R 1.0000 
+skin 1875 ankle_R 1.0000 
+skin 1876 ankle_R 1.0000 
+skin 1877 ankle_R 1.0000 
+skin 1878 knee_R 0.3500 ankle_R 0.6500 
+skin 1879 ankle_R 1.0000 
+skin 1880 ankle_R 1.0000 
+skin 1881 ankle_R 1.0000 
+skin 1882 ankle_R 1.0000 
+skin 1883 knee_R 0.3500 ankle_R 0.6500 
+skin 1884 ankle_R 1.0000 
+skin 1885 ankle_R 1.0000 
+skin 1886 ankle_R 1.0000 
+skin 1887 ankle_R 1.0000 
+skin 1888 ankle_R 1.0000 
+skin 1889 ankle_R 1.0000 
+skin 1890 ankle_R 1.0000 
+skin 1891 ankle_R 1.0000 
+skin 1892 ankle_R 1.0000 
+skin 1893 ankle_R 1.0000 
+skin 1894 ankle_R 1.0000 
+skin 1895 ankle_R 1.0000 
+skin 1896 ankle_R 1.0000 
+skin 1897 ankle_R 1.0000 
+skin 1898 ankle_R 1.0000 
+skin 1899 ankle_R 1.0000 
+skin 1900 ankle_R 1.0000 
+skin 1901 ankle_R 1.0000 
+skin 1902 ankle_R 1.0000 
+skin 1903 ankle_R 1.0000 
+skin 1904 ankle_R 1.0000 
+skin 1905 ankle_R 1.0000 
+skin 1906 ankle_R 1.0000 
+skin 1907 ankle_R 1.0000 
+skin 1908 ankle_R 1.0000 
+skin 1909 ankle_R 1.0000 
+skin 1910 ankle_R 1.0000 
+skin 1911 ankle_R 1.0000 
+skin 1912 ankle_R 1.0000 
+skin 1913 ankle_R 1.0000 
+skin 1914 ankle_R 1.0000 
+skin 1915 ankle_R 1.0000 
+skin 1916 ankle_R 1.0000 
+skin 1917 ankle_R 1.0000 
+skin 1918 ankle_R 1.0000 
+skin 1919 ankle_R 1.0000 
+skin 1920 ankle_R 1.0000 
+skin 1921 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1922 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1923 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1924 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1925 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1926 head 0.0500 tedsBigBrother_antenna1_L 0.9500 
+skin 1927 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1928 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1929 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1930 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1931 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1932 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1933 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1934 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1935 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1936 tedsBigBrother_antenna1_L 0.9000 tedsBigBrother_antenna2_L 0.1000 
+skin 1937 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1938 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1939 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1940 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1941 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1942 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1943 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1944 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1945 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1946 tedsBigBrother_antenna1_L 0.4000 tedsBigBrother_antenna2_L 0.6000 
+skin 1947 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1948 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1949 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1950 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1951 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1952 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1953 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1954 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1955 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1956 tedsBigBrother_antenna1_L 0.1500 tedsBigBrother_antenna2_L 0.6800 tedsBigBrother_antenna3_L 0.1700 
+skin 1957 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1958 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1959 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1960 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1961 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1962 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1963 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1964 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1965 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1966 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1967 tedsBigBrother_antenna2_L 0.0900 tedsBigBrother_antenna3_L 0.8600 tedsBigBrother_antenna4_L 0.0500 
+skin 1968 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1969 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1970 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1971 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1972 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1973 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1974 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1975 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1976 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1977 tedsBigBrother_antenna2_L 0.1700 tedsBigBrother_antenna3_L 0.6800 tedsBigBrother_antenna4_L 0.1500 
+skin 1978 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1979 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1980 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1981 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1982 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1983 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1984 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1985 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1986 tedsBigBrother_antenna3_L 0.6000 tedsBigBrother_antenna4_L 0.4000 
+skin 1987 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1988 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1989 tedsBigBrother_antenna4_L 1.0000 
+skin 1990 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1991 tedsBigBrother_antenna4_L 1.0000 
+skin 1992 tedsBigBrother_antenna4_L 1.0000 
+skin 1993 tedsBigBrother_antenna4_L 1.0000 
+skin 1994 tedsBigBrother_antenna3_L 0.2000 tedsBigBrother_antenna4_L 0.8000 
+skin 1995 tedsBigBrother_antenna4_L 1.0000 
+skin 1996 tedsBigBrother_antenna4_L 1.0000 
+skin 1997 tedsBigBrother_antenna4_L 1.0000 
+skin 1998 tedsBigBrother_antenna4_L 1.0000 
+skin 1999 tedsBigBrother_antenna4_L 1.0000 
+skin 2000 tedsBigBrother_antenna4_L 1.0000 
+skin 2001 tedsBigBrother_antenna4_L 1.0000 
+skin 2002 tedsBigBrother_antenna4_L 1.0000 
+skin 2003 tedsBigBrother_antenna4_L 1.0000 
+skin 2004 tedsBigBrother_antenna4_L 1.0000 
+skin 2005 tedsBigBrother_antenna4_L 1.0000 
+skin 2006 tedsBigBrother_antenna4_L 1.0000 
+skin 2007 tedsBigBrother_antenna4_L 1.0000 
+skin 2008 tedsBigBrother_antenna4_L 1.0000 
+skin 2009 tedsBigBrother_antenna4_L 1.0000 
+skin 2010 tedsBigBrother_antenna4_L 1.0000 
+skin 2011 tedsBigBrother_antenna4_L 1.0000 
+skin 2012 tedsBigBrother_antenna4_L 1.0000 
+skin 2013 tedsBigBrother_antenna4_L 1.0000 
+skin 2014 tedsBigBrother_antenna4_L 1.0000 
+skin 2015 tedsBigBrother_antenna4_L 1.0000 
+skin 2016 tedsBigBrother_antenna4_L 1.0000 
+skin 2017 tedsBigBrother_antenna4_L 1.0000 
+skin 2018 tedsBigBrother_antenna4_L 1.0000 
+skin 2019 tedsBigBrother_antenna4_L 1.0000 
+skin 2020 tedsBigBrother_antenna4_L 1.0000 
+skin 2021 tedsBigBrother_antenna4_L 1.0000 
+skin 2022 tedsBigBrother_antenna4_L 1.0000 
+skin 2023 tedsBigBrother_antenna4_L 1.0000 
+skin 2024 tedsBigBrother_antenna4_L 1.0000 
+skin 2025 tedsBigBrother_antenna4_L 1.0000 
+skin 2026 tedsBigBrother_antenna4_L 1.0000 
+skin 2027 tedsBigBrother_antenna4_L 1.0000 
+skin 2028 tedsBigBrother_antenna4_L 1.0000 
+skin 2029 tedsBigBrother_antenna4_L 1.0000 
+skin 2030 tedsBigBrother_antenna4_L 1.0000 
+skin 2031 tedsBigBrother_antenna4_L 1.0000 
+skin 2032 tedsBigBrother_antenna4_L 1.0000 
+skin 2033 tedsBigBrother_antenna4_L 1.0000 
+skin 2034 tedsBigBrother_antenna4_L 1.0000 
+skin 2035 tedsBigBrother_antenna4_L 1.0000 
+skin 2036 tedsBigBrother_antenna4_L 1.0000 
+skin 2037 tedsBigBrother_antenna4_L 1.0000 
+skin 2038 tedsBigBrother_antenna4_L 1.0000 
+skin 2039 tedsBigBrother_antenna4_L 1.0000 
+skin 2040 tedsBigBrother_antenna4_L 1.0000 
+skin 2041 tedsBigBrother_antenna4_L 1.0000 
+skin 2042 tedsBigBrother_antenna4_L 1.0000 
+skin 2043 tedsBigBrother_antenna4_L 1.0000 
+skin 2044 tedsBigBrother_antenna4_L 1.0000 
+skin 2045 tedsBigBrother_antenna4_L 1.0000 
+skin 2046 tedsBigBrother_antenna4_L 1.0000 
+skin 2047 tedsBigBrother_antenna4_L 1.0000 
+skin 2048 tedsBigBrother_antenna4_L 1.0000 
+skin 2049 tedsBigBrother_antenna4_L 1.0000 
+skin 2050 tedsBigBrother_antenna4_L 1.0000 
+skin 2051 tedsBigBrother_antenna4_L 1.0000 
+skin 2052 tedsBigBrother_antenna4_L 1.0000 
+skin 2053 tedsBigBrother_antenna4_L 1.0000 
+skin 2054 tedsBigBrother_antenna4_L 1.0000 
+skin 2055 tedsBigBrother_antenna4_L 1.0000 
+skin 2056 tedsBigBrother_antenna4_L 1.0000 
+skin 2057 tedsBigBrother_antenna4_L 1.0000 
+skin 2058 tedsBigBrother_antenna4_L 1.0000 
+skin 2059 tedsBigBrother_antenna4_L 1.0000 
+skin 2060 tedsBigBrother_antenna4_L 1.0000 
+skin 2061 tedsBigBrother_antenna4_L 1.0000 
+skin 2062 tedsBigBrother_antenna4_L 1.0000 
+skin 2063 tedsBigBrother_antenna4_L 1.0000 
+skin 2064 tedsBigBrother_antenna4_L 1.0000 
+skin 2065 tedsBigBrother_antenna4_L 1.0000 
+skin 2066 tedsBigBrother_antenna4_L 1.0000 
+skin 2067 tedsBigBrother_antenna4_L 1.0000 
+skin 2068 tedsBigBrother_antenna4_L 1.0000 
+skin 2069 tedsBigBrother_antenna4_L 1.0000 
+skin 2070 tedsBigBrother_antenna4_L 1.0000 
+skin 2071 tedsBigBrother_antenna4_L 1.0000 
+skin 2072 tedsBigBrother_antenna4_L 1.0000 
+skin 2073 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 2074 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2075 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2076 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2077 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2078 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2079 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2080 head 0.0500 tedsBigBrother_antenna1_R 0.9500 
+skin 2081 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2082 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2083 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2084 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2085 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2086 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2087 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2088 tedsBigBrother_antenna1_R 0.8000 tedsBigBrother_antenna2_R 0.2000 
+skin 2089 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2090 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2091 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2092 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2093 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2094 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2095 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2096 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2097 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2098 tedsBigBrother_antenna1_R 0.3000 tedsBigBrother_antenna2_R 0.7000 
+skin 2099 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2100 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2101 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2102 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2103 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2104 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2105 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2106 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2107 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2108 tedsBigBrother_antenna1_R 0.0500 tedsBigBrother_antenna2_R 0.7600 tedsBigBrother_antenna3_R 0.1900 
+skin 2109 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2110 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2111 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2112 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2113 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2114 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2115 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2116 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2117 tedsBigBrother_antenna2_R 0.0900 tedsBigBrother_antenna3_R 0.8600 tedsBigBrother_antenna4_R 0.0500 
+skin 2118 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2119 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2120 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2121 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2122 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2123 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2124 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2125 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2126 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2127 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2128 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2129 tedsBigBrother_antenna2_R 0.1700 tedsBigBrother_antenna3_R 0.6800 tedsBigBrother_antenna4_R 0.1500 
+skin 2130 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2131 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2132 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2133 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2134 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2135 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2136 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2137 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2138 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2139 tedsBigBrother_antenna3_R 0.6000 tedsBigBrother_antenna4_R 0.4000 
+skin 2140 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2141 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2142 tedsBigBrother_antenna4_R 1.0000 
+skin 2143 tedsBigBrother_antenna4_R 1.0000 
+skin 2144 tedsBigBrother_antenna4_R 1.0000 
+skin 2145 tedsBigBrother_antenna4_R 1.0000 
+skin 2146 tedsBigBrother_antenna3_R 0.2000 tedsBigBrother_antenna4_R 0.8000 
+skin 2147 tedsBigBrother_antenna4_R 1.0000 
+skin 2148 tedsBigBrother_antenna4_R 1.0000 
+skin 2149 tedsBigBrother_antenna4_R 1.0000 
+skin 2150 tedsBigBrother_antenna4_R 1.0000 
+skin 2151 tedsBigBrother_antenna4_R 1.0000 
+skin 2152 tedsBigBrother_antenna4_R 1.0000 
+skin 2153 tedsBigBrother_antenna4_R 1.0000 
+skin 2154 tedsBigBrother_antenna4_R 1.0000 
+skin 2155 tedsBigBrother_antenna4_R 1.0000 
+skin 2156 tedsBigBrother_antenna4_R 1.0000 
+skin 2157 tedsBigBrother_antenna4_R 1.0000 
+skin 2158 tedsBigBrother_antenna4_R 1.0000 
+skin 2159 tedsBigBrother_antenna4_R 1.0000 
+skin 2160 tedsBigBrother_antenna4_R 1.0000 
+skin 2161 tedsBigBrother_antenna4_R 1.0000 
+skin 2162 tedsBigBrother_antenna4_R 1.0000 
+skin 2163 tedsBigBrother_antenna4_R 1.0000 
+skin 2164 tedsBigBrother_antenna4_R 1.0000 
+skin 2165 tedsBigBrother_antenna4_R 1.0000 
+skin 2166 tedsBigBrother_antenna4_R 1.0000 
+skin 2167 tedsBigBrother_antenna4_R 1.0000 
+skin 2168 tedsBigBrother_antenna4_R 1.0000 
+skin 2169 tedsBigBrother_antenna4_R 1.0000 
+skin 2170 tedsBigBrother_antenna4_R 1.0000 
+skin 2171 tedsBigBrother_antenna4_R 1.0000 
+skin 2172 tedsBigBrother_antenna4_R 1.0000 
+skin 2173 tedsBigBrother_antenna4_R 1.0000 
+skin 2174 tedsBigBrother_antenna4_R 1.0000 
+skin 2175 tedsBigBrother_antenna4_R 1.0000 
+skin 2176 tedsBigBrother_antenna4_R 1.0000 
+skin 2177 tedsBigBrother_antenna4_R 1.0000 
+skin 2178 tedsBigBrother_antenna4_R 1.0000 
+skin 2179 tedsBigBrother_antenna4_R 1.0000 
+skin 2180 tedsBigBrother_antenna4_R 1.0000 
+skin 2181 tedsBigBrother_antenna4_R 1.0000 
+skin 2182 tedsBigBrother_antenna4_R 1.0000 
+skin 2183 tedsBigBrother_antenna4_R 1.0000 
+skin 2184 tedsBigBrother_antenna4_R 1.0000 
+skin 2185 tedsBigBrother_antenna4_R 1.0000 
+skin 2186 tedsBigBrother_antenna4_R 1.0000 
+skin 2187 tedsBigBrother_antenna4_R 1.0000 
+skin 2188 tedsBigBrother_antenna4_R 1.0000 
+skin 2189 tedsBigBrother_antenna4_R 1.0000 
+skin 2190 tedsBigBrother_antenna4_R 1.0000 
+skin 2191 tedsBigBrother_antenna4_R 1.0000 
+skin 2192 tedsBigBrother_antenna4_R 1.0000 
+skin 2193 tedsBigBrother_antenna4_R 1.0000 
+skin 2194 tedsBigBrother_antenna4_R 1.0000 
+skin 2195 tedsBigBrother_antenna4_R 1.0000 
+skin 2196 tedsBigBrother_antenna4_R 1.0000 
+skin 2197 tedsBigBrother_antenna4_R 1.0000 
+skin 2198 tedsBigBrother_antenna4_R 1.0000 
+skin 2199 tedsBigBrother_antenna4_R 1.0000 
+skin 2200 tedsBigBrother_antenna4_R 1.0000 
+skin 2201 tedsBigBrother_antenna4_R 1.0000 
+skin 2202 tedsBigBrother_antenna4_R 1.0000 
+skin 2203 tedsBigBrother_antenna4_R 1.0000 
+skin 2204 tedsBigBrother_antenna4_R 1.0000 
+skin 2205 tedsBigBrother_antenna4_R 1.0000 
+skin 2206 tedsBigBrother_antenna4_R 1.0000 
+skin 2207 tedsBigBrother_antenna4_R 1.0000 
+skin 2208 tedsBigBrother_antenna4_R 1.0000 
+skin 2209 tedsBigBrother_antenna4_R 1.0000 
+skin 2210 tedsBigBrother_antenna4_R 1.0000 
+skin 2211 tedsBigBrother_antenna4_R 1.0000 
+skin 2212 tedsBigBrother_antenna4_R 1.0000 
+skin 2213 tedsBigBrother_antenna4_R 1.0000 
+skin 2214 tedsBigBrother_antenna4_R 1.0000 
+skin 2215 tedsBigBrother_antenna4_R 1.0000 
+skin 2216 tedsBigBrother_antenna4_R 1.0000 
+skin 2217 tedsBigBrother_antenna4_R 1.0000 
+skin 2218 tedsBigBrother_antenna4_R 1.0000 
+skin 2219 tedsBigBrother_antenna4_R 1.0000 
+skin 2220 tedsBigBrother_antenna4_R 1.0000 
+skin 2221 tedsBigBrother_antenna4_R 1.0000 
+skin 2222 tedsBigBrother_antenna4_R 1.0000 
+skin 2223 tedsBigBrother_antenna4_R 1.0000 
+skin 2224 tedsBigBrother_antenna4_R 1.0000 
+skin 2225 ankle_R 1.0000 
+skin 2226 knee_R 0.3500 ankle_R 0.6500 
+skin 2227 knee_R 0.3500 ankle_R 0.6500 
+skin 2228 ankle_R 1.0000 
+skin 2229 ankle_R 1.0000 
+skin 2230 ankle_R 1.0000 
+skin 2231 ankle_R 1.0000 
+skin 2232 knee_R 0.3500 ankle_R 0.6500 
+skin 2233 ankle_R 1.0000 
+skin 2234 knee_R 0.3500 ankle_R 0.6500 
+skin 2235 knee_R 0.3500 ankle_R 0.6500 
+skin 2236 ankle_R 1.0000 
+skin 2237 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2238 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2239 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_R 0.2400 tedsBigBrother_mouthLower_R 0.1700 
+skin 2240 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2241 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2242 head 1.0000 
+skin 2243 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2244 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2245 head 1.0000 
+skin 2246 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2247 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2248 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2249 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2250 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2251 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2252 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2253 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2254 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 2255 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2256 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2257 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2258 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2259 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2260 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2261 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2262 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2263 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2264 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2265 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2266 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2267 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2268 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2269 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2270 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2271 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2272 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2273 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2274 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2275 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2276 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2277 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2278 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2279 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2280 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2281 tedsBigBrother_jaw 0.6400 tedsBigBrother_mouthLower_L 0.1700 tedsBigBrother_mouthLower_R 0.1900 
+skin 2282 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2283 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2284 tedsBigBrother_jaw 0.5900 tedsBigBrother_mouthCorner_L 0.2400 tedsBigBrother_mouthLower_L 0.1700 
+skin 2285 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2286 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2287 head 1.0000 
+skin 2288 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2289 head 1.0000 
+skin 2290 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2291 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2292 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2293 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2294 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2295 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2296 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2297 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2298 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2299 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 2300 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2301 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2302 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2303 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2304 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2305 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2306 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2307 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2308 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2309 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2310 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2311 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2312 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2313 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2314 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2315 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2316 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2317 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2318 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2319 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2320 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2321 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2322 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2323 tedsBigBrother_jaw 0.6400 tedsBigBrother_mouthLower_L 0.1700 tedsBigBrother_mouthLower_R 0.1900 
+skin 2324 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2325 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2326 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2327 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2328 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2329 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2330 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2331 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2332 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2333 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2334 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2335 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2336 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2337 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2338 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2339 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2340 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2341 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2342 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2343 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2344 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2345 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2346 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2347 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2348 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2349 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2350 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2351 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2352 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2353 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2354 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2355 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2356 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2357 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2358 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2359 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2360 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2361 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2362 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2363 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2364 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2365 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2366 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2367 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2368 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2369 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2370 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2371 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2372 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2373 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2374 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2375 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2376 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2377 head 0.1500 tedsBigBrother_tongue 0.8500 
+skin 2378 head 0.9000 tedsBigBrother_tongue 0.1000 
+skin 2379 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2380 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2381 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2382 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2383 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2384 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2385 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2386 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2387 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2388 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2389 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2390 head 0.5000 tedsBigBrother_tongue 0.5000 
+skin 2391 head 0.3000 tedsBigBrother_tongue 0.7000 
+skin 2392 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_R 0.3500 
+skin 2393 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2394 head 1.0000 
+skin 2395 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2396 head 0.7000 tedsBigBrother_mouthCorner_R 0.3000 
+skin 2397 head 1.0000 
+skin 2398 head 1.0000 
+skin 2399 head 1.0000 
+skin 2400 head 1.0000 
+skin 2401 head 0.5600 tedsBigBrother_mouthCorner_R 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 2402 head 1.0000 
+skin 2403 head 1.0000 
+skin 2404 head 0.7000 tedsBigBrother_mouthCorner_R 0.3000 
+skin 2405 head 1.0000 
+skin 2406 head 1.0000 
+skin 2407 head 1.0000 
+skin 2408 head 1.0000 
+skin 2409 head 1.0000 
+skin 2410 head 1.0000 
+skin 2411 head 1.0000 
+skin 2412 head 1.0000 
+skin 2413 head 1.0000 
+skin 2414 head 1.0000 
+skin 2415 head 1.0000 
+skin 2416 head 1.0000 
+skin 2417 head 1.0000 
+skin 2418 head 0.6900 tedsBigBrother_mouthCorner_R 0.1100 tedsBigBrother_mouthLower_R 0.2000 
+skin 2419 head 1.0000 
+skin 2420 head 1.0000 
+skin 2421 head 1.0000 
+skin 2422 head 1.0000 
+skin 2423 head 1.0000 
+skin 2424 head 1.0000 
+skin 2425 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 2426 head 0.0700 tedsBigBrother_jaw 0.5800 tedsBigBrother_mouthLower_L 0.3500 
+skin 2427 head 0.0900 tedsBigBrother_jaw 0.8100 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2428 head 1.0000 
+skin 2429 head 0.1000 tedsBigBrother_jaw 0.9000 
+skin 2430 head 0.7000 tedsBigBrother_mouthCorner_L 0.3000 
+skin 2431 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2432 head 1.0000 
+skin 2433 head 1.0000 
+skin 2434 head 0.9000 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2435 head 0.5600 tedsBigBrother_mouthCorner_L 0.2200 tedsBigBrother_mouthLower_L 0.2200 
+skin 2436 head 0.7000 tedsBigBrother_mouthCorner_L 0.3000 
+skin 2437 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2438 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2439 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2440 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2441 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2442 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2443 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2444 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2445 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2446 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2447 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2448 head 0.8500 tedsBigBrother_mouthCorner_L 0.1500 
+skin 2449 head 0.9000 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2450 head 0.9000 tedsBigBrother_mouthCorner_L 0.1000 
+skin 2451 head 0.6900 tedsBigBrother_mouthCorner_L 0.1100 tedsBigBrother_mouthLower_L 0.2000 
+skin 2452 head 1.0000 
+skin 2453 head 1.0000 
+skin 2454 head 1.0000 
+skin 2455 head 1.0000 
+skin 2456 head 0.5600 tedsBigBrother_mouthLower_L 0.2200 tedsBigBrother_mouthLower_R 0.2200 
+skin 2457 head 1.0000 
+skin 2458 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2459 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2460 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2461 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2462 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2463 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2464 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2465 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2466 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2467 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2468 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2469 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2470 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2471 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2472 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2473 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2474 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2475 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2476 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2477 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2478 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2479 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2480 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2481 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2482 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2483 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2484 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2485 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2486 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2487 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2488 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2489 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2490 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2491 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2492 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2493 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2494 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2495 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2496 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2497 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2498 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2499 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2500 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2501 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2502 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2503 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2504 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2505 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2506 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2507 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2508 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2509 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2510 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2511 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2512 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2513 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2514 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2515 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2516 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2517 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2518 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2519 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2520 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2521 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2522 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2523 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2524 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2525 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2526 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2527 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2528 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2529 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2530 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2531 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2532 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2533 head 1.0000 
+skin 2534 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2535 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2536 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2537 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2538 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2539 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2540 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2541 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2542 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2543 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2544 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2545 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2546 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2547 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2548 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2549 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2550 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2551 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2552 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2553 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2554 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2555 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2556 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2557 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2558 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2559 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2560 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2561 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2562 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2563 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2564 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2565 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2566 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2567 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2568 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2569 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2570 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2571 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2572 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2573 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2574 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2575 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2576 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2577 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2578 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2579 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2580 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2581 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2582 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2583 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2584 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2585 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2586 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2587 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2588 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2589 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2590 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2591 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2592 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2593 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2594 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2595 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2596 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2597 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2598 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2599 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2600 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2601 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2602 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2603 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2604 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2605 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2606 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2607 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2608 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2609 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2610 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2611 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2612 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2613 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2614 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2615 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2616 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2617 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2618 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2619 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2620 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2621 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2622 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2623 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2624 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2625 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2626 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2627 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2628 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2629 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2630 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2631 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2632 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2633 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2634 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2635 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2636 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2637 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2638 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2639 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2640 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2641 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2642 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2643 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2644 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2645 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2646 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2647 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2648 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2649 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2650 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2651 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2652 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2653 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2654 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2655 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2656 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2657 tedsBigBrother_eyeLidUpper_L 1.0000 
+skin 2658 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2659 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2660 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2661 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2662 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2663 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2664 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2665 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2666 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2667 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2668 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2669 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2670 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2671 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2672 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2673 head 1.0000 
+skin 2674 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2675 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2676 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2677 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2678 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2679 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2680 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2681 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2682 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2683 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2684 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2685 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2686 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2687 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2688 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2689 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2690 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2691 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2692 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2693 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2694 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2695 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2696 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2697 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2698 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2699 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2700 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2701 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2702 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2703 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2704 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2705 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2706 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2707 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2708 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2709 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2710 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2711 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2712 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2713 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2714 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2715 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2716 tedsBigBrother_eyeLidLower_L 1.0000 
+skin 2717 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2718 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2719 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2720 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2721 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2722 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2723 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2724 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2725 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2726 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2727 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2728 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2729 tedsBigBrother_eyeLidUpper_R 1.0000 
+skin 2730 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2731 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2732 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2733 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2734 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2735 tedsBigBrother_eyeLidLower_R 1.0000 
+skin 2736 tedsBigBrother_eyeLidLower_R 1.0000 
+hier root spine1
+hier root pelvis
+hier spine1 spine2
+hier spine1 head
+hier pelvis leg2_L
+hier pelvis leg_L
+hier pelvis leg_R
+hier pelvis leg2_R
+hier spine2 spine3
+hier head tedsBigBrother_jaw
+hier head tedsBigBrother_mouthCorner_L
+hier head tedsBigBrother_cheek_L
+hier head tedsBigBrother_eyeLidUpper_L
+hier head tedsBigBrother_eyeLidUpper_R
+hier head tedsBigBrother_cheek_R
+hier head tedsBigBrother_mouthCorner_R
+hier head tedsBigBrother_antenna1_L
+hier head tedsBigBrother_antenna1_R
+hier head tedsBigBrother_eyeLidLower_L
+hier head tedsBigBrother_eyeLidLower_R
+hier leg2_L knee2_L
+hier leg_L knee_L
+hier leg_R knee_R
+hier leg2_R knee2_R
+hier tedsBigBrother_jaw tedsBigBrother_mouthLower_L
+hier tedsBigBrother_jaw tedsBigBrother_tongue
+hier tedsBigBrother_jaw tedsBigBrother_mouthLower_R
+hier tedsBigBrother_antenna1_L tedsBigBrother_antenna2_L
+hier tedsBigBrother_antenna1_R tedsBigBrother_antenna2_R
+hier knee2_L ankle2_L
+hier knee_L ankle_L
+hier knee_R ankle_R
+hier knee2_R ankle2_R
+hier tedsBigBrother_antenna2_L tedsBigBrother_antenna3_L
+hier tedsBigBrother_antenna2_R tedsBigBrother_antenna3_R
+hier tedsBigBrother_antenna3_L tedsBigBrother_antenna4_L
+hier tedsBigBrother_antenna3_R tedsBigBrother_antenna4_R

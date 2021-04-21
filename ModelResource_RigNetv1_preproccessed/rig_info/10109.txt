@@ -1,0 +1,770 @@
+joints Waist 0.00000022 0.36910700 0.01699000
+joints LThigh 0.06929790 0.32868600 0.01699000
+joints RThigh -0.06929020 0.32867400 0.01699000
+joints Spine1 -0.00000003 0.45036500 0.01699000
+joints LLeg 0.06929880 0.18654200 0.01699000
+joints RLeg -0.06928940 0.18653100 0.01699000
+joints Spine2 -0.00000027 0.53261700 0.01699000
+joints LFoot 0.06929960 0.04439910 0.01698998
+joints RFoot -0.06928850 0.04438770 0.01699001
+joints LShoulder 0.03144990 0.63595600 0.01699000
+joints Neck -0.00000062 0.64939300 0.01699000
+joints RShoulder -0.03144590 0.63596400 0.01699000
+joints LToe 0.06929980 0.01669190 0.05273730
+joints RToe -0.06928830 0.01668100 0.05273310
+joints LArmA 0.09714320 0.61598700 0.01698996
+joints Head -0.00000075 0.69330000 0.01699000
+joints RArmA -0.09714810 0.61599000 0.01699000
+joints LForeArm 0.22435100 0.61598700 0.01699072
+joints loc_eye -0.00000104 0.78807600 0.12761000
+joints loc_head -0.00000218 0.97570200 0.01699000
+joints loc_mouth -0.00000081 0.71178000 0.12540600
+joints RForeArm -0.22435800 0.61598900 0.01699013
+joints LHand 0.35156200 0.61598700 0.01699148
+joints LHandEX 0.34977400 0.61598700 0.01699147
+joints RHand -0.35156800 0.61598900 0.01699026
+joints RHandEX -0.34979100 0.61598900 0.01700099
+root Waist
+skin 0 Spine2 1.0000 
+skin 1 Spine2 0.3000 RShoulder 0.7000 
+skin 2 Spine2 1.0000 
+skin 3 Spine2 0.5000 LShoulder 0.5000 
+skin 4 Spine1 0.4000 Spine2 0.6000 
+skin 5 Spine2 0.5000 RShoulder 0.5000 
+skin 6 Spine1 0.2000 Spine2 0.8000 
+skin 7 Spine1 0.2000 Spine2 0.8000 
+skin 8 Spine2 0.8000 LShoulder 0.2000 
+skin 9 RArmA 1.0000 
+skin 10 RShoulder 0.4000 RArmA 0.6000 
+skin 11 RArmA 1.0000 
+skin 12 RArmA 1.0000 
+skin 13 RArmA 1.0000 
+skin 14 RShoulder 0.5000 RArmA 0.5000 
+skin 15 LArmA 1.0000 
+skin 16 LShoulder 0.4000 LArmA 0.6000 
+skin 17 LArmA 1.0000 
+skin 18 LShoulder 0.1000 LArmA 0.9000 
+skin 19 LArmA 1.0000 
+skin 20 LShoulder 0.4000 LArmA 0.6000 
+skin 21 LArmA 1.0000 
+skin 22 LArmA 1.0000 
+skin 23 LShoulder 0.5000 LArmA 0.5000 
+skin 24 LArmA 1.0000 
+skin 25 LShoulder 0.2000 LArmA 0.8000 
+skin 26 Spine2 1.0000 
+skin 27 Spine2 1.0000 
+skin 28 Spine2 0.5500 Neck 0.2000 RShoulder 0.2500 
+skin 29 Spine2 0.8000 RShoulder 0.2000 
+skin 30 Spine2 0.5000 Neck 0.5000 
+skin 31 Spine2 0.5000 Neck 0.5000 
+skin 32 Spine2 0.5000 Neck 0.5000 
+skin 33 Head 1.0000 
+skin 34 Head 1.0000 
+skin 35 Head 1.0000 
+skin 36 Spine2 0.5000 Neck 0.5000 
+skin 37 Head 1.0000 
+skin 38 LLeg 1.0000 
+skin 39 LThigh 0.2000 LLeg 0.8000 
+skin 40 LLeg 1.0000 
+skin 41 LThigh 0.2000 LLeg 0.8000 
+skin 42 LThigh 0.2000 LLeg 0.8000 
+skin 43 LLeg 1.0000 
+skin 44 LThigh 0.2000 LLeg 0.8000 
+skin 45 LLeg 1.0000 
+skin 46 LLeg 1.0000 
+skin 47 LLeg 1.0000 
+skin 48 LThigh 0.2000 LLeg 0.8000 
+skin 49 RLeg 1.0000 
+skin 50 RLeg 1.0000 
+skin 51 RLeg 1.0000 
+skin 52 RLeg 1.0000 
+skin 53 RLeg 1.0000 
+skin 54 RLeg 1.0000 
+skin 55 RLeg 1.0000 
+skin 56 RLeg 1.0000 
+skin 57 RLeg 1.0000 
+skin 58 RLeg 1.0000 
+skin 59 RThigh 0.2000 RLeg 0.8000 
+skin 60 RLeg 1.0000 
+skin 61 RLeg 1.0000 
+skin 62 RThigh 0.2000 RLeg 0.8000 
+skin 63 RToe 1.0000 
+skin 64 RToe 1.0000 
+skin 65 RToe 1.0000 
+skin 66 RToe 1.0000 
+skin 67 RFoot 0.2000 RToe 0.8000 
+skin 68 RFoot 0.2000 RToe 0.8000 
+skin 69 RFoot 1.0000 
+skin 70 RFoot 1.0000 
+skin 71 RFoot 1.0000 
+skin 72 RFoot 1.0000 
+skin 73 RFoot 1.0000 
+skin 74 RFoot 1.0000 
+skin 75 RFoot 1.0000 
+skin 76 RFoot 0.5000 RToe 0.5000 
+skin 77 RFoot 0.2000 RToe 0.8000 
+skin 78 RFoot 1.0000 
+skin 79 RFoot 0.2000 RToe 0.8000 
+skin 80 RFoot 0.2000 RToe 0.8000 
+skin 81 RLeg 0.5000 RFoot 0.5000 
+skin 82 RLeg 0.5000 RFoot 0.5000 
+skin 83 RLeg 0.5000 RFoot 0.5000 
+skin 84 RLeg 0.5000 RFoot 0.5000 
+skin 85 RLeg 0.5000 RFoot 0.5000 
+skin 86 RLeg 0.5000 RFoot 0.5000 
+skin 87 Spine2 1.0000 
+skin 88 Spine2 0.6000 Neck 0.4000 
+skin 89 Spine2 0.9000 LShoulder 0.1000 
+skin 90 RHand 1.0000 
+skin 91 RHand 1.0000 
+skin 92 RHand 1.0000 
+skin 93 RHand 1.0000 
+skin 94 RHand 1.0000 
+skin 95 RHand 1.0000 
+skin 96 RHand 1.0000 
+skin 97 RHand 1.0000 
+skin 98 RHand 0.4000 RHandEX 0.6000 
+skin 99 RHand 1.0000 
+skin 100 RHand 1.0000 
+skin 101 RHand 1.0000 
+skin 102 RHand 1.0000 
+skin 103 RHand 1.0000 
+skin 104 RHand 1.0000 
+skin 105 RHand 1.0000 
+skin 106 RHand 1.0000 
+skin 107 RHand 1.0000 
+skin 108 RHand 1.0000 
+skin 109 RHand 1.0000 
+skin 110 RHand 1.0000 
+skin 111 RHand 1.0000 
+skin 112 RHand 1.0000 
+skin 113 RHand 1.0000 
+skin 114 RHand 1.0000 
+skin 115 RHand 0.4000 RHandEX 0.6000 
+skin 116 RHand 1.0000 
+skin 117 RHand 1.0000 
+skin 118 RHand 1.0000 
+skin 119 RHand 1.0000 
+skin 120 RHand 1.0000 
+skin 121 RHand 1.0000 
+skin 122 RHand 1.0000 
+skin 123 RHand 1.0000 
+skin 124 RHand 1.0000 
+skin 125 RHand 1.0000 
+skin 126 RHand 1.0000 
+skin 127 RHand 1.0000 
+skin 128 RHand 0.4000 RHandEX 0.6000 
+skin 129 RHand 1.0000 
+skin 130 RHand 1.0000 
+skin 131 RHand 1.0000 
+skin 132 RHand 1.0000 
+skin 133 RHand 1.0000 
+skin 134 RHand 1.0000 
+skin 135 RHand 1.0000 
+skin 136 RHand 1.0000 
+skin 137 LHand 1.0000 
+skin 138 LHand 1.0000 
+skin 139 LHand 1.0000 
+skin 140 LHand 1.0000 
+skin 141 LHand 1.0000 
+skin 142 LHand 1.0000 
+skin 143 LHand 1.0000 
+skin 144 LHand 0.4000 LHandEX 0.6000 
+skin 145 LHand 1.0000 
+skin 146 LHand 1.0000 
+skin 147 LHand 1.0000 
+skin 148 LHand 1.0000 
+skin 149 LHand 1.0000 
+skin 150 LHand 1.0000 
+skin 151 LHand 1.0000 
+skin 152 LHand 1.0000 
+skin 153 LHand 1.0000 
+skin 154 LHand 1.0000 
+skin 155 LHand 1.0000 
+skin 156 LHand 1.0000 
+skin 157 LHand 1.0000 
+skin 158 LHand 1.0000 
+skin 159 LHand 1.0000 
+skin 160 LHand 1.0000 
+skin 161 LHand 1.0000 
+skin 162 LHand 0.4000 LHandEX 0.6000 
+skin 163 LHand 1.0000 
+skin 164 LHand 1.0000 
+skin 165 LHand 1.0000 
+skin 166 LHand 1.0000 
+skin 167 LHand 1.0000 
+skin 168 LHand 1.0000 
+skin 169 LHand 1.0000 
+skin 170 LHand 1.0000 
+skin 171 LHand 1.0000 
+skin 172 LHand 1.0000 
+skin 173 LHand 1.0000 
+skin 174 LHand 1.0000 
+skin 175 LHand 0.4000 LHandEX 0.6000 
+skin 176 LHand 1.0000 
+skin 177 LHand 1.0000 
+skin 178 LHand 1.0000 
+skin 179 LHand 1.0000 
+skin 180 LHand 1.0000 
+skin 181 LHand 1.0000 
+skin 182 LHand 1.0000 
+skin 183 LHand 1.0000 
+skin 184 LArmA 0.8000 LForeArm 0.2000 
+skin 185 LArmA 0.8000 LForeArm 0.2000 
+skin 186 LArmA 0.8000 LForeArm 0.2000 
+skin 187 LArmA 0.8000 LForeArm 0.2000 
+skin 188 LLeg 0.2000 LFoot 0.8000 
+skin 189 LLeg 0.2000 LFoot 0.8000 
+skin 190 LToe 1.0000 
+skin 191 LToe 1.0000 
+skin 192 LFoot 0.2000 LToe 0.8000 
+skin 193 RArmA 0.8000 RForeArm 0.2000 
+skin 194 RArmA 0.8000 RForeArm 0.2000 
+skin 195 RArmA 0.8000 RForeArm 0.2000 
+skin 196 RArmA 1.0000 
+skin 197 LLeg 1.0000 
+skin 198 LLeg 1.0000 
+skin 199 LLeg 1.0000 
+skin 200 LLeg 1.0000 
+skin 201 LLeg 1.0000 
+skin 202 LLeg 1.0000 
+skin 203 LLeg 0.5000 LFoot 0.5000 
+skin 204 LLeg 0.5000 LFoot 0.5000 
+skin 205 LLeg 0.5000 LFoot 0.5000 
+skin 206 LFoot 1.0000 
+skin 207 LFoot 1.0000 
+skin 208 LFoot 1.0000 
+skin 209 LFoot 1.0000 
+skin 210 LFoot 1.0000 
+skin 211 LFoot 1.0000 
+skin 212 LFoot 0.5000 LToe 0.5000 
+skin 213 LToe 1.0000 
+skin 214 LFoot 0.2000 LToe 0.8000 
+skin 215 LToe 1.0000 
+skin 216 LFoot 1.0000 
+skin 217 LFoot 1.0000 
+skin 218 LFoot 0.5000 LToe 0.5000 
+skin 219 LFoot 0.5000 LToe 0.5000 
+skin 220 LFoot 0.5000 LToe 0.5000 
+skin 221 Spine2 0.3000 LShoulder 0.7000 
+skin 222 LShoulder 0.2000 LArmA 0.8000 
+skin 223 Spine2 0.4000 LShoulder 0.6000 
+skin 224 LShoulder 0.6000 LArmA 0.4000 
+skin 225 Spine2 0.6000 LShoulder 0.4000 
+skin 226 LShoulder 0.7000 LArmA 0.3000 
+skin 227 LShoulder 0.3000 LArmA 0.7000 
+skin 228 Spine2 0.6000 LShoulder 0.4000 
+skin 229 LShoulder 0.7000 LArmA 0.3000 
+skin 230 RShoulder 0.2000 RArmA 0.8000 
+skin 231 Spine2 0.9000 RShoulder 0.1000 
+skin 232 RShoulder 0.6000 RArmA 0.4000 
+skin 233 Spine2 0.4000 RShoulder 0.6000 
+skin 234 RShoulder 0.7000 RArmA 0.3000 
+skin 235 Spine2 0.6000 RShoulder 0.4000 
+skin 236 Spine1 0.4000 Spine2 0.6000 
+skin 237 Spine1 0.4000 Spine2 0.6000 
+skin 238 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 239 Spine1 0.4000 Spine2 0.4000 LShoulder 0.2000 
+skin 240 Spine2 0.6000 RShoulder 0.4000 
+skin 241 RShoulder 0.7000 RArmA 0.3000 
+skin 242 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 243 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 244 Spine1 0.4000 Spine2 0.4000 RShoulder 0.2000 
+skin 245 LShoulder 0.6000 LArmA 0.4000 
+skin 246 Spine2 0.5000 LShoulder 0.3000 LArmA 0.2000 
+skin 247 Spine1 0.5000 Spine2 0.5000 
+skin 248 Spine1 0.5000 Spine2 0.5000 
+skin 249 Waist 0.0500 Spine1 0.6000 Spine2 0.3500 
+skin 250 Spine1 0.5000 Spine2 0.5000 
+skin 251 Spine1 0.2000 Spine2 0.8000 
+skin 252 LShoulder 0.7000 LArmA 0.3000 
+skin 253 Spine1 0.1400 Spine2 0.5600 LShoulder 0.3000 
+skin 254 Spine2 0.8000 LShoulder 0.2000 
+skin 255 Spine2 0.5000 LShoulder 0.5000 
+skin 256 LShoulder 0.7000 LArmA 0.3000 
+skin 257 Spine2 0.5000 LShoulder 0.5000 
+skin 258 Spine1 0.2000 Spine2 0.8000 
+skin 259 Spine1 0.5000 Spine2 0.5000 
+skin 260 Spine1 0.5000 Spine2 0.5000 
+skin 261 Spine1 0.2000 Spine2 0.8000 
+skin 262 Spine1 0.5000 Spine2 0.5000 
+skin 263 Spine1 0.4000 Spine2 0.4000 RShoulder 0.2000 
+skin 264 Spine1 0.4000 Spine2 0.4000 RShoulder 0.2000 
+skin 265 RShoulder 0.3000 RArmA 0.7000 
+skin 266 Spine2 0.5000 RShoulder 0.3000 RArmA 0.2000 
+skin 267 Spine2 0.8000 RShoulder 0.2000 
+skin 268 Spine2 0.5000 RShoulder 0.5000 
+skin 269 RShoulder 0.7000 RArmA 0.3000 
+skin 270 RShoulder 0.7000 RArmA 0.3000 
+skin 271 Spine2 0.5000 RShoulder 0.5000 
+skin 272 RShoulder 0.7000 RArmA 0.3000 
+skin 273 RShoulder 0.6000 RArmA 0.4000 
+skin 274 Spine2 0.1000 RShoulder 0.4000 RArmA 0.5000 
+skin 275 Spine2 0.2500 RShoulder 0.3000 RArmA 0.4500 
+skin 276 RShoulder 0.6000 RArmA 0.4000 
+skin 277 RShoulder 0.3000 RArmA 0.7000 
+skin 278 RShoulder 0.4000 RArmA 0.6000 
+skin 279 RShoulder 0.1000 RArmA 0.9000 
+skin 280 RArmA 1.0000 
+skin 281 RShoulder 0.2000 RArmA 0.8000 
+skin 282 LShoulder 0.3000 LArmA 0.7000 
+skin 283 Spine2 0.1000 LShoulder 0.4000 LArmA 0.5000 
+skin 284 LShoulder 0.6000 LArmA 0.4000 
+skin 285 Spine2 0.2500 LShoulder 0.3000 LArmA 0.4500 
+skin 286 Spine2 0.5000 Neck 0.5000 
+skin 287 Head 1.0000 
+skin 288 Spine2 0.5000 Neck 0.5000 
+skin 289 Head 1.0000 
+skin 290 Spine2 0.5000 Neck 0.5000 
+skin 291 Head 1.0000 
+skin 292 Head 1.0000 
+skin 293 Spine2 0.5000 Neck 0.5000 
+skin 294 LThigh 0.5000 LLeg 0.5000 
+skin 295 LThigh 0.8000 LLeg 0.2000 
+skin 296 LThigh 0.8000 LLeg 0.2000 
+skin 297 LThigh 0.8000 LLeg 0.2000 
+skin 298 LThigh 0.5000 LLeg 0.5000 
+skin 299 Waist 0.1000 LThigh 0.9000 
+skin 300 Waist 0.1000 LThigh 0.9000 
+skin 301 LThigh 0.8000 LLeg 0.2000 
+skin 302 LThigh 0.2000 LLeg 0.8000 
+skin 303 LThigh 0.8000 LLeg 0.2000 
+skin 304 LThigh 0.5000 LLeg 0.5000 
+skin 305 Waist 0.8000 LThigh 0.2000 
+skin 306 Waist 0.1000 LThigh 0.9000 
+skin 307 LThigh 0.5000 LLeg 0.5000 
+skin 308 Waist 0.1000 LThigh 0.9000 
+skin 309 LThigh 0.8000 LLeg 0.2000 
+skin 310 Waist 0.6000 LThigh 0.4000 
+skin 311 Waist 0.8000 LThigh 0.1000 RThigh 0.1000 
+skin 312 Waist 0.8000 LThigh 0.1000 RThigh 0.1000 
+skin 313 Waist 0.1000 LThigh 0.9000 
+skin 314 Waist 0.1000 LThigh 0.9000 
+skin 315 Waist 0.7000 LThigh 0.3000 
+skin 316 Waist 0.9000 LThigh 0.0500 RThigh 0.0500 
+skin 317 Waist 0.9000 LThigh 0.1000 
+skin 318 Waist 0.4000 LThigh 0.6000 
+skin 319 Waist 0.4000 LThigh 0.6000 
+skin 320 Waist 0.8000 RThigh 0.2000 
+skin 321 Waist 0.6000 RThigh 0.4000 
+skin 322 Waist 0.1000 RThigh 0.9000 
+skin 323 Waist 0.1000 RThigh 0.9000 
+skin 324 Waist 0.9500 LThigh 0.0500 
+skin 325 Waist 1.0000 
+skin 326 Waist 0.4000 LThigh 0.6000 
+skin 327 Waist 0.8000 LThigh 0.2000 
+skin 328 Waist 0.9000 LThigh 0.1000 
+skin 329 Waist 1.0000 
+skin 330 RThigh 0.8000 RLeg 0.2000 
+skin 331 Waist 0.9000 RThigh 0.1000 
+skin 332 Waist 0.1000 RThigh 0.9000 
+skin 333 Waist 0.7000 RThigh 0.3000 
+skin 334 Waist 0.8000 LThigh 0.2000 
+skin 335 Waist 0.8500 Spine1 0.1500 
+skin 336 Waist 1.0000 
+skin 337 Waist 0.8500 Spine1 0.1500 
+skin 338 Waist 0.8500 Spine1 0.1500 
+skin 339 RThigh 0.8000 RLeg 0.2000 
+skin 340 RThigh 0.5000 RLeg 0.5000 
+skin 341 Waist 0.1000 RThigh 0.9000 
+skin 342 RThigh 0.8000 RLeg 0.2000 
+skin 343 RThigh 0.8000 RLeg 0.2000 
+skin 344 Waist 0.9500 RThigh 0.0500 
+skin 345 Waist 0.8500 Spine1 0.1500 
+skin 346 RThigh 0.2000 RLeg 0.8000 
+skin 347 RThigh 0.2000 RLeg 0.8000 
+skin 348 Waist 0.1000 RThigh 0.9000 
+skin 349 Waist 0.4000 RThigh 0.6000 
+skin 350 Waist 0.4000 RThigh 0.6000 
+skin 351 Waist 0.4000 RThigh 0.6000 
+skin 352 Waist 0.9000 RThigh 0.1000 
+skin 353 Waist 1.0000 
+skin 354 RThigh 0.5000 RLeg 0.5000 
+skin 355 RThigh 0.2000 RLeg 0.8000 
+skin 356 RThigh 0.8000 RLeg 0.2000 
+skin 357 Waist 0.1000 RThigh 0.9000 
+skin 358 RThigh 0.8000 RLeg 0.2000 
+skin 359 Waist 0.8000 RThigh 0.2000 
+skin 360 Waist 0.8500 Spine1 0.1500 
+skin 361 Waist 0.8000 RThigh 0.2000 
+skin 362 Waist 0.8500 Spine1 0.1500 
+skin 363 RThigh 0.2000 RLeg 0.8000 
+skin 364 RThigh 0.5000 RLeg 0.5000 
+skin 365 RThigh 0.5000 RLeg 0.5000 
+skin 366 RFoot 0.5000 RToe 0.5000 
+skin 367 RFoot 0.5000 RToe 0.5000 
+skin 368 RFoot 0.2000 RToe 0.8000 
+skin 369 RFoot 0.5000 RToe 0.5000 
+skin 370 RLeg 0.2000 RFoot 0.8000 
+skin 371 RLeg 0.2000 RFoot 0.8000 
+skin 372 RLeg 0.2000 RFoot 0.8000 
+skin 373 RLeg 0.2000 RFoot 0.8000 
+skin 374 RLeg 0.2000 RFoot 0.8000 
+skin 375 RFoot 0.5000 RToe 0.5000 
+skin 376 RLeg 0.2000 RFoot 0.8000 
+skin 377 RFoot 0.5000 RToe 0.5000 
+skin 378 Spine1 0.2000 Spine2 0.8000 
+skin 379 Spine1 0.1500 Spine2 0.5500 RShoulder 0.3000 
+skin 380 Spine1 0.5000 Spine2 0.5000 
+skin 381 Spine1 0.5000 Spine2 0.5000 
+skin 382 Spine1 0.4000 Spine2 0.4000 RShoulder 0.2000 
+skin 383 Spine1 0.5000 Spine2 0.5000 
+skin 384 Spine2 0.4500 Neck 0.4000 RShoulder 0.1500 
+skin 385 Spine2 0.6000 Neck 0.4000 
+skin 386 Spine2 0.6000 Neck 0.4000 
+skin 387 Spine2 0.4500 LShoulder 0.1500 Neck 0.4000 
+skin 388 Spine2 0.3000 LShoulder 0.3000 Neck 0.4000 
+skin 389 Spine2 0.5500 LShoulder 0.2500 Neck 0.2000 
+skin 390 Spine1 0.1500 Spine2 0.5500 LShoulder 0.3000 
+skin 391 Spine1 0.2000 Spine2 0.8000 
+skin 392 Spine1 0.5000 Spine2 0.5000 
+skin 393 Spine1 0.4000 Spine2 0.4000 LShoulder 0.2000 
+skin 394 Spine1 0.5000 Spine2 0.5000 
+skin 395 Spine1 0.5000 Spine2 0.5000 
+skin 396 Spine1 0.5000 Spine2 0.5000 
+skin 397 RHand 0.4000 RHandEX 0.6000 
+skin 398 RHand 0.4000 RHandEX 0.6000 
+skin 399 RHand 0.4000 RHandEX 0.6000 
+skin 400 RHand 0.4000 RHandEX 0.6000 
+skin 401 RHand 0.4000 RHandEX 0.6000 
+skin 402 RHand 0.4000 RHandEX 0.6000 
+skin 403 RHand 0.4000 RHandEX 0.6000 
+skin 404 RHand 0.4000 RHandEX 0.6000 
+skin 405 RHand 0.4000 RHandEX 0.6000 
+skin 406 LHand 0.4000 LHandEX 0.6000 
+skin 407 LHand 0.4000 LHandEX 0.6000 
+skin 408 LHand 0.4000 LHandEX 0.6000 
+skin 409 LHand 0.4000 LHandEX 0.6000 
+skin 410 LHand 0.4000 LHandEX 0.6000 
+skin 411 LHand 0.4000 LHandEX 0.6000 
+skin 412 LHand 0.4000 LHandEX 0.6000 
+skin 413 LHand 0.4000 LHandEX 0.6000 
+skin 414 LHand 0.4000 LHandEX 0.6000 
+skin 415 LArmA 0.2000 LForeArm 0.8000 
+skin 416 LForeArm 0.6000 LHandEX 0.4000 
+skin 417 LArmA 0.2000 LForeArm 0.8000 
+skin 418 LForeArm 0.6000 LHandEX 0.4000 
+skin 419 LArmA 0.8000 LForeArm 0.2000 
+skin 420 LArmA 0.2000 LForeArm 0.8000 
+skin 421 LArmA 0.5000 LForeArm 0.5000 
+skin 422 LForeArm 0.6000 LHandEX 0.4000 
+skin 423 LArmA 0.5000 LForeArm 0.5000 
+skin 424 LArmA 0.8000 LForeArm 0.2000 
+skin 425 LForeArm 0.6000 LHandEX 0.4000 
+skin 426 LArmA 0.2000 LForeArm 0.8000 
+skin 427 LArmA 0.5000 LForeArm 0.5000 
+skin 428 LArmA 0.2000 LForeArm 0.8000 
+skin 429 LArmA 0.5000 LForeArm 0.5000 
+skin 430 LArmA 0.2000 LForeArm 0.8000 
+skin 431 LForeArm 0.6000 LHandEX 0.4000 
+skin 432 LForeArm 0.6000 LHandEX 0.4000 
+skin 433 LLeg 0.2000 LFoot 0.8000 
+skin 434 LFoot 0.5000 LToe 0.5000 
+skin 435 LFoot 0.5000 LToe 0.5000 
+skin 436 LLeg 0.2000 LFoot 0.8000 
+skin 437 LFoot 0.2000 LToe 0.8000 
+skin 438 LFoot 0.2000 LToe 0.8000 
+skin 439 LFoot 0.2000 LToe 0.8000 
+skin 440 LLeg 0.2000 LFoot 0.8000 
+skin 441 LLeg 0.5000 LFoot 0.5000 
+skin 442 LLeg 0.2000 LFoot 0.8000 
+skin 443 LLeg 0.5000 LFoot 0.5000 
+skin 444 LLeg 0.5000 LFoot 0.5000 
+skin 445 RArmA 0.2000 RForeArm 0.8000 
+skin 446 RArmA 0.2000 RForeArm 0.8000 
+skin 447 RForeArm 0.6000 RHandEX 0.4000 
+skin 448 RForeArm 0.6000 RHandEX 0.4000 
+skin 449 RArmA 0.8000 RForeArm 0.2000 
+skin 450 RArmA 0.2000 RForeArm 0.8000 
+skin 451 RArmA 0.5000 RForeArm 0.5000 
+skin 452 RForeArm 0.6000 RHandEX 0.4000 
+skin 453 RArmA 0.5000 RForeArm 0.5000 
+skin 454 RForeArm 0.6000 RHandEX 0.4000 
+skin 455 RArmA 0.2000 RForeArm 0.8000 
+skin 456 RArmA 0.8000 RForeArm 0.2000 
+skin 457 RArmA 0.5000 RForeArm 0.5000 
+skin 458 RArmA 0.8000 RForeArm 0.2000 
+skin 459 RArmA 0.2000 RForeArm 0.8000 
+skin 460 RForeArm 0.6000 RHandEX 0.4000 
+skin 461 RForeArm 0.6000 RHandEX 0.4000 
+skin 462 RArmA 0.5000 RForeArm 0.5000 
+skin 463 RArmA 0.2000 RForeArm 0.8000 
+skin 464 LFoot 0.2000 LToe 0.8000 
+skin 465 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 466 Waist 0.8000 Spine1 0.2000 
+skin 467 Waist 0.8000 Spine1 0.2000 
+skin 468 Waist 0.8000 Spine1 0.2000 
+skin 469 Waist 0.8000 Spine1 0.2000 
+skin 470 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 471 Waist 0.8000 Spine1 0.2000 
+skin 472 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 473 Waist 0.8000 Spine1 0.2000 
+skin 474 Spine1 0.4000 Spine2 0.4000 LShoulder 0.2000 
+skin 475 Waist 0.8000 Spine1 0.2000 
+skin 476 Waist 0.7500 Spine1 0.2500 
+skin 477 Waist 0.4000 Spine1 0.5000 Spine2 0.1000 
+skin 478 Spine1 0.4000 Spine2 0.4000 LShoulder 0.2000 
+skin 479 Waist 0.7500 Spine1 0.2500 
+skin 480 Waist 0.8000 Spine1 0.2000 
+skin 481 Waist 0.8000 Spine1 0.2000 
+skin 482 Waist 0.0500 Spine1 0.7000 Spine2 0.2500 
+skin 483 Waist 0.8000 Spine1 0.2000 
+skin 484 Spine1 0.1400 Spine2 0.5600 RShoulder 0.3000 
+skin 485 Waist 0.8500 Spine1 0.1500 
+skin 486 Waist 0.8500 Spine1 0.1500 
+skin 487 Waist 0.8000 LThigh 0.1000 RThigh 0.1000 
+skin 488 Waist 0.8500 Spine1 0.1500 
+skin 489 Waist 0.8500 Spine1 0.1500 
+skin 490 Spine2 0.3000 Neck 0.4000 RShoulder 0.3000 
+skin 491 Head 1.0000 
+skin 492 Head 1.0000 
+skin 493 Head 1.0000 
+skin 494 Head 1.0000 
+skin 495 Head 1.0000 
+skin 496 Head 1.0000 
+skin 497 Head 1.0000 
+skin 498 Head 1.0000 
+skin 499 Head 1.0000 
+skin 500 Head 1.0000 
+skin 501 Head 1.0000 
+skin 502 Head 1.0000 
+skin 503 Head 1.0000 
+skin 504 Head 1.0000 
+skin 505 Head 1.0000 
+skin 506 Head 1.0000 
+skin 507 Head 1.0000 
+skin 508 Head 1.0000 
+skin 509 Head 1.0000 
+skin 510 Head 1.0000 
+skin 511 Head 1.0000 
+skin 512 Head 1.0000 
+skin 513 Head 1.0000 
+skin 514 Head 1.0000 
+skin 515 Head 1.0000 
+skin 516 Head 1.0000 
+skin 517 Head 1.0000 
+skin 518 Head 1.0000 
+skin 519 Head 1.0000 
+skin 520 Head 1.0000 
+skin 521 Head 1.0000 
+skin 522 Head 1.0000 
+skin 523 Head 1.0000 
+skin 524 Head 1.0000 
+skin 525 Head 1.0000 
+skin 526 Head 1.0000 
+skin 527 Head 1.0000 
+skin 528 Head 1.0000 
+skin 529 Head 1.0000 
+skin 530 Head 1.0000 
+skin 531 Head 1.0000 
+skin 532 Head 1.0000 
+skin 533 Head 1.0000 
+skin 534 Head 1.0000 
+skin 535 Head 1.0000 
+skin 536 Head 1.0000 
+skin 537 Head 1.0000 
+skin 538 Head 1.0000 
+skin 539 Head 1.0000 
+skin 540 Head 1.0000 
+skin 541 Head 1.0000 
+skin 542 Head 1.0000 
+skin 543 Head 1.0000 
+skin 544 Head 1.0000 
+skin 545 Head 1.0000 
+skin 546 Head 1.0000 
+skin 547 Head 1.0000 
+skin 548 Head 1.0000 
+skin 549 Head 1.0000 
+skin 550 Head 1.0000 
+skin 551 Head 1.0000 
+skin 552 Head 1.0000 
+skin 553 Head 1.0000 
+skin 554 Head 1.0000 
+skin 555 Head 1.0000 
+skin 556 Head 1.0000 
+skin 557 Head 1.0000 
+skin 558 Head 1.0000 
+skin 559 Head 1.0000 
+skin 560 Head 1.0000 
+skin 561 Head 1.0000 
+skin 562 Head 1.0000 
+skin 563 Head 1.0000 
+skin 564 Head 1.0000 
+skin 565 Head 1.0000 
+skin 566 Head 1.0000 
+skin 567 Head 1.0000 
+skin 568 Head 1.0000 
+skin 569 Head 1.0000 
+skin 570 Head 1.0000 
+skin 571 Head 1.0000 
+skin 572 Head 1.0000 
+skin 573 Head 1.0000 
+skin 574 Head 1.0000 
+skin 575 Head 1.0000 
+skin 576 Head 1.0000 
+skin 577 Head 1.0000 
+skin 578 Head 1.0000 
+skin 579 Head 1.0000 
+skin 580 Head 1.0000 
+skin 581 Head 1.0000 
+skin 582 Head 1.0000 
+skin 583 Head 1.0000 
+skin 584 Head 1.0000 
+skin 585 Head 1.0000 
+skin 586 Head 1.0000 
+skin 587 Head 1.0000 
+skin 588 Head 1.0000 
+skin 589 Head 1.0000 
+skin 590 Head 1.0000 
+skin 591 Head 1.0000 
+skin 592 Head 1.0000 
+skin 593 Head 1.0000 
+skin 594 Head 1.0000 
+skin 595 Head 1.0000 
+skin 596 Head 1.0000 
+skin 597 Head 1.0000 
+skin 598 Head 1.0000 
+skin 599 Head 1.0000 
+skin 600 Head 1.0000 
+skin 601 Head 1.0000 
+skin 602 Head 1.0000 
+skin 603 Head 1.0000 
+skin 604 Head 1.0000 
+skin 605 Head 1.0000 
+skin 606 Head 1.0000 
+skin 607 Head 1.0000 
+skin 608 Head 1.0000 
+skin 609 Head 1.0000 
+skin 610 Head 1.0000 
+skin 611 Head 1.0000 
+skin 612 Head 1.0000 
+skin 613 Head 1.0000 
+skin 614 Head 1.0000 
+skin 615 Head 1.0000 
+skin 616 Head 1.0000 
+skin 617 Head 1.0000 
+skin 618 Head 1.0000 
+skin 619 Head 1.0000 
+skin 620 Head 1.0000 
+skin 621 Head 1.0000 
+skin 622 Head 1.0000 
+skin 623 Head 1.0000 
+skin 624 Head 1.0000 
+skin 625 Head 1.0000 
+skin 626 Head 1.0000 
+skin 627 Head 1.0000 
+skin 628 Head 1.0000 
+skin 629 Head 1.0000 
+skin 630 Head 1.0000 
+skin 631 Head 1.0000 
+skin 632 Head 1.0000 
+skin 633 Head 1.0000 
+skin 634 Head 1.0000 
+skin 635 Head 1.0000 
+skin 636 Head 1.0000 
+skin 637 Head 1.0000 
+skin 638 Head 1.0000 
+skin 639 Head 1.0000 
+skin 640 Head 1.0000 
+skin 641 Head 1.0000 
+skin 642 Head 1.0000 
+skin 643 Head 1.0000 
+skin 644 Head 1.0000 
+skin 645 Head 1.0000 
+skin 646 Head 1.0000 
+skin 647 Head 1.0000 
+skin 648 Head 1.0000 
+skin 649 Head 1.0000 
+skin 650 Head 1.0000 
+skin 651 Head 1.0000 
+skin 652 Head 1.0000 
+skin 653 Head 1.0000 
+skin 654 Head 1.0000 
+skin 655 Head 1.0000 
+skin 656 Head 1.0000 
+skin 657 Head 1.0000 
+skin 658 Head 1.0000 
+skin 659 Head 1.0000 
+skin 660 Head 1.0000 
+skin 661 Head 1.0000 
+skin 662 Head 1.0000 
+skin 663 Head 1.0000 
+skin 664 Head 1.0000 
+skin 665 Head 1.0000 
+skin 666 Head 1.0000 
+skin 667 Head 1.0000 
+skin 668 Head 1.0000 
+skin 669 Head 1.0000 
+skin 670 Head 1.0000 
+skin 671 Head 1.0000 
+skin 672 Head 1.0000 
+skin 673 Head 1.0000 
+skin 674 Head 1.0000 
+skin 675 Head 1.0000 
+skin 676 Head 1.0000 
+skin 677 Head 1.0000 
+skin 678 Head 1.0000 
+skin 679 Head 1.0000 
+skin 680 Head 1.0000 
+skin 681 Head 1.0000 
+skin 682 Head 1.0000 
+skin 683 Head 1.0000 
+skin 684 Head 1.0000 
+skin 685 Head 1.0000 
+skin 686 Head 1.0000 
+skin 687 Head 1.0000 
+skin 688 Head 1.0000 
+skin 689 Head 1.0000 
+skin 690 Head 1.0000 
+skin 691 Head 1.0000 
+skin 692 Head 1.0000 
+skin 693 Head 1.0000 
+skin 694 Head 1.0000 
+skin 695 Head 1.0000 
+skin 696 Head 1.0000 
+skin 697 Head 1.0000 
+skin 698 Head 1.0000 
+skin 699 Head 1.0000 
+skin 700 Head 1.0000 
+skin 701 Head 1.0000 
+skin 702 Head 1.0000 
+skin 703 Head 1.0000 
+skin 704 Head 1.0000 
+skin 705 Head 1.0000 
+skin 706 Head 1.0000 
+skin 707 Head 1.0000 
+skin 708 Head 1.0000 
+skin 709 Head 1.0000 
+skin 710 Head 1.0000 
+skin 711 Head 1.0000 
+skin 712 Head 1.0000 
+skin 713 Head 1.0000 
+skin 714 Head 1.0000 
+skin 715 Head 1.0000 
+skin 716 Head 1.0000 
+skin 717 Head 1.0000 
+hier Waist LThigh
+hier Waist RThigh
+hier Waist Spine1
+hier LThigh LLeg
+hier RThigh RLeg
+hier Spine1 Spine2
+hier LLeg LFoot
+hier RLeg RFoot
+hier Spine2 LShoulder
+hier Spine2 Neck
+hier Spine2 RShoulder
+hier LFoot LToe
+hier RFoot RToe
+hier LShoulder LArmA
+hier Neck Head
+hier RShoulder RArmA
+hier LArmA LForeArm
+hier Head loc_eye
+hier Head loc_head
+hier Head loc_mouth
+hier RArmA RForeArm
+hier LForeArm LHand
+hier LForeArm LHandEX
+hier RForeArm RHand
+hier RForeArm RHandEX

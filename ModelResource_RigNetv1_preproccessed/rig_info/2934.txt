@@ -1,0 +1,680 @@
+joints Bip01 0.00000000 0.48292300 -0.10009450
+joints Bip01_Footsteps 0.00000000 0.00045467 -0.10009450
+joints Bip01_Spine 0.00000000 0.59322900 -0.08567990
+joints obj_saya 0.08599980 0.50503700 -0.09461709
+joints Bip01_Neck 0.00000000 0.75812300 -0.10863934
+joints Bip01_L_Thigh 0.03297610 0.48292300 -0.10009450
+joints Bip01_R_Thigh -0.03297610 0.48292300 -0.10009450
+joints AB_manto_ROOT 0.00000000 0.69880400 -0.17409250
+joints Bip01_Head 0.00000000 0.78703200 -0.10861702
+joints Bip01_L_Clavicle 0.01683800 0.71838900 -0.10009450
+joints Bip01_R_Clavicle -0.01683800 0.71838900 -0.10009450
+joints Bip01_L_Calf 0.03297610 0.28260200 -0.10491402
+joints Bip01_R_Calf -0.03297570 0.28260200 -0.10491362
+joints AB_manto_01 0.00000000 0.57342800 -0.17409250
+joints Bip01_HeadNub 0.00000000 0.95526100 -0.10861702
+joints Bip01_L_UpperArm 0.07891670 0.71838900 -0.10009450
+joints Bip01_R_UpperArm -0.07891670 0.71838900 -0.10009450
+joints Bip01_L_Foot 0.03297610 0.05870040 -0.12251340
+joints Bip01_R_Foot -0.03297580 0.05870090 -0.12251370
+joints Bip01_L_Forearm 0.20936900 0.71838900 -0.10009450
+joints Bone_L_UpArm 0.09755130 0.71849400 -0.10162319
+joints Bip01_R_Forearm -0.20936900 0.71838900 -0.10009450
+joints Bone_R_UpArm -0.09754910 0.71849400 -0.10162319
+joints Bip01_L_Toe0 0.03297610 0.00045500 -0.04207820
+joints Bip01_R_Toe0 -0.03297580 0.00045548 -0.04207850
+joints Bip01_L_Hand 0.31853200 0.71838900 -0.09964311
+joints Bone_L_UpArm_END 0.16792500 0.71859200 -0.10162108
+joints Bip01_R_Hand -0.31853200 0.71838900 -0.09964256
+joints Bone_R_UpArm_END -0.16792300 0.71859200 -0.10162108
+joints L_Hand_Dummy 0.36612800 0.70593200 -0.09593135
+joints Bip01_R_Finger0 -0.36809200 0.71838900 -0.09943738
+joints Bip01_R_Finger0Nub -0.39985400 0.71838900 -0.09930589
+root Bip01
+skin 0 Bip01_R_Clavicle 1.0000 
+skin 1 Bip01_Spine 0.5000 Bip01_R_Clavicle 0.5000 
+skin 2 Bip01_R_Clavicle 1.0000 
+skin 3 AB_manto_01 1.0000 
+skin 4 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 5 AB_manto_01 1.0000 
+skin 6 Bip01_R_Foot 1.0000 
+skin 7 Bip01_R_Foot 1.0000 
+skin 8 Bip01_R_Foot 1.0000 
+skin 9 Bip01_R_Foot 1.0000 
+skin 10 Bip01_R_Foot 1.0000 
+skin 11 Bip01_Head 1.0000 
+skin 12 Bip01_Head 1.0000 
+skin 13 Bip01_Head 1.0000 
+skin 14 Bip01_Head 1.0000 
+skin 15 Bip01_L_Foot 1.0000 
+skin 16 Bip01_L_Foot 1.0000 
+skin 17 Bip01_L_Foot 1.0000 
+skin 18 Bip01_L_Foot 1.0000 
+skin 19 Bip01_L_Calf 1.0000 
+skin 20 Bip01_L_Calf 1.0000 
+skin 21 Bip01_L_Calf 1.0000 
+skin 22 Bip01_L_Foot 1.0000 
+skin 23 Bone_L_UpArm 1.0000 
+skin 24 Bip01_L_Clavicle 0.5000 Bone_L_UpArm 0.5000 
+skin 25 Bone_L_UpArm 1.0000 
+skin 26 Bip01_L_UpperArm 1.0000 
+skin 27 Bip01_L_UpperArm 1.0000 
+skin 28 Bip01_L_Forearm 1.0000 
+skin 29 Bip01_L_Forearm 1.0000 
+skin 30 Bip01_L_Forearm 1.0000 
+skin 31 Bip01_L_Forearm 1.0000 
+skin 32 Bip01_R_Calf 1.0000 
+skin 33 Bip01_R_Calf 1.0000 
+skin 34 Bip01_R_Calf 1.0000 
+skin 35 AB_manto_01 1.0000 
+skin 36 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 37 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 38 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 39 AB_manto_01 1.0000 
+skin 40 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 41 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 42 Bip01_R_Clavicle 1.0000 
+skin 43 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 44 Bip01_L_Foot 1.0000 
+skin 45 Bip01_L_Foot 1.0000 
+skin 46 Bip01_L_Foot 1.0000 
+skin 47 Bip01_L_Foot 1.0000 
+skin 48 Bip01_L_Foot 1.0000 
+skin 49 Bip01_L_Foot 1.0000 
+skin 50 Bip01_L_Foot 1.0000 
+skin 51 Bip01_L_Foot 1.0000 
+skin 52 Bip01_L_Foot 1.0000 
+skin 53 Bip01_L_Foot 1.0000 
+skin 54 Bone_R_UpArm 1.0000 
+skin 55 Bone_R_UpArm 1.0000 
+skin 56 Bip01_R_Clavicle 0.5000 Bone_R_UpArm 0.5000 
+skin 57 Bip01_R_UpperArm 1.0000 
+skin 58 Bip01_R_UpperArm 1.0000 
+skin 59 Bip01_R_Forearm 1.0000 
+skin 60 Bip01_R_Forearm 1.0000 
+skin 61 Bip01_R_Forearm 1.0000 
+skin 62 Bip01_R_UpperArm 1.0000 
+skin 63 Bip01_R_Forearm 1.0000 
+skin 64 Bip01_R_Forearm 1.0000 
+skin 65 Bone_R_UpArm 1.0000 
+skin 66 Bip01_R_Clavicle 0.5000 Bone_R_UpArm 0.5000 
+skin 67 Bip01_R_Clavicle 1.0000 
+skin 68 Bip01_R_Clavicle 1.0000 
+skin 69 Bip01_Spine 1.0000 
+skin 70 Bip01_R_Clavicle 0.5000 Bone_R_UpArm 0.5000 
+skin 71 Bone_R_UpArm 1.0000 
+skin 72 Bip01_R_UpperArm 1.0000 
+skin 73 Bip01_R_Forearm 1.0000 
+skin 74 Bip01_R_Forearm 1.0000 
+skin 75 Bip01_Spine 1.0000 
+skin 76 Bip01_Spine 1.0000 
+skin 77 Bip01_Spine 1.0000 
+skin 78 Bip01_R_Forearm 1.0000 
+skin 79 Bip01_R_Clavicle 1.0000 
+skin 80 Bip01_Spine 1.0000 
+skin 81 Bip01_Spine 1.0000 
+skin 82 Bip01_Spine 1.0000 
+skin 83 Bip01_R_Clavicle 1.0000 
+skin 84 Bip01_Spine 0.5000 Bip01_R_Clavicle 0.5000 
+skin 85 Bip01_Spine 1.0000 
+skin 86 Bip01_Spine 0.5000 Bip01_R_Clavicle 0.5000 
+skin 87 Bip01_Spine 0.5000 Bip01_R_Clavicle 0.5000 
+skin 88 Bip01_Spine 1.0000 
+skin 89 Bip01_Spine 1.0000 
+skin 90 Bip01_Spine 1.0000 
+skin 91 Bip01_L_Calf 1.0000 
+skin 92 Bip01_Head 1.0000 
+skin 93 Bip01_Head 1.0000 
+skin 94 Bip01_Head 1.0000 
+skin 95 Bip01_Head 1.0000 
+skin 96 Bip01_Head 1.0000 
+skin 97 Bip01_Head 1.0000 
+skin 98 Bip01_Head 1.0000 
+skin 99 Bip01_Head 1.0000 
+skin 100 Bip01_Head 1.0000 
+skin 101 Bip01_Head 1.0000 
+skin 102 Bip01_Head 1.0000 
+skin 103 Bip01_Head 1.0000 
+skin 104 Bip01_Head 1.0000 
+skin 105 Bip01_Head 1.0000 
+skin 106 Bip01_L_Clavicle 1.0000 
+skin 107 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 108 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 109 Bip01_Head 1.0000 
+skin 110 Bip01_Head 1.0000 
+skin 111 AB_manto_01 1.0000 
+skin 112 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 113 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 114 Bip01_Head 1.0000 
+skin 115 Bip01_Head 1.0000 
+skin 116 Bip01_Head 1.0000 
+skin 117 Bip01_Head 1.0000 
+skin 118 Bip01_R_Foot 1.0000 
+skin 119 Bip01_R_Foot 1.0000 
+skin 120 Bip01_R_Foot 1.0000 
+skin 121 Bip01_R_Foot 1.0000 
+skin 122 Bip01_R_Calf 1.0000 
+skin 123 Bip01_R_Calf 1.0000 
+skin 124 Bip01_R_Calf 1.0000 
+skin 125 Bip01_R_Foot 1.0000 
+skin 126 Bip01_R_Foot 1.0000 
+skin 127 Bip01_R_Foot 1.0000 
+skin 128 Bip01_R_Foot 1.0000 
+skin 129 Bip01_R_Foot 1.0000 
+skin 130 Bip01_R_Foot 1.0000 
+skin 131 Bip01_R_Calf 1.0000 
+skin 132 Bip01_Head 1.0000 
+skin 133 Bip01_R_Calf 1.0000 
+skin 134 Bip01_R_Calf 1.0000 
+skin 135 Bip01_R_Calf 1.0000 
+skin 136 Bip01_L_Clavicle 1.0000 
+skin 137 Bip01_Spine 0.5000 Bip01_L_Clavicle 0.5000 
+skin 138 Bip01_Spine 0.5000 Bip01_L_Clavicle 0.5000 
+skin 139 Bip01_L_Clavicle 1.0000 
+skin 140 Bip01_L_Clavicle 1.0000 
+skin 141 Bip01_L_Calf 1.0000 
+skin 142 Bip01_L_Calf 1.0000 
+skin 143 Bip01_L_Calf 1.0000 
+skin 144 Bip01_L_Clavicle 1.0000 
+skin 145 Bip01_Spine 0.5000 Bip01_L_Clavicle 0.5000 
+skin 146 Bip01_L_Clavicle 1.0000 
+skin 147 Bip01_L_Calf 1.0000 
+skin 148 Bip01_Spine 1.0000 
+skin 149 Bip01_Spine 1.0000 
+skin 150 Bip01_Spine 1.0000 
+skin 151 Bip01_Spine 1.0000 
+skin 152 Bip01_Spine 1.0000 
+skin 153 Bip01_Spine 1.0000 
+skin 154 Bip01_Spine 1.0000 
+skin 155 Bip01_L_Calf 1.0000 
+skin 156 Bip01_L_Calf 1.0000 
+skin 157 Bip01_L_Calf 1.0000 
+skin 158 Bip01_L_Calf 1.0000 
+skin 159 Bip01_L_Forearm 1.0000 
+skin 160 Bip01_L_Forearm 1.0000 
+skin 161 Bip01_Spine 1.0000 
+skin 162 Bip01_Spine 1.0000 
+skin 163 Bip01_Spine 1.0000 
+skin 164 Bip01_L_Clavicle 1.0000 
+skin 165 Bip01_Spine 1.0000 
+skin 166 Bip01_Spine 0.5000 Bip01_L_Clavicle 0.5000 
+skin 167 Bip01_Spine 1.0000 
+skin 168 Bip01_Spine 1.0000 
+skin 169 Bip01_L_Forearm 1.0000 
+skin 170 Bip01_Spine 1.0000 
+skin 171 Bip01_Spine 1.0000 
+skin 172 Bip01_Spine 1.0000 
+skin 173 Bip01_Spine 1.0000 
+skin 174 Bip01_Spine 1.0000 
+skin 175 Bip01_L_UpperArm 1.0000 
+skin 176 Bone_L_UpArm 1.0000 
+skin 177 Bone_L_UpArm 1.0000 
+skin 178 Bip01_L_Clavicle 0.5000 Bone_L_UpArm 0.5000 
+skin 179 Bip01_L_Clavicle 0.5000 Bone_L_UpArm 0.5000 
+skin 180 Bip01_L_UpperArm 1.0000 
+skin 181 Bip01_L_Forearm 1.0000 
+skin 182 Bip01_R_Calf 1.0000 
+skin 183 Bip01_R_Calf 1.0000 
+skin 184 AB_manto_ROOT 0.5000 AB_manto_01 0.5000 
+skin 185 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 186 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 187 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 188 AB_manto_ROOT 0.8000 AB_manto_01 0.2000 
+skin 189 Bip01_L_Calf 1.0000 
+skin 190 Bip01_L_Thigh 1.0000 
+skin 191 Bip01_L_Thigh 1.0000 
+skin 192 Bip01_Spine 1.0000 
+skin 193 Bip01_Spine 1.0000 
+skin 194 Bip01_Spine 1.0000 
+skin 195 Bip01_Spine 1.0000 
+skin 196 Bip01_Spine 1.0000 
+skin 197 Bip01_Spine 1.0000 
+skin 198 Bip01_Spine 1.0000 
+skin 199 Bip01_Spine 1.0000 
+skin 200 Bip01 1.0000 
+skin 201 Bip01 1.0000 
+skin 202 Bip01 1.0000 
+skin 203 Bip01 1.0000 
+skin 204 Bip01 1.0000 
+skin 205 Bip01 1.0000 
+skin 206 Bip01 1.0000 
+skin 207 Bip01 1.0000 
+skin 208 Bip01 1.0000 
+skin 209 Bip01 1.0000 
+skin 210 Bip01_Spine 1.0000 
+skin 211 Bip01 0.5000 Bip01_Spine 0.5000 
+skin 212 Bip01_Spine 1.0000 
+skin 213 Bip01_Spine 1.0000 
+skin 214 Bip01_Spine 1.0000 
+skin 215 Bip01_Spine 1.0000 
+skin 216 Bip01_Spine 1.0000 
+skin 217 Bip01 1.0000 
+skin 218 Bip01 1.0000 
+skin 219 Bip01 1.0000 
+skin 220 Bip01 1.0000 
+skin 221 Bip01_Head 1.0000 
+skin 222 Bip01_Head 1.0000 
+skin 223 Bip01_Head 1.0000 
+skin 224 Bip01_L_Hand 1.0000 
+skin 225 Bip01_L_Hand 1.0000 
+skin 226 Bip01_L_Hand 1.0000 
+skin 227 Bip01_L_Hand 1.0000 
+skin 228 Bip01_L_Hand 1.0000 
+skin 229 Bip01_R_Thigh 1.0000 
+skin 230 Bip01_R_Thigh 1.0000 
+skin 231 Bip01_R_Calf 1.0000 
+skin 232 Bip01_R_Calf 1.0000 
+skin 233 Bip01_R_Calf 1.0000 
+skin 234 Bip01_R_Thigh 1.0000 
+skin 235 Bip01_R_Thigh 1.0000 
+skin 236 Bip01 0.9100 Bip01_R_Thigh 0.0900 
+skin 237 Bip01_L_Foot 1.0000 
+skin 238 Bip01_L_Foot 1.0000 
+skin 239 Bip01_L_Foot 1.0000 
+skin 240 Bip01_Head 1.0000 
+skin 241 Bip01_R_Hand 1.0000 
+skin 242 Bip01_R_Hand 1.0000 
+skin 243 Bip01_R_Hand 1.0000 
+skin 244 Bip01_R_Foot 1.0000 
+skin 245 Bip01_R_Foot 1.0000 
+skin 246 Bip01_R_Foot 1.0000 
+skin 247 Bip01_R_Foot 1.0000 
+skin 248 Bip01_R_Foot 1.0000 
+skin 249 Bip01_Head 1.0000 
+skin 250 Bip01_Head 1.0000 
+skin 251 Bip01_Head 1.0000 
+skin 252 Bip01_Head 1.0000 
+skin 253 Bip01_Head 1.0000 
+skin 254 Bip01_Head 1.0000 
+skin 255 Bip01_L_Thigh 1.0000 
+skin 256 Bip01_L_Thigh 1.0000 
+skin 257 Bip01_L_Thigh 1.0000 
+skin 258 Bip01_L_Thigh 1.0000 
+skin 259 Bip01_L_Thigh 1.0000 
+skin 260 Bip01_L_Thigh 1.0000 
+skin 261 Bip01_L_Calf 1.0000 
+skin 262 Bip01_L_Calf 1.0000 
+skin 263 Bip01_L_Calf 1.0000 
+skin 264 Bip01_L_Calf 1.0000 
+skin 265 Bip01_L_Calf 1.0000 
+skin 266 Bip01_L_Thigh 1.0000 
+skin 267 Bip01_L_Thigh 1.0000 
+skin 268 Bip01_L_Calf 1.0000 
+skin 269 Bip01_L_Calf 1.0000 
+skin 270 Bip01_L_Calf 1.0000 
+skin 271 Bip01_L_Calf 1.0000 
+skin 272 Bip01_L_Calf 1.0000 
+skin 273 Bip01_L_Calf 1.0000 
+skin 274 Bip01 0.5000 Bip01_L_Thigh 0.5000 
+skin 275 Bip01 0.5000 Bip01_L_Thigh 0.5000 
+skin 276 Bip01 0.5000 Bip01_L_Thigh 0.5000 
+skin 277 Bip01_Spine 1.0000 
+skin 278 Bip01 0.9100 Bip01_L_Thigh 0.0900 
+skin 279 Bip01 0.5000 Bip01_L_Thigh 0.5000 
+skin 280 Bip01_Spine 1.0000 
+skin 281 Bip01 1.0000 
+skin 282 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 283 Bip01 1.0000 
+skin 284 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 285 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 286 Bip01_Spine 1.0000 
+skin 287 Bip01_Spine 1.0000 
+skin 288 Bip01_Spine 1.0000 
+skin 289 Bip01 0.0900 Bip01_Spine 0.9100 
+skin 290 Bip01_Spine 1.0000 
+skin 291 Bip01 0.3000 Bip01_Spine 0.7000 
+skin 292 Bip01_Spine 1.0000 
+skin 293 Bip01 1.0000 
+skin 294 Bip01 1.0000 
+skin 295 Bip01 1.0000 
+skin 296 Bip01 1.0000 
+skin 297 Bip01_Spine 1.0000 
+skin 298 Bip01 1.0000 
+skin 299 Bip01 0.5000 Bip01_Spine 0.5000 
+skin 300 Bip01 0.5000 Bip01_Spine 0.5000 
+skin 301 Bip01 1.0000 
+skin 302 Bip01 1.0000 
+skin 303 Bip01 1.0000 
+skin 304 Bip01 1.0000 
+skin 305 Bip01 1.0000 
+skin 306 Bip01 1.0000 
+skin 307 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 308 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 309 Bip01 1.0000 
+skin 310 Bip01 1.0000 
+skin 311 Bip01 1.0000 
+skin 312 Bip01_Spine 1.0000 
+skin 313 Bip01 0.0900 Bip01_Spine 0.9100 
+skin 314 Bip01 1.0000 
+skin 315 Bip01_Spine 1.0000 
+skin 316 Bip01 0.3000 Bip01_Spine 0.7000 
+skin 317 Bip01 1.0000 
+skin 318 Bip01 1.0000 
+skin 319 Bip01 1.0000 
+skin 320 Bip01 1.0000 
+skin 321 Bip01 1.0000 
+skin 322 Bip01 1.0000 
+skin 323 Bip01 1.0000 
+skin 324 Bip01 1.0000 
+skin 325 Bip01 1.0000 
+skin 326 Bip01 1.0000 
+skin 327 Bip01 1.0000 
+skin 328 Bip01 1.0000 
+skin 329 Bip01 1.0000 
+skin 330 Bip01_Spine 1.0000 
+skin 331 Bip01_Spine 1.0000 
+skin 332 Bip01 1.0000 
+skin 333 Bip01 1.0000 
+skin 334 Bip01 1.0000 
+skin 335 Bip01 1.0000 
+skin 336 Bip01 1.0000 
+skin 337 Bip01 1.0000 
+skin 338 Bip01 1.0000 
+skin 339 Bip01 1.0000 
+skin 340 Bip01 1.0000 
+skin 341 Bip01_Head 1.0000 
+skin 342 Bip01_Head 1.0000 
+skin 343 Bip01_Head 1.0000 
+skin 344 Bip01_Head 1.0000 
+skin 345 Bip01_Head 1.0000 
+skin 346 Bip01_Head 1.0000 
+skin 347 Bip01_Head 1.0000 
+skin 348 Bip01_Head 1.0000 
+skin 349 Bip01_Head 1.0000 
+skin 350 Bip01_Head 1.0000 
+skin 351 Bip01_Head 1.0000 
+skin 352 Bip01_Head 1.0000 
+skin 353 Bip01_Head 1.0000 
+skin 354 Bip01_Head 1.0000 
+skin 355 Bip01_Head 1.0000 
+skin 356 Bip01_Head 1.0000 
+skin 357 Bip01_Head 1.0000 
+skin 358 Bip01_Head 1.0000 
+skin 359 Bip01_Head 1.0000 
+skin 360 Bip01_Head 1.0000 
+skin 361 Bip01_Head 1.0000 
+skin 362 Bip01_Head 1.0000 
+skin 363 Bip01_Head 1.0000 
+skin 364 Bip01_Head 1.0000 
+skin 365 Bip01_Head 1.0000 
+skin 366 Bip01_Head 1.0000 
+skin 367 Bip01_Head 1.0000 
+skin 368 Bip01_Head 1.0000 
+skin 369 Bip01_Head 1.0000 
+skin 370 Bip01_Head 1.0000 
+skin 371 Bip01_Head 1.0000 
+skin 372 Bip01_Head 1.0000 
+skin 373 Bip01_Head 1.0000 
+skin 374 Bip01_Head 1.0000 
+skin 375 Bip01_Head 1.0000 
+skin 376 Bip01_Head 1.0000 
+skin 377 Bip01_Head 1.0000 
+skin 378 Bip01_Head 1.0000 
+skin 379 Bip01_Head 1.0000 
+skin 380 Bip01_L_Hand 1.0000 
+skin 381 Bip01_L_Hand 1.0000 
+skin 382 Bip01_L_Hand 1.0000 
+skin 383 Bip01_L_Hand 1.0000 
+skin 384 Bip01_L_Hand 1.0000 
+skin 385 Bip01_L_Hand 1.0000 
+skin 386 Bip01_L_Hand 1.0000 
+skin 387 Bip01_L_Hand 1.0000 
+skin 388 Bip01_L_Hand 1.0000 
+skin 389 Bip01_L_Hand 1.0000 
+skin 390 Bip01_L_Hand 1.0000 
+skin 391 Bip01_L_Hand 1.0000 
+skin 392 Bip01_L_Hand 1.0000 
+skin 393 Bip01_L_Hand 1.0000 
+skin 394 Bip01_L_Foot 1.0000 
+skin 395 Bip01_L_Foot 1.0000 
+skin 396 Bip01_R_Calf 1.0000 
+skin 397 Bip01_R_Calf 1.0000 
+skin 398 Bip01_R_Calf 1.0000 
+skin 399 Bip01_R_Calf 1.0000 
+skin 400 Bip01_R_Calf 1.0000 
+skin 401 Bip01_R_Calf 1.0000 
+skin 402 Bip01_R_Thigh 1.0000 
+skin 403 Bip01_R_Thigh 1.0000 
+skin 404 Bip01_R_Thigh 1.0000 
+skin 405 Bip01_R_Calf 1.0000 
+skin 406 Bip01_R_Thigh 1.0000 
+skin 407 Bip01_R_Thigh 1.0000 
+skin 408 Bip01_R_Calf 1.0000 
+skin 409 Bip01_R_Calf 1.0000 
+skin 410 Bip01_R_Thigh 1.0000 
+skin 411 Bip01 0.5000 Bip01_R_Thigh 0.5000 
+skin 412 Bip01_L_Foot 1.0000 
+skin 413 Bip01 0.5000 Bip01_R_Thigh 0.5000 
+skin 414 Bip01 0.5000 Bip01_R_Thigh 0.5000 
+skin 415 Bip01_Head 1.0000 
+skin 416 Bip01_Head 1.0000 
+skin 417 Bip01_Head 1.0000 
+skin 418 Bip01_Head 1.0000 
+skin 419 Bip01_Head 1.0000 
+skin 420 Bip01_R_Hand 1.0000 
+skin 421 Bip01_R_Hand 1.0000 
+skin 422 Bip01_R_Hand 1.0000 
+skin 423 Bip01_R_Hand 1.0000 
+skin 424 Bip01_R_Hand 1.0000 
+skin 425 Bip01_R_Hand 1.0000 
+skin 426 Bip01_R_Hand 1.0000 
+skin 427 Bip01_R_Hand 1.0000 
+skin 428 Bip01_R_Hand 1.0000 
+skin 429 Bip01_R_Hand 1.0000 
+skin 430 Bip01_R_Hand 1.0000 
+skin 431 Bip01_R_Hand 1.0000 
+skin 432 Bip01_R_Hand 1.0000 
+skin 433 Bip01_R_Hand 1.0000 
+skin 434 Bip01_R_Hand 1.0000 
+skin 435 Bip01_R_Hand 1.0000 
+skin 436 Bip01_Head 1.0000 
+skin 437 Bip01_R_Foot 1.0000 
+skin 438 Bip01_Head 1.0000 
+skin 439 Bip01_Head 1.0000 
+skin 440 Bip01_Head 1.0000 
+skin 441 Bip01_Head 1.0000 
+skin 442 Bip01_Head 1.0000 
+skin 443 Bip01_Head 1.0000 
+skin 444 Bip01_Head 1.0000 
+skin 445 Bip01_Head 1.0000 
+skin 446 Bip01_Head 1.0000 
+skin 447 Bip01_Head 1.0000 
+skin 448 Bip01_Head 1.0000 
+skin 449 Bip01_Head 1.0000 
+skin 450 Bip01_Head 1.0000 
+skin 451 Bip01_Head 1.0000 
+skin 452 Bip01_Head 1.0000 
+skin 453 Bip01_Head 1.0000 
+skin 454 Bip01_Head 1.0000 
+skin 455 Bip01_Head 1.0000 
+skin 456 Bip01_Head 1.0000 
+skin 457 Bip01_Head 1.0000 
+skin 458 Bip01_Head 1.0000 
+skin 459 Bip01_Head 1.0000 
+skin 460 Bip01_Head 1.0000 
+skin 461 Bip01_Head 1.0000 
+skin 462 Bip01_Head 1.0000 
+skin 463 Bip01_Head 1.0000 
+skin 464 Bip01_Head 1.0000 
+skin 465 Bip01_Head 1.0000 
+skin 466 Bip01_Head 1.0000 
+skin 467 Bip01_Head 1.0000 
+skin 468 Bip01_Head 1.0000 
+skin 469 Bip01_Head 1.0000 
+skin 470 Bip01_Head 1.0000 
+skin 471 Bip01_Head 1.0000 
+skin 472 Bip01_Head 1.0000 
+skin 473 Bip01_Head 1.0000 
+skin 474 Bip01_Head 1.0000 
+skin 475 Bip01_Head 1.0000 
+skin 476 Bip01 0.5000 Bip01_R_Thigh 0.5000 
+skin 477 Bip01 0.5000 Bip01_L_Thigh 0.5000 
+skin 478 Bip01 0.5000 Bip01_R_Thigh 0.5000 
+skin 479 Bip01 0.0900 Bip01_Spine 0.9100 
+skin 480 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 481 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 482 Bip01 0.7000 Bip01_Spine 0.3000 
+skin 483 Bip01_Head 1.0000 
+skin 484 Bip01_Head 1.0000 
+skin 485 Bip01_Head 1.0000 
+skin 486 Bip01_Head 1.0000 
+skin 487 Bip01_Head 1.0000 
+skin 488 obj_saya 1.0000 
+skin 489 obj_saya 1.0000 
+skin 490 obj_saya 1.0000 
+skin 491 obj_saya 1.0000 
+skin 492 obj_saya 1.0000 
+skin 493 obj_saya 1.0000 
+skin 494 obj_saya 1.0000 
+skin 495 obj_saya 1.0000 
+skin 496 obj_saya 1.0000 
+skin 497 obj_saya 1.0000 
+skin 498 obj_saya 1.0000 
+skin 499 obj_saya 1.0000 
+skin 500 obj_saya 1.0000 
+skin 501 obj_saya 1.0000 
+skin 502 obj_saya 1.0000 
+skin 503 obj_saya 1.0000 
+skin 504 obj_saya 1.0000 
+skin 505 obj_saya 1.0000 
+skin 506 obj_saya 1.0000 
+skin 507 obj_saya 1.0000 
+skin 508 obj_saya 1.0000 
+skin 509 obj_saya 1.0000 
+skin 510 obj_saya 1.0000 
+skin 511 obj_saya 1.0000 
+skin 512 obj_saya 1.0000 
+skin 513 obj_saya 1.0000 
+skin 514 obj_saya 1.0000 
+skin 515 obj_saya 1.0000 
+skin 516 obj_saya 1.0000 
+skin 517 obj_saya 1.0000 
+skin 518 obj_saya 1.0000 
+skin 519 obj_saya 1.0000 
+skin 520 obj_saya 1.0000 
+skin 521 obj_saya 1.0000 
+skin 522 obj_saya 1.0000 
+skin 523 obj_saya 1.0000 
+skin 524 obj_saya 1.0000 
+skin 525 obj_saya 1.0000 
+skin 526 obj_saya 1.0000 
+skin 527 obj_saya 1.0000 
+skin 528 obj_saya 1.0000 
+skin 529 obj_saya 1.0000 
+skin 530 Bip01_R_Finger0 1.0000 
+skin 531 Bip01_R_Finger0 1.0000 
+skin 532 Bip01_R_Finger0 1.0000 
+skin 533 Bip01_R_Finger0 1.0000 
+skin 534 Bip01_R_Finger0 1.0000 
+skin 535 Bip01_R_Finger0 1.0000 
+skin 536 Bip01_R_Finger0 1.0000 
+skin 537 Bip01_R_Finger0 1.0000 
+skin 538 Bip01_R_Finger0 1.0000 
+skin 539 Bip01_R_Finger0 1.0000 
+skin 540 Bip01_R_Finger0 1.0000 
+skin 541 Bip01_R_Finger0 1.0000 
+skin 542 Bip01_R_Finger0 1.0000 
+skin 543 Bip01_R_Finger0 1.0000 
+skin 544 Bip01_R_Finger0 1.0000 
+skin 545 Bip01_R_Finger0 1.0000 
+skin 546 Bip01_R_Finger0 1.0000 
+skin 547 Bip01_R_Finger0 1.0000 
+skin 548 Bip01_R_Finger0 1.0000 
+skin 549 Bip01_R_Finger0 1.0000 
+skin 550 Bip01_R_Finger0 1.0000 
+skin 551 Bip01_R_Finger0 1.0000 
+skin 552 Bip01_R_Finger0 1.0000 
+skin 553 Bip01_R_Finger0 1.0000 
+skin 554 Bip01_R_Finger0 1.0000 
+skin 555 Bip01_R_Finger0 1.0000 
+skin 556 Bip01_R_Finger0 1.0000 
+skin 557 Bip01_R_Finger0 1.0000 
+skin 558 Bip01_R_Finger0 1.0000 
+skin 559 Bip01_R_Finger0 1.0000 
+skin 560 Bip01_R_Finger0 1.0000 
+skin 561 Bip01_R_Finger0 1.0000 
+skin 562 Bip01_R_Finger0 1.0000 
+skin 563 Bip01_R_Finger0 1.0000 
+skin 564 Bip01_R_Finger0 1.0000 
+skin 565 Bip01_R_Finger0 1.0000 
+skin 566 Bip01_R_Finger0 1.0000 
+skin 567 Bip01_R_Finger0 1.0000 
+skin 568 Bip01_R_Finger0 1.0000 
+skin 569 Bip01_R_Finger0 1.0000 
+skin 570 Bip01_R_Finger0 1.0000 
+skin 571 Bip01_R_Finger0 1.0000 
+skin 572 Bip01_R_Finger0 1.0000 
+skin 573 L_Hand_Dummy 1.0000 
+skin 574 L_Hand_Dummy 1.0000 
+skin 575 L_Hand_Dummy 1.0000 
+skin 576 L_Hand_Dummy 1.0000 
+skin 577 L_Hand_Dummy 1.0000 
+skin 578 L_Hand_Dummy 1.0000 
+skin 579 L_Hand_Dummy 1.0000 
+skin 580 L_Hand_Dummy 1.0000 
+skin 581 L_Hand_Dummy 1.0000 
+skin 582 L_Hand_Dummy 1.0000 
+skin 583 L_Hand_Dummy 1.0000 
+skin 584 L_Hand_Dummy 1.0000 
+skin 585 L_Hand_Dummy 1.0000 
+skin 586 L_Hand_Dummy 1.0000 
+skin 587 L_Hand_Dummy 1.0000 
+skin 588 L_Hand_Dummy 1.0000 
+skin 589 L_Hand_Dummy 1.0000 
+skin 590 L_Hand_Dummy 1.0000 
+skin 591 L_Hand_Dummy 1.0000 
+skin 592 L_Hand_Dummy 1.0000 
+skin 593 L_Hand_Dummy 1.0000 
+skin 594 L_Hand_Dummy 1.0000 
+skin 595 L_Hand_Dummy 1.0000 
+skin 596 L_Hand_Dummy 1.0000 
+skin 597 L_Hand_Dummy 1.0000 
+skin 598 L_Hand_Dummy 1.0000 
+skin 599 L_Hand_Dummy 1.0000 
+skin 600 L_Hand_Dummy 1.0000 
+skin 601 L_Hand_Dummy 1.0000 
+skin 602 L_Hand_Dummy 1.0000 
+skin 603 L_Hand_Dummy 1.0000 
+skin 604 L_Hand_Dummy 1.0000 
+skin 605 L_Hand_Dummy 1.0000 
+skin 606 L_Hand_Dummy 1.0000 
+skin 607 L_Hand_Dummy 1.0000 
+skin 608 L_Hand_Dummy 1.0000 
+skin 609 L_Hand_Dummy 1.0000 
+skin 610 L_Hand_Dummy 1.0000 
+skin 611 L_Hand_Dummy 1.0000 
+skin 612 L_Hand_Dummy 1.0000 
+skin 613 L_Hand_Dummy 1.0000 
+skin 614 L_Hand_Dummy 1.0000 
+skin 615 L_Hand_Dummy 1.0000 
+hier Bip01 Bip01_Footsteps
+hier Bip01 Bip01_Spine
+hier Bip01 obj_saya
+hier Bip01_Spine Bip01_Neck
+hier Bip01_Spine Bip01_L_Thigh
+hier Bip01_Spine Bip01_R_Thigh
+hier Bip01_Spine AB_manto_ROOT
+hier Bip01_Neck Bip01_Head
+hier Bip01_Neck Bip01_L_Clavicle
+hier Bip01_Neck Bip01_R_Clavicle
+hier Bip01_L_Thigh Bip01_L_Calf
+hier Bip01_R_Thigh Bip01_R_Calf
+hier AB_manto_ROOT AB_manto_01
+hier Bip01_Head Bip01_HeadNub
+hier Bip01_L_Clavicle Bip01_L_UpperArm
+hier Bip01_R_Clavicle Bip01_R_UpperArm
+hier Bip01_L_Calf Bip01_L_Foot
+hier Bip01_R_Calf Bip01_R_Foot
+hier Bip01_L_UpperArm Bip01_L_Forearm
+hier Bip01_L_UpperArm Bone_L_UpArm
+hier Bip01_R_UpperArm Bip01_R_Forearm
+hier Bip01_R_UpperArm Bone_R_UpArm
+hier Bip01_L_Foot Bip01_L_Toe0
+hier Bip01_R_Foot Bip01_R_Toe0
+hier Bip01_L_Forearm Bip01_L_Hand
+hier Bone_L_UpArm Bone_L_UpArm_END
+hier Bip01_R_Forearm Bip01_R_Hand
+hier Bone_R_UpArm Bone_R_UpArm_END
+hier Bip01_L_Hand L_Hand_Dummy
+hier Bip01_R_Hand Bip01_R_Finger0
+hier Bip01_R_Finger0 Bip01_R_Finger0Nub

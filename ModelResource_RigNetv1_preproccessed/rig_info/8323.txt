@@ -1,0 +1,938 @@
+joints kosi_jnt 0.00000100 0.31271900 0.02789450
+joints eff_hip 0.00000091 0.24827400 -0.27849250
+joints L_momo_jnt 0.13845600 0.32814700 -0.04809930
+joints R_momo_jnt -0.13845400 0.32815100 -0.04809940
+joints L_sk_jnt 0.13845600 0.31271900 0.02789456
+joints R_sk_jnt -0.13845400 0.31271900 0.02789444
+joints kubi_jnt 0.00000089 0.57272600 0.02627387
+joints R_kata_jnt -0.16502000 0.47007800 0.02089407
+joints L_kata_jnt 0.16502200 0.47007800 0.02089392
+joints L_asi_jnt 0.13845200 0.17629000 -0.05004700
+joints R_asi_jnt -0.13845400 0.17628600 -0.05004720
+joints fusa_jnt 0.00000081 0.86936200 -0.19309750
+joints R_ude_jnt -0.27045400 0.45072000 0.02221208
+joints L_ude_jnt 0.27045600 0.45071900 0.02221184
+joints R_hiji_jnt -0.37609600 0.40294800 0.01544230
+joints L_hiji_jnt 0.37609800 0.40294900 0.01543320
+root kosi_jnt
+skin 0 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 1 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 2 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 3 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 4 kosi_jnt 0.5000 L_sk_jnt 0.5000 
+skin 5 kosi_jnt 0.5000 L_sk_jnt 0.5000 
+skin 6 kosi_jnt 1.0000 
+skin 7 kosi_jnt 0.5000 L_sk_jnt 0.5000 
+skin 8 kosi_jnt 1.0000 
+skin 9 kosi_jnt 0.5000 L_sk_jnt 0.5000 
+skin 10 kosi_jnt 1.0000 
+skin 11 kosi_jnt 1.0000 
+skin 12 L_sk_jnt 1.0000 
+skin 13 L_sk_jnt 1.0000 
+skin 14 L_sk_jnt 1.0000 
+skin 15 L_sk_jnt 1.0000 
+skin 16 L_sk_jnt 1.0000 
+skin 17 L_sk_jnt 1.0000 
+skin 18 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 19 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 20 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 21 L_sk_jnt 0.8000 R_sk_jnt 0.2000 
+skin 22 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 23 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 24 L_sk_jnt 0.6000 R_sk_jnt 0.4000 
+skin 25 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 26 kosi_jnt 0.7000 L_sk_jnt 0.3000 
+skin 27 kosi_jnt 1.0000 
+skin 28 kosi_jnt 0.5000 L_sk_jnt 0.5000 
+skin 29 kosi_jnt 0.7000 L_sk_jnt 0.3000 
+skin 30 kosi_jnt 1.0000 
+skin 31 kosi_jnt 0.8000 L_sk_jnt 0.2000 
+skin 32 kosi_jnt 1.0000 
+skin 33 kosi_jnt 1.0000 
+skin 34 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 35 L_sk_jnt 0.8000 R_sk_jnt 0.2000 
+skin 36 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 37 L_sk_jnt 1.0000 
+skin 38 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 39 L_sk_jnt 0.6000 R_sk_jnt 0.4000 
+skin 40 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 41 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 42 L_sk_jnt 1.0000 
+skin 43 L_sk_jnt 1.0000 
+skin 44 L_sk_jnt 1.0000 
+skin 45 L_sk_jnt 1.0000 
+skin 46 L_sk_jnt 0.7000 R_sk_jnt 0.3000 
+skin 47 L_sk_jnt 0.5000 R_sk_jnt 0.5000 
+skin 48 kosi_jnt 1.0000 
+skin 49 L_sk_jnt 1.0000 
+skin 50 L_sk_jnt 1.0000 
+skin 51 L_sk_jnt 0.9000 R_sk_jnt 0.1000 
+skin 52 kosi_jnt 1.0000 
+skin 53 kosi_jnt 1.0000 
+skin 54 kosi_jnt 1.0000 
+skin 55 kubi_jnt 1.0000 
+skin 56 kosi_jnt 0.7000 kubi_jnt 0.3000 
+skin 57 kubi_jnt 1.0000 
+skin 58 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 59 kosi_jnt 1.0000 
+skin 60 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 61 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 62 kubi_jnt 1.0000 
+skin 63 kubi_jnt 1.0000 
+skin 64 kosi_jnt 1.0000 
+skin 65 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 66 kosi_jnt 1.0000 
+skin 67 kosi_jnt 0.7000 kubi_jnt 0.3000 
+skin 68 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 69 kubi_jnt 1.0000 
+skin 70 kubi_jnt 1.0000 
+skin 71 kubi_jnt 1.0000 
+skin 72 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 73 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 74 kubi_jnt 1.0000 
+skin 75 kosi_jnt 0.8000 kubi_jnt 0.2000 
+skin 76 kosi_jnt 0.8000 kubi_jnt 0.2000 
+skin 77 kubi_jnt 1.0000 
+skin 78 kosi_jnt 0.5000 kubi_jnt 0.5000 
+skin 79 kubi_jnt 1.0000 
+skin 80 kubi_jnt 1.0000 
+skin 81 kubi_jnt 1.0000 
+skin 82 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 83 kubi_jnt 1.0000 
+skin 84 kubi_jnt 1.0000 
+skin 85 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 86 kosi_jnt 1.0000 
+skin 87 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 88 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 89 kosi_jnt 1.0000 
+skin 90 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 91 kosi_jnt 1.0000 
+skin 92 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 93 kosi_jnt 1.0000 
+skin 94 kosi_jnt 1.0000 
+skin 95 kosi_jnt 1.0000 
+skin 96 kosi_jnt 1.0000 
+skin 97 kosi_jnt 1.0000 
+skin 98 kosi_jnt 1.0000 
+skin 99 kosi_jnt 1.0000 
+skin 100 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 101 kosi_jnt 1.0000 
+skin 102 kosi_jnt 0.6000 kubi_jnt 0.4000 
+skin 103 kosi_jnt 1.0000 
+skin 104 kosi_jnt 0.7000 kubi_jnt 0.3000 
+skin 105 kosi_jnt 1.0000 
+skin 106 kosi_jnt 1.0000 
+skin 107 kosi_jnt 1.0000 
+skin 108 kosi_jnt 1.0000 
+skin 109 kosi_jnt 1.0000 
+skin 110 kosi_jnt 1.0000 
+skin 111 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 112 kosi_jnt 1.0000 
+skin 113 kosi_jnt 1.0000 
+skin 114 kosi_jnt 1.0000 
+skin 115 kosi_jnt 1.0000 
+skin 116 kosi_jnt 1.0000 
+skin 117 kosi_jnt 1.0000 
+skin 118 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 119 kosi_jnt 1.0000 
+skin 120 kosi_jnt 1.0000 
+skin 121 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 122 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 123 kosi_jnt 1.0000 
+skin 124 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 125 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 126 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 127 kosi_jnt 1.0000 
+skin 128 kosi_jnt 1.0000 
+skin 129 kosi_jnt 1.0000 
+skin 130 kosi_jnt 1.0000 
+skin 131 kosi_jnt 1.0000 
+skin 132 kosi_jnt 0.6000 kubi_jnt 0.4000 
+skin 133 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 134 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 135 kosi_jnt 1.0000 
+skin 136 kosi_jnt 1.0000 
+skin 137 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 138 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 139 kosi_jnt 1.0000 
+skin 140 kosi_jnt 1.0000 
+skin 141 kosi_jnt 1.0000 
+skin 142 R_kata_jnt 1.0000 
+skin 143 R_kata_jnt 0.5000 R_ude_jnt 0.5000 
+skin 144 R_kata_jnt 0.5000 R_ude_jnt 0.5000 
+skin 145 R_ude_jnt 1.0000 
+skin 146 R_ude_jnt 1.0000 
+skin 147 R_hiji_jnt 1.0000 
+skin 148 R_hiji_jnt 1.0000 
+skin 149 R_hiji_jnt 1.0000 
+skin 150 R_hiji_jnt 1.0000 
+skin 151 R_hiji_jnt 1.0000 
+skin 152 R_hiji_jnt 1.0000 
+skin 153 R_hiji_jnt 1.0000 
+skin 154 R_hiji_jnt 1.0000 
+skin 155 R_hiji_jnt 1.0000 
+skin 156 R_hiji_jnt 1.0000 
+skin 157 R_hiji_jnt 1.0000 
+skin 158 R_hiji_jnt 1.0000 
+skin 159 R_hiji_jnt 1.0000 
+skin 160 R_hiji_jnt 1.0000 
+skin 161 R_hiji_jnt 1.0000 
+skin 162 R_ude_jnt 1.0000 
+skin 163 R_ude_jnt 1.0000 
+skin 164 R_kata_jnt 0.5000 R_ude_jnt 0.5000 
+skin 165 R_kata_jnt 0.5000 R_ude_jnt 0.5000 
+skin 166 kosi_jnt 0.7000 R_kata_jnt 0.3000 
+skin 167 R_kata_jnt 0.5000 R_ude_jnt 0.5000 
+skin 168 kosi_jnt 0.5000 R_kata_jnt 0.5000 
+skin 169 R_ude_jnt 1.0000 
+skin 170 R_ude_jnt 1.0000 
+skin 171 R_hiji_jnt 1.0000 
+skin 172 R_hiji_jnt 1.0000 
+skin 173 R_hiji_jnt 1.0000 
+skin 174 R_hiji_jnt 1.0000 
+skin 175 R_hiji_jnt 1.0000 
+skin 176 R_hiji_jnt 1.0000 
+skin 177 R_hiji_jnt 1.0000 
+skin 178 R_hiji_jnt 1.0000 
+skin 179 R_hiji_jnt 1.0000 
+skin 180 R_hiji_jnt 1.0000 
+skin 181 R_hiji_jnt 1.0000 
+skin 182 kosi_jnt 0.8000 R_kata_jnt 0.2000 
+skin 183 R_kata_jnt 1.0000 
+skin 184 R_ude_jnt 1.0000 
+skin 185 R_hiji_jnt 1.0000 
+skin 186 R_hiji_jnt 1.0000 
+skin 187 R_kata_jnt 1.0000 
+skin 188 kubi_jnt 1.0000 
+skin 189 R_ude_jnt 1.0000 
+skin 190 R_ude_jnt 1.0000 
+skin 191 R_ude_jnt 1.0000 
+skin 192 R_hiji_jnt 1.0000 
+skin 193 R_hiji_jnt 1.0000 
+skin 194 kubi_jnt 1.0000 
+skin 195 R_hiji_jnt 1.0000 
+skin 196 kubi_jnt 1.0000 
+skin 197 L_ude_jnt 1.0000 
+skin 198 L_ude_jnt 1.0000 
+skin 199 L_kata_jnt 1.0000 
+skin 200 L_ude_jnt 1.0000 
+skin 201 L_kata_jnt 1.0000 
+skin 202 L_ude_jnt 1.0000 
+skin 203 L_kata_jnt 0.5000 L_ude_jnt 0.5000 
+skin 204 L_ude_jnt 1.0000 
+skin 205 L_kata_jnt 0.5000 L_ude_jnt 0.5000 
+skin 206 L_ude_jnt 1.0000 
+skin 207 L_kata_jnt 0.5000 L_ude_jnt 0.5000 
+skin 208 L_kata_jnt 0.5000 L_ude_jnt 0.5000 
+skin 209 L_kata_jnt 1.0000 
+skin 210 L_ude_jnt 1.0000 
+skin 211 L_kata_jnt 0.5000 L_ude_jnt 0.5000 
+skin 212 L_ude_jnt 1.0000 
+skin 213 L_ude_jnt 1.0000 
+skin 214 L_ude_jnt 1.0000 
+skin 215 kubi_jnt 1.0000 
+skin 216 kosi_jnt 0.7000 L_kata_jnt 0.3000 
+skin 217 kubi_jnt 1.0000 
+skin 218 kubi_jnt 1.0000 
+skin 219 kosi_jnt 0.5000 L_kata_jnt 0.5000 
+skin 220 kosi_jnt 0.8000 L_kata_jnt 0.2000 
+skin 221 kubi_jnt 1.0000 
+skin 222 kubi_jnt 1.0000 
+skin 223 R_asi_jnt 1.0000 
+skin 224 R_asi_jnt 1.0000 
+skin 225 R_asi_jnt 1.0000 
+skin 226 R_asi_jnt 1.0000 
+skin 227 R_asi_jnt 1.0000 
+skin 228 R_asi_jnt 1.0000 
+skin 229 R_asi_jnt 1.0000 
+skin 230 R_asi_jnt 1.0000 
+skin 231 R_asi_jnt 1.0000 
+skin 232 R_asi_jnt 1.0000 
+skin 233 R_asi_jnt 1.0000 
+skin 234 R_asi_jnt 1.0000 
+skin 235 R_asi_jnt 1.0000 
+skin 236 R_asi_jnt 1.0000 
+skin 237 R_asi_jnt 1.0000 
+skin 238 R_asi_jnt 1.0000 
+skin 239 R_asi_jnt 1.0000 
+skin 240 R_asi_jnt 1.0000 
+skin 241 R_asi_jnt 1.0000 
+skin 242 R_asi_jnt 1.0000 
+skin 243 R_asi_jnt 1.0000 
+skin 244 R_asi_jnt 1.0000 
+skin 245 R_asi_jnt 1.0000 
+skin 246 R_asi_jnt 1.0000 
+skin 247 R_asi_jnt 1.0000 
+skin 248 R_asi_jnt 1.0000 
+skin 249 R_asi_jnt 1.0000 
+skin 250 R_asi_jnt 1.0000 
+skin 251 R_asi_jnt 1.0000 
+skin 252 R_asi_jnt 1.0000 
+skin 253 R_asi_jnt 1.0000 
+skin 254 R_asi_jnt 1.0000 
+skin 255 R_asi_jnt 1.0000 
+skin 256 R_asi_jnt 1.0000 
+skin 257 R_asi_jnt 1.0000 
+skin 258 R_asi_jnt 1.0000 
+skin 259 R_asi_jnt 1.0000 
+skin 260 R_asi_jnt 1.0000 
+skin 261 R_asi_jnt 1.0000 
+skin 262 R_asi_jnt 1.0000 
+skin 263 R_asi_jnt 1.0000 
+skin 264 R_asi_jnt 1.0000 
+skin 265 R_asi_jnt 1.0000 
+skin 266 R_asi_jnt 1.0000 
+skin 267 R_asi_jnt 1.0000 
+skin 268 R_asi_jnt 1.0000 
+skin 269 R_asi_jnt 1.0000 
+skin 270 R_asi_jnt 1.0000 
+skin 271 kubi_jnt 1.0000 
+skin 272 kubi_jnt 1.0000 
+skin 273 kubi_jnt 1.0000 
+skin 274 kubi_jnt 1.0000 
+skin 275 kubi_jnt 1.0000 
+skin 276 kubi_jnt 1.0000 
+skin 277 kubi_jnt 1.0000 
+skin 278 kubi_jnt 1.0000 
+skin 279 kubi_jnt 1.0000 
+skin 280 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 281 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 282 fusa_jnt 1.0000 
+skin 283 fusa_jnt 1.0000 
+skin 284 fusa_jnt 1.0000 
+skin 285 fusa_jnt 1.0000 
+skin 286 fusa_jnt 1.0000 
+skin 287 fusa_jnt 1.0000 
+skin 288 fusa_jnt 1.0000 
+skin 289 fusa_jnt 1.0000 
+skin 290 fusa_jnt 1.0000 
+skin 291 fusa_jnt 1.0000 
+skin 292 fusa_jnt 1.0000 
+skin 293 fusa_jnt 1.0000 
+skin 294 fusa_jnt 1.0000 
+skin 295 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 296 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 297 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 298 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 299 kubi_jnt 1.0000 
+skin 300 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 301 kosi_jnt 1.0000 
+skin 302 kosi_jnt 1.0000 
+skin 303 kosi_jnt 1.0000 
+skin 304 kosi_jnt 1.0000 
+skin 305 kosi_jnt 1.0000 
+skin 306 kosi_jnt 1.0000 
+skin 307 kosi_jnt 1.0000 
+skin 308 kosi_jnt 1.0000 
+skin 309 kosi_jnt 1.0000 
+skin 310 kosi_jnt 1.0000 
+skin 311 kosi_jnt 1.0000 
+skin 312 kosi_jnt 1.0000 
+skin 313 kosi_jnt 1.0000 
+skin 314 kosi_jnt 1.0000 
+skin 315 kosi_jnt 1.0000 
+skin 316 kosi_jnt 1.0000 
+skin 317 kosi_jnt 1.0000 
+skin 318 kosi_jnt 1.0000 
+skin 319 kosi_jnt 1.0000 
+skin 320 kosi_jnt 1.0000 
+skin 321 kosi_jnt 1.0000 
+skin 322 kosi_jnt 1.0000 
+skin 323 kubi_jnt 1.0000 
+skin 324 kubi_jnt 1.0000 
+skin 325 kubi_jnt 1.0000 
+skin 326 kubi_jnt 1.0000 
+skin 327 kubi_jnt 1.0000 
+skin 328 kubi_jnt 1.0000 
+skin 329 kubi_jnt 1.0000 
+skin 330 kubi_jnt 1.0000 
+skin 331 kubi_jnt 1.0000 
+skin 332 kubi_jnt 1.0000 
+skin 333 kubi_jnt 1.0000 
+skin 334 kubi_jnt 1.0000 
+skin 335 kubi_jnt 1.0000 
+skin 336 kubi_jnt 1.0000 
+skin 337 kubi_jnt 1.0000 
+skin 338 kubi_jnt 1.0000 
+skin 339 kubi_jnt 1.0000 
+skin 340 kubi_jnt 1.0000 
+skin 341 kubi_jnt 1.0000 
+skin 342 kubi_jnt 1.0000 
+skin 343 R_asi_jnt 1.0000 
+skin 344 R_asi_jnt 1.0000 
+skin 345 R_asi_jnt 1.0000 
+skin 346 R_asi_jnt 1.0000 
+skin 347 R_asi_jnt 1.0000 
+skin 348 R_asi_jnt 1.0000 
+skin 349 R_asi_jnt 1.0000 
+skin 350 R_asi_jnt 1.0000 
+skin 351 R_asi_jnt 1.0000 
+skin 352 R_asi_jnt 1.0000 
+skin 353 R_asi_jnt 1.0000 
+skin 354 R_asi_jnt 1.0000 
+skin 355 R_asi_jnt 1.0000 
+skin 356 kubi_jnt 1.0000 
+skin 357 kubi_jnt 1.0000 
+skin 358 kubi_jnt 1.0000 
+skin 359 kubi_jnt 1.0000 
+skin 360 kubi_jnt 1.0000 
+skin 361 kubi_jnt 1.0000 
+skin 362 kubi_jnt 1.0000 
+skin 363 kubi_jnt 1.0000 
+skin 364 kubi_jnt 1.0000 
+skin 365 kubi_jnt 1.0000 
+skin 366 kubi_jnt 1.0000 
+skin 367 R_asi_jnt 1.0000 
+skin 368 R_asi_jnt 1.0000 
+skin 369 R_asi_jnt 1.0000 
+skin 370 R_asi_jnt 1.0000 
+skin 371 R_asi_jnt 1.0000 
+skin 372 R_asi_jnt 1.0000 
+skin 373 R_asi_jnt 1.0000 
+skin 374 R_asi_jnt 1.0000 
+skin 375 R_asi_jnt 1.0000 
+skin 376 R_asi_jnt 1.0000 
+skin 377 R_asi_jnt 1.0000 
+skin 378 R_asi_jnt 1.0000 
+skin 379 R_asi_jnt 1.0000 
+skin 380 R_asi_jnt 1.0000 
+skin 381 R_asi_jnt 1.0000 
+skin 382 R_asi_jnt 1.0000 
+skin 383 kosi_jnt 1.0000 
+skin 384 kosi_jnt 1.0000 
+skin 385 kosi_jnt 1.0000 
+skin 386 kosi_jnt 1.0000 
+skin 387 kosi_jnt 1.0000 
+skin 388 kosi_jnt 1.0000 
+skin 389 kosi_jnt 1.0000 
+skin 390 kubi_jnt 1.0000 
+skin 391 kubi_jnt 1.0000 
+skin 392 kubi_jnt 1.0000 
+skin 393 kubi_jnt 1.0000 
+skin 394 kubi_jnt 1.0000 
+skin 395 kubi_jnt 1.0000 
+skin 396 kubi_jnt 1.0000 
+skin 397 kubi_jnt 1.0000 
+skin 398 kubi_jnt 1.0000 
+skin 399 kubi_jnt 1.0000 
+skin 400 kubi_jnt 1.0000 
+skin 401 kubi_jnt 1.0000 
+skin 402 kubi_jnt 1.0000 
+skin 403 kubi_jnt 1.0000 
+skin 404 kubi_jnt 1.0000 
+skin 405 kubi_jnt 1.0000 
+skin 406 kubi_jnt 1.0000 
+skin 407 kubi_jnt 1.0000 
+skin 408 kubi_jnt 1.0000 
+skin 409 kubi_jnt 1.0000 
+skin 410 kubi_jnt 1.0000 
+skin 411 kubi_jnt 1.0000 
+skin 412 kubi_jnt 1.0000 
+skin 413 kubi_jnt 1.0000 
+skin 414 kosi_jnt 1.0000 
+skin 415 kosi_jnt 1.0000 
+skin 416 kosi_jnt 1.0000 
+skin 417 kosi_jnt 1.0000 
+skin 418 kosi_jnt 1.0000 
+skin 419 kosi_jnt 1.0000 
+skin 420 kosi_jnt 1.0000 
+skin 421 kosi_jnt 1.0000 
+skin 422 fusa_jnt 1.0000 
+skin 423 fusa_jnt 1.0000 
+skin 424 fusa_jnt 1.0000 
+skin 425 fusa_jnt 1.0000 
+skin 426 fusa_jnt 1.0000 
+skin 427 fusa_jnt 1.0000 
+skin 428 fusa_jnt 1.0000 
+skin 429 fusa_jnt 1.0000 
+skin 430 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 431 kosi_jnt 1.0000 
+skin 432 kosi_jnt 1.0000 
+skin 433 kosi_jnt 1.0000 
+skin 434 kosi_jnt 1.0000 
+skin 435 kosi_jnt 1.0000 
+skin 436 kubi_jnt 1.0000 
+skin 437 kubi_jnt 1.0000 
+skin 438 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 439 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 440 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 441 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 442 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 443 R_asi_jnt 1.0000 
+skin 444 R_asi_jnt 1.0000 
+skin 445 R_asi_jnt 1.0000 
+skin 446 R_asi_jnt 1.0000 
+skin 447 R_asi_jnt 1.0000 
+skin 448 R_asi_jnt 1.0000 
+skin 449 R_asi_jnt 1.0000 
+skin 450 R_asi_jnt 1.0000 
+skin 451 kubi_jnt 1.0000 
+skin 452 kubi_jnt 1.0000 
+skin 453 kubi_jnt 1.0000 
+skin 454 kubi_jnt 1.0000 
+skin 455 kubi_jnt 1.0000 
+skin 456 kubi_jnt 1.0000 
+skin 457 kubi_jnt 1.0000 
+skin 458 kubi_jnt 1.0000 
+skin 459 kubi_jnt 1.0000 
+skin 460 kubi_jnt 1.0000 
+skin 461 kubi_jnt 1.0000 
+skin 462 kubi_jnt 1.0000 
+skin 463 kubi_jnt 1.0000 
+skin 464 kubi_jnt 1.0000 
+skin 465 kubi_jnt 1.0000 
+skin 466 kubi_jnt 1.0000 
+skin 467 kubi_jnt 1.0000 
+skin 468 kubi_jnt 1.0000 
+skin 469 kubi_jnt 1.0000 
+skin 470 kubi_jnt 1.0000 
+skin 471 kubi_jnt 1.0000 
+skin 472 kubi_jnt 1.0000 
+skin 473 kubi_jnt 1.0000 
+skin 474 kubi_jnt 1.0000 
+skin 475 kubi_jnt 1.0000 
+skin 476 kubi_jnt 1.0000 
+skin 477 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 478 kubi_jnt 1.0000 
+skin 479 kubi_jnt 1.0000 
+skin 480 kubi_jnt 1.0000 
+skin 481 kubi_jnt 1.0000 
+skin 482 kubi_jnt 1.0000 
+skin 483 R_asi_jnt 1.0000 
+skin 484 R_asi_jnt 1.0000 
+skin 485 R_asi_jnt 1.0000 
+skin 486 R_asi_jnt 1.0000 
+skin 487 kubi_jnt 1.0000 
+skin 488 kubi_jnt 1.0000 
+skin 489 kubi_jnt 1.0000 
+skin 490 kubi_jnt 1.0000 
+skin 491 kubi_jnt 1.0000 
+skin 492 kubi_jnt 1.0000 
+skin 493 kubi_jnt 1.0000 
+skin 494 kubi_jnt 1.0000 
+skin 495 kubi_jnt 1.0000 
+skin 496 kubi_jnt 1.0000 
+skin 497 kubi_jnt 1.0000 
+skin 498 kubi_jnt 1.0000 
+skin 499 kubi_jnt 1.0000 
+skin 500 kubi_jnt 1.0000 
+skin 501 kubi_jnt 1.0000 
+skin 502 kubi_jnt 1.0000 
+skin 503 kubi_jnt 1.0000 
+skin 504 kubi_jnt 1.0000 
+skin 505 kosi_jnt 1.0000 
+skin 506 kosi_jnt 1.0000 
+skin 507 kubi_jnt 1.0000 
+skin 508 kubi_jnt 1.0000 
+skin 509 kubi_jnt 1.0000 
+skin 510 kubi_jnt 1.0000 
+skin 511 kubi_jnt 1.0000 
+skin 512 kubi_jnt 1.0000 
+skin 513 kubi_jnt 1.0000 
+skin 514 kubi_jnt 1.0000 
+skin 515 kubi_jnt 1.0000 
+skin 516 kubi_jnt 1.0000 
+skin 517 kubi_jnt 1.0000 
+skin 518 kubi_jnt 1.0000 
+skin 519 kubi_jnt 1.0000 
+skin 520 kubi_jnt 1.0000 
+skin 521 kubi_jnt 1.0000 
+skin 522 kubi_jnt 1.0000 
+skin 523 kubi_jnt 1.0000 
+skin 524 kubi_jnt 1.0000 
+skin 525 kubi_jnt 1.0000 
+skin 526 kubi_jnt 1.0000 
+skin 527 kubi_jnt 1.0000 
+skin 528 kubi_jnt 1.0000 
+skin 529 kubi_jnt 1.0000 
+skin 530 kubi_jnt 1.0000 
+skin 531 kubi_jnt 1.0000 
+skin 532 kubi_jnt 1.0000 
+skin 533 kubi_jnt 1.0000 
+skin 534 kubi_jnt 1.0000 
+skin 535 kubi_jnt 1.0000 
+skin 536 kubi_jnt 1.0000 
+skin 537 kubi_jnt 1.0000 
+skin 538 kubi_jnt 1.0000 
+skin 539 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 540 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 541 kubi_jnt 0.8000 fusa_jnt 0.2000 
+skin 542 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 543 kubi_jnt 0.3000 fusa_jnt 0.7000 
+skin 544 R_asi_jnt 1.0000 
+skin 545 R_asi_jnt 1.0000 
+skin 546 R_asi_jnt 1.0000 
+skin 547 R_asi_jnt 1.0000 
+skin 548 R_asi_jnt 1.0000 
+skin 549 R_asi_jnt 1.0000 
+skin 550 R_asi_jnt 1.0000 
+skin 551 R_asi_jnt 1.0000 
+skin 552 R_asi_jnt 1.0000 
+skin 553 R_asi_jnt 1.0000 
+skin 554 R_asi_jnt 1.0000 
+skin 555 R_asi_jnt 1.0000 
+skin 556 kubi_jnt 1.0000 
+skin 557 kubi_jnt 1.0000 
+skin 558 kubi_jnt 1.0000 
+skin 559 kubi_jnt 1.0000 
+skin 560 R_asi_jnt 1.0000 
+skin 561 R_asi_jnt 1.0000 
+skin 562 kosi_jnt 1.0000 
+skin 563 kosi_jnt 1.0000 
+skin 564 R_asi_jnt 1.0000 
+skin 565 R_asi_jnt 1.0000 
+skin 566 kubi_jnt 1.0000 
+skin 567 kubi_jnt 1.0000 
+skin 568 kubi_jnt 1.0000 
+skin 569 kubi_jnt 1.0000 
+skin 570 R_momo_jnt 1.0000 
+skin 571 R_momo_jnt 1.0000 
+skin 572 R_momo_jnt 1.0000 
+skin 573 R_momo_jnt 1.0000 
+skin 574 R_momo_jnt 1.0000 
+skin 575 R_momo_jnt 1.0000 
+skin 576 R_asi_jnt 1.0000 
+skin 577 R_asi_jnt 1.0000 
+skin 578 kubi_jnt 1.0000 
+skin 579 kubi_jnt 1.0000 
+skin 580 kubi_jnt 1.0000 
+skin 581 kubi_jnt 1.0000 
+skin 582 kubi_jnt 1.0000 
+skin 583 kubi_jnt 1.0000 
+skin 584 R_asi_jnt 1.0000 
+skin 585 R_asi_jnt 1.0000 
+skin 586 R_asi_jnt 1.0000 
+skin 587 kubi_jnt 1.0000 
+skin 588 kubi_jnt 1.0000 
+skin 589 kubi_jnt 1.0000 
+skin 590 kubi_jnt 1.0000 
+skin 591 kubi_jnt 1.0000 
+skin 592 kubi_jnt 1.0000 
+skin 593 R_momo_jnt 1.0000 
+skin 594 R_momo_jnt 1.0000 
+skin 595 R_momo_jnt 1.0000 
+skin 596 R_momo_jnt 1.0000 
+skin 597 R_asi_jnt 1.0000 
+skin 598 R_momo_jnt 1.0000 
+skin 599 R_asi_jnt 1.0000 
+skin 600 R_asi_jnt 1.0000 
+skin 601 kubi_jnt 1.0000 
+skin 602 kubi_jnt 1.0000 
+skin 603 R_asi_jnt 1.0000 
+skin 604 R_asi_jnt 1.0000 
+skin 605 R_asi_jnt 1.0000 
+skin 606 kosi_jnt 1.0000 
+skin 607 kosi_jnt 1.0000 
+skin 608 kosi_jnt 1.0000 
+skin 609 kosi_jnt 1.0000 
+skin 610 kosi_jnt 1.0000 
+skin 611 R_asi_jnt 1.0000 
+skin 612 R_momo_jnt 1.0000 
+skin 613 R_momo_jnt 1.0000 
+skin 614 R_asi_jnt 1.0000 
+skin 615 kubi_jnt 1.0000 
+skin 616 kubi_jnt 1.0000 
+skin 617 kubi_jnt 1.0000 
+skin 618 kubi_jnt 1.0000 
+skin 619 kubi_jnt 1.0000 
+skin 620 kubi_jnt 1.0000 
+skin 621 kubi_jnt 1.0000 
+skin 622 kubi_jnt 1.0000 
+skin 623 kubi_jnt 1.0000 
+skin 624 kubi_jnt 1.0000 
+skin 625 kubi_jnt 1.0000 
+skin 626 kubi_jnt 1.0000 
+skin 627 kubi_jnt 1.0000 
+skin 628 kubi_jnt 1.0000 
+skin 629 kubi_jnt 1.0000 
+skin 630 kubi_jnt 1.0000 
+skin 631 R_asi_jnt 1.0000 
+skin 632 R_asi_jnt 1.0000 
+skin 633 kubi_jnt 1.0000 
+skin 634 kubi_jnt 1.0000 
+skin 635 kubi_jnt 1.0000 
+skin 636 kubi_jnt 1.0000 
+skin 637 kubi_jnt 1.0000 
+skin 638 kubi_jnt 1.0000 
+skin 639 kubi_jnt 1.0000 
+skin 640 kubi_jnt 1.0000 
+skin 641 kubi_jnt 1.0000 
+skin 642 kubi_jnt 1.0000 
+skin 643 kubi_jnt 1.0000 
+skin 644 kubi_jnt 1.0000 
+skin 645 fusa_jnt 1.0000 
+skin 646 R_asi_jnt 1.0000 
+skin 647 kubi_jnt 1.0000 
+skin 648 kubi_jnt 1.0000 
+skin 649 kubi_jnt 1.0000 
+skin 650 kubi_jnt 1.0000 
+skin 651 kubi_jnt 1.0000 
+skin 652 kubi_jnt 1.0000 
+skin 653 kubi_jnt 1.0000 
+skin 654 kubi_jnt 1.0000 
+skin 655 kubi_jnt 1.0000 
+skin 656 kubi_jnt 1.0000 
+skin 657 kubi_jnt 1.0000 
+skin 658 R_asi_jnt 1.0000 
+skin 659 R_asi_jnt 1.0000 
+skin 660 kubi_jnt 1.0000 
+skin 661 kubi_jnt 1.0000 
+skin 662 kubi_jnt 1.0000 
+skin 663 kubi_jnt 1.0000 
+skin 664 kubi_jnt 1.0000 
+skin 665 kubi_jnt 1.0000 
+skin 666 kubi_jnt 1.0000 
+skin 667 kubi_jnt 1.0000 
+skin 668 kubi_jnt 1.0000 
+skin 669 R_asi_jnt 1.0000 
+skin 670 R_asi_jnt 1.0000 
+skin 671 R_momo_jnt 1.0000 
+skin 672 kubi_jnt 1.0000 
+skin 673 kubi_jnt 1.0000 
+skin 674 kubi_jnt 1.0000 
+skin 675 kubi_jnt 1.0000 
+skin 676 kubi_jnt 1.0000 
+skin 677 kubi_jnt 1.0000 
+skin 678 kubi_jnt 1.0000 
+skin 679 kubi_jnt 1.0000 
+skin 680 kubi_jnt 1.0000 
+skin 681 kubi_jnt 1.0000 
+skin 682 R_momo_jnt 1.0000 
+skin 683 R_asi_jnt 1.0000 
+skin 684 kubi_jnt 1.0000 
+skin 685 kubi_jnt 1.0000 
+skin 686 kubi_jnt 1.0000 
+skin 687 kubi_jnt 1.0000 
+skin 688 kubi_jnt 1.0000 
+skin 689 kubi_jnt 1.0000 
+skin 690 kubi_jnt 1.0000 
+skin 691 R_asi_jnt 1.0000 
+skin 692 R_momo_jnt 1.0000 
+skin 693 kosi_jnt 1.0000 
+skin 694 kosi_jnt 1.0000 
+skin 695 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 696 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 697 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 698 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 699 R_sk_jnt 1.0000 
+skin 700 kosi_jnt 0.5000 R_sk_jnt 0.5000 
+skin 701 kosi_jnt 0.5000 R_sk_jnt 0.5000 
+skin 702 L_sk_jnt 0.4000 R_sk_jnt 0.6000 
+skin 703 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 704 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 705 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 706 kosi_jnt 0.7000 R_sk_jnt 0.3000 
+skin 707 kosi_jnt 0.5000 R_sk_jnt 0.5000 
+skin 708 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 709 L_sk_jnt 0.2000 R_sk_jnt 0.8000 
+skin 710 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 711 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 712 R_sk_jnt 1.0000 
+skin 713 L_sk_jnt 0.4000 R_sk_jnt 0.6000 
+skin 714 L_sk_jnt 0.3000 R_sk_jnt 0.7000 
+skin 715 L_sk_jnt 0.2000 R_sk_jnt 0.8000 
+skin 716 kosi_jnt 0.8000 R_sk_jnt 0.2000 
+skin 717 R_sk_jnt 1.0000 
+skin 718 kosi_jnt 0.5000 R_sk_jnt 0.5000 
+skin 719 R_sk_jnt 1.0000 
+skin 720 kosi_jnt 0.5000 R_sk_jnt 0.5000 
+skin 721 kosi_jnt 0.7000 R_sk_jnt 0.3000 
+skin 722 R_sk_jnt 1.0000 
+skin 723 R_sk_jnt 1.0000 
+skin 724 R_sk_jnt 1.0000 
+skin 725 R_sk_jnt 1.0000 
+skin 726 R_sk_jnt 1.0000 
+skin 727 R_sk_jnt 1.0000 
+skin 728 R_sk_jnt 1.0000 
+skin 729 L_sk_jnt 0.1000 R_sk_jnt 0.9000 
+skin 730 R_sk_jnt 1.0000 
+skin 731 L_asi_jnt 1.0000 
+skin 732 L_asi_jnt 1.0000 
+skin 733 L_asi_jnt 1.0000 
+skin 734 L_asi_jnt 1.0000 
+skin 735 L_asi_jnt 1.0000 
+skin 736 L_asi_jnt 1.0000 
+skin 737 L_asi_jnt 1.0000 
+skin 738 L_asi_jnt 1.0000 
+skin 739 L_asi_jnt 1.0000 
+skin 740 L_asi_jnt 1.0000 
+skin 741 L_asi_jnt 1.0000 
+skin 742 L_asi_jnt 1.0000 
+skin 743 L_asi_jnt 1.0000 
+skin 744 L_asi_jnt 1.0000 
+skin 745 L_asi_jnt 1.0000 
+skin 746 L_asi_jnt 1.0000 
+skin 747 L_asi_jnt 1.0000 
+skin 748 L_asi_jnt 1.0000 
+skin 749 L_asi_jnt 1.0000 
+skin 750 L_asi_jnt 1.0000 
+skin 751 L_asi_jnt 1.0000 
+skin 752 L_asi_jnt 1.0000 
+skin 753 L_asi_jnt 1.0000 
+skin 754 L_asi_jnt 1.0000 
+skin 755 L_asi_jnt 1.0000 
+skin 756 L_asi_jnt 1.0000 
+skin 757 L_asi_jnt 1.0000 
+skin 758 L_asi_jnt 1.0000 
+skin 759 L_asi_jnt 1.0000 
+skin 760 L_asi_jnt 1.0000 
+skin 761 L_asi_jnt 1.0000 
+skin 762 L_asi_jnt 1.0000 
+skin 763 L_asi_jnt 1.0000 
+skin 764 L_asi_jnt 1.0000 
+skin 765 L_asi_jnt 1.0000 
+skin 766 L_asi_jnt 1.0000 
+skin 767 L_asi_jnt 1.0000 
+skin 768 L_asi_jnt 1.0000 
+skin 769 L_asi_jnt 1.0000 
+skin 770 L_asi_jnt 1.0000 
+skin 771 L_asi_jnt 1.0000 
+skin 772 L_asi_jnt 1.0000 
+skin 773 L_asi_jnt 1.0000 
+skin 774 L_asi_jnt 1.0000 
+skin 775 L_asi_jnt 1.0000 
+skin 776 L_asi_jnt 1.0000 
+skin 777 L_asi_jnt 1.0000 
+skin 778 L_asi_jnt 1.0000 
+skin 779 L_asi_jnt 1.0000 
+skin 780 L_asi_jnt 1.0000 
+skin 781 L_asi_jnt 1.0000 
+skin 782 L_asi_jnt 1.0000 
+skin 783 L_asi_jnt 1.0000 
+skin 784 L_hiji_jnt 1.0000 
+skin 785 L_hiji_jnt 1.0000 
+skin 786 L_hiji_jnt 1.0000 
+skin 787 L_hiji_jnt 1.0000 
+skin 788 L_hiji_jnt 1.0000 
+skin 789 L_hiji_jnt 1.0000 
+skin 790 L_hiji_jnt 1.0000 
+skin 791 L_hiji_jnt 1.0000 
+skin 792 L_hiji_jnt 1.0000 
+skin 793 L_hiji_jnt 1.0000 
+skin 794 L_hiji_jnt 1.0000 
+skin 795 L_hiji_jnt 1.0000 
+skin 796 L_hiji_jnt 1.0000 
+skin 797 L_hiji_jnt 1.0000 
+skin 798 L_hiji_jnt 1.0000 
+skin 799 L_hiji_jnt 1.0000 
+skin 800 L_hiji_jnt 1.0000 
+skin 801 L_hiji_jnt 1.0000 
+skin 802 L_hiji_jnt 1.0000 
+skin 803 L_asi_jnt 1.0000 
+skin 804 L_asi_jnt 1.0000 
+skin 805 L_asi_jnt 1.0000 
+skin 806 L_asi_jnt 1.0000 
+skin 807 L_asi_jnt 1.0000 
+skin 808 L_asi_jnt 1.0000 
+skin 809 L_asi_jnt 1.0000 
+skin 810 L_asi_jnt 1.0000 
+skin 811 L_asi_jnt 1.0000 
+skin 812 L_asi_jnt 1.0000 
+skin 813 L_asi_jnt 1.0000 
+skin 814 L_asi_jnt 1.0000 
+skin 815 L_asi_jnt 1.0000 
+skin 816 L_asi_jnt 1.0000 
+skin 817 L_asi_jnt 1.0000 
+skin 818 L_asi_jnt 1.0000 
+skin 819 L_asi_jnt 1.0000 
+skin 820 L_asi_jnt 1.0000 
+skin 821 L_asi_jnt 1.0000 
+skin 822 L_asi_jnt 1.0000 
+skin 823 L_asi_jnt 1.0000 
+skin 824 L_asi_jnt 1.0000 
+skin 825 L_asi_jnt 1.0000 
+skin 826 L_asi_jnt 1.0000 
+skin 827 L_asi_jnt 1.0000 
+skin 828 L_asi_jnt 1.0000 
+skin 829 L_asi_jnt 1.0000 
+skin 830 L_asi_jnt 1.0000 
+skin 831 L_asi_jnt 1.0000 
+skin 832 L_asi_jnt 1.0000 
+skin 833 L_asi_jnt 1.0000 
+skin 834 L_asi_jnt 1.0000 
+skin 835 L_asi_jnt 1.0000 
+skin 836 L_asi_jnt 1.0000 
+skin 837 L_asi_jnt 1.0000 
+skin 838 L_asi_jnt 1.0000 
+skin 839 L_asi_jnt 1.0000 
+skin 840 L_asi_jnt 1.0000 
+skin 841 L_hiji_jnt 1.0000 
+skin 842 L_hiji_jnt 1.0000 
+skin 843 L_hiji_jnt 1.0000 
+skin 844 L_hiji_jnt 1.0000 
+skin 845 L_hiji_jnt 1.0000 
+skin 846 L_hiji_jnt 1.0000 
+skin 847 L_momo_jnt 1.0000 
+skin 848 L_momo_jnt 1.0000 
+skin 849 L_momo_jnt 1.0000 
+skin 850 L_momo_jnt 1.0000 
+skin 851 L_momo_jnt 1.0000 
+skin 852 L_asi_jnt 1.0000 
+skin 853 L_momo_jnt 1.0000 
+skin 854 L_asi_jnt 1.0000 
+skin 855 L_momo_jnt 1.0000 
+skin 856 L_asi_jnt 1.0000 
+skin 857 L_asi_jnt 1.0000 
+skin 858 L_asi_jnt 1.0000 
+skin 859 L_asi_jnt 1.0000 
+skin 860 L_asi_jnt 1.0000 
+skin 861 L_asi_jnt 1.0000 
+skin 862 L_asi_jnt 1.0000 
+skin 863 L_hiji_jnt 1.0000 
+skin 864 L_hiji_jnt 1.0000 
+skin 865 L_hiji_jnt 1.0000 
+skin 866 L_hiji_jnt 1.0000 
+skin 867 L_asi_jnt 1.0000 
+skin 868 L_asi_jnt 1.0000 
+skin 869 L_asi_jnt 1.0000 
+skin 870 L_asi_jnt 1.0000 
+skin 871 L_asi_jnt 1.0000 
+skin 872 L_asi_jnt 1.0000 
+skin 873 L_asi_jnt 1.0000 
+skin 874 L_asi_jnt 1.0000 
+skin 875 L_asi_jnt 1.0000 
+skin 876 L_asi_jnt 1.0000 
+skin 877 L_asi_jnt 1.0000 
+skin 878 L_asi_jnt 1.0000 
+skin 879 L_hiji_jnt 1.0000 
+skin 880 L_asi_jnt 1.0000 
+skin 881 L_momo_jnt 1.0000 
+skin 882 L_asi_jnt 1.0000 
+skin 883 L_asi_jnt 1.0000 
+skin 884 L_momo_jnt 1.0000 
+skin 885 L_momo_jnt 1.0000 
+skin 886 L_asi_jnt 1.0000 
+skin 887 L_momo_jnt 1.0000 
+skin 888 L_momo_jnt 1.0000 
+skin 889 L_momo_jnt 1.0000 
+skin 890 L_asi_jnt 1.0000 
+skin 891 R_sk_jnt 1.0000 
+skin 892 L_asi_jnt 1.0000 
+skin 893 L_asi_jnt 1.0000 
+skin 894 L_asi_jnt 1.0000 
+skin 895 L_asi_jnt 1.0000 
+skin 896 L_asi_jnt 1.0000 
+skin 897 L_asi_jnt 1.0000 
+skin 898 L_asi_jnt 1.0000 
+skin 899 L_momo_jnt 1.0000 
+skin 900 L_asi_jnt 1.0000 
+skin 901 L_momo_jnt 1.0000 
+skin 902 L_asi_jnt 1.0000 
+skin 903 L_hiji_jnt 1.0000 
+skin 904 L_momo_jnt 1.0000 
+skin 905 L_asi_jnt 1.0000 
+hier kosi_jnt eff_hip
+hier kosi_jnt L_momo_jnt
+hier kosi_jnt R_momo_jnt
+hier kosi_jnt L_sk_jnt
+hier kosi_jnt R_sk_jnt
+hier kosi_jnt kubi_jnt
+hier kosi_jnt R_kata_jnt
+hier kosi_jnt L_kata_jnt
+hier L_momo_jnt L_asi_jnt
+hier R_momo_jnt R_asi_jnt
+hier kubi_jnt fusa_jnt
+hier R_kata_jnt R_ude_jnt
+hier L_kata_jnt L_ude_jnt
+hier R_ude_jnt R_hiji_jnt
+hier L_ude_jnt L_hiji_jnt

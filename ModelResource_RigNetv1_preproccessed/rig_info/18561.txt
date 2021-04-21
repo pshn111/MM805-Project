@@ -1,0 +1,84 @@
+joints Trans 0.00001400 0.08126100 -0.00300800
+joints Spine 0.00001400 0.15187800 -0.00300800
+joints Head 0.00001400 0.24804800 -0.00300800
+joints LeftArm 0.14681900 0.21298400 -0.00300800
+joints RightArm -0.14679100 0.21298400 -0.00300800
+joints LeftForeArm_01 0.26512500 0.22500600 -0.00300800
+joints RightForeArm_01 -0.26509700 0.22500600 -0.00300800
+joints LeftForeArm_02 0.36114800 0.22394100 -0.00300800
+joints RightForeArm_02 -0.36110900 0.22561700 -0.00470237
+root Trans
+skin 0 LeftForeArm_01 0.3000 LeftForeArm_02 0.7000 
+skin 1 LeftForeArm_01 0.6000 LeftForeArm_02 0.4000 
+skin 2 LeftForeArm_01 0.6000 LeftForeArm_02 0.4000 
+skin 3 LeftForeArm_01 0.3000 LeftForeArm_02 0.7000 
+skin 4 LeftForeArm_01 0.1000 LeftForeArm_02 0.9000 
+skin 5 LeftForeArm_01 0.3000 LeftForeArm_02 0.7000 
+skin 6 LeftArm 0.5000 LeftForeArm_01 0.5000 
+skin 7 Spine 0.2000 LeftArm 0.8000 
+skin 8 LeftArm 0.5000 LeftForeArm_01 0.5000 
+skin 9 Spine 0.2000 LeftArm 0.8000 
+skin 10 Spine 0.2000 LeftArm 0.8000 
+skin 11 LeftArm 0.2000 LeftForeArm_01 0.6000 LeftForeArm_02 0.2000 
+skin 12 LeftArm 0.5000 LeftForeArm_01 0.5000 
+skin 13 LeftArm 0.2000 LeftForeArm_01 0.6000 LeftForeArm_02 0.2000 
+skin 14 LeftArm 0.2000 LeftForeArm_01 0.6000 LeftForeArm_02 0.2000 
+skin 15 LeftForeArm_01 0.6000 LeftForeArm_02 0.4000 
+skin 16 Spine 0.2000 RightArm 0.8000 
+skin 17 Spine 1.0000 
+skin 18 Spine 0.2000 RightArm 0.8000 
+skin 19 Spine 0.6000 Head 0.4000 
+skin 20 Spine 0.2000 RightArm 0.8000 
+skin 21 Spine 1.0000 
+skin 22 Spine 1.0000 
+skin 23 Spine 1.0000 
+skin 24 Trans 0.4000 Spine 0.6000 
+skin 25 Spine 1.0000 
+skin 26 Spine 1.0000 
+skin 27 Trans 0.4000 Spine 0.6000 
+skin 28 Spine 0.8000 Head 0.2000 
+skin 29 Spine 0.8000 Head 0.2000 
+skin 30 Spine 1.0000 
+skin 31 Spine 0.8000 Head 0.2000 
+skin 32 Spine 1.0000 
+skin 33 Spine 0.6000 Head 0.4000 
+skin 34 Spine 1.0000 
+skin 35 Spine 1.0000 
+skin 36 Spine 1.0000 
+skin 37 Trans 0.4000 Spine 0.6000 
+skin 38 Trans 0.4000 Spine 0.6000 
+skin 39 Trans 0.4000 Spine 0.6000 
+skin 40 Spine 0.8000 Head 0.2000 
+skin 41 Spine 0.8000 Head 0.2000 
+skin 42 Spine 0.6000 Head 0.4000 
+skin 43 Spine 1.0000 
+skin 44 Trans 0.4000 Spine 0.6000 
+skin 45 Trans 0.4000 Spine 0.6000 
+skin 46 Trans 0.4000 Spine 0.6000 
+skin 47 Trans 0.4000 Spine 0.6000 
+skin 48 Trans 0.4000 Spine 0.6000 
+skin 49 RightForeArm_01 0.3000 RightForeArm_02 0.7000 
+skin 50 RightForeArm_01 0.3000 RightForeArm_02 0.7000 
+skin 51 RightForeArm_01 0.1000 RightForeArm_02 0.9000 
+skin 52 RightForeArm_01 0.6000 RightForeArm_02 0.4000 
+skin 53 RightForeArm_01 0.6000 RightForeArm_02 0.4000 
+skin 54 RightArm 0.2000 RightForeArm_01 0.6000 RightForeArm_02 0.2000 
+skin 55 RightForeArm_01 0.3000 RightForeArm_02 0.7000 
+skin 56 RightForeArm_01 0.6000 RightForeArm_02 0.4000 
+skin 57 RightArm 0.2000 RightForeArm_01 0.6000 RightForeArm_02 0.2000 
+skin 58 RightArm 0.5000 RightForeArm_01 0.5000 
+skin 59 RightArm 0.5000 RightForeArm_01 0.5000 
+skin 60 RightArm 0.5000 RightForeArm_01 0.5000 
+skin 61 RightArm 0.2000 RightForeArm_01 0.6000 RightForeArm_02 0.2000 
+skin 62 Spine 0.6000 Head 0.4000 
+skin 63 Spine 0.6000 Head 0.4000 
+skin 64 Spine 0.6000 Head 0.4000 
+skin 65 Spine 0.6000 Head 0.4000 
+hier Trans Spine
+hier Spine Head
+hier Spine LeftArm
+hier Spine RightArm
+hier LeftArm LeftForeArm_01
+hier RightArm RightForeArm_01
+hier LeftForeArm_01 LeftForeArm_02
+hier RightForeArm_01 RightForeArm_02

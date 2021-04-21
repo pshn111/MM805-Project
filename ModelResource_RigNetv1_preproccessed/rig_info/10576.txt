@@ -1,0 +1,504 @@
+joints Jenny_hip 0.00000000 0.23982850 0.13760010
+joints Jenny_l_fin00 0.03513860 0.06689250 0.19718670
+joints Jenny_head 0.00000000 0.23982850 0.23461350
+joints Jenny_r_fin00 -0.03513860 0.06689250 0.19718670
+joints Jenny_spine01 0.00000000 0.15343150 -0.01876900
+joints Jenny_l_fin01 0.05125440 0.08245350 0.18845750
+joints Jenny_l_eye 0.03949250 0.29454550 0.38985500
+joints Jenny_r_uppereyelid -0.03949260 0.29454550 0.38985500
+joints Jenny_l_lowereyelid 0.03949260 0.29454550 0.38985500
+joints Jenny_r_eye -0.03949250 0.29454550 0.38985500
+joints Jenny_l_uppereyelid 0.03949260 0.29454550 0.38985500
+joints Jenny_r_lowereyelid -0.03949260 0.29454550 0.38985500
+joints Jenny_r_fin01 -0.05125440 0.08245350 0.18845750
+joints Jenny_spine02 0.00000000 0.10109250 -0.21008500
+joints Jenny_upperFin 0.00000000 0.24861850 -0.12372400
+joints Jenny_l_fin02 0.06631840 0.12995550 0.16045080
+joints Jenny_r_fin02 -0.06631840 0.12995550 0.16045080
+joints Jenny_tail01 0.00000000 0.09763150 -0.32337000
+joints Jenny_l_fin03 0.08332980 0.21048650 0.13927570
+joints Jenny_r_fin03 -0.08332980 0.21048650 0.13927570
+joints Jenny_tail03 0.00000000 0.07068950 -0.40862900
+joints Jenny_tail02 0.00000000 0.15094550 -0.40098700
+joints Jenny_l_fin04 0.10169500 0.29177450 0.12942100
+joints Jenny_r_fin04 -0.10169500 0.29177450 0.12942100
+joints Jenny_l_fin05 0.11315700 0.34102650 0.12277600
+joints Jenny_r_fin05 -0.11315700 0.34103150 0.12277530
+root Jenny_hip
+skin 0 Jenny_l_fin00 1.0000 
+skin 1 Jenny_l_fin00 0.0100 Jenny_l_fin01 0.9900 
+skin 2 Jenny_l_fin00 0.0100 Jenny_l_fin01 0.7900 Jenny_l_fin02 0.2000 
+skin 3 Jenny_l_fin00 1.0000 
+skin 4 Jenny_r_fin00 1.0000 
+skin 5 Jenny_r_fin00 0.0100 Jenny_r_fin01 0.7900 Jenny_r_fin02 0.2000 
+skin 6 Jenny_r_fin00 0.0100 Jenny_r_fin01 0.9900 
+skin 7 Jenny_r_fin00 1.0000 
+skin 8 Jenny_tail03 1.0000 
+skin 9 Jenny_spine02 0.2700 Jenny_tail01 0.5600 Jenny_tail03 0.1700 
+skin 10 Jenny_spine02 0.1500 Jenny_tail01 0.4100 Jenny_tail03 0.4400 
+skin 11 Jenny_spine01 1.0000 
+skin 12 Jenny_upperFin 1.0000 
+skin 13 Jenny_spine01 0.2000 Jenny_upperFin 0.8000 
+skin 14 Jenny_hip 1.0000 
+skin 15 Jenny_hip 0.8400 Jenny_spine01 0.1600 
+skin 16 Jenny_hip 0.8600 Jenny_spine01 0.1400 
+skin 17 Jenny_hip 1.0000 
+skin 18 Jenny_hip 0.8200 Jenny_head 0.1800 
+skin 19 Jenny_hip 0.8100 Jenny_head 0.1900 
+skin 20 Jenny_head 1.0000 
+skin 21 Jenny_hip 0.5500 Jenny_head 0.4500 
+skin 22 Jenny_hip 0.5400 Jenny_head 0.4600 
+skin 23 Jenny_spine02 0.2700 Jenny_tail01 0.5600 Jenny_tail03 0.1700 
+skin 24 Jenny_spine01 1.0000 
+skin 25 Jenny_hip 1.0000 
+skin 26 Jenny_hip 0.8400 Jenny_spine01 0.1600 
+skin 27 Jenny_hip 0.8200 Jenny_head 0.1800 
+skin 28 Jenny_hip 0.5500 Jenny_head 0.4500 
+skin 29 Jenny_l_fin00 1.0000 
+skin 30 Jenny_l_fin01 0.8000 Jenny_l_fin02 0.2000 
+skin 31 Jenny_l_fin01 1.0000 
+skin 32 Jenny_l_fin00 1.0000 
+skin 33 Jenny_r_fin00 1.0000 
+skin 34 Jenny_r_fin01 1.0000 
+skin 35 Jenny_r_fin01 0.8000 Jenny_r_fin02 0.2000 
+skin 36 Jenny_r_fin00 1.0000 
+skin 37 Jenny_l_fin02 0.9000 Jenny_l_fin03 0.1000 
+skin 38 Jenny_l_fin02 0.4700 Jenny_l_fin03 0.5300 
+skin 39 Jenny_l_fin02 0.9400 Jenny_l_fin03 0.0600 
+skin 40 Jenny_l_fin02 0.0100 Jenny_l_fin03 0.9900 
+skin 41 Jenny_l_fin03 0.4000 Jenny_l_fin04 0.6000 
+skin 42 Jenny_l_fin03 0.4200 Jenny_l_fin04 0.5800 
+skin 43 Jenny_l_fin04 0.0100 Jenny_l_fin05 0.9900 
+skin 44 Jenny_l_fin04 0.0100 Jenny_l_fin05 0.9900 
+skin 45 Jenny_l_fin05 1.0000 
+skin 46 Jenny_l_fin05 1.0000 
+skin 47 Jenny_r_fin02 0.9000 Jenny_r_fin03 0.1000 
+skin 48 Jenny_r_fin02 0.9400 Jenny_r_fin03 0.0600 
+skin 49 Jenny_r_fin02 0.4700 Jenny_r_fin03 0.5300 
+skin 50 Jenny_r_fin02 0.0100 Jenny_r_fin03 0.9900 
+skin 51 Jenny_r_fin03 0.4000 Jenny_r_fin04 0.6000 
+skin 52 Jenny_r_fin03 0.4200 Jenny_r_fin04 0.5800 
+skin 53 Jenny_r_fin04 0.0100 Jenny_r_fin05 0.9900 
+skin 54 Jenny_r_fin04 0.0100 Jenny_r_fin05 0.9900 
+skin 55 Jenny_r_fin05 1.0000 
+skin 56 Jenny_r_fin05 1.0000 
+skin 57 Jenny_spine01 0.8000 Jenny_spine02 0.2000 
+skin 58 Jenny_hip 0.1600 Jenny_spine01 0.6400 Jenny_spine02 0.2000 
+skin 59 Jenny_hip 0.2000 Jenny_spine01 0.8000 
+skin 60 Jenny_hip 0.5000 Jenny_spine01 0.5000 
+skin 61 Jenny_hip 0.5000 Jenny_spine01 0.5000 
+skin 62 Jenny_spine01 0.8000 Jenny_spine02 0.2000 
+skin 63 Jenny_hip 0.3500 Jenny_spine01 0.6500 
+skin 64 Jenny_hip 0.2400 Jenny_spine01 0.5600 Jenny_upperFin 0.2000 
+skin 65 Jenny_hip 0.6000 Jenny_spine01 0.4000 
+skin 66 Jenny_hip 0.2000 Jenny_spine01 0.8000 
+skin 67 Jenny_hip 0.5000 Jenny_spine01 0.5000 
+skin 68 Jenny_hip 0.5000 Jenny_spine01 0.5000 
+skin 69 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 70 Jenny_hip 0.3500 Jenny_spine01 0.6500 
+skin 71 Jenny_l_fin02 0.9000 Jenny_l_fin03 0.1000 
+skin 72 Jenny_l_fin02 0.9400 Jenny_l_fin03 0.0600 
+skin 73 Jenny_l_fin02 0.4600 Jenny_l_fin03 0.5400 
+skin 74 Jenny_l_fin02 0.0100 Jenny_l_fin03 0.9900 
+skin 75 Jenny_l_fin03 0.4000 Jenny_l_fin04 0.6000 
+skin 76 Jenny_l_fin03 0.4200 Jenny_l_fin04 0.5800 
+skin 77 Jenny_l_fin04 0.0100 Jenny_l_fin05 0.9900 
+skin 78 Jenny_l_fin04 0.0100 Jenny_l_fin05 0.9900 
+skin 79 Jenny_l_fin05 1.0000 
+skin 80 Jenny_l_fin05 1.0000 
+skin 81 Jenny_r_fin02 0.9000 Jenny_r_fin03 0.1000 
+skin 82 Jenny_r_fin02 0.9400 Jenny_r_fin03 0.0600 
+skin 83 Jenny_r_fin02 0.4600 Jenny_r_fin03 0.5400 
+skin 84 Jenny_r_fin02 0.0100 Jenny_r_fin03 0.9900 
+skin 85 Jenny_r_fin03 0.4000 Jenny_r_fin04 0.6000 
+skin 86 Jenny_r_fin03 0.4200 Jenny_r_fin04 0.5800 
+skin 87 Jenny_r_fin04 0.0100 Jenny_r_fin05 0.9900 
+skin 88 Jenny_r_fin04 0.0100 Jenny_r_fin05 0.9900 
+skin 89 Jenny_r_fin05 1.0000 
+skin 90 Jenny_r_fin05 1.0000 
+skin 91 Jenny_spine02 0.8100 Jenny_tail01 0.1900 
+skin 92 Jenny_spine02 0.8000 Jenny_tail01 0.2000 
+skin 93 Jenny_spine02 0.8000 Jenny_tail01 0.2000 
+skin 94 Jenny_spine02 0.0800 Jenny_tail01 0.3700 Jenny_tail02 0.5500 
+skin 95 Jenny_tail01 0.2800 Jenny_tail02 0.7200 
+skin 96 Jenny_tail02 1.0000 
+skin 97 Jenny_tail01 0.1500 Jenny_tail03 0.3700 Jenny_tail02 0.4800 
+skin 98 Jenny_spine02 0.8100 Jenny_tail01 0.1900 
+skin 99 Jenny_head 1.0000 
+skin 100 Jenny_head 1.0000 
+skin 101 Jenny_head 1.0000 
+skin 102 Jenny_head 1.0000 
+skin 103 Jenny_head 1.0000 
+skin 104 Jenny_head 1.0000 
+skin 105 Jenny_head 1.0000 
+skin 106 Jenny_head 1.0000 
+skin 107 Jenny_head 1.0000 
+skin 108 Jenny_head 1.0000 
+skin 109 Jenny_head 1.0000 
+skin 110 Jenny_head 1.0000 
+skin 111 Jenny_head 1.0000 
+skin 112 Jenny_head 1.0000 
+skin 113 Jenny_head 1.0000 
+skin 114 Jenny_head 1.0000 
+skin 115 Jenny_head 1.0000 
+skin 116 Jenny_head 1.0000 
+skin 117 Jenny_head 1.0000 
+skin 118 Jenny_head 1.0000 
+skin 119 Jenny_head 1.0000 
+skin 120 Jenny_head 1.0000 
+skin 121 Jenny_head 1.0000 
+skin 122 Jenny_head 1.0000 
+skin 123 Jenny_head 1.0000 
+skin 124 Jenny_head 1.0000 
+skin 125 Jenny_head 1.0000 
+skin 126 Jenny_head 1.0000 
+skin 127 Jenny_head 1.0000 
+skin 128 Jenny_head 1.0000 
+skin 129 Jenny_head 1.0000 
+skin 130 Jenny_head 1.0000 
+skin 131 Jenny_head 1.0000 
+skin 132 Jenny_head 1.0000 
+skin 133 Jenny_head 1.0000 
+skin 134 Jenny_head 1.0000 
+skin 135 Jenny_head 1.0000 
+skin 136 Jenny_head 1.0000 
+skin 137 Jenny_head 1.0000 
+skin 138 Jenny_head 1.0000 
+skin 139 Jenny_head 1.0000 
+skin 140 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 141 Jenny_head 1.0000 
+skin 142 Jenny_head 1.0000 
+skin 143 Jenny_head 1.0000 
+skin 144 Jenny_head 1.0000 
+skin 145 Jenny_head 1.0000 
+skin 146 Jenny_head 1.0000 
+skin 147 Jenny_head 1.0000 
+skin 148 Jenny_head 1.0000 
+skin 149 Jenny_head 1.0000 
+skin 150 Jenny_head 1.0000 
+skin 151 Jenny_head 1.0000 
+skin 152 Jenny_hip 0.4600 Jenny_head 0.5400 
+skin 153 Jenny_head 1.0000 
+skin 154 Jenny_head 1.0000 
+skin 155 Jenny_head 1.0000 
+skin 156 Jenny_head 1.0000 
+skin 157 Jenny_head 1.0000 
+skin 158 Jenny_head 1.0000 
+skin 159 Jenny_head 1.0000 
+skin 160 Jenny_head 1.0000 
+skin 161 Jenny_head 1.0000 
+skin 162 Jenny_head 1.0000 
+skin 163 Jenny_hip 0.8100 Jenny_head 0.1900 
+skin 164 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 165 Jenny_hip 0.3500 Jenny_spine01 0.6500 
+skin 166 Jenny_spine01 0.8000 Jenny_spine02 0.2000 
+skin 167 Jenny_head 1.0000 
+skin 168 Jenny_head 1.0000 
+skin 169 Jenny_head 1.0000 
+skin 170 Jenny_head 1.0000 
+skin 171 Jenny_head 1.0000 
+skin 172 Jenny_head 1.0000 
+skin 173 Jenny_head 1.0000 
+skin 174 Jenny_head 1.0000 
+skin 175 Jenny_head 1.0000 
+skin 176 Jenny_head 1.0000 
+skin 177 Jenny_head 1.0000 
+skin 178 Jenny_head 1.0000 
+skin 179 Jenny_head 1.0000 
+skin 180 Jenny_head 1.0000 
+skin 181 Jenny_head 1.0000 
+skin 182 Jenny_head 1.0000 
+skin 183 Jenny_head 1.0000 
+skin 184 Jenny_head 1.0000 
+skin 185 Jenny_head 1.0000 
+skin 186 Jenny_head 1.0000 
+skin 187 Jenny_head 1.0000 
+skin 188 Jenny_head 1.0000 
+skin 189 Jenny_head 1.0000 
+skin 190 Jenny_head 1.0000 
+skin 191 Jenny_head 1.0000 
+skin 192 Jenny_head 1.0000 
+skin 193 Jenny_head 1.0000 
+skin 194 Jenny_head 1.0000 
+skin 195 Jenny_head 1.0000 
+skin 196 Jenny_head 1.0000 
+skin 197 Jenny_head 1.0000 
+skin 198 Jenny_head 1.0000 
+skin 199 Jenny_head 1.0000 
+skin 200 Jenny_head 1.0000 
+skin 201 Jenny_head 1.0000 
+skin 202 Jenny_head 1.0000 
+skin 203 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 204 Jenny_head 1.0000 
+skin 205 Jenny_head 1.0000 
+skin 206 Jenny_head 1.0000 
+skin 207 Jenny_head 1.0000 
+skin 208 Jenny_head 1.0000 
+skin 209 Jenny_head 1.0000 
+skin 210 Jenny_head 1.0000 
+skin 211 Jenny_head 1.0000 
+skin 212 Jenny_hip 0.4600 Jenny_head 0.5400 
+skin 213 Jenny_head 1.0000 
+skin 214 Jenny_head 1.0000 
+skin 215 Jenny_head 1.0000 
+skin 216 Jenny_head 1.0000 
+skin 217 Jenny_head 1.0000 
+skin 218 Jenny_head 1.0000 
+skin 219 Jenny_head 1.0000 
+skin 220 Jenny_hip 0.8100 Jenny_head 0.1900 
+skin 221 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 222 Jenny_spine01 0.8000 Jenny_spine02 0.2000 
+skin 223 Jenny_hip 0.3500 Jenny_spine01 0.6500 
+skin 224 Jenny_head 1.0000 
+skin 225 Jenny_head 1.0000 
+skin 226 Jenny_head 1.0000 
+skin 227 Jenny_r_eye 1.0000 
+skin 228 Jenny_r_eye 1.0000 
+skin 229 Jenny_r_eye 1.0000 
+skin 230 Jenny_r_eye 1.0000 
+skin 231 Jenny_r_eye 1.0000 
+skin 232 Jenny_r_eye 1.0000 
+skin 233 Jenny_r_eye 1.0000 
+skin 234 Jenny_r_eye 1.0000 
+skin 235 Jenny_r_eye 1.0000 
+skin 236 Jenny_r_eye 1.0000 
+skin 237 Jenny_r_eye 1.0000 
+skin 238 Jenny_r_eye 1.0000 
+skin 239 Jenny_r_eye 1.0000 
+skin 240 Jenny_r_eye 1.0000 
+skin 241 Jenny_r_eye 1.0000 
+skin 242 Jenny_r_eye 1.0000 
+skin 243 Jenny_r_eye 1.0000 
+skin 244 Jenny_r_eye 1.0000 
+skin 245 Jenny_r_eye 1.0000 
+skin 246 Jenny_r_eye 1.0000 
+skin 247 Jenny_r_eye 1.0000 
+skin 248 Jenny_r_eye 1.0000 
+skin 249 Jenny_r_eye 1.0000 
+skin 250 Jenny_r_eye 1.0000 
+skin 251 Jenny_r_eye 1.0000 
+skin 252 Jenny_r_eye 1.0000 
+skin 253 Jenny_r_eye 1.0000 
+skin 254 Jenny_r_eye 1.0000 
+skin 255 Jenny_r_eye 1.0000 
+skin 256 Jenny_r_eye 1.0000 
+skin 257 Jenny_r_eye 1.0000 
+skin 258 Jenny_r_eye 1.0000 
+skin 259 Jenny_r_eye 1.0000 
+skin 260 Jenny_r_eye 1.0000 
+skin 261 Jenny_r_eye 1.0000 
+skin 262 Jenny_r_eye 1.0000 
+skin 263 Jenny_r_eye 1.0000 
+skin 264 Jenny_r_eye 1.0000 
+skin 265 Jenny_r_eye 1.0000 
+skin 266 Jenny_r_eye 1.0000 
+skin 267 Jenny_r_eye 1.0000 
+skin 268 Jenny_r_eye 1.0000 
+skin 269 Jenny_r_eye 1.0000 
+skin 270 Jenny_r_eye 1.0000 
+skin 271 Jenny_r_eye 1.0000 
+skin 272 Jenny_r_eye 1.0000 
+skin 273 Jenny_r_eye 1.0000 
+skin 274 Jenny_r_eye 1.0000 
+skin 275 Jenny_r_eye 1.0000 
+skin 276 Jenny_r_eye 1.0000 
+skin 277 Jenny_l_eye 1.0000 
+skin 278 Jenny_l_eye 1.0000 
+skin 279 Jenny_l_eye 1.0000 
+skin 280 Jenny_l_eye 1.0000 
+skin 281 Jenny_l_eye 1.0000 
+skin 282 Jenny_l_eye 1.0000 
+skin 283 Jenny_l_eye 1.0000 
+skin 284 Jenny_l_eye 1.0000 
+skin 285 Jenny_l_eye 1.0000 
+skin 286 Jenny_l_eye 1.0000 
+skin 287 Jenny_l_eye 1.0000 
+skin 288 Jenny_l_eye 1.0000 
+skin 289 Jenny_l_eye 1.0000 
+skin 290 Jenny_l_eye 1.0000 
+skin 291 Jenny_l_eye 1.0000 
+skin 292 Jenny_l_eye 1.0000 
+skin 293 Jenny_l_eye 1.0000 
+skin 294 Jenny_l_eye 1.0000 
+skin 295 Jenny_l_eye 1.0000 
+skin 296 Jenny_l_eye 1.0000 
+skin 297 Jenny_l_eye 1.0000 
+skin 298 Jenny_l_eye 1.0000 
+skin 299 Jenny_l_eye 1.0000 
+skin 300 Jenny_l_eye 1.0000 
+skin 301 Jenny_l_eye 1.0000 
+skin 302 Jenny_l_eye 1.0000 
+skin 303 Jenny_l_eye 1.0000 
+skin 304 Jenny_l_eye 1.0000 
+skin 305 Jenny_l_eye 1.0000 
+skin 306 Jenny_l_eye 1.0000 
+skin 307 Jenny_l_eye 1.0000 
+skin 308 Jenny_l_eye 1.0000 
+skin 309 Jenny_l_eye 1.0000 
+skin 310 Jenny_l_eye 1.0000 
+skin 311 Jenny_l_eye 1.0000 
+skin 312 Jenny_l_eye 1.0000 
+skin 313 Jenny_l_eye 1.0000 
+skin 314 Jenny_l_eye 1.0000 
+skin 315 Jenny_l_eye 1.0000 
+skin 316 Jenny_l_eye 1.0000 
+skin 317 Jenny_l_eye 1.0000 
+skin 318 Jenny_l_eye 1.0000 
+skin 319 Jenny_l_eye 1.0000 
+skin 320 Jenny_l_eye 1.0000 
+skin 321 Jenny_l_eye 1.0000 
+skin 322 Jenny_l_eye 1.0000 
+skin 323 Jenny_l_eye 1.0000 
+skin 324 Jenny_l_eye 1.0000 
+skin 325 Jenny_l_eye 1.0000 
+skin 326 Jenny_l_eye 1.0000 
+skin 327 Jenny_l_lowereyelid 1.0000 
+skin 328 Jenny_l_lowereyelid 1.0000 
+skin 329 Jenny_l_lowereyelid 1.0000 
+skin 330 Jenny_l_lowereyelid 1.0000 
+skin 331 Jenny_l_lowereyelid 1.0000 
+skin 332 Jenny_l_lowereyelid 1.0000 
+skin 333 Jenny_l_lowereyelid 1.0000 
+skin 334 Jenny_l_lowereyelid 1.0000 
+skin 335 Jenny_l_lowereyelid 1.0000 
+skin 336 Jenny_l_lowereyelid 1.0000 
+skin 337 Jenny_l_lowereyelid 1.0000 
+skin 338 Jenny_l_lowereyelid 1.0000 
+skin 339 Jenny_l_lowereyelid 1.0000 
+skin 340 Jenny_l_lowereyelid 1.0000 
+skin 341 Jenny_l_lowereyelid 1.0000 
+skin 342 Jenny_l_lowereyelid 1.0000 
+skin 343 Jenny_l_lowereyelid 1.0000 
+skin 344 Jenny_l_lowereyelid 1.0000 
+skin 345 Jenny_l_lowereyelid 1.0000 
+skin 346 Jenny_l_lowereyelid 1.0000 
+skin 347 Jenny_l_lowereyelid 1.0000 
+skin 348 Jenny_l_lowereyelid 1.0000 
+skin 349 Jenny_l_lowereyelid 1.0000 
+skin 350 Jenny_l_lowereyelid 1.0000 
+skin 351 Jenny_l_lowereyelid 1.0000 
+skin 352 Jenny_l_lowereyelid 1.0000 
+skin 353 Jenny_l_uppereyelid 1.0000 
+skin 354 Jenny_l_uppereyelid 1.0000 
+skin 355 Jenny_l_uppereyelid 1.0000 
+skin 356 Jenny_l_uppereyelid 1.0000 
+skin 357 Jenny_l_uppereyelid 1.0000 
+skin 358 Jenny_l_uppereyelid 1.0000 
+skin 359 Jenny_l_uppereyelid 1.0000 
+skin 360 Jenny_l_uppereyelid 1.0000 
+skin 361 Jenny_l_uppereyelid 1.0000 
+skin 362 Jenny_l_uppereyelid 1.0000 
+skin 363 Jenny_l_uppereyelid 1.0000 
+skin 364 Jenny_l_uppereyelid 1.0000 
+skin 365 Jenny_l_uppereyelid 1.0000 
+skin 366 Jenny_l_uppereyelid 1.0000 
+skin 367 Jenny_l_uppereyelid 1.0000 
+skin 368 Jenny_l_uppereyelid 1.0000 
+skin 369 Jenny_l_uppereyelid 1.0000 
+skin 370 Jenny_l_uppereyelid 1.0000 
+skin 371 Jenny_l_uppereyelid 1.0000 
+skin 372 Jenny_l_uppereyelid 1.0000 
+skin 373 Jenny_l_uppereyelid 1.0000 
+skin 374 Jenny_l_uppereyelid 1.0000 
+skin 375 Jenny_l_uppereyelid 1.0000 
+skin 376 Jenny_l_uppereyelid 1.0000 
+skin 377 Jenny_l_uppereyelid 1.0000 
+skin 378 Jenny_l_uppereyelid 1.0000 
+skin 379 Jenny_r_lowereyelid 1.0000 
+skin 380 Jenny_r_lowereyelid 1.0000 
+skin 381 Jenny_r_lowereyelid 1.0000 
+skin 382 Jenny_r_lowereyelid 1.0000 
+skin 383 Jenny_r_lowereyelid 1.0000 
+skin 384 Jenny_r_lowereyelid 1.0000 
+skin 385 Jenny_r_lowereyelid 1.0000 
+skin 386 Jenny_r_lowereyelid 1.0000 
+skin 387 Jenny_r_lowereyelid 1.0000 
+skin 388 Jenny_r_lowereyelid 1.0000 
+skin 389 Jenny_r_lowereyelid 1.0000 
+skin 390 Jenny_r_lowereyelid 1.0000 
+skin 391 Jenny_r_lowereyelid 1.0000 
+skin 392 Jenny_r_lowereyelid 1.0000 
+skin 393 Jenny_r_lowereyelid 1.0000 
+skin 394 Jenny_r_lowereyelid 1.0000 
+skin 395 Jenny_r_lowereyelid 1.0000 
+skin 396 Jenny_r_lowereyelid 1.0000 
+skin 397 Jenny_r_lowereyelid 1.0000 
+skin 398 Jenny_r_lowereyelid 1.0000 
+skin 399 Jenny_r_lowereyelid 1.0000 
+skin 400 Jenny_r_lowereyelid 1.0000 
+skin 401 Jenny_r_lowereyelid 1.0000 
+skin 402 Jenny_r_lowereyelid 1.0000 
+skin 403 Jenny_r_lowereyelid 1.0000 
+skin 404 Jenny_r_lowereyelid 1.0000 
+skin 405 Jenny_r_uppereyelid 1.0000 
+skin 406 Jenny_r_uppereyelid 1.0000 
+skin 407 Jenny_r_uppereyelid 1.0000 
+skin 408 Jenny_r_uppereyelid 1.0000 
+skin 409 Jenny_r_uppereyelid 1.0000 
+skin 410 Jenny_r_uppereyelid 1.0000 
+skin 411 Jenny_r_uppereyelid 1.0000 
+skin 412 Jenny_r_uppereyelid 1.0000 
+skin 413 Jenny_r_uppereyelid 1.0000 
+skin 414 Jenny_r_uppereyelid 1.0000 
+skin 415 Jenny_r_uppereyelid 1.0000 
+skin 416 Jenny_r_uppereyelid 1.0000 
+skin 417 Jenny_r_uppereyelid 1.0000 
+skin 418 Jenny_r_uppereyelid 1.0000 
+skin 419 Jenny_r_uppereyelid 1.0000 
+skin 420 Jenny_r_uppereyelid 1.0000 
+skin 421 Jenny_r_uppereyelid 1.0000 
+skin 422 Jenny_r_uppereyelid 1.0000 
+skin 423 Jenny_r_uppereyelid 1.0000 
+skin 424 Jenny_r_uppereyelid 1.0000 
+skin 425 Jenny_r_uppereyelid 1.0000 
+skin 426 Jenny_r_uppereyelid 1.0000 
+skin 427 Jenny_r_uppereyelid 1.0000 
+skin 428 Jenny_r_uppereyelid 1.0000 
+skin 429 Jenny_r_uppereyelid 1.0000 
+skin 430 Jenny_r_uppereyelid 1.0000 
+skin 431 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 432 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 433 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 434 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 435 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 436 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 437 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 438 Jenny_spine01 0.2000 Jenny_spine02 0.8000 
+skin 439 Jenny_hip 0.3300 Jenny_spine01 0.5700 Jenny_spine02 0.1000 
+skin 440 Jenny_spine01 0.2000 Jenny_spine02 0.8000 
+skin 441 Jenny_hip 0.3300 Jenny_spine01 0.5700 Jenny_spine02 0.1000 
+skin 442 Jenny_spine01 0.2000 Jenny_spine02 0.8000 
+skin 443 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 444 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 445 Jenny_hip 0.8000 Jenny_head 0.2000 
+skin 446 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 447 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 448 Jenny_hip 0.8000 Jenny_spine01 0.2000 
+skin 449 Jenny_hip 0.3300 Jenny_spine01 0.5700 Jenny_spine02 0.1000 
+skin 450 Jenny_spine01 0.2000 Jenny_spine02 0.8000 
+skin 451 Jenny_hip 0.3300 Jenny_spine01 0.5700 Jenny_spine02 0.1000 
+hier Jenny_hip Jenny_l_fin00
+hier Jenny_hip Jenny_head
+hier Jenny_hip Jenny_r_fin00
+hier Jenny_hip Jenny_spine01
+hier Jenny_l_fin00 Jenny_l_fin01
+hier Jenny_head Jenny_l_eye
+hier Jenny_head Jenny_r_uppereyelid
+hier Jenny_head Jenny_l_lowereyelid
+hier Jenny_head Jenny_r_eye
+hier Jenny_head Jenny_l_uppereyelid
+hier Jenny_head Jenny_r_lowereyelid
+hier Jenny_r_fin00 Jenny_r_fin01
+hier Jenny_spine01 Jenny_spine02
+hier Jenny_spine01 Jenny_upperFin
+hier Jenny_l_fin01 Jenny_l_fin02
+hier Jenny_r_fin01 Jenny_r_fin02
+hier Jenny_spine02 Jenny_tail01
+hier Jenny_l_fin02 Jenny_l_fin03
+hier Jenny_r_fin02 Jenny_r_fin03
+hier Jenny_tail01 Jenny_tail03
+hier Jenny_tail01 Jenny_tail02
+hier Jenny_l_fin03 Jenny_l_fin04
+hier Jenny_r_fin03 Jenny_r_fin04
+hier Jenny_l_fin04 Jenny_l_fin05
+hier Jenny_r_fin04 Jenny_r_fin05
