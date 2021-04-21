@@ -49,6 +49,7 @@ def get_geo_edges(surface_geodesic, remesh_obj_v):
 
 def genDataset(process_id):
     global dataset_folder
+    dataset_folder = "./ModelResource_RigNetv1_preproccessed/"
     print("process ID {:d}".format(process_id))
     if process_id < 6:
         model_list = np.loadtxt(os.path.join(dataset_folder, 'train_final.txt'), dtype=int)
@@ -159,7 +160,7 @@ def genDataset(process_id):
 
 
 if __name__ == '__main__':
-    dataset_folder = "/ModelResource_RigNetv1_preproccessed/"
+    dataset_folder = "./ModelResource_RigNetv1_preproccessed/"
     p = Pool(8)
     p.map(genDataset, [0, 1, 2, 3, 4, 5, 6, 7])
     #genDataset(0)
