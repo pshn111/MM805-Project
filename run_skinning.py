@@ -123,7 +123,8 @@ def main(args):
         test_loss = test(test_loader, model, args, save_result=True)
         print('test_loss {:6f}'.format(test_loss))
         return
-    scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer, args.schedule, gamma=args.gamma)
+    drop_after_epoch = [8, 20]
+    scheduler = torch.optim.lr_scheduler.MultiStepLR(optimizer, milestones=drop_after_epoch, gamma=args.gamma)
     logger = SummaryWriter(log_dir=args.logdir)
     for epoch in range(args.start_epoch, args.epochs):
         lr = scheduler.get_last_lr()
@@ -221,8 +222,8 @@ if __name__ == '__main__':
     parser.add_argument('--weight_decay', '--wd', default=1e-4, type=float, metavar='W', help='weight decay (default: 1e-4)')
     parser.add_argument('--gamma', type=float, default=0.5, help='LR is multiplied by gamma on schedule.')
     parser.add_argument('-j', '--workers', default=1, type=int, metavar='N', help='number of data loading workers (default: 4)')
-    parser.add_argument('--epochs', default=200, type=int, metavar='N', help='number of total epochs to run')
-    parser.add_argument('--lr', '--learning-rate', default=1e-3, type=float, metavar='LR', help='initial learning rate')
+    parser.add_argument('--epochs', default=100, type=int, metavar='N', help='number of total epochs to run')
+    parser.add_argument('--lr', '--learning-rate', default=1e-2, type=float, metavar='LR', help='initial learning rate')
     parser.add_argument('--schedule', type=int, nargs='+', default=[], help='Decrease learning rate at these epochs.')
     parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true', help='evaluate model on val/test set')
     ####################################################################################################################
