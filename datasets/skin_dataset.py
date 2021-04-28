@@ -23,6 +23,10 @@ class SkinDataset(InMemoryDataset):
     def raw_file_names(self):
         raw_v_filelist = glob.glob(os.path.join(self.root, '*_v.txt'))
         return raw_v_filelist
+    
+    @property
+    def raw_dir(self):
+        return ""
 
     @property
     def processed_file_names(self):
