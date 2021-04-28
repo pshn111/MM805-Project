@@ -115,9 +115,9 @@ def main(args):
 
     cudnn.benchmark = True
     print('    Total params: %.2fM' % (sum(p.numel() for p in model.parameters()) / 1000000.0))
-    train_loader = DataLoader(SkinDataset(root=args.train_folder), batch_size=args.train_batch, shuffle=True)
-    val_loader = DataLoader(SkinDataset(root=args.val_folder), batch_size=args.test_batch, shuffle=False)
-    test_loader = DataLoader(SkinDataset(root=args.test_folder), batch_size=args.test_batch, shuffle=False)
+    train_loader = DataLoader(SkinDataset(root='ModelResource_RigNetv1_preproccessed/train/'), batch_size=args.train_batch, shuffle=True)
+    val_loader = DataLoader(SkinDataset(root='ModelResource_RigNetv1_preproccessed/val/'), batch_size=args.test_batch, shuffle=False)
+    test_loader = DataLoader(SkinDataset(root='ModelResource_RigNetv1_preproccessed/test/'), batch_size=args.test_batch, shuffle=False)
     if args.evaluate:
         print('\nEvaluation only')
         test_loss = test(test_loader, model, args, save_result=True)
