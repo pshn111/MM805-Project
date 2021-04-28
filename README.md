@@ -52,8 +52,9 @@ Remember to change the root_folder to the directory you uncompress the pre-proce
 
 ## Training
 
-###Skinning prediction:
+### Skinning prediction:
 Run the following command to start training the model.
+
     `python -u run_skinning.py --train_folder='DATASET_DIR/train/' --val_folder='DATASET_DIR/val/' --test_folder='DATASET_DIR/test/' --checkpoint='checkpoints/skinnet' --logdir='logs/skinnet' --train_batch=4 --test_batch=4 --lr=1e-4 --Dg --Lf`
 
 
