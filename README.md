@@ -57,4 +57,5 @@ Run the following command to start training the model.
 
     `python -u run_skinning.py --train_folder='DATASET_DIR/train/' --val_folder='DATASET_DIR/val/' --test_folder='DATASET_DIR/test/' --checkpoint='checkpoints/skinnet' --logdir='logs/skinnet' --train_batch=4 --test_batch=4 --lr=1e-4 --Dg --Lf`
 
-
+Run the following command to start training the model if the path of train_folder, val_folder and test_folder have been hard code in run_skinning.py
+    `python -u run_skinning.py --checkpoint='checkpoints/skinnet' --logdir='logs/skinnet' --train_batch=4 --test_batch=4 --lr=1e-4 --Dg --Lf`
